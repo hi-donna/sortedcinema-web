@@ -1,0 +1,95 @@
+{
+  "slug": "french-cinema-start-here",
+  "title": "French Cinema: Start Here",
+  "kicker": "World Cinema · France",
+  "kind": "world",
+  "country": "FR",
+  "countryName": "France",
+  "language": "French",
+  "category": "world",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "French cinema has a reputation for being difficult, and it is mostly undeserved. The country makes some of the warmest crowd-pleasers on earth alongside the coldest, sharpest dramas. This list walks you from the comforting end to the demanding one. Stop wherever you like.",
+  "films": [
+    {
+      "title": "Amélie",
+      "year": 2001,
+      "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+      "director": "Jean-Pierre Jeunet",
+      "moods": ["cozy", "hopeful", "funny"],
+      "blurb": "A shy waitress in Montmartre decides to secretly fix the lives of everyone around her, and forgets to fix her own. Green and gold and endlessly inventive. The film people mean when they say a movie is like a warm bath."
+    },
+    {
+      "title": "The Intouchables",
+      "year": 2011,
+      "original_title": "Intouchables",
+      "director": "Olivier Nakache, Éric Toledano",
+      "moods": ["funny", "hopeful", "tender"],
+      "blurb": "A wealthy quadriplegic hires a young man from the projects who only turned up to get his benefits form signed. One of the biggest hits in French history, and it earned it. Funny, unsentimental, and based on a real friendship."
+    },
+    {
+      "title": "La Haine",
+      "year": 1995,
+      "original_title": "La Haine",
+      "director": "Mathieu Kassovitz",
+      "moods": ["tense", "dark", "devastating"],
+      "blurb": "Twenty-four hours with three friends from the Paris suburbs the day after a riot, one of them carrying a police gun he found. Shot in black and white and still feels like it was made this morning. The ending is a countdown."
+    },
+    {
+      "title": "A Prophet",
+      "year": 2009,
+      "original_title": "Un prophète",
+      "director": "Jacques Audiard",
+      "moods": ["tense", "dark", "epic"],
+      "blurb": "A nineteen-year-old goes into prison illiterate and alone and comes out six years later as something else entirely. The best crime film France has produced this century. Patient, brutal, and strangely moving."
+    },
+    {
+      "title": "Portrait of a Lady on Fire",
+      "year": 2019,
+      "original_title": "Portrait de la jeune fille en feu",
+      "director": "Céline Sciamma",
+      "moods": ["tender", "slow-burn", "devastating"],
+      "blurb": "A painter is sent to an island to secretly paint a young woman's wedding portrait, and has to study her face without her knowing why. Every glance is a scene. A love story told almost entirely in looking, with an ending you will replay for days."
+    },
+    {
+      "title": "Anatomy of a Fall",
+      "year": 2023,
+      "original_title": "Anatomie d'une chute",
+      "director": "Justine Triet",
+      "moods": ["tense", "mind-bending", "slow-burn"],
+      "blurb": "A writer's husband falls to his death from the attic of their chalet, and their nearly blind son is the only witness. The trial that follows puts a marriage on the stand. You will leave with an opinion and no proof, which is the point."
+    },
+    {
+      "title": "Les Misérables",
+      "year": 2019,
+      "original_title": "Les Misérables",
+      "director": "Ladj Ly",
+      "moods": ["tense", "dark", "devastating"],
+      "blurb": "Not the musical. A new cop joins an anti-crime unit in the same Paris suburb Victor Hugo wrote about, and a stolen lion cub sets off a day that gets away from everyone. A pressure cooker of a film that ends on a held breath."
+    },
+    {
+      "title": "The 400 Blows",
+      "year": 1959,
+      "original_title": "Les Quatre Cents Coups",
+      "director": "François Truffaut",
+      "moods": ["tender", "devastating", "slow-burn"],
+      "blurb": "A twelve-year-old boy in Paris skips school, lies, steals a typewriter, and is sent away by parents who never wanted him. The film that started the French New Wave, and one of the truest films about childhood ever made. The last shot is famous for a reason."
+    },
+    {
+      "title": "Cléo from 5 to 7",
+      "year": 1962,
+      "original_title": "Cléo de 5 à 7",
+      "director": "Agnès Varda",
+      "moods": ["slow-burn", "tender", "hopeful"],
+      "blurb": "A pop singer wanders Paris for two hours while she waits for a call from her doctor with the results of a biopsy. Told nearly in real time. A film about being afraid, and then about looking up and noticing the world is still there."
+    },
+    {
+      "title": "Raw",
+      "year": 2016,
+      "original_title": "Grave",
+      "director": "Julia Ducournau",
+      "moods": ["dark", "tense"],
+      "blurb": "A lifelong vegetarian starts veterinary school, is forced to eat raw meat in a hazing ritual, and develops a hunger. A coming-of-age story that happens to be a body-horror film. Not for the squeamish, and unforgettable if you are not."
+    }
+  ]
+}

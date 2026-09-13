@@ -1,0 +1,72 @@
+{
+  "slug": "directors-classics",
+  "title": "Director's Classics",
+  "kind": "archive",
+  "category": "authority",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "These are the films that live in you long after the credits roll. Auteurs at the height of their power. Watch with the lights off.",
+  "published": "2026-08-26",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-06-21",
+      "2026-07-25",
+      "2026-08-26"
+    ],
+    "buffer_id": "6a8eb25307fc773e52c66243"
+  },
+  "films": [
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "line": "A man is released from mysterious captivity and hunts the truth he should have left buried."
+    },
+    {
+      "title": "Mulholland Drive",
+      "year": 2001,
+      "line": "Dreams and dread bleed together in a Hollywood that feels like a wound that won't close."
+    },
+    {
+      "title": "No Country for Old Men",
+      "year": 2007,
+      "blurb": "The Coens shot only 250,000 feet of film where a production this size burns 700,000, and it shows: nothing is wasted, least of all mercy. Josh Brolin's welder finds a case of drug money in the West Texas desert, and Javier Bardem's Anton Chigurh comes for it with a coin and a cattle gun. It won four Academy Awards including Best Picture, and it still refuses to give you the showdown you are waiting for."
+    },
+    {
+      "title": "Memories of Murder",
+      "year": 2003,
+      "line": "Two detectives chase a killer through rain and fog and the unbearable weight of not knowing."
+    },
+    {
+      "title": "Cache",
+      "year": 2005,
+      "line": "Someone is watching a couple's perfect life and the surveillance feels more like a confession."
+    },
+    {
+      "title": "A Tale of Two Sisters",
+      "year": 2003,
+      "line": "A homecoming wrapped in grief and dread where every room holds something you cannot quite name."
+    },
+    {
+      "title": "Memento",
+      "year": 2000,
+      "blurb": "Two timelines, one in colour running backwards and one in black and white running forwards, meeting at the end. Christopher Nolan built it from his brother Jonathan's short story, and Guy Pearce plays a man who cannot form new memories and hunts his wife's killer with photographs, notes and tattoos. Made for $9 million, it earned $40 million, took two Oscar nominations, and in 2017 the Library of Congress put it in the National Film Registry."
+    },
+    {
+      "title": "Sympathy for Mr. Vengeance",
+      "year": 2002,
+      "line": "Good intentions spiral into a cycle of loss that punishes everyone equally."
+    },
+    {
+      "title": "Se7en",
+      "year": 1995,
+      "blurb": "New Line's executives hated the ending and kept asking for a happier one. David Fincher was sent Andrew Kevin Walker's original script by mistake, read it, and agreed to direct only if that ending stayed. Brad Pitt dug in as well. Test audiences were lukewarm and nobody expected much, then it grossed $327 million and finished as the seventh biggest film of 1995. Two detectives, seven sins, one box."
+    },
+    {
+      "title": "Zodiac",
+      "year": 2007,
+      "line": "An obsession stretches across decades until the hunt becomes more consuming than the killer."
+    }
+  ]
+}

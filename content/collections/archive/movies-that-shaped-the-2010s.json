@@ -1,0 +1,77 @@
+{
+  "slug": "movies-that-shaped-the-2010s",
+  "title": "Movies That Shaped the 2010s",
+  "kind": "archive",
+  "category": "era",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "The 2010s gave us films that trusted audiences to sit with discomfort. These six never let you off the hook.",
+  "published": "2026-08-16",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-06-14",
+      "2026-07-15",
+      "2026-08-16"
+    ],
+    "buffer_id": "6a81803a7a27474b9cb3c8a8"
+  },
+  "films": [
+    {
+      "title": "Prisoners",
+      "year": 2013,
+      "line": "A father's desperate search for his daughter tears apart everything he believed about himself."
+    },
+    {
+      "title": "Gone Girl",
+      "year": 2014,
+      "blurb": "On their fifth anniversary Nick comes home and Amy is gone. Gillian Flynn adapted her own novel, and Fincher kept her on for the whole project instead of swapping in a screenwriter after the first draft, which almost never happens. Rosamund Pike's Amy earned an Oscar nomination, the film took $370 million, and the cool girl monologue is still quoted. A thriller on the surface and a marriage underneath, which is the scarier film."
+    },
+    {
+      "title": "Hereditary",
+      "year": 2018,
+      "line": "Grief becomes a living thing in this suffocating portrait of a family coming undone."
+    },
+    {
+      "title": "Under the Skin",
+      "year": 2013,
+      "line": "Something wearing a human face moves through the world, watching us with alien curiosity."
+    },
+    {
+      "title": "Nocturnal Animals",
+      "year": 2016,
+      "line": "A story inside a story bleeds into reality until you can no longer separate the wounds."
+    },
+    {
+      "title": "The Witch",
+      "year": 2015,
+      "line": "Isolation and paranoia rot a family from the inside long before the darkness arrives."
+    },
+    {
+      "title": "Arrival",
+      "year": 2016,
+      "blurb": "Amy Adams plays a linguist asked to talk to aliens whose written language has no beginning or end, and the film's structure is the language. What you think are flashbacks are not. Other studios passed on it as too smart. Villeneuve made it for $47 million, it took $203 million and eight Oscar nominations including Best Picture, and Jóhann Jóhannsson's score was ruled ineligible because the film leaned on a Max Richter piece already used in Shutter Island."
+    },
+    {
+      "title": "Upgrade",
+      "year": 2018,
+      "line": "Revenge becomes a terrifying question of who is really in control of the body."
+    },
+    {
+      "title": "Inception",
+      "year": 2010,
+      "line": "A heist inside the human mind that rewired how a generation thinks about reality."
+    },
+    {
+      "title": "Ex Machina",
+      "year": 2014,
+      "line": "Trust is quietly dismantled across three people and one question that still haunts you."
+    },
+    {
+      "title": "Black Swan",
+      "year": 2010,
+      "line": "The pursuit of perfection becomes a beautiful and deeply unsettling descent into obsession."
+    }
+  ]
+}

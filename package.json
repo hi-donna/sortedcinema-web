@@ -1,0 +1,17 @@
+{
+  "name": "sortedcinema-web",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "data": "node scripts/build-data.mjs",
+    "enrich": "node scripts/enrich.mjs",
+    "dev": "npm run data && astro dev",
+    "build": "npm run data && astro build",
+    "preview": "astro preview",
+    "check": "node scripts/check-content.mjs"
+  },
+  "dependencies": {
+    "astro": "^7.3.2"
+  }
+}

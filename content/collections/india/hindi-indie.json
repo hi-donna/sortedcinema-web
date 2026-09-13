@@ -1,0 +1,96 @@
+{
+  "slug": "hindi-indie-cinema-start-here",
+  "title": "Hindi Indie Cinema: Start Here",
+  "kicker": "Indian Cinema · Beyond Bollywood",
+  "kind": "world",
+  "country": "IN",
+  "region": "Hindi",
+  "countryName": "Hindi Indie",
+  "language": "Hindi",
+  "category": "india",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "The other Hindi cinema. No item songs, no foreign locations, no star entrances, just Varanasi, Wasseypur, a dabba delivered to the wrong desk, and a hill station where a family goes quiet. This is the shelf that people mean when they say the last fifteen years were the best in Hindi film.",
+  "films": [
+    {
+      "title": "Masaan",
+      "year": 2015,
+      "original_title": "मसान",
+      "director": "Neeraj Ghaywan",
+      "moods": ["devastating", "tender", "hopeful"],
+      "blurb": "Two stories on the ghats of Varanasi: a girl whose life is destroyed by a police raid on a hotel room, and a boy from the cremation ghats who falls in love above his caste. It ends on a boat. One of the most quietly perfect Hindi films ever made."
+    },
+    {
+      "title": "The Lunchbox",
+      "year": 2013,
+      "original_title": "The Lunchbox",
+      "director": "Ritesh Batra",
+      "moods": ["tender", "cozy", "slow-burn"],
+      "blurb": "A Mumbai housewife's lunchbox is delivered to the wrong man, a widower about to retire, and the two of them start leaving notes in the tiffin. Irrfan Khan, Nimrat Kaur, and a city that carries them. A love story in which they never meet."
+    },
+    {
+      "title": "Udaan",
+      "year": 2010,
+      "original_title": "उड़ान",
+      "director": "Vikramaditya Motwane",
+      "moods": ["tense", "tender", "hopeful"],
+      "blurb": "A seventeen-year-old is expelled from boarding school and sent home to Jamshedpur, to a father he has not seen in eight years and a little half-brother he did not know existed. The father is a monster. The film is about breathing anyway. It went to Cannes."
+    },
+    {
+      "title": "Gangs of Wasseypur",
+      "year": 2012,
+      "original_title": "गैंग्स ऑफ़ वासेपुर",
+      "director": "Anurag Kashyap",
+      "moods": ["epic", "dark", "funny"],
+      "blurb": "Three generations of a coal-mafia blood feud in Dhanbad, from the 1940s to the 2000s, across two films and five and a half hours. Every character is a meme now. Every song is a banger. India's Godfather trilogy in one sitting, and it feels like a long, wild party."
+    },
+    {
+      "title": "Tumbbad",
+      "year": 2018,
+      "original_title": "तुम्बाड",
+      "director": "Rahi Anil Barve",
+      "moods": ["dark", "epic", "tense"],
+      "blurb": "A man in a rain-soaked village in Maharashtra learns the secret of a forgotten god whose womb is full of gold, and goes back for more. And more. A folk-horror film about greed that looks like nothing India had ever produced. It took six years and it shows in every frame."
+    },
+    {
+      "title": "Andhadhun",
+      "year": 2018,
+      "original_title": "अंधाधुन",
+      "director": "Sriram Raghavan",
+      "moods": ["tense", "funny", "mind-bending"],
+      "blurb": "A pianist pretending to be blind walks into a murder scene and has to keep pretending. Then it gets complicated. Then it gets more complicated. Ayushmann Khurrana and Tabu in the sharpest thriller Hindi cinema has produced. The ending is still being argued about."
+    },
+    {
+      "title": "Newton",
+      "year": 2017,
+      "original_title": "न्यूटन",
+      "director": "Amit V. Masurkar",
+      "moods": ["funny", "tense", "hopeful"],
+      "blurb": "An idealistic government clerk is sent to conduct an election in a Maoist-controlled forest in Chhattisgarh, for a village of seventy-six voters who do not care. A comedy about believing in something. Rajkummar Rao and Pankaj Tripathi in a two-hander for the ages."
+    },
+    {
+      "title": "A Death in the Gunj",
+      "year": 2016,
+      "original_title": "A Death in the Gunj",
+      "director": "Konkona Sen Sharma",
+      "moods": ["slow-burn", "dark", "devastating"],
+      "blurb": "A family holiday in McCluskieganj in 1979, and a shy young man everyone teases a little too much. You are told in the first scene that someone dies. The rest is watching the pressure build in a very quiet house. Vikrant Massey is heartbreaking."
+    },
+    {
+      "title": "Ship of Theseus",
+      "year": 2012,
+      "original_title": "Ship of Theseus",
+      "director": "Anand Gandhi",
+      "moods": ["mind-bending", "slow-burn", "hopeful"],
+      "blurb": "A blind photographer gets her sight back, a monk refuses medicine that was tested on animals, and a stockbroker discovers his new kidney was stolen. Three stories about whether you are still you when the parts change. The most ambitious Indian indie of its decade."
+    },
+    {
+      "title": "Titli",
+      "year": 2014,
+      "original_title": "तितली",
+      "director": "Kanu Behl",
+      "moods": ["dark", "tense", "devastating"],
+      "blurb": "The youngest son of a family of carjackers in Delhi's outskirts wants out, and his brothers marry him off to keep him in. There is a scene with a hammer that you will not forget. Brutal, unblinking, and one of the truest films about the city's underbelly."
+    }
+  ]
+}

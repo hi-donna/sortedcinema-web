@@ -1,0 +1,95 @@
+{
+  "slug": "korean-cinema-start-here",
+  "title": "Korean Cinema: Start Here",
+  "kicker": "World Cinema · South Korea",
+  "kind": "world",
+  "country": "KR",
+  "countryName": "South Korea",
+  "language": "Korean",
+  "category": "world",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "Korea makes the films that keep changing genre on you halfway through. A police procedural turns into a poem about failure, a revenge story turns into a tragedy, a thriller turns into a love story. Start with the ones that hook you, then drift toward the quiet ones. They stay with you longer.",
+  "films": [
+    {
+      "title": "Parasite",
+      "year": 2019,
+      "original_title": "기생충",
+      "director": "Bong Joon-ho",
+      "moods": ["tense", "funny", "dark"],
+      "blurb": "A poor family talks its way, one by one, into the household of a rich one. It starts as a con, becomes a comedy, and then the rain comes. The easiest door into Korean cinema, and still one of the best."
+    },
+    {
+      "title": "Memories of Murder",
+      "year": 2003,
+      "original_title": "살인의 추억",
+      "director": "Bong Joon-ho",
+      "moods": ["tense", "slow-burn", "devastating"],
+      "blurb": "Two detectives in a rural town in the 1980s chase a serial killer with nothing but instinct, bad habits, and rain. The case is real and it was never solved on screen. The final shot is one of the great endings in cinema."
+    },
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "original_title": "올드보이",
+      "director": "Park Chan-wook",
+      "moods": ["dark", "mind-bending"],
+      "blurb": "A man is locked in a room for fifteen years with no explanation, then released with no explanation. What he does next is furious and operatic and impossible to look away from. Go in knowing nothing."
+    },
+    {
+      "title": "The Handmaiden",
+      "year": 2016,
+      "original_title": "아가씨",
+      "director": "Park Chan-wook",
+      "moods": ["tense", "tender", "mind-bending"],
+      "blurb": "A pickpocket is hired to help a con man seduce a Japanese heiress, and is placed in her house as a maid. Told in three parts, each of which rewrites the one before it. Gorgeous, wicked, and far more romantic than it first lets on."
+    },
+    {
+      "title": "Burning",
+      "year": 2018,
+      "original_title": "버닝",
+      "director": "Lee Chang-dong",
+      "moods": ["slow-burn", "dark", "mind-bending"],
+      "blurb": "A delivery boy reconnects with a girl from his hometown, who comes back from a trip with a rich, charming man who has a strange hobby. Nothing is confirmed, everything is suggested. It burns slowly and then it just burns."
+    },
+    {
+      "title": "Train to Busan",
+      "year": 2016,
+      "original_title": "부산행",
+      "director": "Yeon Sang-ho",
+      "moods": ["tense", "devastating", "epic"],
+      "blurb": "A distracted father takes his daughter on a train to see her mother, and the outbreak starts before the doors close. A zombie film that is really about who you become when there is one seat left. You will cry on a zombie movie. Accept it."
+    },
+    {
+      "title": "The Wailing",
+      "year": 2016,
+      "original_title": "곡성",
+      "director": "Na Hong-jin",
+      "moods": ["dark", "tense", "mind-bending"],
+      "blurb": "A stranger arrives in a mountain village and people start getting sick, and then violent. A bumbling policeman's daughter is next. Part horror, part folk-tale, part detective story, and it refuses to tell you which one to believe."
+    },
+    {
+      "title": "Mother",
+      "year": 2009,
+      "original_title": "마더",
+      "director": "Bong Joon-ho",
+      "moods": ["devastating", "dark", "tense"],
+      "blurb": "A widow's gentle, slow-witted son is arrested for the murder of a schoolgirl, and she decides to find the real killer herself. Kim Hye-ja gives one of the great performances of the century. The opening dance scene will make sense by the end, and it will hurt."
+    },
+    {
+      "title": "Decision to Leave",
+      "year": 2022,
+      "original_title": "헤어질 결심",
+      "director": "Park Chan-wook",
+      "moods": ["tender", "slow-burn", "mind-bending"],
+      "blurb": "A detective investigates a man's fall from a mountain and cannot stop looking at the widow. A murder mystery that is really a love story that is really about the things people cannot say. Elegant, sad, and quietly devastating."
+    },
+    {
+      "title": "Poetry",
+      "year": 2010,
+      "original_title": "시",
+      "director": "Lee Chang-dong",
+      "moods": ["tender", "devastating", "slow-burn"],
+      "blurb": "A grandmother in her sixties joins a poetry class as her memory begins to fade, and learns something unbearable about her grandson. It asks what beauty is for when the world is like this. Save it for when you are ready to sit with something."
+    }
+  ]
+}

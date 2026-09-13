@@ -1,0 +1,56 @@
+{
+  "slug": "movies-that-play-out-in-real-time",
+  "title": "Movies That Play Out in Real Time",
+  "kind": "archive",
+  "category": "format",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "No time jumps and no cutaways. The clock on screen is the clock on your wall and it will not stop.",
+  "published": "2026-09-09",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-09-09"
+    ],
+    "buffer_id": "6aa16c1b06fdbbb30aeed0ba"
+  },
+  "films": [
+    {
+      "title": "12 Angry Men",
+      "year": 1957,
+      "blurb": "One room, twelve jurors, a boy's life, and a running time that matches the deliberation. Sidney Lumet's first film was shot in 21 days for $337,000 after two weeks of rehearsal, and he changed lenses as the afternoon wore on so the walls seem to close in. Henry Fonda produced it himself. It flopped in cinemas, found its audience on television, and now sits on every list of the greatest films ever made.",
+      "ott_seen": "MGM+"
+    },
+    {
+      "title": "Before Sunset",
+      "year": 2004,
+      "blurb": "Nine years after Vienna, Jesse and Céline get about eighty minutes in Paris before his flight, and the film gives you exactly those minutes. Linklater, Hawke and Delpy wrote it together, partly out of Hawke's own separation, shot it in 15 days on about $2 million, and let the longest Steadicam take run close to 11 minutes. It ends on a line and a smile that The Guardian called one of the most ingenious endings in all cinema.",
+      "ott_seen": "RENT · GOOGLE PLAY"
+    },
+    {
+      "title": "Locke",
+      "year": 2014,
+      "line": "Tom Hardy, a car, a motorway, and 36 phone calls. A construction foreman drives from Birmingham to London on the night before the biggest concrete pour of his c",
+      "ott_seen": "LIONSGATE PLAY"
+    },
+    {
+      "title": "Victoria",
+      "year": 2015,
+      "blurb": "One take. No cuts, no tricks. A Spanish girl leaves a Berlin club at 4 in the morning, meets four boys, and by sunrise is inside a bank robbery. Sebastian Schipper shot a conventional version first as a backup, then had budget for only three attempts at the real thing. The first was too careful, the second too wild, and the third is the film, shot between 4:30 and 7:00 on the morning of 27 April 2014.",
+      "ott_seen": "MUBI"
+    },
+    {
+      "title": "Phone Booth",
+      "year": 2003,
+      "line": "Larry Cohen pitched Hitchcock a film set entirely inside a phone booth back in the 1960s. It took until 2003 to reach cinemas, with Colin Farrell as a publicist",
+      "ott_seen": "RENT · GOOGLE PLAY"
+    },
+    {
+      "title": "United 93",
+      "year": 2006,
+      "blurb": "Paul Greengrass tells the story of the one hijacked plane on September 11 that never reached its target, in the same amount of time it took to happen, from take-off. Several of the people on the ground that morning, including the FAA's Ben Sliney, play themselves. Made with the support of the passengers' families, it took two Oscar nominations for direction and editing and topped more critics' lists than any other film of 2006. It is unbearable, and it is essential.",
+      "ott_seen": "JIOHOTSTAR"
+    }
+  ]
+}

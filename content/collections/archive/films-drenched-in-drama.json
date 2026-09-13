@@ -1,0 +1,71 @@
+{
+  "slug": "films-drenched-in-drama",
+  "title": "Films Drenched in Drama",
+  "kind": "archive",
+  "category": "mood",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "These are films that grip your chest and refuse to let go. Pour something strong and surrender to the drama.",
+  "published": "2026-08-20",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-07-14",
+      "2026-08-20"
+    ],
+    "buffer_id": "6a86c79e55e06e7e12643d7c"
+  },
+  "films": [
+    {
+      "title": "Incendies",
+      "year": 2010,
+      "line": "A mother's silence unravels into a truth so devastating it rewrites everything."
+    },
+    {
+      "title": "Prisoners",
+      "year": 2013,
+      "line": "Desperation and moral collapse collide in the longest, darkest night imaginable."
+    },
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "line": "Revenge burns so bright here it scorches the hand holding the match."
+    },
+    {
+      "title": "Requiem for a Dream",
+      "year": 2000,
+      "line": "Four people chase the warmth of a dream until the wanting consumes them whole."
+    },
+    {
+      "title": "Gone Girl",
+      "year": 2014,
+      "blurb": "On their fifth anniversary Nick comes home and Amy is gone. Gillian Flynn adapted her own novel, and Fincher kept her on for the whole project instead of swapping in a screenwriter after the first draft, which almost never happens. Rosamund Pike's Amy earned an Oscar nomination, the film took $370 million, and the cool girl monologue is still quoted. A thriller on the surface and a marriage underneath, which is the scarier film."
+    },
+    {
+      "title": "A Separation",
+      "year": 2011,
+      "line": "Two people pulling apart slowly drag everyone they love into the wreckage with them."
+    },
+    {
+      "title": "Burning",
+      "year": 2018,
+      "line": "A slow obsession ignites into something you can never quite explain."
+    },
+    {
+      "title": "Parasite",
+      "year": 2019,
+      "line": "Class, desire, and a single lie spiral into beautiful irreversible chaos."
+    },
+    {
+      "title": "Blue Ruin",
+      "year": 2013,
+      "line": "Revenge looked so simple until every step made everything so much worse."
+    },
+    {
+      "title": "Hereditary",
+      "year": 2018,
+      "line": "Grief tears a family open and something far darker crawls inside."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "iconic-90s-cinema",
+  "title": "Iconic 90s Cinema",
+  "kind": "archive",
+  "category": "era",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "The 90s gave us cinema with nerve and teeth. These six films still demand something from you.",
+  "published": "2026-08-19",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-06-18",
+      "2026-07-19",
+      "2026-08-19"
+    ],
+    "buffer_id": "6a857611d1aae1c4924ba9e1"
+  },
+  "films": [
+    {
+      "title": "Boogie Nights",
+      "year": 1997,
+      "line": "A dazzling fever dream about ambition, family and the price of reinvention."
+    },
+    {
+      "title": "Se7en",
+      "year": 1995,
+      "blurb": "New Line's executives hated the ending and kept asking for a happier one. David Fincher was sent Andrew Kevin Walker's original script by mistake, read it, and agreed to direct only if that ending stayed. Brad Pitt dug in as well. Test audiences were lukewarm and nobody expected much, then it grossed $327 million and finished as the seventh biggest film of 1995. Two detectives, seven sins, one box."
+    },
+    {
+      "title": "Magnolia",
+      "year": 1999,
+      "line": "Broken souls collide across one impossible day in a symphony of longing and regret."
+    },
+    {
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "line": "A con, a ghost story and a twist that rewrites everything you thought you knew."
+    },
+    {
+      "title": "Heat",
+      "year": 1995,
+      "line": "Two men on opposite sides of the law mirror each other in ways that haunt long after."
+    },
+    {
+      "title": "Naked",
+      "year": 1993,
+      "line": "A restless mind burns through the London night leaving nothing untouched or unchallenged."
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "blurb": "Four stories in Los Angeles told out of order, so a man you watch die in the middle walks back in at the end. TriStar turned the script down as too demented. Miramax picked it up as the first film it ever fully financed, it won the Palme d'Or at Cannes, took seven Oscar nominations and the screenplay award, and dragged John Travolta's career back from the dead. Tarantino has never been this loose again."
+    },
+    {
+      "title": "Eyes Wide Shut",
+      "year": 1999,
+      "line": "A fever dream of desire and paranoia where every door opened leads to something you cannot unsee."
+    }
+  ]
+}

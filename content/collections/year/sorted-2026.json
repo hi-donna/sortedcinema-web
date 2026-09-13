@@ -1,0 +1,243 @@
+{
+  "slug": "sorted-2026",
+  "title": "Sorted 2026",
+  "kicker": "The canon starts now",
+  "kind": "year",
+  "year": 2026,
+  "category": "year",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "A different world. Everything on this page was released in 2026 or later, and nothing older will ever be added. Three labels, honestly applied: Sorted means we have seen it and we vouch for it. On the radar means it is out and we are still deciding. Coming means the date is set and we are waiting with you. Verdicts move as we watch, and the list only grows.",
+  "legend": {
+    "sorted": "Seen it. We vouch for it.",
+    "radar": "Out now. Verdict pending.",
+    "coming": "Date is set. Waiting with you."
+  },
+  "films": [
+    {
+      "title": "Project Hail Mary",
+      "year": 2026,
+      "release": "2026-03-20",
+      "director": "Phil Lord, Christopher Miller",
+      "verdict": "sorted",
+      "moods": ["hopeful", "epic", "funny"],
+      "note": "A science teacher wakes up alone on a spaceship with no memory of why he is there, and makes a friend. Ryan Gosling, a rock-shaped alien, and the most joyful big-budget film of the year. The one 2026 blockbuster that made grown adults leave the cinema glowing."
+    },
+    {
+      "title": "28 Years Later: The Bone Temple",
+      "year": 2026,
+      "release": "2026-01-16",
+      "director": "Nia DaCosta",
+      "moods": ["dark", "tense"],
+      "note": "The second chapter of the new trilogy, picking up where Danny Boyle's film left off with Ralph Fiennes' bone-collecting doctor. Stranger and more uneven than the first, and worth it for the ideas alone."
+    },
+    {
+      "title": "Send Help",
+      "year": 2026,
+      "release": "2026-01-30",
+      "director": "Sam Raimi",
+      "moods": ["dark", "funny", "tense"],
+      "note": "Rachel McAdams and Dylan O'Brien survive a plane crash on a deserted island, and the office power dynamic does not survive with them. Sam Raimi back doing what he loves: making you laugh and wince in the same breath."
+    },
+    {
+      "title": "Wuthering Heights",
+      "year": 2026,
+      "release": "2026-02-13",
+      "director": "Emerald Fennell",
+      "moods": ["dark", "tender", "epic"],
+      "note": "Margot Robbie and Jacob Elordi as Cathy and Heathcliff in a version of the novel that is much more interested in the desire than the moors. Divisive, loud, and impossible to ignore."
+    },
+    {
+      "title": "Hoppers",
+      "year": 2026,
+      "release": "2026-03-06",
+      "director": "Daniel Chong",
+      "moods": ["funny", "cozy", "hopeful"],
+      "note": "Pixar's original about a girl who transfers her mind into a robotic beaver to infiltrate the animal kingdom. Sillier and sweeter than the pitch sounds. The studio's best original in years."
+    },
+    {
+      "title": "The Bride!",
+      "year": 2026,
+      "release": "2026-03-06",
+      "director": "Maggie Gyllenhaal",
+      "moods": ["dark", "epic", "tender"],
+      "note": "Jessie Buckley is the Bride of Frankenstein in 1930s Chicago, and Christian Bale is the monster who asks for her. A punk-rock reimagining that swings for the fences every time."
+    },
+    {
+      "title": "Crime 101",
+      "year": 2026,
+      "release": "2026-02-13",
+      "director": "Bart Layton",
+      "moods": ["tense", "slow-burn"],
+      "note": "Chris Hemsworth is a meticulous thief working the 101 freeway, Mark Ruffalo is the detective who cannot let him go. From the director of American Animals, and it has that film's patience."
+    },
+    {
+      "title": "The Dog Stars",
+      "year": 2026,
+      "release": "2026-03-27",
+      "director": "Ridley Scott",
+      "moods": ["slow-burn", "tender", "dark"],
+      "note": "Jacob Elordi as a pilot living in a hangar with his dog after a pandemic has emptied the world, who hears a voice on the radio. Ridley Scott going small and quiet for once."
+    },
+    {
+      "title": "Michael",
+      "year": 2026,
+      "release": "2026-04-24",
+      "director": "Antoine Fuqua",
+      "moods": ["epic", "tender"],
+      "note": "Jaafar Jackson, his nephew, plays Michael Jackson in a biopic that is more concert than confession. Whatever you think of what it leaves out, the recreations of the performances are astonishing."
+    },
+    {
+      "title": "The Devil Wears Prada 2",
+      "year": 2026,
+      "release": "2026-05-01",
+      "director": "David Frankel",
+      "moods": ["funny", "cozy"],
+      "note": "Miranda Priestly at the end of print media, and Andy back in the building. The original cast returned and so did the one-liners."
+    },
+    {
+      "title": "The Mandalorian and Grogu",
+      "year": 2026,
+      "release": "2026-05-22",
+      "director": "Jon Favreau",
+      "moods": ["epic", "cozy"],
+      "note": "The first Star Wars film in seven years, and the first to take the small screen's favourite pair to the big one. A road movie with a laser sword."
+    },
+    {
+      "title": "Disclosure Day",
+      "year": 2026,
+      "release": "2026-06-12",
+      "director": "Steven Spielberg",
+      "moods": ["mind-bending", "hopeful", "tense"],
+      "note": "Spielberg back with an original UFO story, forty-nine years after Close Encounters. Emily Blunt and Josh O'Connor. That is all we needed to hear."
+    },
+    {
+      "title": "Toy Story 5",
+      "year": 2026,
+      "release": "2026-06-19",
+      "director": "Andrew Stanton",
+      "moods": ["cozy", "funny", "tender"],
+      "note": "Woody and Buzz versus the tablet. Pixar taking on screens with the one franchise that has never let anyone down."
+    },
+    {
+      "title": "Supergirl",
+      "year": 2026,
+      "release": "2026-06-26",
+      "director": "Craig Gillespie",
+      "moods": ["epic", "funny", "dark"],
+      "note": "Milly Alcock as a Kara Zor-El who is angrier, messier and drunker than her cousin, in a space road trip from the comic Woman of Tomorrow. The second film of the new DC universe."
+    },
+    {
+      "title": "The Odyssey",
+      "year": 2026,
+      "release": "2026-07-17",
+      "director": "Christopher Nolan",
+      "moods": ["epic", "tense"],
+      "note": "Homer, shot entirely on IMAX, with Matt Damon as Odysseus and half of Hollywood in the cast. Nolan's biggest swing since Interstellar, and the film of the year on paper."
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "release": "2026-07-31",
+      "director": "Destin Daniel Cretton",
+      "moods": ["epic", "funny"],
+      "note": "Tom Holland's Peter Parker, alone and forgotten, starting over. The Shang-Chi director takes over and the street-level pitch is promising."
+    },
+    {
+      "title": "The Social Reckoning",
+      "year": 2026,
+      "release": "2026-10-09",
+      "director": "Aaron Sorkin",
+      "moods": ["tense", "slow-burn"],
+      "note": "Sorkin's follow-up to The Social Network, about the whistleblower who leaked the Facebook Files. Jeremy Strong as Zuckerberg. The talkiest thriller of the year and we cannot wait."
+    },
+    {
+      "title": "Avengers: Doomsday",
+      "year": 2026,
+      "release": "2026-12-18",
+      "director": "Anthony Russo, Joe Russo",
+      "moods": ["epic"],
+      "note": "Robert Downey Jr. returns as Doctor Doom, the X-Men arrive, and the Russos are back. Marvel's everything-on-the-table December."
+    },
+    {
+      "title": "Dune: Part Three",
+      "year": 2026,
+      "release": "2026-12-18",
+      "director": "Denis Villeneuve",
+      "moods": ["epic", "dark", "slow-burn"],
+      "note": "Dune Messiah. Paul Atreides as emperor, and the story turns on him. Villeneuve closing the trilogy he was born to make."
+    },
+    {
+      "title": "Border 2",
+      "year": 2026,
+      "release": "2026-01-23",
+      "director": "Anurag Singh",
+      "moods": ["epic", "tense"],
+      "note": "Sunny Deol returns to the war film that defined him, with Varun Dhawan, Diljit Dosanjh and Ahan Shetty alongside. The Republic Day release India was waiting for."
+    },
+    {
+      "title": "Jana Nayagan",
+      "year": 2026,
+      "release": "2026-01-09",
+      "director": "H. Vinoth",
+      "moods": ["epic", "tense"],
+      "note": "Vijay's final film before he leaves for politics, a political thriller in the same breath as the career it closes. Whatever else it is, it is an ending."
+    },
+    {
+      "title": "The Raja Saab",
+      "year": 2026,
+      "release": "2026-01-09",
+      "director": "Maruthi",
+      "moods": ["funny", "dark"],
+      "note": "Prabhas in a haunted-house comedy with a palace, a grandmother, and three heroines. A very different register for the Baahubali star."
+    },
+    {
+      "title": "Toxic",
+      "year": 2026,
+      "release": "2026-03-19",
+      "director": "Geetu Mohandas",
+      "moods": ["dark", "epic"],
+      "note": "Yash after KGF, in a gangster film set in Goa and directed by Malayalam's Geetu Mohandas. The pairing alone earns the ticket."
+    },
+    {
+      "title": "Peddi",
+      "year": 2026,
+      "release": "2026-03-27",
+      "director": "Buchi Babu Sana",
+      "moods": ["epic", "tender"],
+      "note": "Ram Charan as a rural cricketer in a sports drama from the director of Uppena. With A. R. Rahman on the score."
+    },
+    {
+      "title": "Bhooth Bangla",
+      "year": 2026,
+      "release": "2026-04-02",
+      "director": "Priyadarshan",
+      "moods": ["funny", "cozy"],
+      "note": "Akshay Kumar and Priyadarshan back together after fourteen years, in a horror comedy. Bhool Bhulaiyaa energy, and nobody is complaining."
+    },
+    {
+      "title": "Dragon",
+      "year": 2026,
+      "release": "2026-06-25",
+      "director": "Prashanth Neel",
+      "moods": ["epic", "dark"],
+      "note": "NTR and the director of KGF and Salaar. Two of the biggest forces in Indian cinema in one film, and the trailer promised scale to match."
+    },
+    {
+      "title": "Drishyam 3",
+      "year": 2026,
+      "release": "2026-10-02",
+      "director": "Jeethu Joseph",
+      "moods": ["tense", "mind-bending"],
+      "note": "Mohanlal's Georgekutty, one more time, from the director who started it. The Malayalam original arrives first; the Hindi version follows. The franchise that taught India to love a slow-burn."
+    },
+    {
+      "title": "Ramayana",
+      "year": 2026,
+      "release": "2026-11-06",
+      "director": "Nitesh Tiwari",
+      "moods": ["epic"],
+      "note": "Ranbir Kapoor as Ram, Sai Pallavi as Sita, Yash as Ravana, Hans Zimmer and A. R. Rahman on the score, and a budget nobody has seen in India. Part one arrives at Diwali."
+    }
+  ]
+}

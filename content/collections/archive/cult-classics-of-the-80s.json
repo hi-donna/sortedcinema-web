@@ -1,0 +1,51 @@
+{
+  "slug": "cult-classics-of-the-80s",
+  "title": "Cult Classics of the 80s",
+  "kind": "archive",
+  "category": "era",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "The 80s had a darker pulse running under the neon. These six films found it and refused to look away.",
+  "published": "2026-09-05",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-09-02",
+      "2026-09-05"
+    ],
+    "buffer_id": "6a9c17c20ca93dff239a0c2b"
+  },
+  "films": [
+    {
+      "title": "Blue Velvet",
+      "year": 1986,
+      "line": "A small town hides something rotting and beautiful just beneath the surface."
+    },
+    {
+      "title": "Repo Man",
+      "year": 1984,
+      "line": "Punks, aliens and existential dread collide in the most electrifying midnight fever dream."
+    },
+    {
+      "title": "Manhunter",
+      "year": 1986,
+      "line": "A hunter who thinks like a monster walks a razor edge he may never come back from."
+    },
+    {
+      "title": "Society",
+      "year": 1989,
+      "line": "The more he tries to belong, the more wrong everything feels, right up until it breaks open."
+    },
+    {
+      "title": "They Live",
+      "year": 1988,
+      "line": "Put on the glasses and you will never unsee what the world has been hiding in plain sight."
+    },
+    {
+      "title": "Videodrome",
+      "year": 1983,
+      "line": "Reality bends and bleeds once a late night signal starts rewiring something deep in the mind."
+    }
+  ]
+}

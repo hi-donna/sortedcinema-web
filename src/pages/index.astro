@@ -1,0 +1,147 @@
+---
+import Base from "../layouts/Base.astro";
+import ListCard from "../components/ListCard.astro";
+import PosterCard from "../components/PosterCard.astro";
+import { data, site, film, coverOf, homeRails, collection, filmUrl, moodUrl, IMG, href } from "../lib/data";
+
+const { world, india, archive } = homeRails();
+const y2026 = collection("sorted-2026");
+const sorted2026 = (y2026?.films || []).filter((e) => e.status === "sorted").slice(0, 8);
+const featured = [...world, ...india].find((c) => coverOf(c)) || world[0];
+const heroArt = featured ? coverOf(featured, "original") : null;
+const heroFilm = featured?.cover ? film(featured.cover) : null;
+const platforms = Object.values(data.platforms).sort((a, b) => b.films.length - a.films.length).slice(0, 6);
+const moodKeys = Object.keys(data.moods);
+const streaming = data.discover?.streaming?.slice(0, 12) || [];
+const jsonld = { "@context": "https://schema.org", "@type": "WebSite", name: site.name, url: site.url, potentialAction: { "@type": "SearchAction", target: `${site.url}/search/?q={q}`, "query-input": "required name=q" } };
+---
+<Base jsonld={jsonld}>
+  <section class="hero">
+    {heroArt && <div class="bg" style={`background-image:url('${heroArt}')`}></div>}
+    <div class="grade"></div>
+    <div class="wrap inner">
+      <div class="eyebrow">Sorted Cinema presents</div>
+      <h1 style="margin-top:14px">Films worth your night.<br /><span class="w">And where to watch them in India.</span></h1>
+      <p class="lede">Mood-first, spoiler-free lists from the people behind {site.handle}. World cinema on-ramps for Korea, Iran, Japan, Kerala and more, plus a growing record of everything worth watching from 2026 onwards.</p>
+      <div class="actions">
+        <a class="btn primary" href={href("/world/")}>Start with world cinema</a>
+        <a class="btn" href={href("/2026/")}>Sorted 2026</a>
+        <a class="btn" href={href("/watch/")}>Where to watch</a>
+      </div>
+    </div>
+    {heroArt && heroFilm && <div class="credit">Still from {heroFilm.title} ({heroFilm.year})</div>}
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow">Start here</div>
+          <h2>A country a night</h2>
+          <p class="sub">Ten films each, ordered so the first one hooks you and the last one stays with you. Every film with the year and where it streams here.</p>
+        </div>
+        <a class="more" href={href("/world/")}>All countries →</a>
+      </div>
+      <div class="rail lists">
+        {world.map((c) => <ListCard c={c} eyebrow={c.countryName} />)}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow">Closer to home</div>
+          <h2>Indian cinema, beyond the obvious</h2>
+          <p class="sub">Malayalam, Tamil, Marathi, Bengali, Telugu and Kannada, and the other Hindi cinema. The lists we wish someone had handed us.</p>
+        </div>
+        <a class="more" href={href("/world/#india")}>All Indian lists →</a>
+      </div>
+      <div class="rail lists">
+        {india.map((c) => <ListCard c={c} eyebrow={c.language} />)}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow">The canon starts now</div>
+          <h2>Sorted 2026</h2>
+          <p class="sub">A different world: only films from 2026 onwards, only the ones we would put in front of you. Three honest labels, verdicts that move as we watch.</p>
+        </div>
+        <a class="more" href={href("/2026/")}>The whole year →</a>
+      </div>
+      {sorted2026.length ? (
+        <div class="rail posters">
+          {sorted2026.map((e) => <PosterCard f={film(e.key)} badge="sorted" />)}
+        </div>
+      ) : null}
+      {streaming.length ? (
+        <>
+          <div class="kicker-line" style="margin-top:28px;margin-bottom:14px"><span class="eyebrow dim">New on streaming in India · 2026 releases</span></div>
+          <div class="rail posters">
+            {streaming.map((d) => (
+              <a class="poster-card" href={`https://www.themoviedb.org/movie/${d.tmdb_id}`} rel="noopener" target="_blank">
+                <div class="poster"><img src={`${IMG}w342${d.poster_path}`} alt={`${d.title} poster`} loading="lazy" width="342" height="513" /></div>
+                <div class="t">{d.title}</div>
+                <div class="y">{d.providers?.flatrate?.map((p: any) => p.name).join(" · ") || d.year}</div>
+              </a>
+            ))}
+          </div>
+        </>
+      ) : (
+        <p class="notice" style="margin-top:20px">The rest of the year lives on the <a href={href("/2026/")} class="accent">Sorted 2026</a> page: what is out, what is coming, and what we vouch for.</p>
+      )}
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow">Pick by feeling</div>
+          <h2>What kind of night is it</h2>
+        </div>
+      </div>
+      <div class="pills">
+        {moodKeys.map((m) => <a class="pill" href={moodUrl(m)}>{data.moods[m].label}<small>{data.byMood[m].length}</small></a>)}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow">From the grid</div>
+          <h2>Lists you saw on Instagram</h2>
+          <p class="sub">Every carousel we post lives here permanently, with the films it named and where they stream now.</p>
+        </div>
+        <a class="more" href={href("/lists/")}>All {archive.length} lists →</a>
+      </div>
+      <div class="grid">
+        {archive.slice(0, 8).map((c) => <ListCard c={c} />)}
+      </div>
+    </div>
+  </section>
+
+  {platforms.length ? (
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow">By platform</div>
+            <h2>Already paying for it. Watch something good on it.</h2>
+          </div>
+          <a class="more" href={href("/watch/")}>All platforms →</a>
+        </div>
+        <div class="pills">
+          {platforms.map((p) => <a class="pill" href={href(`/watch/${p.slug}/`)}>{p.name}<small>{p.films.length}</small></a>)}
+        </div>
+      </div>
+    </section>
+  ) : null}
+</Base>

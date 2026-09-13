@@ -1,0 +1,136 @@
+{
+  "slug": "tamil-cinema-start-here",
+  "title": "Tamil Cinema: Start Here",
+  "kicker": "Indian Cinema · Tamil Nadu",
+  "kind": "world",
+  "country": "IN",
+  "region": "Tamil Nadu",
+  "countryName": "Tamil Nadu",
+  "language": "Tamil",
+  "category": "india",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "Tamil cinema has the biggest stars in the country and, running quietly alongside them, the most political filmmakers in India. This list leans toward the second group, the ones making films about caste, about Chennai's north, about a police station at night. But it opens with Kamal Haasan, because everything starts there.",
+  "films": [
+    {
+      "title": "Nayakan",
+      "year": 1987,
+      "original_title": "நாயகன்",
+      "director": "Mani Ratnam",
+      "moods": [
+        "epic",
+        "dark",
+        "tender"
+      ],
+      "blurb": "A boy who saw his father killed by the police grows into the godfather of Bombay's Tamil slums. Kamal Haasan ages forty years on screen and Ilaiyaraaja writes the score of his life. India's Godfather, and it holds up next to the original."
+    },
+    {
+      "title": "Anbe Sivam",
+      "year": 2003,
+      "original_title": "அன்பே சிவம்",
+      "director": "Sundar C.",
+      "moods": [
+        "tender",
+        "funny",
+        "hopeful"
+      ],
+      "blurb": "A scarred communist activist and a smug ad executive are stranded together at an airport and end up on a road trip across India. It flopped on release and became the most beloved Tamil film of its decade on television. Kamal Haasan's warmest performance."
+    },
+    {
+      "title": "96",
+      "year": 2018,
+      "original_title": "96",
+      "director": "C. Prem Kumar",
+      "moods": [
+        "tender",
+        "slow-burn",
+        "devastating"
+      ],
+      "blurb": "A travel photographer goes to his school reunion and meets the girl he loved at sixteen, now married and visiting from Singapore. One night of walking around Chennai and not saying things. Vijay Sethupathi and Trisha, and the most heartbreaking love story of its year."
+    },
+    {
+      "title": "Kaaka Muttai",
+      "year": 2014,
+      "original_title": "காக்கா முட்டை",
+      "director": "M. Manikandan",
+      "moods": [
+        "tender",
+        "funny",
+        "hopeful"
+      ],
+      "blurb": "Two slum kids in Chennai want to taste a pizza from the new restaurant that opened on the land where their tree used to be, and it costs three hundred rupees. A small film about a small wish that says more about India than most epics. The boys are wonderful."
+    },
+    {
+      "title": "Visaranai",
+      "year": 2015,
+      "original_title": "விசாரணை",
+      "director": "Vetrimaaran",
+      "moods": [
+        "tense",
+        "dark",
+        "devastating"
+      ],
+      "blurb": "Four Tamil labourers in Andhra Pradesh are picked up by the police and tortured into confessing to a robbery they know nothing about. Based on a real account. One hundred minutes and you will not be the same after. The most important Tamil film of its decade."
+    },
+    {
+      "title": "Pariyerum Perumal",
+      "year": 2018,
+      "original_title": "பரியேறும் பெருமாள்",
+      "director": "Mari Selvaraj",
+      "moods": [
+        "tense",
+        "devastating",
+        "hopeful"
+      ],
+      "blurb": "A Dalit law student in Tirunelveli becomes friends with a girl from a dominant caste, and her family responds with violence. A first film with the force of a manifesto. The dog on the railway track in the opening is an image you will carry for years."
+    },
+    {
+      "title": "Vada Chennai",
+      "year": 2018,
+      "original_title": "வட சென்னை",
+      "director": "Vetrimaaran",
+      "moods": [
+        "epic",
+        "dark",
+        "tense"
+      ],
+      "blurb": "A carrom player from north Chennai is pulled into a gang war that has been running since before he was born. Told across twenty years, in and out of prison, with a fishing harbour at its centre. Tamil cinema's great crime epic, and Dhanush is at his best."
+    },
+    {
+      "title": "Super Deluxe",
+      "year": 2019,
+      "original_title": "சூப்பர் டீலக்ஸ்",
+      "director": "Thiagarajan Kumararaja",
+      "moods": [
+        "mind-bending",
+        "funny",
+        "dark"
+      ],
+      "blurb": "A dead body in a wardrobe, a trans woman coming home to her son, a group of boys with a stolen porn tape, and a man who talks to God. Four stories, one day, and a film that keeps changing shape. Vijay Sethupathi as Shilpa is a performance for the ages."
+    },
+    {
+      "title": "Asuran",
+      "year": 2019,
+      "original_title": "அசுரன்",
+      "director": "Vetrimaaran",
+      "moods": [
+        "epic",
+        "tense",
+        "devastating"
+      ],
+      "blurb": "A farmer's hot-headed son kills a landlord and the father, who everyone thought was a coward, has to get his family across the forest alive. Then the film tells you who the father used to be. Dhanush won the National Award. A revenge film with a conscience."
+    },
+    {
+      "title": "Jai Bhim",
+      "year": 2021,
+      "original_title": "ஜெய் பீம்",
+      "director": "T. J. Gnanavel",
+      "moods": [
+        "tense",
+        "devastating",
+        "hopeful"
+      ],
+      "blurb": "A tribal man is arrested for a theft he did not commit and disappears in police custody, and his pregnant wife finds a lawyer who will not let go. Based on a real 1993 case fought by Justice Chandru. Suriya has never been better, and it became a phenomenon on streaming."
+    }
+  ]
+}

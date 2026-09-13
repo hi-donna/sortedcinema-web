@@ -1,0 +1,12 @@
+{
+  "tense": { "label": "Tense", "line": "Edge of the seat. Do not check your phone." },
+  "tender": { "label": "Tender", "line": "Soft, human, and quietly moving." },
+  "slow-burn": { "label": "Slow burn", "line": "Patient films that pay off if you let them." },
+  "funny": { "label": "Funny", "line": "Laughs, some of them uncomfortable." },
+  "devastating": { "label": "Devastating", "line": "You will need a minute afterwards." },
+  "mind-bending": { "label": "Mind-bending", "line": "Twists, loops, and unreliable everything." },
+  "epic": { "label": "Epic", "line": "Big canvas, big feelings, big screen if you can." },
+  "cozy": { "label": "Cozy", "line": "Blanket, tea, and nobody gets hurt. Mostly." },
+  "dark": { "label": "Dark", "line": "Not for a tired night. Worth it on the right one." },
+  "hopeful": { "label": "Hopeful", "line": "Leaves you lighter than it found you." }
+}

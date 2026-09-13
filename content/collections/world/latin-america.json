@@ -1,0 +1,95 @@
+{
+  "slug": "latin-american-cinema-start-here",
+  "title": "Latin American Cinema: Start Here",
+  "kicker": "World Cinema · Brazil, Mexico, Argentina, Chile",
+  "kind": "world",
+  "country": "BR",
+  "countryName": "Latin America",
+  "language": "Spanish, Portuguese",
+  "category": "world",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "Four countries, two languages, and a shared instinct for stories where the personal and the political are the same thing. Brazil's favelas, Mexico's road trips, Argentina's memory of its dictatorship, Chile's quiet reckonings. Some of the most alive filmmaking on the planet, and most of it is already streaming in India.",
+  "films": [
+    {
+      "title": "City of God",
+      "year": 2002,
+      "original_title": "Cidade de Deus",
+      "director": "Fernando Meirelles, Kátia Lund",
+      "moods": ["tense", "epic", "dark"],
+      "blurb": "Two boys grow up in the same Rio favela across three decades. One picks up a camera, the other picks up a gun. Kinetic, funny, terrifying, and shot with kids from the neighbourhood. The film that put Brazil on every cinephile's map."
+    },
+    {
+      "title": "Wild Tales",
+      "year": 2014,
+      "original_title": "Relatos salvajes",
+      "director": "Damián Szifron",
+      "moods": ["funny", "dark", "tense"],
+      "blurb": "Six short stories about people who finally lose it: on a plane, in a diner, on a highway, at a wedding. Argentina's biggest hit ever, and the most purely entertaining film on this list. The wedding one alone is worth the price."
+    },
+    {
+      "title": "Amores Perros",
+      "year": 2000,
+      "original_title": "Amores perros",
+      "director": "Alejandro González Iñárritu",
+      "moods": ["dark", "tense", "devastating"],
+      "blurb": "One car crash in Mexico City connects a teenager with a fighting dog, a model with a broken leg, and a hitman who used to be a revolutionary. Iñárritu's debut, and still his most ferocious film. Love hurts, in three chapters."
+    },
+    {
+      "title": "The Secret in Their Eyes",
+      "year": 2009,
+      "original_title": "El secreto de sus ojos",
+      "director": "Juan José Campanella",
+      "moods": ["tense", "tender", "slow-burn"],
+      "blurb": "A retired court investigator in Buenos Aires writes a novel about a rape and murder case he could never let go of, and about the colleague he never told he loved. Won the Oscar. There is a single-take chase through a football stadium that people still talk about."
+    },
+    {
+      "title": "Roma",
+      "year": 2018,
+      "original_title": "Roma",
+      "director": "Alfonso Cuarón",
+      "moods": ["tender", "slow-burn", "devastating"],
+      "blurb": "A year in the life of a live-in housekeeper in 1970s Mexico City, as the family she works for falls apart and the country erupts around her. Black and white, mostly wide shots, and Cuarón's love letter to the woman who raised him. The beach scene is unforgettable."
+    },
+    {
+      "title": "Y Tu Mamá También",
+      "year": 2001,
+      "original_title": "Y tu mamá también",
+      "director": "Alfonso Cuarón",
+      "moods": ["tender", "funny", "devastating"],
+      "blurb": "Two teenage boys convince an older married woman to join them on a road trip to a beach that may not exist. A sex comedy that is secretly about death and about Mexico. The narrator keeps telling you things the characters will never know."
+    },
+    {
+      "title": "Central Station",
+      "year": 1998,
+      "original_title": "Central do Brasil",
+      "director": "Walter Salles",
+      "moods": ["tender", "hopeful", "devastating"],
+      "blurb": "A bitter former teacher writes letters for illiterate people at Rio's main station and ends up escorting a boy whose mother has just died across Brazil to find his father. A road movie with the toughest, softest heart. Fernanda Montenegro is astonishing."
+    },
+    {
+      "title": "No",
+      "year": 2012,
+      "original_title": "No",
+      "director": "Pablo Larraín",
+      "moods": ["tense", "hopeful", "funny"],
+      "blurb": "In 1988, Chile's dictator holds a referendum on his own rule, and an ad man is hired to make the campaign against him. He decides to sell democracy like a soft drink. Shot on 1980s video cameras so it blends with the real footage. Gael García Bernal at his best."
+    },
+    {
+      "title": "A Fantastic Woman",
+      "year": 2017,
+      "original_title": "Una mujer fantástica",
+      "director": "Sebastián Lelio",
+      "moods": ["tender", "tense", "devastating"],
+      "blurb": "A trans woman in Santiago loses her older partner suddenly, and his family sets out to erase her from the funeral, the flat, and the story. Daniela Vega carries it with a dignity that turns into defiance. It won the Oscar and she became a symbol."
+    },
+    {
+      "title": "I'm Still Here",
+      "year": 2024,
+      "original_title": "Ainda Estou Aqui",
+      "director": "Walter Salles",
+      "moods": ["devastating", "tender", "hopeful"],
+      "blurb": "In 1971 Rio, a former congressman is taken away by the military regime and never returned, and his wife, with five children, refuses to fall apart. Based on the family's memoir. Fernanda Torres gives the performance of the year and Brazil won its first Oscar for it."
+    }
+  ]
+}

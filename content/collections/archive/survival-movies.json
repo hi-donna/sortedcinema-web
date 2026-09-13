@@ -1,0 +1,71 @@
+{
+  "slug": "survival-movies",
+  "title": "Survival Movies",
+  "kind": "archive",
+  "category": "genre",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "Survival is rarely just about the body. These films dig into what it costs your mind, your morals and your soul.",
+  "published": "2026-08-11",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-07-07",
+      "2026-08-11"
+    ],
+    "buffer_id": "6a7af097c02cfd5f157ce64f"
+  },
+  "films": [
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "line": "Fifteen years imprisoned with no reason given and freedom feels like a trap."
+    },
+    {
+      "title": "The Grey",
+      "year": 2011,
+      "line": "A man fights wolves and grief in a frozen wilderness with nothing left to lose."
+    },
+    {
+      "title": "Calibre",
+      "year": 2018,
+      "line": "One terrible accident in a remote Scottish village and trust becomes the deadliest enemy."
+    },
+    {
+      "title": "Burning",
+      "year": 2018,
+      "line": "A slow obsession builds until you realize someone may be hunting in plain sight."
+    },
+    {
+      "title": "Cargo",
+      "year": 2017,
+      "line": "A father races against his own body to find safety for the child he loves."
+    },
+    {
+      "title": "A Prophet",
+      "year": 2009,
+      "line": "Inside prison walls a young man learns to survive by becoming something far more dangerous."
+    },
+    {
+      "title": "The Road",
+      "year": 2009,
+      "line": "A father and son push through a scorched, silent world held together by love alone."
+    },
+    {
+      "title": "Bone Tomahawk",
+      "year": 2015,
+      "line": "A slow-burn rescue mission through brutal frontier darkness that earns every ounce of its dread."
+    },
+    {
+      "title": "Prisoners",
+      "year": 2013,
+      "line": "Desperation and moral collapse collide as a father takes survival into his own shaking hands."
+    },
+    {
+      "title": "Sicario",
+      "year": 2015,
+      "line": "She volunteered to find the truth and discovered a war where survival means losing your conscience."
+    }
+  ]
+}

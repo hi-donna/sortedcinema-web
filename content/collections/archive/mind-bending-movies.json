@@ -1,0 +1,62 @@
+{
+  "slug": "mind-bending-movies",
+  "title": "Mind-Bending Movies",
+  "kind": "archive",
+  "category": "genre",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "Reality is a door with no frame tonight. These films will leave you staring at the ceiling.",
+  "published": "2026-08-18",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-06-17",
+      "2026-07-18",
+      "2026-08-18"
+    ],
+    "buffer_id": "6a84244e3dd2d5920efac50b"
+  },
+  "films": [
+    {
+      "title": "Memento",
+      "year": 2000,
+      "blurb": "Two timelines, one in colour running backwards and one in black and white running forwards, meeting at the end. Christopher Nolan built it from his brother Jonathan's short story, and Guy Pearce plays a man who cannot form new memories and hunts his wife's killer with photographs, notes and tattoos. Made for $9 million, it earned $40 million, took two Oscar nominations, and in 2017 the Library of Congress put it in the National Film Registry."
+    },
+    {
+      "title": "Enemy",
+      "year": 2013,
+      "line": "A quiet man discovers his exact double and the dread slowly swallows everything."
+    },
+    {
+      "title": "Coherence",
+      "year": 2013,
+      "line": "One dinner party, one comet overhead, and reality starts multiplying in the dark."
+    },
+    {
+      "title": "Predestination",
+      "year": 2014,
+      "line": "A time-travelling agent chases a criminal whose identity rewrites every rule of existence."
+    },
+    {
+      "title": "Shutter Island",
+      "year": 2010,
+      "line": "Every door opened in that asylum pulls the floor further from your feet."
+    },
+    {
+      "title": "Mulholland Drive",
+      "year": 2001,
+      "line": "Hollywood dreams curdle into something stranger and sadder than any nightmare should be."
+    },
+    {
+      "title": "The Machinist",
+      "year": 2004,
+      "line": "Sleeplessness and guilt carve a man into a ghost haunting his own unravelling life."
+    },
+    {
+      "title": "The Game",
+      "year": 1997,
+      "line": "A gift that turns a man's entire life into something he no longer recognises."
+    }
+  ]
+}

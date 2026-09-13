@@ -1,0 +1,95 @@
+{
+  "slug": "german-cinema-start-here",
+  "title": "German Cinema: Start Here",
+  "kicker": "World Cinema · Germany",
+  "kind": "world",
+  "country": "DE",
+  "countryName": "Germany",
+  "language": "German",
+  "category": "world",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "German cinema keeps returning to the same question: what does a system do to the people inside it. The Stasi, the bunker, the trenches, the office, the classroom. It sounds heavy. Half of these are among the most gripping films you will ever watch, and one of them is a running race set to techno.",
+  "films": [
+    {
+      "title": "The Lives of Others",
+      "year": 2006,
+      "original_title": "Das Leben der Anderen",
+      "director": "Florian Henckel von Donnersmarck",
+      "moods": ["tense", "tender", "slow-burn"],
+      "blurb": "A Stasi officer in 1984 East Berlin is assigned to listen in on a playwright and his actress girlfriend, and slowly starts to care about them. A thriller with no gunfire and a last line that lands like a hug. The best possible first German film."
+    },
+    {
+      "title": "Run Lola Run",
+      "year": 1998,
+      "original_title": "Lola rennt",
+      "director": "Tom Tykwer",
+      "moods": ["tense", "funny", "mind-bending"],
+      "blurb": "Lola has twenty minutes to find a hundred thousand marks or her boyfriend is dead, so she runs. Then it starts over. Then it starts over again. Eighty minutes of red hair and pure momentum. The most fun on this list."
+    },
+    {
+      "title": "Downfall",
+      "year": 2004,
+      "original_title": "Der Untergang",
+      "director": "Oliver Hirschbiegel",
+      "moods": ["dark", "tense", "devastating"],
+      "blurb": "The last ten days inside Hitler's bunker, seen through the eyes of his young secretary. Bruno Ganz's performance is the one every meme is drawn from, and it is far more frightening in context. History as a slow collapse."
+    },
+    {
+      "title": "Good Bye Lenin!",
+      "year": 2003,
+      "original_title": "Good Bye Lenin!",
+      "director": "Wolfgang Becker",
+      "moods": ["funny", "tender", "hopeful"],
+      "blurb": "A devoted socialist mother falls into a coma just before the Berlin Wall falls, and wakes up after. Her son decides the shock could kill her, and rebuilds East Germany inside her bedroom. A comedy about love and lying, and one of the sweetest films Germany has made."
+    },
+    {
+      "title": "Toni Erdmann",
+      "year": 2016,
+      "original_title": "Toni Erdmann",
+      "director": "Maren Ade",
+      "moods": ["funny", "tender", "slow-burn"],
+      "blurb": "A prankster father with false teeth in his pocket turns up uninvited in Bucharest, where his daughter is a corporate consultant with no time for him. Nearly three hours, and it contains the funniest scene of the decade and the most surprising hug. Do not read anything else about it."
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "year": 2022,
+      "original_title": "Im Westen nichts Neues",
+      "director": "Edward Berger",
+      "moods": ["devastating", "epic", "dark"],
+      "blurb": "A German teenager enlists with his friends in 1917 expecting glory, and gets the trenches. The first German-language adaptation of the German novel, and it won four Oscars. The most brutal war film of its decade, and it means every second of it."
+    },
+    {
+      "title": "Wings of Desire",
+      "year": 1987,
+      "original_title": "Der Himmel über Berlin",
+      "director": "Wim Wenders",
+      "moods": ["tender", "slow-burn", "hopeful"],
+      "blurb": "Two angels drift through divided Berlin listening to people's thoughts, and one of them falls in love with a trapeze artist and wants to become human. Black-and-white for the angels, colour for us. A poem more than a plot, and it earns the label."
+    },
+    {
+      "title": "Das Boot",
+      "year": 1981,
+      "original_title": "Das Boot",
+      "director": "Wolfgang Petersen",
+      "moods": ["tense", "epic", "devastating"],
+      "blurb": "A German submarine crew in 1941, in a metal tube, waiting. The most claustrophobic war film ever made, and the one that made every submarine film after it feel roomy. Watch the longest cut you can find."
+    },
+    {
+      "title": "Victoria",
+      "year": 2015,
+      "original_title": "Victoria",
+      "director": "Sebastian Schipper",
+      "moods": ["tense", "epic", "dark"],
+      "blurb": "A Spanish girl in Berlin leaves a club at 4am with four strangers, and by dawn is involved in a bank robbery. One hundred and forty minutes, one single unbroken take, no cuts anywhere. Not a gimmick. You will feel your pulse in it."
+    },
+    {
+      "title": "The Teachers' Lounge",
+      "year": 2023,
+      "original_title": "Das Lehrerzimmer",
+      "director": "İlker Çatak",
+      "moods": ["tense", "slow-burn", "dark"],
+      "blurb": "A young teacher tries to find out who is stealing from the staff room, and her good intentions set off a chain reaction through the whole school. A thriller made entirely of small decisions. You will be angry with everyone, including yourself."
+    }
+  ]
+}

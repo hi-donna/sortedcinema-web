@@ -1,0 +1,62 @@
+---
+import Base from "../../layouts/Base.astro";
+import FilmRow from "../../components/FilmRow.astro";
+import ListCard from "../../components/ListCard.astro";
+import { data, site, film, coverOf, dateLabel } from "../../lib/data";
+
+export function getStaticPaths() {
+  return data.collections.filter((c) => c.kind !== "year").map((c) => ({ params: { slug: c.slug }, props: { c } }));
+}
+const { c } = Astro.props;
+const art = coverOf(c, "original");
+const curator = data.curators[c.curator];
+const description = c.intro || `${c.count} ${c.media === "tv" ? "shows" : "films"}: ${c.films.slice(0, 4).map((e) => film(e.key).title).join(", ")}…`;
+const related = data.collections.filter((x) => x.slug !== c.slug && x.kind !== "year" && (x.category === c.category || x.kind === c.kind)).slice(0, 4);
+const pub = dateLabel(c.published);
+const tiers = c.layout === "tiers" ? [...new Set(c.films.map((e) => e.tier || "Unranked"))] : [];
+const jsonld = {
+  "@context": "https://schema.org", "@type": "ItemList", name: c.title, description,
+  itemListElement: c.films.map((e) => ({ "@type": "ListItem", position: e.position, name: film(e.key).title, url: `${site.url}/film/${e.key}/` })),
+};
+---
+<Base title={c.title} description={description} image={art} type="article" jsonld={jsonld}>
+  <section class="page-hero">
+    {art && <div class="bg" style={`background-image:url('${art}')`}></div>}
+    <div class="grade"></div>
+    <div class="wrap inner">
+      <div class="eyebrow">{c.kicker || (c.kind === "archive" ? `From the grid · ${c.category}` : "Sorted Cinema")}</div>
+      <h1 style="margin-top:12px">{c.title}</h1>
+      {c.intro && <p class="lede">{c.intro}</p>}
+      <div class="meta">
+        <span>{c.count} {c.media === "tv" ? "shows" : "films"}</span>
+        {curator && <span>Curated by <a href={curator.url} rel="noopener" target="_blank" class="accent">{curator.handle}</a></span>}
+        {pub && <span>{pub.month} {pub.year}</span>}
+        {c.source?.permalink && <span><a class="accent" href={c.source.permalink} rel="noopener" target="_blank">See the post ↗</a></span>}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      {c.layout === "tiers" ? (
+        tiers.map((t) => (
+          <div class="tier">
+            <h3>{t}</h3>
+            {c.films.filter((e) => (e.tier || "Unranked") === t).map((e) => <FilmRow e={e} total={c.count} showIndex={false} />)}
+          </div>
+        ))
+      ) : (
+        c.films.map((e) => <FilmRow e={e} total={c.count} />)
+      )}
+    </div>
+  </section>
+
+  {related.length ? (
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head"><div><div class="eyebrow">Keep going</div><h2>More like this</h2></div></div>
+        <div class="grid">{related.map((r) => <ListCard c={r} />)}</div>
+      </div>
+    </section>
+  ) : null}
+</Base>

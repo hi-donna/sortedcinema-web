@@ -1,0 +1,18 @@
+---
+import type { Collection } from "../lib/data";
+import { coverOf, listUrl, hue, data } from "../lib/data";
+interface Props { c: Collection; wide?: boolean; eyebrow?: string | null }
+const { c, wide = false, eyebrow } = Astro.props;
+const art = coverOf(c, wide ? "w1280" : "w780");
+const label = eyebrow ?? (c.kicker || (c.kind === "archive" ? `From the grid · ${c.category}` : c.kind));
+const curator = data.curators[c.curator];
+---
+<a class:list={["list-card", { wide }]} href={listUrl(c.slug)} style={`--h:${hue(c.slug)}`}>
+  {art ? <div class="art" style={`background-image:url('${art}')`}></div> : <div class="art fallback"></div>}
+  <div class="scrim"></div>
+  <div class="body">
+    <div class="eyebrow">{label}</div>
+    <h3>{c.title}</h3>
+    <div class="meta">{c.count} {c.media === "tv" ? "shows" : "films"}{curator && curator.name !== "Sorted Cinema" ? ` · by ${curator.name}` : ""}</div>
+  </div>
+</a>

@@ -1,0 +1,56 @@
+{
+  "slug": "movies-that-refuse-to-give-you-a-happy-ending",
+  "title": "Movies That Refuse to Give You a Happy Ending",
+  "kind": "archive",
+  "category": "mood",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "Some films do not let you off the hook. These six walk you right up to the ending you want and then turn around.",
+  "published": "2026-09-09",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-09-09"
+    ],
+    "buffer_id": "6aa16bdb43021dcc34923f01"
+  },
+  "films": [
+    {
+      "title": "No Country for Old Men",
+      "year": 2007,
+      "blurb": "The Coens shot only 250,000 feet of film where a production this size burns 700,000, and it shows: nothing is wasted, least of all mercy. Josh Brolin's welder finds a case of drug money in the West Texas desert, and Javier Bardem's Anton Chigurh comes for it with a coin and a cattle gun. It won four Academy Awards including Best Picture, and it still refuses to give you the showdown you are waiting for.",
+      "ott_seen": "NETFLIX"
+    },
+    {
+      "title": "Se7en",
+      "year": 1995,
+      "blurb": "New Line's executives hated the ending and kept asking for a happier one. David Fincher was sent Andrew Kevin Walker's original script by mistake, read it, and agreed to direct only if that ending stayed. Brad Pitt dug in as well. Test audiences were lukewarm and nobody expected much, then it grossed $327 million and finished as the seventh biggest film of 1995. Two detectives, seven sins, one box.",
+      "ott_seen": "RENT · APPLE TV"
+    },
+    {
+      "title": "The Mist",
+      "year": 2007,
+      "blurb": "Frank Darabont wanted this to be his first film and made The Shawshank Redemption instead. When he finally got to Stephen King's novella he changed its ending, and King loved the change so much he said anyone who spoils it should be hung by the neck until dead. A supermarket, a mist, things inside the mist, and a town that turns on itself faster than the monsters can. Made for under $18 million.",
+      "ott_seen": "LIONSGATE PLAY"
+    },
+    {
+      "title": "Rang De Basanti",
+      "year": 2006,
+      "blurb": "Rakeysh Omprakash Mehra spent seven years researching this and three writing it. A British film student comes to Delhi to shoot a documentary about Bhagat Singh's generation, casts five carefree college friends, and watches the roles bleed into their lives. It broke every opening record in India, went to the BAFTAs as a nominee, and put two of A. R. Rahman's songs in Oscar consideration. It is also why a whole generation goes quiet when Luka Chuppi plays.",
+      "ott_seen": "PRIME VIDEO"
+    },
+    {
+      "title": "Sairat",
+      "year": 2016,
+      "blurb": "Nagraj Manjule wrote it from his own experience of caste, shot it in his village in Solapur, and cast two debutants he found by chance, one of them at a railway station. It cost ₹4 crore and made ₹110 crore, the biggest Marathi film ever until 2026. The ending has no dialogue and no music, because Manjule wanted the silence to hit harder than anything he could score. It does.",
+      "ott_seen": "ZEE5"
+    },
+    {
+      "title": "Haider",
+      "year": 2014,
+      "blurb": "Vishal Bhardwaj's Hamlet, set in Kashmir in 1995, where a poet comes home to find his father gone and his uncle in his mother's house. Shahid Kapoor, Tabu and Kay Kay Menon play it like a wound. The censors demanded 7 cuts and Bhardwaj says he made 35 more himself to keep it real. It won 5 National Film Awards, was banned in Pakistan, and ends on snow that is redder than it should be.",
+      "ott_seen": "PRIME VIDEO · ZEE5"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "turkish-cinema-start-here",
+  "title": "Turkish Cinema: Start Here",
+  "kicker": "World Cinema · Turkey",
+  "kind": "world",
+  "country": "TR",
+  "countryName": "Turkey",
+  "language": "Turkish",
+  "category": "world",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "Indian audiences discovered Turkish drama through television and through one Netflix film that broke the country's heart. There is much more behind it. Nuri Bilge Ceylan makes three-hour films about people talking in the snow that feel like novels, and a younger generation makes tight, angry, beautiful films about the people the country forgets.",
+  "films": [
+    {
+      "title": "Miracle in Cell No. 7",
+      "year": 2019,
+      "original_title": "7. Koğuştaki Mucize",
+      "director": "Mehmet Ada Öztekin",
+      "moods": ["devastating", "tender", "hopeful"],
+      "blurb": "A shepherd with a learning disability is wrongly accused of a child's death and sent to a prison where his young daughter is smuggled in to see him. A remake of a Korean film, and the version that India fell for on Netflix. Bring everything you have."
+    },
+    {
+      "title": "Once Upon a Time in Anatolia",
+      "year": 2011,
+      "original_title": "Bir Zamanlar Anadolu'da",
+      "director": "Nuri Bilge Ceylan",
+      "moods": ["slow-burn", "dark", "tender"],
+      "blurb": "A prosecutor, a doctor, a police chief and a confessed killer drive through the steppe all night looking for where a body is buried. Two and a half hours of headlights and conversation. It seems like nothing is happening until you realise everything is."
+    },
+    {
+      "title": "Mustang",
+      "year": 2015,
+      "original_title": "Mustang",
+      "director": "Deniz Gamze Ergüven",
+      "moods": ["tense", "tender", "hopeful"],
+      "blurb": "Five orphaned sisters in a village on the Black Sea are seen playing in the sea with boys, and their family locks the house and starts arranging marriages. Told by the youngest, who refuses. Fierce and sunlit and full of love between the girls."
+    },
+    {
+      "title": "Winter Sleep",
+      "year": 2014,
+      "original_title": "Kış Uykusu",
+      "director": "Nuri Bilge Ceylan",
+      "moods": ["slow-burn", "dark", "tender"],
+      "blurb": "A former actor runs a small hotel carved into the rocks of Cappadocia and spends the winter arguing with his young wife and his sister, mostly about what a good person is. Three hours and sixteen minutes, and it won the Palme d'Or. A film to move into."
+    },
+    {
+      "title": "Head-On",
+      "year": 2004,
+      "original_title": "Gegen die Wand",
+      "director": "Fatih Akin",
+      "moods": ["dark", "tense", "tender"],
+      "blurb": "A suicidal Turkish-German drunk agrees to a sham marriage with a young woman desperate to escape her family, and the two of them slowly, ruinously, fall in love. Loud, bloody, punk-rock, and devastating. Hamburg and Istanbul, both at night."
+    },
+    {
+      "title": "Distant",
+      "year": 2002,
+      "original_title": "Uzak",
+      "director": "Nuri Bilge Ceylan",
+      "moods": ["slow-burn", "devastating", "cozy"],
+      "blurb": "A photographer in a snowbound Istanbul flat reluctantly hosts his unemployed cousin from the village, and the two men slowly fail to connect. Almost no dialogue. One of the loneliest and most beautiful films ever made about two people in one apartment."
+    },
+    {
+      "title": "About Dry Grasses",
+      "year": 2023,
+      "original_title": "Kuru Otlar Üstüne",
+      "director": "Nuri Bilge Ceylan",
+      "moods": ["slow-burn", "dark", "mind-bending"],
+      "blurb": "A teacher counting the days until he can leave a remote village in eastern Anatolia is accused of something by a student, and gets pulled into a triangle with a colleague and a woman who lost a leg in a bombing. Three hours and change. Merve Dizdar won Best Actress at Cannes for it."
+    },
+    {
+      "title": "Three Monkeys",
+      "year": 2008,
+      "original_title": "Üç Maymun",
+      "director": "Nuri Bilge Ceylan",
+      "moods": ["dark", "tense", "slow-burn"],
+      "blurb": "A politician kills someone in a hit-and-run and pays his driver to take the prison sentence. While the driver is inside, the politician visits the driver's wife. A family drama that curdles slowly under a bruised Istanbul sky. Tight, short, and mean."
+    },
+    {
+      "title": "Yol",
+      "year": 1982,
+      "original_title": "Yol",
+      "director": "Yılmaz Güney, Şerif Gören",
+      "moods": ["devastating", "epic", "dark"],
+      "blurb": "Five prisoners are given a week's leave and travel home across Turkey after the 1980 military coup. The director wrote and planned it from inside a prison cell and edited it after escaping the country. It won the Palme d'Or and was banned at home for seventeen years."
+    },
+    {
+      "title": "Honey",
+      "year": 2010,
+      "original_title": "Bal",
+      "director": "Semih Kaplanoğlu",
+      "moods": ["tender", "slow-burn", "cozy"],
+      "blurb": "A six-year-old boy with a stammer follows his beekeeper father into the forests of the Black Sea mountains, and then one day his father does not come back from the trees. Almost silent, lit like a painting. It won the Golden Bear in Berlin and it deserved it."
+    }
+  ]
+}

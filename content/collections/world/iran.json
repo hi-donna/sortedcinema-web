@@ -1,0 +1,95 @@
+{
+  "slug": "iranian-cinema-start-here",
+  "title": "Iranian Cinema: Start Here",
+  "kicker": "World Cinema · Iran",
+  "kind": "world",
+  "country": "IR",
+  "countryName": "Iran",
+  "language": "Persian",
+  "category": "world",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "No country makes moral thrillers like Iran. There are almost never guns or car chases, just ordinary people in an apartment or a car or a classroom, backed into a corner where every choice costs something. These films are made under real constraints by people who risk a great deal to make them, and you can feel that in every frame.",
+  "films": [
+    {
+      "title": "A Separation",
+      "year": 2011,
+      "original_title": "جدایی نادر از سیمین",
+      "director": "Asghar Farhadi",
+      "moods": ["tense", "devastating", "slow-burn"],
+      "blurb": "A couple in Tehran are separating, and the husband hires a woman to care for his father, who has Alzheimer's. One shove on a staircase and everyone's life comes apart. There is no villain in it, which is exactly why it is unbearable. Start here."
+    },
+    {
+      "title": "Children of Heaven",
+      "year": 1997,
+      "original_title": "بچه‌های آسمان",
+      "director": "Majid Majidi",
+      "moods": ["tender", "hopeful", "cozy"],
+      "blurb": "A boy loses his little sister's only pair of shoes, and the two of them secretly share his sneakers, running between school shifts. A film about a footrace that will have you gripping the sofa. The gentlest thing on this list, and a perfect one to watch with kids."
+    },
+    {
+      "title": "About Elly",
+      "year": 2009,
+      "original_title": "درباره الی",
+      "director": "Asghar Farhadi",
+      "moods": ["tense", "mind-bending", "devastating"],
+      "blurb": "Friends on a seaside holiday bring along a young teacher they are hoping to set up with a divorced friend. Then she is gone. What follows is a mystery where every lie told for kindness turns into a weapon."
+    },
+    {
+      "title": "The Salesman",
+      "year": 2016,
+      "original_title": "فروشنده",
+      "director": "Asghar Farhadi",
+      "moods": ["tense", "dark", "slow-burn"],
+      "blurb": "A couple performing Death of a Salesman move into a new flat, and one night a stranger walks in. The husband's need to find who did it slowly becomes something uglier than the crime. Farhadi's Oscar winner, and one of his coldest."
+    },
+    {
+      "title": "Close-Up",
+      "year": 1990,
+      "original_title": "کلوزآپ",
+      "director": "Abbas Kiarostami",
+      "moods": ["mind-bending", "tender", "slow-burn"],
+      "blurb": "A man is arrested for impersonating a famous film director to a wealthy family. Kiarostami films the real trial, then gets everyone involved to re-enact what happened, playing themselves. Nobody has ever quite figured out whether it is a documentary. It does not matter."
+    },
+    {
+      "title": "Where Is the Friend's House?",
+      "year": 1987,
+      "original_title": "خانه دوست کجاست؟",
+      "director": "Abbas Kiarostami",
+      "moods": ["tender", "cozy", "slow-burn"],
+      "blurb": "A boy accidentally takes his classmate's notebook home, and knows his friend will be expelled without it. So he sets off into the next village to return it. That is the whole plot, and it is one of the most quietly thrilling films ever made about doing the right thing."
+    },
+    {
+      "title": "Taste of Cherry",
+      "year": 1997,
+      "original_title": "طعم گیلاس",
+      "director": "Abbas Kiarostami",
+      "moods": ["slow-burn", "devastating", "hopeful"],
+      "blurb": "A man drives around the outskirts of Tehran looking for someone to do him a favour after he ends his life. Three strangers get in the car. Almost entirely conversations through a windscreen, and it won the Palme d'Or. Not a film for a tired night, but an essential one."
+    },
+    {
+      "title": "Hit the Road",
+      "year": 2021,
+      "original_title": "جاده خاکی",
+      "director": "Panah Panahi",
+      "moods": ["funny", "tender", "devastating"],
+      "blurb": "A family road trip: a father with his leg in a cast, an exhausted mother, a hyperactive little boy, a silent older son, and a sick dog. Where they are driving and why is revealed slowly. Funny for an hour, then it breaks your heart with a song."
+    },
+    {
+      "title": "No Bears",
+      "year": 2022,
+      "original_title": "خرس نیست",
+      "director": "Jafar Panahi",
+      "moods": ["tense", "mind-bending", "dark"],
+      "blurb": "A filmmaker banned from making films directs a movie remotely from a village near the border, and a photograph he may or may not have taken sets off a feud. Panahi made it while under a state ban, playing himself. The bravest film on this list."
+    },
+    {
+      "title": "The Seed of the Sacred Fig",
+      "year": 2024,
+      "original_title": "دانه انجیر معابد",
+      "director": "Mohammad Rasoulof",
+      "moods": ["tense", "dark", "epic"],
+      "blurb": "A judge in Tehran is promoted just as protests fill the streets, and his government-issued gun goes missing from the family flat. A domestic thriller that becomes a portrait of a country. The director fled Iran on foot to get it to Cannes."
+    }
+  ]
+}

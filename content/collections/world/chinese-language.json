@@ -1,0 +1,95 @@
+{
+  "slug": "chinese-language-cinema-start-here",
+  "title": "Chinese-Language Cinema: Start Here",
+  "kicker": "World Cinema · Hong Kong, Taiwan, Mainland China",
+  "kind": "world",
+  "country": "HK",
+  "countryName": "Hong Kong, Taiwan & China",
+  "language": "Cantonese, Mandarin",
+  "category": "world",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "Three film industries, three flavours. Hong Kong gave the world its most romantic melancholy and its slickest cops-and-triads thrillers. Taiwan makes long, patient family epics that reward every minute. The mainland's Fifth Generation painted history in red silk and lanterns. Start with Wong Kar-wai and see where it takes you.",
+  "films": [
+    {
+      "title": "In the Mood for Love",
+      "year": 2000,
+      "original_title": "花樣年華",
+      "director": "Wong Kar-wai",
+      "moods": ["tender", "slow-burn", "devastating"],
+      "blurb": "Two neighbours in 1962 Hong Kong realise their spouses are having an affair with each other, and begin meeting to work out how it happened. Nothing is consummated and everything is felt. Cheongsams, noodles, rain, a cello. Frequently voted the best film of this century."
+    },
+    {
+      "title": "Chungking Express",
+      "year": 1994,
+      "original_title": "重慶森林",
+      "director": "Wong Kar-wai",
+      "moods": ["cozy", "tender", "funny"],
+      "blurb": "Two lovelorn Hong Kong cops, two women, canned pineapple with an expiry date, and a snack-bar girl who breaks into a flat to rearrange it. Shot in a few weeks and it feels like a summer crush. California Dreamin' will live in your head for a month."
+    },
+    {
+      "title": "Infernal Affairs",
+      "year": 2002,
+      "original_title": "無間道",
+      "director": "Andrew Lau, Alan Mak",
+      "moods": ["tense", "dark", "mind-bending"],
+      "blurb": "A cop undercover in the triads, a triad mole inside the police, and each is ordered to find the other. Scorsese remade it as The Departed and won his Oscar. The original is leaner, cooler, and its rooftop scene is a masterclass."
+    },
+    {
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "original_title": "臥虎藏龍",
+      "director": "Ang Lee",
+      "moods": ["epic", "tender", "devastating"],
+      "blurb": "A legendary sword is stolen, and a governor's daughter with secret training is not who she says she is. Fighters run up walls and across bamboo tops, and the film is about the things people cannot say to the ones they love. The martial arts film for people who think they do not like them."
+    },
+    {
+      "title": "Farewell My Concubine",
+      "year": 1993,
+      "original_title": "霸王別姬",
+      "director": "Chen Kaige",
+      "moods": ["epic", "devastating", "tender"],
+      "blurb": "Two boys are trained in the brutal Peking Opera school, become its greatest stars, and are pulled apart by a woman and fifty years of Chinese history. Leslie Cheung's performance is heartbreaking. The only Chinese film to win the Palme d'Or."
+    },
+    {
+      "title": "Raise the Red Lantern",
+      "year": 1991,
+      "original_title": "大紅燈籠高高掛",
+      "director": "Zhang Yimou",
+      "moods": ["dark", "slow-burn", "devastating"],
+      "blurb": "A nineteen-year-old becomes the fourth wife of a wealthy man in 1920s China and is drawn into the silent war between the wives for the lanterns that mark his favour. Every frame could be framed. A horror film with no ghosts, only a house."
+    },
+    {
+      "title": "Hero",
+      "year": 2002,
+      "original_title": "英雄",
+      "director": "Zhang Yimou",
+      "moods": ["epic", "mind-bending"],
+      "blurb": "A nameless warrior tells the king of Qin how he defeated three assassins, and each telling is a different colour and a different truth. Jet Li, Tony Leung, Maggie Cheung, and a fight in a yellow forest with falling leaves. Rashomon with swords."
+    },
+    {
+      "title": "Yi Yi",
+      "year": 2000,
+      "original_title": "一一",
+      "director": "Edward Yang",
+      "moods": ["tender", "slow-burn", "hopeful"],
+      "blurb": "A year with a Taipei family, from a wedding to a funeral: a father tempted by an old love, a teenage daughter's first heartbreak, and an eight-year-old who photographs the backs of people's heads because they cannot see them. Three hours. One of the great films about ordinary life."
+    },
+    {
+      "title": "A Brighter Summer Day",
+      "year": 1991,
+      "original_title": "牯嶺街少年殺人事件",
+      "director": "Edward Yang",
+      "moods": ["epic", "devastating", "slow-burn"],
+      "blurb": "Taipei, 1960. A fourteen-year-old boy drifts into a street gang, falls for the girlfriend of a missing gang leader, and the pressure of a whole exiled country lands on his shoulders. Four hours, based on a real case. The mountain to climb on this list, and worth it."
+    },
+    {
+      "title": "Better Days",
+      "year": 2019,
+      "original_title": "少年的你",
+      "director": "Derek Tsang",
+      "moods": ["tense", "tender", "devastating"],
+      "blurb": "A bullied girl preparing for the national exam is protected by a street kid, and the two of them make a pact that goes wrong. A teen romance and a crime thriller and a portrait of pressure. It was nominated for the Oscar and it broke box-office records at home."
+    }
+  ]
+}

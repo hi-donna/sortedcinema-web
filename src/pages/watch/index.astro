@@ -1,0 +1,30 @@
+---
+import Base from "../../layouts/Base.astro";
+import PosterCard from "../../components/PosterCard.astro";
+import { data, film, IMG, href } from "../../lib/data";
+const platforms = Object.values(data.platforms).sort((a, b) => b.films.length - a.films.length);
+const notYet = !platforms.length;
+---
+<Base title="Where to watch in India" description="Every film we recommend, grouped by the platform it streams on in India: Netflix, Prime Video, JioHotstar, MUBI, SonyLIV, ZEE5 and more.">
+  <section class="page-hero">
+    <div class="grade"></div>
+    <div class="wrap inner">
+      <div class="eyebrow">India</div>
+      <h1 style="margin-top:12px">Where to watch</h1>
+      <p class="lede">You already pay for two or three of these. Here is what is actually good on each one, drawn from every list on the site. Availability comes from JustWatch and is refreshed weekly, because platforms change their minds.</p>
+    </div>
+  </section>
+  {notYet ? (
+    <section class="section"><div class="wrap"><p class="notice">Streaming availability is being fetched. Check back shortly, or open any film page for what we knew at posting time.</p></div></section>
+  ) : platforms.map((p) => (
+    <section class="section" id={p.slug}>
+      <div class="wrap">
+        <div class="section-head">
+          <div><h2 style="display:flex;align-items:center;gap:12px">{p.logo && <img src={`${IMG}w92${p.logo}`} alt="" width="36" height="36" style="border-radius:8px" />}{p.name} <span class="count">{p.films.length}</span></h2></div>
+          <a class="more" href={href(`/watch/${p.slug}/`)}>Everything on {p.name} →</a>
+        </div>
+        <div class="rail posters">{p.films.slice(0, 12).map((k) => <PosterCard f={film(k)} />)}</div>
+      </div>
+    </section>
+  ))}
+</Base>

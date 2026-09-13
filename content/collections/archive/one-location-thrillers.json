@@ -1,0 +1,72 @@
+{
+  "slug": "one-location-thrillers",
+  "title": "One-Location Thrillers",
+  "kind": "archive",
+  "category": "genre",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "Four walls can hold more dread than any open wilderness. Tonight we stay inside and feel every second.",
+  "published": "2026-08-24",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-06-19",
+      "2026-07-24",
+      "2026-08-24"
+    ],
+    "buffer_id": "6a8c10ad20501c33dcaaa1ac"
+  },
+  "films": [
+    {
+      "title": "Buried",
+      "year": 2010,
+      "line": "A man wakes in darkness with only a phone and a shrinking will to survive."
+    },
+    {
+      "title": "Phone Booth",
+      "year": 2002,
+      "blurb": "Larry Cohen pitched Hitchcock a film set entirely inside a phone booth back in the 1960s. It took until 2003 to reach cinemas, with Colin Farrell as a publicist who picks up a ringing payphone in Times Square and is told by a sniper that he cannot hang up. It plays in the time it takes to watch. Fox shelved it after the real D.C. sniper attacks and released it the following spring, where it made $97.8 million on $13 million."
+    },
+    {
+      "title": "Locke",
+      "year": 2013,
+      "blurb": "Tom Hardy, a car, a motorway, and 36 phone calls. A construction foreman drives from Birmingham to London on the night before the biggest concrete pour of his career, and over the two hours of that drive loses his job, his marriage and his house, one call at a time. Nobody else appears on screen. The other actors phoned in from a conference room, recorded live, and the whole film was shot over six nights on a flatbed trailer."
+    },
+    {
+      "title": "Panic Room",
+      "year": 2002,
+      "line": "A mother and daughter sealed inside four walls with the danger already breathing nearby."
+    },
+    {
+      "title": "The Guilty",
+      "year": 2018,
+      "line": "A dispatcher's desperate night shift spirals into something far darker than any call he expected."
+    },
+    {
+      "title": "Carnage",
+      "year": 2011,
+      "line": "Four adults in one apartment slowly strip away every layer of civilised pretence they own."
+    },
+    {
+      "title": "Tape",
+      "year": 2001,
+      "line": "Three people, one motel room, and a past that refuses to stay buried under small talk."
+    },
+    {
+      "title": "Exam",
+      "year": 2009,
+      "line": "Eight strangers, one room, one question, and the willingness to destroy everyone around them."
+    },
+    {
+      "title": "Rope",
+      "year": 1948,
+      "line": "A dinner party hides something unbearable beneath the floorboards of small talk."
+    },
+    {
+      "title": "Pontypool",
+      "year": 2008,
+      "line": "A radio station becomes the last sane signal in a world coming apart at the seams."
+    }
+  ]
+}

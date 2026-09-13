@@ -1,0 +1,95 @@
+{
+  "slug": "eastern-european-cinema-start-here",
+  "title": "Eastern European Cinema: Start Here",
+  "kicker": "World Cinema · Poland, Romania, Hungary, Russia, Bosnia",
+  "kind": "world",
+  "country": "PL",
+  "countryName": "Eastern Europe",
+  "language": "Polish, Romanian, Hungarian, Russian, Bosnian",
+  "category": "world",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "This is the heavy shelf, and we are not going to pretend otherwise. Films from the other side of the Iron Curtain tend to be about what history does to one person in one room. But they are also some of the most formally daring, darkly funny, and quietly moving films ever made, and the two Polish ones on this list are under ninety minutes each.",
+  "films": [
+    {
+      "title": "Ida",
+      "year": 2013,
+      "original_title": "Ida",
+      "director": "Paweł Pawlikowski",
+      "moods": ["slow-burn", "devastating", "tender"],
+      "blurb": "In 1962 Poland, a young novice about to take her vows learns she is Jewish, and drives out with the aunt she never knew to find where her parents are buried. Eighty minutes, black and white, square frame. Not one wasted shot. Start here."
+    },
+    {
+      "title": "Cold War",
+      "year": 2018,
+      "original_title": "Zimna wojna",
+      "director": "Paweł Pawlikowski",
+      "moods": ["tender", "devastating", "slow-burn"],
+      "blurb": "A composer and a singer fall in love in post-war Poland and spend fifteen years finding and losing each other across the border between East and West. Based on the director's parents. Eighty-eight minutes and it feels like a whole life."
+    },
+    {
+      "title": "4 Months, 3 Weeks and 2 Days",
+      "year": 2007,
+      "original_title": "4 luni, 3 săptămâni și 2 zile",
+      "director": "Cristian Mungiu",
+      "moods": ["tense", "dark", "devastating"],
+      "blurb": "One day in 1987 Romania, in which a student helps her roommate get an illegal abortion in a hotel room. There is no music. Every scene is one long take. You will not breathe for the last forty minutes. It won the Palme d'Or."
+    },
+    {
+      "title": "Son of Saul",
+      "year": 2015,
+      "original_title": "Saul fia",
+      "director": "László Nemes",
+      "moods": ["devastating", "tense", "dark"],
+      "blurb": "A day and a half with a prisoner forced to work in the crematoria at Auschwitz, who becomes convinced a dead boy is his son and sets out to bury him. The camera never leaves his face. The horror stays out of focus and is worse for it. Won the Oscar."
+    },
+    {
+      "title": "Come and See",
+      "year": 1985,
+      "original_title": "Иди и смотри",
+      "director": "Elem Klimov",
+      "moods": ["devastating", "dark", "epic"],
+      "blurb": "A Belarusian boy joins the partisans in 1943 and watches his country burn. The war film that every other war film is afraid of. You will see the boy's face age in front of you. Not an evening's entertainment. An experience you owe yourself once."
+    },
+    {
+      "title": "Stalker",
+      "year": 1979,
+      "original_title": "Сталкер",
+      "director": "Andrei Tarkovsky",
+      "moods": ["slow-burn", "mind-bending", "epic"],
+      "blurb": "A guide leads a writer and a scientist into the Zone, a forbidden area where a room supposedly grants your deepest wish. Sepia outside, colour inside. Water, rust, long silences, and a question about what you actually want. The slowest film on this list and the one that changes people."
+    },
+    {
+      "title": "Leviathan",
+      "year": 2014,
+      "original_title": "Левиафан",
+      "director": "Andrey Zvyagintsev",
+      "moods": ["dark", "devastating", "slow-burn"],
+      "blurb": "A car mechanic on the Barents Sea coast fights the town's mayor, who wants his land, and loses everything, one vodka bottle at a time. The Book of Job set in modern Russia, with whale bones on the beach. Bleak, magnificent, and very funny for the first hour."
+    },
+    {
+      "title": "Quo Vadis, Aida?",
+      "year": 2020,
+      "original_title": "Quo Vadis, Aida?",
+      "director": "Jasmila Žbanić",
+      "moods": ["tense", "devastating"],
+      "blurb": "July 1995: a UN translator in Srebrenica tries to get her husband and two sons inside the peacekeepers' base as the Serb army takes the town. You know what is coming and the film knows you know. The tightest and most furious film on this list."
+    },
+    {
+      "title": "The Death of Mr. Lazarescu",
+      "year": 2005,
+      "original_title": "Moartea domnului Lăzărescu",
+      "director": "Cristi Puiu",
+      "moods": ["dark", "funny", "devastating"],
+      "blurb": "An old man with a headache calls an ambulance, and spends one night being shunted between four Bucharest hospitals that each find a reason to send him on. A comedy, technically. It launched the Romanian New Wave and it will make you call your parents."
+    },
+    {
+      "title": "EO",
+      "year": 2022,
+      "original_title": "IO",
+      "director": "Jerzy Skolimowski",
+      "moods": ["tender", "mind-bending", "devastating"],
+      "blurb": "A donkey is taken from a circus and wanders across Poland and Italy, passing through the hands of people who are kind, cruel, and indifferent. Told from the donkey's eyes, with red-lit dreams and a thunderous score. Made by an eighty-four-year-old with more energy than anyone half his age."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "must-watch-animated-films",
+  "title": "Must-Watch Animated Films",
+  "kind": "archive",
+  "category": "genre",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "Animation is not a genre, it is a feeling. These six films will shake you, haunt you and leave you staring at the ceiling.",
+  "published": "2026-08-23",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-06-22",
+      "2026-07-23",
+      "2026-08-23"
+    ],
+    "buffer_id": "6a8abae2bc455ba248ec35c8"
+  },
+  "films": [
+    {
+      "title": "Paprika",
+      "year": 2006,
+      "line": "Dreams bleed into reality until no one can tell the difference anymore."
+    },
+    {
+      "title": "Akira",
+      "year": 1988,
+      "line": "A city on the edge of collapse and one boy holding terrifying power inside him."
+    },
+    {
+      "title": "Wolfwalkers",
+      "year": 2020,
+      "line": "Two girls from opposite worlds discover a secret that could unravel everything they were taught to believe."
+    },
+    {
+      "title": "Perfect Blue",
+      "year": 1997,
+      "line": "Fame fractures a young woman's sense of self in the most unsettling way imaginable."
+    },
+    {
+      "title": "The Tale of Princess Kaguya",
+      "year": 2013,
+      "line": "A life of breathtaking beauty unfolds with a sorrow that will stay with you for days."
+    },
+    {
+      "title": "Anomalisa",
+      "year": 2015,
+      "line": "Loneliness has never felt this eerily alive or this quietly devastating."
+    },
+    {
+      "title": "Persepolis",
+      "year": 2007,
+      "line": "A girl's defiant voice carries the weight of a country tearing itself apart."
+    },
+    {
+      "title": "Waltz with Bashir",
+      "year": 2008,
+      "line": "Memory becomes a ghost story when a soldier tries to recover what war erased."
+    },
+    {
+      "title": "The Tale of the Princess Kaguya",
+      "year": 2013,
+      "line": "A life fully lived still aches when it belongs to someone who was never free."
+    },
+    {
+      "title": "Watership Down",
+      "year": 1978,
+      "line": "A haunting rabbit odyssey that carries far more dread than any childhood film should."
+    }
+  ]
+}

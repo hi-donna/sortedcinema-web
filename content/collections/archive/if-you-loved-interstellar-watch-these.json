@@ -1,0 +1,62 @@
+{
+  "slug": "if-you-loved-interstellar-watch-these",
+  "title": "If You Loved Interstellar, Watch These",
+  "kind": "archive",
+  "category": "fandom",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "For the ones who left the cinema quietly wrecked and staring at the sky. These films live in that same vast aching space.",
+  "published": "2026-08-29",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-07-05",
+      "2026-07-29",
+      "2026-08-29"
+    ],
+    "buffer_id": "6a92e70f9e5f3621e728cf15"
+  },
+  "films": [
+    {
+      "title": "Annihilation",
+      "year": 2018,
+      "line": "A team crosses into a zone where nature rewrites the rules of existence."
+    },
+    {
+      "title": "Arrival",
+      "year": 2016,
+      "blurb": "Amy Adams plays a linguist asked to talk to aliens whose written language has no beginning or end, and the film's structure is the language. What you think are flashbacks are not. Other studios passed on it as too smart. Villeneuve made it for $47 million, it took $203 million and eight Oscar nominations including Best Picture, and Jóhann Jóhannsson's score was ruled ineligible because the film leaned on a Max Richter piece already used in Shutter Island."
+    },
+    {
+      "title": "The Fountain",
+      "year": 2006,
+      "line": "Three timelines spiral together into a meditation on love, death and letting go."
+    },
+    {
+      "title": "Sunshine",
+      "year": 2007,
+      "line": "Eight astronauts carry the last hope of reigniting a dying sun."
+    },
+    {
+      "title": "Contact",
+      "year": 1997,
+      "line": "A signal from deep space forces humanity to reckon with faith and the unknown."
+    },
+    {
+      "title": "Ad Astra",
+      "year": 2019,
+      "line": "A son travels to the edge of the solar system to confront his father and himself."
+    },
+    {
+      "title": "Coherence",
+      "year": 2013,
+      "line": "A dinner party fractures into something deeply unsettling when the lights go out across the street."
+    },
+    {
+      "title": "The Martian",
+      "year": 2015,
+      "line": "Stranded alone on a silent planet, one man turns survival into a defiant act of will."
+    }
+  ]
+}

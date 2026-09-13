@@ -1,0 +1,95 @@
+{
+  "slug": "nordic-cinema-start-here",
+  "title": "Nordic Cinema: Start Here",
+  "kicker": "World Cinema · Denmark, Sweden, Norway, Finland",
+  "kind": "world",
+  "country": "DK",
+  "countryName": "The Nordics",
+  "language": "Danish, Swedish, Norwegian, Finnish",
+  "category": "world",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "Cold countries, warm films, and a very dry sense of humour. Scandinavian cinema is where a dinner party or a ski holiday becomes a moral trial, and where a vampire story can be the tenderest thing you see all year. Bergman is here too, and he is far less scary than his reputation.",
+  "films": [
+    {
+      "title": "The Hunt",
+      "year": 2012,
+      "original_title": "Jagten",
+      "director": "Thomas Vinterberg",
+      "moods": ["tense", "devastating", "dark"],
+      "blurb": "A kindergarten teacher in a small Danish town is accused of something by a five-year-old who does not understand what she said, and the town believes her. Mads Mikkelsen, at his best, watches his life dismantle. You will want to shout at the screen."
+    },
+    {
+      "title": "Another Round",
+      "year": 2020,
+      "original_title": "Druk",
+      "director": "Thomas Vinterberg",
+      "moods": ["funny", "tender", "devastating"],
+      "blurb": "Four middle-aged teachers test a theory that humans are born with a blood alcohol level slightly too low, and start drinking through the workday. Funny, then sad, then joyous. The final scene, Mads Mikkelsen dancing on a pier, is one of the great endings of the decade."
+    },
+    {
+      "title": "Let the Right One In",
+      "year": 2008,
+      "original_title": "Låt den rätte komma in",
+      "director": "Tomas Alfredson",
+      "moods": ["tender", "dark", "slow-burn"],
+      "blurb": "A bullied twelve-year-old in a snowy Stockholm suburb befriends the strange girl who moves in next door and only comes out at night. A vampire film that is really about loneliness. The swimming pool scene is legendary."
+    },
+    {
+      "title": "The Worst Person in the World",
+      "year": 2021,
+      "original_title": "Verdens verste menneske",
+      "director": "Joachim Trier",
+      "moods": ["tender", "funny", "devastating"],
+      "blurb": "Julie is nearly thirty in Oslo and keeps changing her mind about her career, her boyfriend, and who she is. Twelve chapters, a prologue, and an epilogue, all of them honest. The most accurate film about being late-twenties that anyone has made."
+    },
+    {
+      "title": "Force Majeure",
+      "year": 2014,
+      "original_title": "Turist",
+      "director": "Ruben Östlund",
+      "moods": ["funny", "tense", "dark"],
+      "blurb": "A family is having lunch on a ski resort terrace when an avalanche rolls toward them, and the father grabs his phone and runs. It stops short. Nobody is hurt. The rest of the holiday is about that one second. Excruciating and hilarious."
+    },
+    {
+      "title": "Festen",
+      "year": 1998,
+      "original_title": "Festen",
+      "director": "Thomas Vinterberg",
+      "moods": ["tense", "dark", "devastating"],
+      "blurb": "A wealthy family gathers at a country hotel for the patriarch's sixtieth birthday, and the eldest son stands up to give a toast. Shot on a handheld camcorder, and it feels like being trapped at the table. The dinner-party film every other one is measured against."
+    },
+    {
+      "title": "Headhunters",
+      "year": 2011,
+      "original_title": "Hodejegerne",
+      "director": "Morten Tyldum",
+      "moods": ["tense", "funny", "dark"],
+      "blurb": "A corporate recruiter who is secretly an art thief picks the wrong target, a former special forces soldier with a painting worth millions. A thriller that moves like a greased pig. There is a scene in an outhouse that you will never forget."
+    },
+    {
+      "title": "Fallen Leaves",
+      "year": 2023,
+      "original_title": "Kuolleet lehdet",
+      "director": "Aki Kaurismäki",
+      "moods": ["cozy", "tender", "funny"],
+      "blurb": "A supermarket worker and an alcoholic labourer meet at a karaoke bar in Helsinki, and lose each other's phone numbers. Eighty-one minutes, deadpan faces, a small dog, and a huge heart. The happiest sad film on this list."
+    },
+    {
+      "title": "The Seventh Seal",
+      "year": 1957,
+      "original_title": "Det sjunde inseglet",
+      "director": "Ingmar Bergman",
+      "moods": ["dark", "epic", "mind-bending"],
+      "blurb": "A knight back from the Crusades meets Death on a beach and challenges him to a game of chess for his life. You have seen the image. The film behind it is stranger, funnier, and more humane than its fame suggests."
+    },
+    {
+      "title": "Wild Strawberries",
+      "year": 1957,
+      "original_title": "Smultronstället",
+      "director": "Ingmar Bergman",
+      "moods": ["tender", "slow-burn", "hopeful"],
+      "blurb": "An old professor drives across Sweden to receive an honorary degree and spends the day being visited by dreams and memories of who he was. A film about looking back with regret and finding forgiveness anyway. The gentlest Bergman."
+    }
+  ]
+}

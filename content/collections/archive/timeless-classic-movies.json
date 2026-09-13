@@ -1,0 +1,67 @@
+{
+  "slug": "timeless-classic-movies",
+  "title": "Timeless Classic Movies",
+  "kind": "archive",
+  "category": "era",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "These films carry the kind of tension that doesn't age. Pull up a chair and let the classics crack you open.",
+  "published": "2026-08-27",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-07-11",
+      "2026-07-27",
+      "2026-08-27"
+    ],
+    "buffer_id": "6a908df5ad439ded2ea2c667"
+  },
+  "films": [
+    {
+      "title": "Sunset Boulevard",
+      "year": 1950,
+      "line": "A desperate man walks into a mansion and never really walks back out."
+    },
+    {
+      "title": "Vertigo",
+      "year": 1958,
+      "line": "Obsession and illusion spiral together until you can't tell them apart."
+    },
+    {
+      "title": "The Third Man",
+      "year": 1949,
+      "line": "A shadowy city holds a secret that will rewrite everything you trusted."
+    },
+    {
+      "title": "All About Eve",
+      "year": 1950,
+      "line": "Ambition wears the most disarming smile in the room and never blinks."
+    },
+    {
+      "title": "Rashomon",
+      "year": 1950,
+      "line": "Four people witnessed the same event and every single one of them lied."
+    },
+    {
+      "title": "Double Indemnity",
+      "year": 1944,
+      "line": "A perfect plan between two people who should never have trusted each other."
+    },
+    {
+      "title": "Chinatown",
+      "year": 1974,
+      "line": "Every answer you find only deepens the darkness waiting underneath."
+    },
+    {
+      "title": "Rope",
+      "year": 1948,
+      "line": "Two men hide an unthinkable secret beneath the dinner party of the century."
+    },
+    {
+      "title": "Rear Window",
+      "year": 1954,
+      "line": "Trapped and restless, he watches his neighbors until one window changes everything."
+    }
+  ]
+}

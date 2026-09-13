@@ -1,0 +1,51 @@
+{
+  "slug": "highest-rated-imdb-movies",
+  "title": "Highest Rated IMDb Movies",
+  "kind": "archive",
+  "category": "authority",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "These are the films that linger long after the credits roll. Debate-worthy, soul-stirring and absolutely essential.",
+  "published": "2026-08-05",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-07-01",
+      "2026-08-05"
+    ],
+    "buffer_id": "6a731a8d2d14f42472187dfc"
+  },
+  "films": [
+    {
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "line": "Hope is a dangerous thing, and this film makes you feel every ounce of it."
+    },
+    {
+      "title": "Schindler's List",
+      "year": 1993,
+      "line": "A man, a list, and the unbearable weight of what it means to save a life."
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "line": "Chaos wears a painted smile and asks you a question you cannot answer."
+    },
+    {
+      "title": "12 Angry Men",
+      "year": 1957,
+      "blurb": "One room, twelve jurors, a boy's life, and a running time that matches the deliberation. Sidney Lumet's first film was shot in 21 days for $337,000 after two weeks of rehearsal, and he changed lenses as the afternoon wore on so the walls seem to close in. Henry Fonda produced it himself. It flopped in cinemas, found its audience on television, and now sits on every list of the greatest films ever made."
+    },
+    {
+      "title": "Goodfellas",
+      "year": 1990,
+      "line": "The glamour is intoxicating right up until the moment it destroys you completely."
+    },
+    {
+      "title": "Se7en",
+      "year": 1995,
+      "blurb": "New Line's executives hated the ending and kept asking for a happier one. David Fincher was sent Andrew Kevin Walker's original script by mistake, read it, and agreed to direct only if that ending stayed. Brad Pitt dug in as well. Test audiences were lukewarm and nobody expected much, then it grossed $327 million and finished as the seventh biggest film of 1995. Two detectives, seven sins, one box."
+    }
+  ]
+}

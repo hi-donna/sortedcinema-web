@@ -1,0 +1,71 @@
+{
+  "slug": "dark-side-of-the-cinema",
+  "title": "Dark Side of the Cinema",
+  "kind": "archive",
+  "category": "mood",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "Some films don't just disturb you, they rewire you. These are the ones that linger long after the credits roll.",
+  "published": "2026-08-15",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-07-12",
+      "2026-08-15"
+    ],
+    "buffer_id": "6a802e8ea60910c7ecb9ca3b"
+  },
+  "films": [
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "line": "A man walks out of captivity and straight into something far worse than imprisonment."
+    },
+    {
+      "title": "Frailty",
+      "year": 2001,
+      "line": "A father's divine mission tears a family apart from the inside out."
+    },
+    {
+      "title": "Caché",
+      "year": 2005,
+      "line": "Mysterious surveillance tapes arrive and slowly unravel a man's carefully constructed life."
+    },
+    {
+      "title": "Prisoners",
+      "year": 2013,
+      "line": "Two missing girls and one desperate father push the moral limits of love."
+    },
+    {
+      "title": "Se7en",
+      "year": 1995,
+      "blurb": "New Line's executives hated the ending and kept asking for a happier one. David Fincher was sent Andrew Kevin Walker's original script by mistake, read it, and agreed to direct only if that ending stayed. Brad Pitt dug in as well. Test audiences were lukewarm and nobody expected much, then it grossed $327 million and finished as the seventh biggest film of 1995. Two detectives, seven sins, one box."
+    },
+    {
+      "title": "The Vanishing",
+      "year": 1988,
+      "line": "An obsession with a single unanswered question leads somewhere you will not recover from."
+    },
+    {
+      "title": "Hereditary",
+      "year": 2018,
+      "line": "Grief cracks a family open and something ancient and merciless crawls inside."
+    },
+    {
+      "title": "Memories of Murder",
+      "year": 2003,
+      "line": "Two detectives chase a killer through the rain and slowly lose themselves in the hunt."
+    },
+    {
+      "title": "Enemy",
+      "year": 2013,
+      "line": "Finding your exact double should feel like a miracle, not the beginning of something unbearable."
+    },
+    {
+      "title": "The Invitation",
+      "year": 2015,
+      "line": "A dinner party feels just a little too warm, a little too curated, a little too wrong."
+    }
+  ]
+}

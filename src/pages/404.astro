@@ -1,0 +1,16 @@
+---
+import { href } from "../lib/data";
+import Base from "../layouts/Base.astro";
+---
+<Base title="Not found" noindex={true}>
+  <section class="section">
+    <div class="wrap" style="text-align:center;padding-block:80px">
+      <div class="eyebrow">404</div>
+      <h1 style="font-size:clamp(36px,6vw,64px);margin-top:12px">This one is not streaming anywhere.</h1>
+      <p class="lede muted" style="margin-top:14px">The page moved, or never existed. The lists are still here.</p>
+      <div style="display:flex;gap:10px;justify-content:center;margin-top:26px;flex-wrap:wrap">
+        <a class="btn primary" href={href("/")}>Home</a><a class="btn" href={href("/search/")}>Search</a>
+      </div>
+    </div>
+  </section>
+</Base>

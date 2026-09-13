@@ -1,0 +1,95 @@
+{
+  "slug": "spanish-cinema-start-here",
+  "title": "Spanish Cinema: Start Here",
+  "kicker": "World Cinema · Spain",
+  "kind": "world",
+  "country": "ES",
+  "countryName": "Spain",
+  "language": "Spanish",
+  "category": "world",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "Spain does two things better than almost anyone: melodrama that is unashamed of its own feelings, and thrillers with locks that click shut behind you. Almodóvar owns the first, a whole generation of Netflix hits owns the second, and Guillermo del Toro borrowed the country's ghosts for the best film he ever made.",
+  "films": [
+    {
+      "title": "Pan's Labyrinth",
+      "year": 2006,
+      "original_title": "El laberinto del fauno",
+      "director": "Guillermo del Toro",
+      "moods": ["dark", "epic", "devastating"],
+      "blurb": "In 1944, a girl moves with her pregnant mother to the outpost of her new stepfather, a fascist captain, and finds a faun in a stone labyrinth who gives her three tasks. A fairy tale with real monsters on both sides of the frame. Not for children, despite the girl."
+    },
+    {
+      "title": "The Invisible Guest",
+      "year": 2016,
+      "original_title": "Contratiempo",
+      "director": "Oriol Paulo",
+      "moods": ["tense", "mind-bending"],
+      "blurb": "A businessman wakes up in a locked hotel room next to his dead lover and has one night with a lawyer to build his defence. Every version of the story is a lie that fixes the last one. India adored this one, and remade it as Badla. Watch the original."
+    },
+    {
+      "title": "The Platform",
+      "year": 2019,
+      "original_title": "El hoyo",
+      "director": "Galder Gaztelu-Urrutia",
+      "moods": ["dark", "tense", "mind-bending"],
+      "blurb": "A vertical prison where a feast descends one floor at a time, and the people at the bottom get what is left. One idea, pushed all the way. Grim, clever, and impossible to stop once it starts."
+    },
+    {
+      "title": "Society of the Snow",
+      "year": 2023,
+      "original_title": "La sociedad de la nieve",
+      "director": "J. A. Bayona",
+      "moods": ["devastating", "epic", "hopeful"],
+      "blurb": "A rugby team's plane crashes in the Andes in 1972, and the survivors have seventy-two days of snow. The true story you may know, told with a tenderness that no earlier version managed. It is about who carries whom."
+    },
+    {
+      "title": "Talk to Her",
+      "year": 2002,
+      "original_title": "Hable con ella",
+      "director": "Pedro Almodóvar",
+      "moods": ["tender", "dark", "slow-burn"],
+      "blurb": "Two men sit beside two women in comas, one a dancer and one a bullfighter, and a strange friendship grows in the hospital corridors. Almodóvar at his most controlled and most unsettling. It goes somewhere you will not expect and asks you to keep feeling."
+    },
+    {
+      "title": "Volver",
+      "year": 2006,
+      "original_title": "Volver",
+      "director": "Pedro Almodóvar",
+      "moods": ["tender", "funny", "hopeful"],
+      "blurb": "Penélope Cruz plays a working mother in Madrid dealing with a body in the freezer, a village full of superstition, and her dead mother, who appears to be back. Warm, red, alive, full of women looking after each other. The friendliest way into Almodóvar."
+    },
+    {
+      "title": "Pain and Glory",
+      "year": 2019,
+      "original_title": "Dolor y gloria",
+      "director": "Pedro Almodóvar",
+      "moods": ["tender", "slow-burn", "hopeful"],
+      "blurb": "An ageing film director in chronic pain drifts through memories of his mother, his first desire, and the actor he fell out with thirty years ago. Antonio Banderas plays a version of Almodóvar himself and has never been better. Quiet, autumnal, forgiving."
+    },
+    {
+      "title": "The Orphanage",
+      "year": 2007,
+      "original_title": "El orfanato",
+      "director": "J. A. Bayona",
+      "moods": ["dark", "tense", "devastating"],
+      "blurb": "A woman moves back into the orphanage she grew up in, planning to reopen it, and her young son starts talking to friends nobody can see. A ghost story with a mother's grief at its centre. The scares are real and the ending is worse."
+    },
+    {
+      "title": "The Sea Inside",
+      "year": 2004,
+      "original_title": "Mar adentro",
+      "director": "Alejandro Amenábar",
+      "moods": ["devastating", "tender", "hopeful"],
+      "blurb": "Javier Bardem plays Ramón Sampedro, a man paralysed for nearly thirty years who fought the Spanish courts for the right to end his life. Based on a true story, and somehow full of humour and love. It won the Oscar for a reason."
+    },
+    {
+      "title": "The Skin I Live In",
+      "year": 2011,
+      "original_title": "La piel que habito",
+      "director": "Pedro Almodóvar",
+      "moods": ["dark", "mind-bending", "tense"],
+      "blurb": "A plastic surgeon keeps a woman in a locked room in his mansion, testing a synthetic skin he has invented on her. The less you know, the better. Almodóvar's coldest and strangest film, and one you will want to talk about immediately."
+    }
+  ]
+}

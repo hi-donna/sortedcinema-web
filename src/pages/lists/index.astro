@@ -1,0 +1,34 @@
+---
+import Base from "../../layouts/Base.astro";
+import ListCard from "../../components/ListCard.astro";
+import { data } from "../../lib/data";
+const lists = data.collections.filter((c) => c.kind !== "year");
+const groups: Record<string, typeof lists> = {};
+const labels: Record<string, string> = { world: "World cinema", india: "Indian cinema", mood: "Mood", genre: "Genre", era: "Era", platform: "Platform", authority: "The canon", fandom: "If you loved…", format: "Format", regional: "Regional" };
+for (const c of lists) (groups[c.category || "other"] ??= []).push(c);
+const order = ["world", "india", "mood", "genre", "fandom", "era", "format", "platform", "authority", "regional", "other"].filter((k) => groups[k]);
+---
+<Base title="All lists" description={`${lists.length} curated film lists from Sorted Cinema, each film with where it streams in India.`}>
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow">Everything</div>
+          <h2>{lists.length} lists, {data.stats.films} films</h2>
+          <p class="sub">Jump to a group, or just scroll. Every list opens to the films, the years, and the platforms.</p>
+        </div>
+      </div>
+      <div class="pills" style="margin-bottom:8px">
+        {order.map((k) => <a class="pill" href={`#${k}`}>{labels[k] || k}<small>{groups[k].length}</small></a>)}
+      </div>
+    </div>
+  </section>
+  {order.map((k) => (
+    <section class="section" id={k}>
+      <div class="wrap">
+        <div class="section-head"><div><h2>{labels[k] || k}</h2></div></div>
+        <div class="grid">{groups[k].map((c) => <ListCard c={c} />)}</div>
+      </div>
+    </section>
+  ))}
+</Base>

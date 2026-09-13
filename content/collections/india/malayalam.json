@@ -1,0 +1,135 @@
+{
+  "slug": "malayalam-cinema-start-here",
+  "title": "Malayalam Cinema: Start Here",
+  "kicker": "Indian Cinema · Kerala",
+  "kind": "world",
+  "country": "IN",
+  "region": "Kerala",
+  "countryName": "Kerala",
+  "language": "Malayalam",
+  "category": "india",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "For a decade now, the most consistently good film industry in India has been the smallest one. Malayalam cinema makes films about a fisherman's family, a photographer's slipper, a funeral, a kitchen, and somehow they are the tightest, funniest, most humane things in the country. Almost all of it is on streaming with subtitles. No excuses.",
+  "films": [
+    {
+      "title": "Drishyam",
+      "year": 2013,
+      "original_title": "ദൃശ്യം",
+      "director": "Jeethu Joseph",
+      "moods": [
+        "tense",
+        "mind-bending"
+      ],
+      "blurb": "A cable TV operator who has watched too many movies has to protect his family from a crime, and does it with the only thing he has: a story. You have probably seen a remake. The original, with Mohanlal, is the one with the calm at its centre. Start here."
+    },
+    {
+      "title": "Premam",
+      "year": 2015,
+      "original_title": "പ്രേമം",
+      "director": "Alphonse Puthren",
+      "moods": [
+        "cozy",
+        "funny",
+        "tender"
+      ],
+      "blurb": "One boy, three loves, across a school crush, a college teacher, and adulthood. Nivin Pauly's beard grows with the film. It became a phenomenon in Kerala and its songs have not left anyone's playlist since. The most fun thing on this list."
+    },
+    {
+      "title": "Bangalore Days",
+      "year": 2014,
+      "original_title": "ബാംഗ്ലൂർ ഡേയ്സ്",
+      "director": "Anjali Menon",
+      "moods": [
+        "cozy",
+        "hopeful",
+        "tender"
+      ],
+      "blurb": "Three cousins move to Bangalore and untangle their marriages, their careers, and each other. Dulquer, Nivin, Nazriya, Fahadh, Parvathy, all in one film. A warm blanket of a movie that a whole generation grew up on."
+    },
+    {
+      "title": "Kumbalangi Nights",
+      "year": 2019,
+      "original_title": "കുമ്പളങ്ങി നൈറ്റ്സ്",
+      "director": "Madhu C. Narayanan",
+      "moods": [
+        "tender",
+        "funny",
+        "hopeful"
+      ],
+      "blurb": "Four brothers in a run-down house on the backwaters, none of whom can stand each other, and a neighbour across the water with a perfect moustache and a rotten heart. Fahadh Faasil as the villain is a masterclass in smiling. The film about masculinity that Indian cinema needed."
+    },
+    {
+      "title": "Maheshinte Prathikaaram",
+      "year": 2016,
+      "original_title": "മഹേഷിന്റെ പ്രതികാരം",
+      "director": "Dileesh Pothan",
+      "moods": [
+        "funny",
+        "cozy",
+        "tender"
+      ],
+      "blurb": "A small-town photographer is beaten in a street fight and vows not to wear his slippers until he has his revenge. That is the plot and it is wonderful. Idukki's hills have never looked better. Fahadh Faasil at his gentlest."
+    },
+    {
+      "title": "Thondimuthalum Driksakshiyum",
+      "year": 2017,
+      "original_title": "തൊണ്ടിമുതലും ദൃക്സാക്ഷിയും",
+      "director": "Dileesh Pothan",
+      "moods": [
+        "funny",
+        "tense",
+        "tender"
+      ],
+      "blurb": "A newlywed couple on a bus, a stolen gold chain, and a thief who swallows it. The rest is a police station, a hospital, and a lot of waiting. A comedy about ordinary people trying to get one small thing back, and it won two National Awards."
+    },
+    {
+      "title": "Ee.Ma.Yau.",
+      "year": 2018,
+      "original_title": "ഈ.മ.യൗ.",
+      "director": "Lijo Jose Pellissery",
+      "moods": [
+        "dark",
+        "funny",
+        "devastating"
+      ],
+      "blurb": "A son promises his father a grand funeral, and then everything that can go wrong at a funeral in a fishing village goes wrong. A farce that becomes a tragedy that becomes something holy. Lijo's masterpiece, and one of the best Indian films of its decade."
+    },
+    {
+      "title": "Jallikattu",
+      "year": 2019,
+      "original_title": "ജല്ലിക്കട്ട്",
+      "director": "Lijo Jose Pellissery",
+      "moods": [
+        "tense",
+        "dark",
+        "epic"
+      ],
+      "blurb": "A buffalo escapes a butcher in a hill village and the whole town goes hunting, and the hunt turns the men into something worse than the animal. Ninety minutes, mostly at night, mostly running. India's entry to the Oscars and unlike anything before it."
+    },
+    {
+      "title": "The Great Indian Kitchen",
+      "year": 2021,
+      "original_title": "ദി ഗ്രേറ്റ് ഇന്ത്യൻ കിച്ചൺ",
+      "director": "Jeo Baby",
+      "moods": [
+        "tense",
+        "slow-burn",
+        "dark"
+      ],
+      "blurb": "A new bride in a traditional home cooks, cleans, and serves. Then she does it again. Then again. The repetition is the point, and by the end you can smell the drain. A small film that started an argument in every home in India."
+    },
+    {
+      "title": "Manjummel Boys",
+      "year": 2024,
+      "original_title": "മഞ്ഞുമ്മൽ ബോയ്സ്",
+      "director": "Chidambaram",
+      "moods": [
+        "tense",
+        "hopeful",
+        "epic"
+      ],
+      "blurb": "A group of friends from Kochi on a trip to Kodaikanal, and one of them falls into the Guna Caves, a pit nobody has ever come out of. Based on a true story, and one of the biggest Malayalam hits ever. The friendship film that makes you want to call your boys."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+---
+import type { Film } from "../lib/data";
+import { poster, filmUrl, hue } from "../lib/data";
+interface Props { f: Film; badge?: string | null; sub?: string | null }
+const { f, badge = null, sub = null } = Astro.props;
+const src = poster(f, "w342");
+---
+<a class="poster-card" href={filmUrl(f.key)} style={`--h:${hue(f.key)}`}>
+  {src
+    ? <div class="poster"><img src={src} alt={`${f.title} poster`} loading="lazy" decoding="async" width="342" height="513" />{badge && <span class:list={["badge", badge]}>{badge}</span>}</div>
+    : <div class="poster fallback"><span>{f.title}</span>{badge && <span class:list={["badge", badge]}>{badge}</span>}</div>}
+  <div class="t">{f.title}</div>
+  <div class="y">{sub ?? [f.year, f.director].filter(Boolean).join(" · ")}</div>
+</a>

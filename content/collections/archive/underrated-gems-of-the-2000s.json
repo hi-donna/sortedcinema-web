@@ -1,0 +1,62 @@
+{
+  "slug": "underrated-gems-of-the-2000s",
+  "title": "Underrated Gems of the 2000s",
+  "kind": "archive",
+  "category": "era",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "The 2000s hid some of cinema's most unsettling and debate-worthy stories in plain sight. These are the ones that linger long after the credits roll.",
+  "published": "2026-08-10",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-06-30",
+      "2026-07-10",
+      "2026-08-10"
+    ],
+    "buffer_id": "6a79a33e49c5c8a86f53be27"
+  },
+  "films": [
+    {
+      "title": "Frailty",
+      "year": 2001,
+      "line": "A father's divine mission poisons his sons with a truth too dark to escape."
+    },
+    {
+      "title": "The Machinist",
+      "year": 2004,
+      "line": "A man dissolving from the inside out, haunted by something he refuses to remember."
+    },
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "line": "Fifteen years locked away, and the real punishment hasn't even begun yet."
+    },
+    {
+      "title": "Caché",
+      "year": 2005,
+      "line": "Anonymous surveillance tapes arrive at a couple's door and slowly unmake their entire life."
+    },
+    {
+      "title": "A Tale of Two Sisters",
+      "year": 2003,
+      "line": "Two sisters return home to a dread so quiet and beautiful it breaks something in you."
+    },
+    {
+      "title": "Prisoners",
+      "year": 2013,
+      "line": "Desperate love and moral collapse collide in a search that costs everyone everything."
+    },
+    {
+      "title": "Zodiac",
+      "year": 2007,
+      "line": "Obsession quietly eats three lives whole as a killer slips between the cracks of history."
+    },
+    {
+      "title": "The Lookout",
+      "year": 2007,
+      "line": "A fractured mind becomes the most dangerous weapon in a desperate heist."
+    }
+  ]
+}

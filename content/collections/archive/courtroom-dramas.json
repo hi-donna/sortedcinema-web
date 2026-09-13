@@ -1,0 +1,66 @@
+{
+  "slug": "courtroom-dramas",
+  "title": "Courtroom Dramas",
+  "kind": "archive",
+  "category": "genre",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "The gavel falls and suddenly every word is a weapon. These are the rooms where guilt and innocence blur until you can barely breathe.",
+  "published": "2026-08-04",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-07-04",
+      "2026-08-04"
+    ],
+    "buffer_id": "6a71c9d11fbcc93134e8373b"
+  },
+  "films": [
+    {
+      "title": "Anatomy of a Fall",
+      "year": 2023,
+      "blurb": "A husband is found dead below the chalet, and the only ones home were a visually impaired boy and his dog. Sandra Hüller plays the wife on trial, and the trial slowly turns into an autopsy of the marriage instead: who wrote what, who gave up what, who resented whom. It won the Palme d'Or and the Oscar for Best Original Screenplay. Asked whether Sandra did it, Justine Triet said she would tell us in 10 years."
+    },
+    {
+      "title": "Primal Fear",
+      "year": 1996,
+      "line": "A slick defense lawyer takes a case that will unravel everything he thought he knew."
+    },
+    {
+      "title": "A Few Good Men",
+      "year": 1992,
+      "line": "Two soldiers, one buried order, and a cross-examination that will shake the room."
+    },
+    {
+      "title": "The Verdict",
+      "year": 1982,
+      "line": "A broken lawyer gets one last case and bets what remains of his soul on it."
+    },
+    {
+      "title": "Judgment at Nuremberg",
+      "year": 1961,
+      "line": "History itself sits in the dock and the silence between testimonies is deafening."
+    },
+    {
+      "title": "Runaway Jury",
+      "year": 2003,
+      "line": "Someone inside the jury room is playing a game no one else knows has started."
+    },
+    {
+      "title": "Witness for the Prosecution",
+      "year": 1957,
+      "line": "A courtroom so charged with tension you forget to breathe until the final second."
+    },
+    {
+      "title": "Prisoners",
+      "year": 2013,
+      "line": "Guilt and desperation collide in a case where every answer opens a darker door."
+    },
+    {
+      "title": "The Secret in Their Eyes",
+      "year": 2009,
+      "line": "An unsolved case haunts a man for decades until justice and obsession become the same thing."
+    }
+  ]
+}

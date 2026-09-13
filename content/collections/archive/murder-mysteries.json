@@ -1,0 +1,72 @@
+{
+  "slug": "murder-mysteries",
+  "title": "Murder Mysteries",
+  "kind": "archive",
+  "category": "genre",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "The lights are low and every alibi sounds thin. Settle in because someone is lying.",
+  "published": "2026-08-01",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-06-14",
+      "2026-07-01",
+      "2026-08-01"
+    ],
+    "buffer_id": "6a6dc9e52bbc9e058731661e"
+  },
+  "films": [
+    {
+      "title": "Knives Out",
+      "year": 2019,
+      "line": "A family gathering turns lethal and every charming smile hides something darker."
+    },
+    {
+      "title": "Zodiac",
+      "year": 2007,
+      "line": "An obsession swallows years whole and the truth stays just out of reach."
+    },
+    {
+      "title": "Memories of Murder",
+      "year": 2003,
+      "line": "Two detectives chase a ghost through rainy fields and their own failing certainty."
+    },
+    {
+      "title": "Se7en",
+      "year": 1995,
+      "blurb": "New Line's executives hated the ending and kept asking for a happier one. David Fincher was sent Andrew Kevin Walker's original script by mistake, read it, and agreed to direct only if that ending stayed. Brad Pitt dug in as well. Test audiences were lukewarm and nobody expected much, then it grossed $327 million and finished as the seventh biggest film of 1995. Two detectives, seven sins, one box."
+    },
+    {
+      "title": "The Vanishing",
+      "year": 1988,
+      "line": "The need to know the answer is its own quiet and devastating kind of madness."
+    },
+    {
+      "title": "Mystic River",
+      "year": 2003,
+      "line": "Old wounds tear open and grief turns three childhood friends into suspects and strangers."
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2011,
+      "line": "A buried family secret and an unlikely pair make for one of cinema's most electric partnerships."
+    },
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "line": "A man freed from inexplicable captivity hunts for answers that will shatter everything he believes."
+    },
+    {
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "line": "Five criminals, one impossible crime, and a final minute that will rewire your brain."
+    },
+    {
+      "title": "Sleuth",
+      "year": 1972,
+      "line": "Two men in a mansion playing games until the game turns genuinely, devastatingly real."
+    }
+  ]
+}

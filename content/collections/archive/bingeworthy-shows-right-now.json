@@ -1,0 +1,42 @@
+{
+  "slug": "bingeworthy-shows-right-now",
+  "title": "Bingeworthy Shows Right Now",
+  "kind": "archive",
+  "category": "platform",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "The nights are getting longer and so are your watchlists. These are the shows that rewire your brain and refuse to let go.",
+  "published": "2026-08-22",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-06-20",
+      "2026-07-22",
+      "2026-08-22"
+    ],
+    "buffer_id": "6a89692f37caa42812c8be2b"
+  },
+  "films": [
+    {
+      "title": "Severance",
+      "year": 2022,
+      "line": "A workplace so suffocating it splits your sense of self completely in two."
+    },
+    {
+      "title": "Dark",
+      "year": 2017,
+      "line": "Four families, four timelines, and a knot of fate you will obsessively unravel."
+    },
+    {
+      "title": "The Leftovers",
+      "year": 2014,
+      "line": "Grief becomes its own religion when two percent of the world simply vanishes."
+    },
+    {
+      "title": "The Outsider",
+      "year": 2020,
+      "line": "An ironclad alibi and damning evidence exist at the same time for the same crime."
+    }
+  ]
+}

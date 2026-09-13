@@ -1,0 +1,62 @@
+{
+  "slug": "hopelessness-in-cinema",
+  "title": "Hopelessness in Cinema",
+  "kind": "archive",
+  "category": "mood",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "Some films don't offer you a way out. They just sit beside you in the dark and breathe.",
+  "published": "2026-08-31",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-06-29",
+      "2026-07-31",
+      "2026-08-31"
+    ],
+    "buffer_id": "6a95ac59857859c64a86c978"
+  },
+  "films": [
+    {
+      "title": "Requiem for a Dream",
+      "year": 2000,
+      "line": "Four souls chase small dreams until the wanting swallows them whole."
+    },
+    {
+      "title": "Dancer in the Dark",
+      "year": 2000,
+      "line": "A mother holds onto music as the world strips everything else away."
+    },
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "line": "Fifteen years of rage leads a man toward a truth he cannot survive."
+    },
+    {
+      "title": "The Road",
+      "year": 2009,
+      "line": "A father and son walk through ash and silence searching for any reason to continue."
+    },
+    {
+      "title": "Prisoners",
+      "year": 2013,
+      "line": "Desperation turns a grieving man into something he no longer recognises in the mirror."
+    },
+    {
+      "title": "Come and See",
+      "year": 1985,
+      "line": "A boy enters the forest with bright eyes and emerges carrying something that never leaves."
+    },
+    {
+      "title": "I Saw the Devil",
+      "year": 2010,
+      "line": "Revenge becomes a ritual that slowly hollows out the one performing it."
+    },
+    {
+      "title": "Melancholia",
+      "year": 2011,
+      "line": "Two sisters face the end of everything in the most quietly devastating way imaginable."
+    }
+  ]
+}

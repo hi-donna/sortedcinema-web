@@ -1,0 +1,92 @@
+---
+import Base from "../../layouts/Base.astro";
+import Providers from "../../components/Providers.astro";
+import ListCard from "../../components/ListCard.astro";
+import PosterCard from "../../components/PosterCard.astro";
+import { data, site, film, poster, backdrop, hue, runtimeLabel, leadText, collection, dateLabel, moodUrl, href, listUrl } from "../../lib/data";
+
+export function getStaticPaths() {
+  return Object.values(data.films).map((f) => ({ params: { key: f.key }, props: { f } }));
+}
+const { f } = Astro.props;
+const src = poster(f, "w500");
+const art = backdrop(f, "original");
+const lead = leadText(f);
+const rt = runtimeLabel(f);
+const inLists = f.collections.map((s) => collection(s)!).filter(Boolean);
+const rel = dateLabel(f.tmdb?.release_date);
+const description = (lead?.text || f.tmdb?.overview || `${f.title} (${f.year})`).slice(0, 300);
+const originTitle = f.original_title && f.original_title !== f.title ? f.original_title : null;
+// "more like this": films sharing the most lists / moods
+const scores = new Map<string, number>();
+for (const s of f.collections) for (const e of collection(s)!.films) if (e.key !== f.key) scores.set(e.key, (scores.get(e.key) || 0) + 2);
+for (const m of f.moods) for (const k of data.byMood[m]) if (k !== f.key) scores.set(k, (scores.get(k) || 0) + 1);
+const similar = [...scores.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8).map(([k]) => film(k));
+const jsonld = {
+  "@context": "https://schema.org", "@type": f.media === "tv" ? "TVSeries" : "Movie", name: f.title,
+  ...(f.year ? { datePublished: String(f.year) } : {}), ...(f.director ? { director: { "@type": "Person", name: f.director } } : {}),
+  ...(src ? { image: src } : {}), description, url: `${site.url}/film/${f.key}/`,
+};
+---
+<Base title={`${f.title}${f.year ? ` (${f.year})` : ""}`} description={description} image={art || src} type="article" jsonld={jsonld}>
+  <section class="page-hero" style="min-height:0">
+    {art && <div class="bg" style={`background-image:url('${art}')`}></div>}
+    <div class="grade"></div>
+    <div class="wrap" style="padding-block:clamp(28px,6vw,64px) clamp(24px,4vw,40px)">
+      <div class="film-page">
+        <div>
+          {src
+            ? <div class="poster"><img src={src} alt={`${f.title} poster`} width="500" height="750" decoding="async" /></div>
+            : <div class="poster fallback" style={`--h:${hue(f.key)}`}><span>{f.title}</span></div>}
+        </div>
+        <div>
+          <div class="eyebrow">{f.media === "tv" ? "Series" : "Film"}{f.tmdb?.countries?.length ? ` · ${f.tmdb.countries.slice(0, 2).join(", ")}` : ""}</div>
+          <h1 style="margin-top:10px">{f.title}</h1>
+          {originTitle && <div class="muted" style="margin-top:6px;font-size:18px">{originTitle}</div>}
+          <div class="facts film-row" style="display:flex;padding:0;border:0;margin-top:12px">
+            {f.year && <span><b>{f.year}</b></span>}
+            {f.director && <span>{f.director}</span>}
+            {rt && <span>{rt}</span>}
+            {f.tmdb?.rating ? <span>★ {f.tmdb.rating} <span class="dim">({f.tmdb.votes.toLocaleString()})</span></span> : null}
+            {f.tmdb?.genres?.length ? <span>{f.tmdb.genres.slice(0, 3).join(" · ")}</span> : null}
+          </div>
+          {lead && (
+            <div class="quote">
+              <p>{lead.text}</p>
+              <div class="from">Sorted Cinema, in <a class="accent" href={listUrl(lead.collection)}>{collection(lead.collection)?.title}</a></div>
+            </div>
+          )}
+          {f.tmdb?.overview && <p class="overview">{f.tmdb.overview}</p>}
+          <div class="watch">
+            <h2>Where to watch in India</h2>
+            <Providers f={f} />
+            {f.tmdb?.providers_refreshed_at && <p class="dim" style="font-size:12px;margin-top:8px">Availability via JustWatch, checked {f.tmdb.providers_refreshed_at.slice(0, 10)}. Platforms change; the film does not.</p>}
+          </div>
+          <div class="actions" style="display:flex;gap:8px;flex-wrap:wrap;margin-top:22px">
+            {f.tmdb?.trailer && <a class="btn primary" href={`https://www.youtube.com/watch?v=${f.tmdb.trailer}`} rel="noopener" target="_blank">▶ Watch the trailer</a>}
+            {f.tmdb && <a class="btn" href={`https://www.themoviedb.org/${f.tmdb.media}/${f.tmdb.id}`} rel="noopener" target="_blank">TMDB ↗</a>}
+          </div>
+          {f.moods.length ? <div class="pills" style="margin-top:18px">{f.moods.map((m) => <a class="pill" href={moodUrl(m)}>{data.moods[m].label}</a>)}</div> : null}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {inLists.length ? (
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head"><div><div class="eyebrow">Appears in</div><h2>{inLists.length === 1 ? "This list" : `${inLists.length} lists`}</h2></div></div>
+        <div class="grid">{inLists.map((c) => <ListCard c={c} />)}</div>
+      </div>
+    </section>
+  ) : null}
+
+  {similar.length ? (
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head"><div><div class="eyebrow">If you liked this</div><h2>Watch next</h2></div></div>
+        <div class="grid posters">{similar.map((s) => <PosterCard f={s} />)}</div>
+      </div>
+    </section>
+  ) : null}
+</Base>

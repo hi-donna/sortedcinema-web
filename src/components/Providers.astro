@@ -1,0 +1,18 @@
+---
+import type { Film } from "../lib/data";
+import { watchSummary, IMG, platformUrl } from "../lib/data";
+interface Props { f: Film; compact?: boolean }
+const { f, compact = false } = Astro.props;
+const w = watchSummary(f);
+---
+<div class="chips" aria-label="Where to watch in India">
+  {w.kind === "on" && w.items.map((p) => (
+    <a class="chip on" href={platformUrl(p.slug)} title={`More on ${p.name}`}>
+      {p.logo && <img src={`${IMG}w45${p.logo}`} alt="" width="16" height="16" loading="lazy" />}{p.name}
+    </a>
+  ))}
+  {w.kind === "rent" && <span class="chip rent">Rent · {w.items.map((p) => p.name).join(" · ")}</span>}
+  {w.kind === "none" && <span class="chip none">Not streaming in India right now</span>}
+  {w.kind === "unknown" && f.ott_seen && <span class="chip rent">{f.ott_seen}</span>}
+  {w.kind === "unknown" && !f.ott_seen && !compact && <span class="chip none">Streaming info coming soon</span>}
+</div>

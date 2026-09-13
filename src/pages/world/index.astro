@@ -1,0 +1,30 @@
+---
+import Base from "../../layouts/Base.astro";
+import ListCard from "../../components/ListCard.astro";
+import { data } from "../../lib/data";
+const world = data.collections.filter((c) => c.kind === "world" && c.category === "world");
+const india = data.collections.filter((c) => c.kind === "world" && c.category === "india");
+const films = [...world, ...india].reduce((n, c) => n + c.count, 0);
+---
+<Base title="World Cinema: Start Here" description="On-ramps into Korean, Japanese, Iranian, Spanish, French, Italian, German, Nordic, Turkish, Latin American, Chinese-language and Eastern European cinema, plus Indian cinema beyond Bollywood. Ten films each, with where to watch in India.">
+  <section class="page-hero">
+    <div class="grade"></div>
+    <div class="wrap inner">
+      <div class="eyebrow">World cinema</div>
+      <h1 style="margin-top:12px">Start here.</h1>
+      <p class="lede">The trouble with world cinema is not that it is hard. It is that nobody tells you where the door is. These are the doors: {world.length} countries and regions, {india.length} Indian languages, {films} films, each list ordered so the first one hooks you and the last one stays with you.</p>
+    </div>
+  </section>
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head"><div><div class="eyebrow">Around the world</div><h2>One country a night</h2></div></div>
+      <div class="grid">{world.map((c) => <ListCard c={c} eyebrow={c.countryName} />)}</div>
+    </div>
+  </section>
+  <section class="section" id="india">
+    <div class="wrap">
+      <div class="section-head"><div><div class="eyebrow">Closer to home</div><h2>Indian cinema, beyond the obvious</h2><p class="sub">Six languages, six lists. Most of it is on streaming with subtitles, so the only thing in the way was knowing where to begin.</p></div></div>
+      <div class="grid">{india.map((c) => <ListCard c={c} eyebrow={c.language} />)}</div>
+    </div>
+  </section>
+</Base>

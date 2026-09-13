@@ -1,0 +1,96 @@
+{
+  "slug": "telugu-and-kannada-cinema-start-here",
+  "title": "Telugu & Kannada Cinema: Start Here",
+  "kicker": "Indian Cinema · Andhra, Telangana, Karnataka",
+  "kind": "world",
+  "country": "IN",
+  "region": "Telugu & Kannada",
+  "countryName": "Telugu & Kannada",
+  "language": "Telugu, Kannada",
+  "category": "india",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "Telugu cinema builds the biggest spectacles in the country and Kannada cinema has quietly built one of its most interesting indie scenes. This list has both: two Rajamouli epics that the whole world now knows, a biopic that made a generation fall for a 1950s star, and small-town Kannada films that feel like short stories.",
+  "films": [
+    {
+      "title": "RRR",
+      "year": 2022,
+      "original_title": "ఆర్ఆర్ఆర్",
+      "director": "S. S. Rajamouli",
+      "moods": ["epic", "hopeful", "funny"],
+      "blurb": "Two revolutionaries in 1920s India, one hunting a tiger and one hunting the British, become brothers before they find out they are enemies. Three hours of the most joyfully excessive filmmaking on earth. Naatu Naatu won the Oscar and the film won the world."
+    },
+    {
+      "title": "Baahubali: The Beginning",
+      "year": 2015,
+      "original_title": "బాహుబలి: ద బిగినింగ్",
+      "director": "S. S. Rajamouli",
+      "moods": ["epic", "tense"],
+      "blurb": "A boy raised by tribals at the foot of a waterfall climbs it, and finds a kingdom that has been waiting for him. The film that changed the scale of Indian cinema, and it ends on the biggest cliffhanger the country has ever argued about."
+    },
+    {
+      "title": "Mahanati",
+      "year": 2018,
+      "original_title": "మహానటి",
+      "director": "Nag Ashwin",
+      "moods": ["tender", "devastating", "epic"],
+      "blurb": "The life of Savitri, the greatest star of Telugu cinema's golden age, from a village girl who could not stop dancing to a woman the industry used up. Keerthy Suresh won the National Award. A biopic with a real ache in it."
+    },
+    {
+      "title": "C/o Kancharapalem",
+      "year": 2018,
+      "original_title": "కేరాఫ్ కంచరపాలెం",
+      "director": "Venkatesh Maha",
+      "moods": ["tender", "cozy", "hopeful"],
+      "blurb": "Four love stories at four ages in one small neighbourhood in Visakhapatnam, played by people who live there. A schoolboy, a bootlegger, a shopkeeper, a clerk. It builds to a reveal that makes you want to watch it again immediately."
+    },
+    {
+      "title": "Jersey",
+      "year": 2019,
+      "original_title": "జెర్సీ",
+      "director": "Gowtam Tinnanuri",
+      "moods": ["tender", "hopeful", "devastating"],
+      "blurb": "A failed cricketer in his thirties, unemployed and shamed by his own son, decides to try for the state team one more time. Nani gives the performance of his career. A sports film about a father, and the ending is a quiet knockout."
+    },
+    {
+      "title": "Sita Ramam",
+      "year": 2022,
+      "original_title": "సీతా రామం",
+      "director": "Hanu Raghavapudi",
+      "moods": ["tender", "epic", "devastating"],
+      "blurb": "An orphan soldier posted in Kashmir in 1964 starts receiving letters from a woman who calls herself his wife. Twenty years later, a Pakistani student has to deliver his last letter. Old-fashioned, sweeping, and gorgeous to look at. Dulquer at his most charming."
+    },
+    {
+      "title": "Kantara",
+      "year": 2022,
+      "original_title": "ಕಾಂತಾರ",
+      "director": "Rishab Shetty",
+      "moods": ["epic", "dark", "tense"],
+      "blurb": "A village in coastal Karnataka, a forest the government wants, a landlord's promise, and the Bhoota Kola ritual where a god is danced into a man. The last twenty minutes are unlike anything in Indian cinema. It became a phenomenon by word of mouth alone."
+    },
+    {
+      "title": "Lucia",
+      "year": 2013,
+      "original_title": "ಲೂಸಿಯ",
+      "director": "Pawan Kumar",
+      "moods": ["mind-bending", "tender", "dark"],
+      "blurb": "A cinema usher with insomnia takes a pill that lets him live a dream life as a film star, and the two lives start to cross. Crowdfunded by fans, shot on almost nothing, and it started the new wave in Kannada cinema. A puzzle with a heart."
+    },
+    {
+      "title": "Thithi",
+      "year": 2015,
+      "original_title": "ತಿಥಿ",
+      "director": "Raam Reddy",
+      "moods": ["funny", "cozy", "tender"],
+      "blurb": "A hundred-and-one-year-old man dies in a village in Mandya, and his son, grandson, and great-grandson each try to get something out of the funeral. Played entirely by villagers who had never acted. The funniest film on this list and it won at Locarno."
+    },
+    {
+      "title": "Ulidavaru Kandanthe",
+      "year": 2014,
+      "original_title": "ಉಳಿದವರು ಕಂಡಂತೆ",
+      "director": "Rakshit Shetty",
+      "moods": ["dark", "mind-bending", "tense"],
+      "blurb": "A journalist pieces together one death on the coast of Karnataka from five people's accounts, none of which quite agree. Rakshit Shetty writes, directs, and stars as a small-time gangster during the tiger-dance festival. The film that Kannada cinephiles hand to everyone."
+    }
+  ]
+}

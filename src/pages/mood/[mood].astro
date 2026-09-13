@@ -1,0 +1,29 @@
+---
+import Base from "../../layouts/Base.astro";
+import PosterCard from "../../components/PosterCard.astro";
+import { data, film, moodUrl } from "../../lib/data";
+export function getStaticPaths() {
+  return Object.keys(data.moods).map((m) => ({ params: { mood: m }, props: { m } }));
+}
+const { m } = Astro.props;
+const info = data.moods[m];
+const films = data.byMood[m].map((k) => film(k)).sort((a, b) => (b.tmdb?.votes || 0) - (a.tmdb?.votes || 0));
+---
+<Base title={`${info.label} films`} description={`${films.length} films for a ${info.label.toLowerCase()} night: ${info.line}`}>
+  <section class="page-hero">
+    <div class="grade"></div>
+    <div class="wrap inner">
+      <div class="eyebrow">By mood</div>
+      <h1 style="margin-top:12px">{info.label}</h1>
+      <p class="lede">{info.line}</p>
+      <div class="pills" style="margin-top:22px">
+        {Object.keys(data.moods).map((k) => <a class="pill" href={moodUrl(k)} aria-current={k === m ? "page" : undefined}>{data.moods[k].label}<small>{data.byMood[k].length}</small></a>)}
+      </div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="wrap">
+      <div class="grid posters">{films.map((f) => <PosterCard f={f} />)}</div>
+    </div>
+  </section>
+</Base>

@@ -1,0 +1,56 @@
+{
+  "slug": "post-apocalyptic-movies",
+  "title": "Post-Apocalyptic Movies",
+  "kind": "archive",
+  "category": "genre",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "The world ended. Now comes the harder part, figuring out who we become in the wreckage.",
+  "published": "2026-08-07",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-07-06",
+      "2026-08-07"
+    ],
+    "buffer_id": "6a75aa95d445a81af5f21713"
+  },
+  "films": [
+    {
+      "title": "The Road",
+      "year": 2009,
+      "line": "A father and son walk through ash and silence toward something they can only call hope."
+    },
+    {
+      "title": "Children of Men",
+      "year": 2006,
+      "line": "One man carries the weight of humanity's last chance through a world that has stopped believing."
+    },
+    {
+      "title": "28 Days Later",
+      "year": 2002,
+      "line": "Waking up alone into a broken city reveals that survival does terrifying things to people."
+    },
+    {
+      "title": "A Quiet Place",
+      "year": 2018,
+      "line": "Love and terror live side by side when one single sound can end everything."
+    },
+    {
+      "title": "Annihilation",
+      "year": 2018,
+      "line": "A team crosses into a zone where nature has rewritten the rules of what exists."
+    },
+    {
+      "title": "Snowpiercer",
+      "year": 2013,
+      "line": "The last of humanity hurtles through a frozen world and class war ignites in every carriage."
+    },
+    {
+      "title": "I Am Legend",
+      "year": 2007,
+      "line": "Alone in a silent city, one man carries the unbearable weight of being the last."
+    }
+  ]
+}

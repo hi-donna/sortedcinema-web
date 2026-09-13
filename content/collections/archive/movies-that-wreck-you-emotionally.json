@@ -1,0 +1,72 @@
+{
+  "slug": "movies-that-wreck-you-emotionally",
+  "title": "Movies That Wreck You Emotionally",
+  "kind": "archive",
+  "category": "mood",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "Some films don't just move you, they leave a mark that stays for days. These six will hollow you out beautifully.",
+  "published": "2026-08-25",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-06-15",
+      "2026-07-21",
+      "2026-08-25"
+    ],
+    "buffer_id": "6a8d5f68cdeb0fa5dc3a2f58"
+  },
+  "films": [
+    {
+      "title": "Requiem for a Dream",
+      "year": 2000,
+      "line": "Four people chase their hungers until those hungers swallow them whole."
+    },
+    {
+      "title": "Prisoners",
+      "year": 2013,
+      "line": "A father's love curdles into something dark and almost unrecognizable."
+    },
+    {
+      "title": "Incendies",
+      "year": 2010,
+      "line": "A mother's secret unravels across continents and breaks you quietly from the inside."
+    },
+    {
+      "title": "Dancer in the Dark",
+      "year": 2000,
+      "line": "She escapes into music and melody while the world closes in around her."
+    },
+    {
+      "title": "Hereditary",
+      "year": 2018,
+      "line": "Grief arrives like a slow flood and then all at once it drowns you."
+    },
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "line": "A man survives years of captivity only to face a truth far crueler than the cage."
+    },
+    {
+      "title": "Manchester by the Sea",
+      "year": 2016,
+      "line": "Some grief does not heal, it just becomes the shape of the person carrying it."
+    },
+    {
+      "title": "Atonement",
+      "year": 2007,
+      "line": "One childhood lie rewrites every life it touches, forever."
+    },
+    {
+      "title": "21 Grams",
+      "year": 2003,
+      "line": "Grief and guilt pull three strangers into each other's wreckage."
+    },
+    {
+      "title": "Blue Valentine",
+      "year": 2010,
+      "line": "Falling in love and falling apart, played out in brutal parallel."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "debut-features-by-great-directors",
+  "title": "Debut Features by Great Directors",
+  "kind": "archive",
+  "category": "authority",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "Every legend had a first film and some of them arrived fully formed and utterly fearless. These six debuts carry the fingerprints of giants.",
+  "published": "2026-09-04",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-09-03",
+      "2026-09-04"
+    ],
+    "buffer_id": "6a9ad13f9e905e8210a5f037"
+  },
+  "films": [
+    {
+      "title": "Following",
+      "year": 1998,
+      "line": "A lonely man trails strangers through London until obsession quietly consumes him whole."
+    },
+    {
+      "title": "Bottle Rocket",
+      "year": 1996,
+      "line": "Three lovable dreamers stumble through a heist that was never going to go to plan."
+    },
+    {
+      "title": "Reservoir Dogs",
+      "year": 1992,
+      "line": "The aftermath of a diamond heist unravels in a room full of liars and loaded guns."
+    },
+    {
+      "title": "Bad Taste",
+      "year": 1987,
+      "line": "A scraggly alien invasion arrives in a small town and chaos bleeds into pure strange genius."
+    },
+    {
+      "title": "Pi",
+      "year": 1998,
+      "line": "A mathematician chases a pattern hidden inside numbers until the universe starts chasing him back."
+    },
+    {
+      "title": "Eraserhead",
+      "year": 1977,
+      "line": "A man tends to his strange child in a world that feels like a fever you cannot shake."
+    }
+  ]
+}

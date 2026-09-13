@@ -1,0 +1,95 @@
+{
+  "slug": "japanese-cinema-start-here",
+  "title": "Japanese Cinema: Start Here",
+  "kicker": "World Cinema · Japan",
+  "kind": "world",
+  "country": "JP",
+  "countryName": "Japan",
+  "language": "Japanese",
+  "category": "world",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "Japan gave cinema its samurai, its ghosts, and its quietest family dramas. The trick is that the loud films and the silent ones share the same patience. Start anywhere on this list. It is a country where the animation and the black-and-white classics belong on the same shelf.",
+  "films": [
+    {
+      "title": "Spirited Away",
+      "year": 2001,
+      "original_title": "千と千尋の神隠し",
+      "director": "Hayao Miyazaki",
+      "moods": ["cozy", "epic", "tender"],
+      "blurb": "A sulky ten-year-old wanders into a bathhouse for spirits and has to work there to save her parents. Every frame has something alive in the corner of it. The film that made the world take animation seriously, and it is still the best door in."
+    },
+    {
+      "title": "Your Name",
+      "year": 2016,
+      "original_title": "君の名は。",
+      "director": "Makoto Shinkai",
+      "moods": ["tender", "hopeful", "mind-bending"],
+      "blurb": "A boy in Tokyo and a girl in a mountain town start waking up in each other's bodies. It is funny, then it is a mystery, then it is something much bigger. The kind of film you finish and immediately text someone about."
+    },
+    {
+      "title": "Shoplifters",
+      "year": 2018,
+      "original_title": "万引き家族",
+      "director": "Hirokazu Kore-eda",
+      "moods": ["tender", "devastating", "slow-burn"],
+      "blurb": "A family that survives on petty theft takes in a small girl they find shivering on a balcony. They are poor, they are kind, and they are not quite what they seem. Kore-eda asks what makes a family and refuses the easy answer."
+    },
+    {
+      "title": "Drive My Car",
+      "year": 2021,
+      "original_title": "ドライブ・マイ・カー",
+      "director": "Ryusuke Hamaguchi",
+      "moods": ["slow-burn", "tender", "devastating"],
+      "blurb": "A theatre director grieving his wife is assigned a young woman to drive his old red Saab while he stages Uncle Vanya. Three hours that move like a long drive at night. Nothing happens and everything happens."
+    },
+    {
+      "title": "Perfect Days",
+      "year": 2023,
+      "original_title": "Perfect Days",
+      "director": "Wim Wenders",
+      "moods": ["cozy", "tender", "hopeful"],
+      "blurb": "A man cleans public toilets in Tokyo, listens to cassettes in his van, reads at night, and photographs trees at lunch. That is the film. It is one of the most peaceful things you will ever watch, and it earns every quiet minute."
+    },
+    {
+      "title": "Godzilla Minus One",
+      "year": 2023,
+      "original_title": "ゴジラ-1.0",
+      "director": "Takashi Yamazaki",
+      "moods": ["epic", "tense", "devastating"],
+      "blurb": "A kamikaze pilot who could not go through with it comes home to a flattened Tokyo, and then the monster arrives. A Godzilla film with a broken human being at its centre. It made the giant lizard frightening again and it made grown men cry."
+    },
+    {
+      "title": "Seven Samurai",
+      "year": 1954,
+      "original_title": "七人の侍",
+      "director": "Akira Kurosawa",
+      "moods": ["epic", "tense", "hopeful"],
+      "blurb": "Farmers hire seven masterless samurai to defend their village from bandits. Three and a half hours, and you will not notice. Half the action films you love are quietly copying this one."
+    },
+    {
+      "title": "Tokyo Story",
+      "year": 1953,
+      "original_title": "東京物語",
+      "director": "Yasujirō Ozu",
+      "moods": ["tender", "devastating", "slow-burn"],
+      "blurb": "An elderly couple travel to Tokyo to visit their grown children, who are too busy for them. That is all, and it is one of the saddest, gentlest films ever made. Watch it with your parents in mind."
+    },
+    {
+      "title": "Harakiri",
+      "year": 1962,
+      "original_title": "切腹",
+      "director": "Masaki Kobayashi",
+      "moods": ["dark", "tense", "devastating"],
+      "blurb": "A ronin arrives at a feudal lord's house asking to commit ritual suicide in the courtyard, and begins to tell a story. A samurai film that takes the honour code apart piece by piece. Black-and-white, slow, and utterly ferocious."
+    },
+    {
+      "title": "Nobody Knows",
+      "year": 2004,
+      "original_title": "誰も知らない",
+      "director": "Hirokazu Kore-eda",
+      "moods": ["devastating", "tender", "slow-burn"],
+      "blurb": "A mother leaves her four children alone in a Tokyo apartment with some money and a note, and does not come back. Based on a true case. The twelve-year-old at the centre of it gives one of the great child performances, and the film never once raises its voice."
+    }
+  ]
+}

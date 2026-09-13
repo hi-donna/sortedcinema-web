@@ -1,0 +1,36 @@
+---
+import Base from "../../layouts/Base.astro";
+import PosterCard from "../../components/PosterCard.astro";
+import { data, film, IMG, href } from "../../lib/data";
+export function getStaticPaths() {
+  return Object.values(data.platforms).map((p) => ({ params: { platform: p.slug }, props: { p } }));
+}
+const { p } = Astro.props;
+const films = p.films.map((k) => film(k)).sort((a, b) => (b.tmdb?.votes || 0) - (a.tmdb?.votes || 0));
+const byList = new Map<string, string[]>();
+for (const f of films) for (const s of f.collections) (byList.get(s) || byList.set(s, []).get(s)!).push(f.key);
+const lists = [...byList.entries()].sort((a, b) => b[1].length - a[1].length).slice(0, 6);
+---
+<Base title={`Best films on ${p.name} India`} description={`${films.length} films we recommend that are streaming on ${p.name} in India right now.`}>
+  <section class="page-hero">
+    <div class="grade"></div>
+    <div class="wrap inner">
+      <div class="eyebrow">Streaming in India</div>
+      <h1 style="margin-top:12px;display:flex;align-items:center;gap:16px">{p.logo && <img src={`${IMG}w92${p.logo}`} alt="" width="56" height="56" style="border-radius:12px" />}{p.name}</h1>
+      <p class="lede">{films.length} films from our lists are on {p.name} in India right now. Availability via JustWatch, refreshed weekly.</p>
+    </div>
+  </section>
+  <section class="section">
+    <div class="wrap">
+      <div class="grid posters">{films.map((f) => <PosterCard f={f} />)}</div>
+    </div>
+  </section>
+  {lists.length ? (
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head"><div><div class="eyebrow">Lists with the most on {p.name}</div><h2>Start with these</h2></div></div>
+        <div class="pills">{lists.map(([s, ks]) => { const c = data.collections.find((x) => x.slug === s)!; return <a class="pill" href={href(`/lists/${s}/`)}>{c.title}<small>{ks.length}</small></a>; })}</div>
+      </div>
+    </section>
+  ) : null}
+</Base>

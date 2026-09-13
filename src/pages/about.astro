@@ -1,0 +1,36 @@
+---
+import Base from "../layouts/Base.astro";
+import { data, site } from "../lib/data";
+const curators = Object.values(data.curators);
+---
+<Base title="About & guest lists" description="What Sorted Cinema is, how the lists are made, and how to send us yours.">
+  <section class="page-hero">
+    <div class="grade"></div>
+    <div class="wrap inner">
+      <div class="eyebrow">About</div>
+      <h1 style="margin-top:12px">Sorted, by people who watch too much.</h1>
+      <p class="lede">Sorted Cinema started as an Instagram page ({site.handle}) posting one film list at a time. This site is where those lists live permanently, and where the ones that do not fit in ten slides go.</p>
+    </div>
+  </section>
+  <section class="section">
+    <div class="wrap prose">
+      <h2>How a list is made</h2>
+      <p>Every list is written by a person with an angle, not generated from a database. Each film is then verified against TMDB so the year and the title are right, and its Indian streaming availability is pulled from JustWatch and refreshed weekly. If a film cannot be verified, it does not ship. We would rather have nine right films than ten with a wrong year in front of a hundred thousand people.</p>
+      <p>The blurbs are spoiler-free by rule. We tell you what kind of night a film is, not what happens in it.</p>
+
+      <h2>Sorted 2026</h2>
+      <p>A deliberately different world: only films released in 2026 or later, and it will only ever grow. We use three labels and we mean them. <strong>Sorted</strong> means we have seen it and we vouch for it. <strong>On the radar</strong> means it is out and we have not decided. <strong>Coming</strong> means the date is set. A film's label changes as we watch, never before.</p>
+
+      <h2>Guest lists</h2>
+      <p>The best lists come from people who love one corner of cinema more than is reasonable. If that is you, whether it is Iranian New Wave, Telugu masala, Studio Ghibli, or 1970s paranoia thrillers, send us ten films with two honest sentences each. If we run it, it goes up here with your name and handle on it, and on the page as a carousel.</p>
+      <p><a class="btn primary" href={`mailto:${site.submitEmail}?subject=Guest%20list%20for%20Sorted%20Cinema`}>Send a guest list</a> &nbsp; <a class="btn" href={site.instagram} rel="noopener" target="_blank">Or DM {site.handle}</a></p>
+
+      <h2>Curators so far</h2>
+      {curators.map((c) => <p><strong>{c.name}</strong> (<a href={c.url} rel="noopener" target="_blank">{c.handle}</a>) — {c.bio}</p>)}
+
+      <h2>Credits</h2>
+      <p>Film metadata and images are from <a href="https://www.themoviedb.org" rel="noopener" target="_blank">The Movie Database (TMDB)</a>. This product uses the TMDB API but is not endorsed or certified by TMDB. Streaming availability is provided by <a href="https://www.justwatch.com" rel="noopener" target="_blank">JustWatch</a>. Stills belong to their studios and are used to identify the films they are from.</p>
+      <p>No accounts, no tracking, no cookies. The site is a set of static pages rebuilt from a folder of JSON files, which is exactly as boring as a film website should be.</p>
+    </div>
+  </section>
+</Base>

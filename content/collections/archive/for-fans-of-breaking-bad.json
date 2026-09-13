@@ -1,0 +1,71 @@
+{
+  "slug": "for-fans-of-breaking-bad",
+  "title": "For Fans of Breaking Bad",
+  "kind": "archive",
+  "category": "fandom",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "Ordinary men standing at the edge of something they cannot undo. Every frame asking how far is too far.",
+  "published": "2026-08-14",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-07-08",
+      "2026-08-14"
+    ],
+    "buffer_id": "6a7ee5238fff393fd66e9e82"
+  },
+  "films": [
+    {
+      "title": "No Country for Old Men",
+      "year": 2007,
+      "blurb": "The Coens shot only 250,000 feet of film where a production this size burns 700,000, and it shows: nothing is wasted, least of all mercy. Josh Brolin's welder finds a case of drug money in the West Texas desert, and Javier Bardem's Anton Chigurh comes for it with a coin and a cattle gun. It won four Academy Awards including Best Picture, and it still refuses to give you the showdown you are waiting for."
+    },
+    {
+      "title": "A Prophet",
+      "year": 2009,
+      "line": "A nobody enters prison and slowly, terrifyingly, becomes someone you cannot ignore."
+    },
+    {
+      "title": "Prisoners",
+      "year": 2013,
+      "line": "Desperation turns a good man into something he can barely recognise in the mirror."
+    },
+    {
+      "title": "Upgrade",
+      "year": 2018,
+      "line": "Revenge is the engine but the real horror is who is actually in control."
+    },
+    {
+      "title": "Sicario",
+      "year": 2015,
+      "line": "Idealism walks into a war zone and learns the rules were never what she thought."
+    },
+    {
+      "title": "Zodiac",
+      "year": 2007,
+      "line": "Obsession consumes everything, a career, a family, a life, and still delivers no clean answers."
+    },
+    {
+      "title": "A Simple Plan",
+      "year": 1998,
+      "line": "One quiet decision unravels an ordinary life with brutal, creeping precision."
+    },
+    {
+      "title": "Nightcrawler",
+      "year": 2014,
+      "line": "Ambition without conscience is its own kind of slow, dazzling poison."
+    },
+    {
+      "title": "Blood Simple",
+      "year": 1984,
+      "line": "Greed and paranoia spiral in the dark until nobody trusts anyone."
+    },
+    {
+      "title": "Rififi",
+      "year": 1955,
+      "line": "The perfect crime is planned in silence and paid for in full."
+    }
+  ]
+}

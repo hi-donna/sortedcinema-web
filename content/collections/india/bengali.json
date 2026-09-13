@@ -1,0 +1,111 @@
+{
+  "slug": "bengali-cinema-start-here",
+  "title": "Bengali Cinema: Start Here",
+  "kicker": "Indian Cinema · Bengal",
+  "kind": "world",
+  "country": "IN",
+  "region": "West Bengal",
+  "countryName": "Bengal",
+  "language": "Bengali",
+  "category": "india",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "Satyajit Ray is on every list of the greatest directors who ever lived, and most of India has never watched him. This list fixes that. It is mostly Ray, because it should be, with Ritwik Ghatak's one unbearable masterpiece and a modern ghost comedy so you know the city is still making films.",
+  "films": [
+    {
+      "title": "Pather Panchali",
+      "year": 1955,
+      "original_title": "পথের পাঁচালী",
+      "director": "Satyajit Ray",
+      "moods": [
+        "tender",
+        "devastating",
+        "slow-burn"
+      ],
+      "blurb": "A boy grows up in a poor village in Bengal with his sister, his mother, his dreamer father, and an ancient aunt. Rain on a pond, a train through a field of kaash flowers, and the sound of a sitar. The film that told the world India had a cinema. Start here."
+    },
+    {
+      "title": "Apur Sansar",
+      "year": 1959,
+      "original_title": "অপুর সংসার",
+      "director": "Satyajit Ray",
+      "moods": [
+        "tender",
+        "devastating",
+        "hopeful"
+      ],
+      "blurb": "The boy from Pather Panchali is a young man in Calcutta now, and by a strange accident he marries a girl on her wedding day. Soumitra Chatterjee and Sharmila Tagore in their first film. The final image, a child on a man's shoulders, is where Ray's trilogy lands."
+    },
+    {
+      "title": "Charulata",
+      "year": 1964,
+      "original_title": "চারুলতা",
+      "director": "Satyajit Ray",
+      "moods": [
+        "tender",
+        "slow-burn",
+        "devastating"
+      ],
+      "blurb": "A lonely wife in 1879 Calcutta, married to a newspaper editor who does not see her, falls for his younger cousin who comes to stay. Ray's own favourite of his films. The swing scene is one of the most joyful minutes in Indian cinema."
+    },
+    {
+      "title": "Mahanagar",
+      "year": 1963,
+      "original_title": "মহানগর",
+      "director": "Satyajit Ray",
+      "moods": [
+        "tender",
+        "hopeful",
+        "slow-burn"
+      ],
+      "blurb": "A middle-class Calcutta housewife takes a job selling knitting machines door to door, to her family's horror, and discovers she is good at it. A film about a woman finding her feet, made sixty years ago and still ahead of most of what came after."
+    },
+    {
+      "title": "Meghe Dhaka Tara",
+      "year": 1960,
+      "original_title": "মেঘে ঢাকা তারা",
+      "director": "Ritwik Ghatak",
+      "moods": [
+        "devastating",
+        "dark",
+        "epic"
+      ],
+      "blurb": "A young woman in a refugee family on the outskirts of Calcutta gives up her studies, her marriage, and finally her health so the others can live. Ghatak's scream of a film about Partition. The final line, shouted from the hills, is the most famous in Bengali cinema."
+    },
+    {
+      "title": "Nayak",
+      "year": 1966,
+      "original_title": "নায়ক",
+      "director": "Satyajit Ray",
+      "moods": [
+        "slow-burn",
+        "dark",
+        "tender"
+      ],
+      "blurb": "A film star takes the overnight train from Calcutta to Delhi to collect an award, and a young journalist in the dining car starts asking him questions. His dreams and memories fill the compartment. Uttam Kumar, the biggest star Bengal ever had, playing a version of himself."
+    },
+    {
+      "title": "Sonar Kella",
+      "year": 1974,
+      "original_title": "সোনার কেল্লা",
+      "director": "Satyajit Ray",
+      "moods": [
+        "cozy",
+        "funny",
+        "tense"
+      ],
+      "blurb": "A small boy remembers a past life in a golden fortress, and the detective Feluda is hired to protect him on a train across Rajasthan from the crooks who want the treasure. Ray's own detective, in his own adaptation. Every Bengali child's first film, and a joy at any age."
+    },
+    {
+      "title": "Bhooter Bhabishyat",
+      "year": 2012,
+      "original_title": "ভূতের ভবিষ্যৎ",
+      "director": "Anik Dutta",
+      "moods": [
+        "funny",
+        "cozy"
+      ],
+      "blurb": "The ghosts of an old Calcutta mansion, from an old zamindar to a 1970s Naxalite, hold a meeting because a promoter wants to demolish their house for a mall. A comedy about a city that is being erased. Sharp, sweet, and very Bengali."
+    }
+  ]
+}

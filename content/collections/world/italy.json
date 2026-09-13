@@ -1,0 +1,95 @@
+{
+  "slug": "italian-cinema-start-here",
+  "title": "Italian Cinema: Start Here",
+  "kicker": "World Cinema · Italy",
+  "kind": "world",
+  "country": "IT",
+  "countryName": "Italy",
+  "language": "Italian",
+  "category": "world",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "Italy invented the idea that a film could be about ordinary people and still be beautiful. It also invented the idea that a film could be about beauty itself. The two traditions share a country and a dinner table. This list moves between them.",
+  "films": [
+    {
+      "title": "Cinema Paradiso",
+      "year": 1988,
+      "original_title": "Nuovo Cinema Paradiso",
+      "director": "Giuseppe Tornatore",
+      "moods": ["tender", "cozy", "devastating"],
+      "blurb": "A famous director gets a call that the projectionist from his childhood village has died, and remembers the cinema where he grew up. If you love movies, this is the one that tells you why. Keep tissues near for the last three minutes."
+    },
+    {
+      "title": "Life Is Beautiful",
+      "year": 1997,
+      "original_title": "La vita è bella",
+      "director": "Roberto Benigni",
+      "moods": ["tender", "funny", "devastating"],
+      "blurb": "A Jewish waiter woos a schoolteacher in 1930s Italy, and when the family is deported, he convinces his small son the camp is an elaborate game. Half romantic comedy, half something else. It should not work, and it does."
+    },
+    {
+      "title": "Bicycle Thieves",
+      "year": 1948,
+      "original_title": "Ladri di biciclette",
+      "director": "Vittorio De Sica",
+      "moods": ["devastating", "tender", "slow-burn"],
+      "blurb": "A man in post-war Rome finally gets a job that needs a bicycle, and on the first day the bicycle is stolen. He and his young son spend a Sunday searching the city. Ninety minutes, non-actors, and one of the most heartbreaking films ever made."
+    },
+    {
+      "title": "The Great Beauty",
+      "year": 2013,
+      "original_title": "La grande bellezza",
+      "director": "Paolo Sorrentino",
+      "moods": ["slow-burn", "tender", "epic"],
+      "blurb": "A writer who published one great novel forty years ago drifts through Rome's rooftop parties on his sixty-fifth birthday, wondering where the time went. Gorgeous, drunk, and sad in the way only a beautiful city at dawn can be. Sorrentino's masterpiece."
+    },
+    {
+      "title": "Call Me by Your Name",
+      "year": 2017,
+      "original_title": "Call Me by Your Name",
+      "director": "Luca Guadagnino",
+      "moods": ["tender", "slow-burn", "devastating"],
+      "blurb": "One summer in northern Italy in 1983, a seventeen-year-old falls for the graduate student staying with his family. Peaches, bicycles, and a speech by a father that is worth the whole film. The ending, over the credits, is a single held shot and it wrecks people."
+    },
+    {
+      "title": "The Hand of God",
+      "year": 2021,
+      "original_title": "È stata la mano di Dio",
+      "director": "Paolo Sorrentino",
+      "moods": ["tender", "funny", "devastating"],
+      "blurb": "A teenager in 1980s Naples, in the year Maradona arrived, and the year everything in his family changed. Sorrentino's own story, told with a warmth that surprises even his fans. Funny and loud and then suddenly very quiet."
+    },
+    {
+      "title": "Gomorrah",
+      "year": 2008,
+      "original_title": "Gomorra",
+      "director": "Matteo Garrone",
+      "moods": ["dark", "tense", "devastating"],
+      "blurb": "Five stories from inside the Camorra, the crime network that runs Naples, with no music, no glamour, and no heroes. The opposite of every gangster film you have seen. The book it is based on got its author a permanent police escort."
+    },
+    {
+      "title": "Perfect Strangers",
+      "year": 2016,
+      "original_title": "Perfetti sconosciuti",
+      "director": "Paolo Genovese",
+      "moods": ["funny", "tense", "dark"],
+      "blurb": "Seven friends at dinner agree to put their phones on the table and share every message and call that arrives. One room, one evening, and it all comes down. The most remade film in history, and the original is still the sharpest."
+    },
+    {
+      "title": "La Dolce Vita",
+      "year": 1960,
+      "original_title": "La dolce vita",
+      "director": "Federico Fellini",
+      "moods": ["slow-burn", "epic", "dark"],
+      "blurb": "A gossip journalist floats through seven nights of Rome's high society, chasing a starlet into the Trevi Fountain and looking for something he cannot name. It gave the world the word paparazzi. Three hours of the most glamorous emptiness ever filmed."
+    },
+    {
+      "title": "8½",
+      "year": 1963,
+      "original_title": "8½",
+      "director": "Federico Fellini",
+      "moods": ["mind-bending", "slow-burn", "funny"],
+      "blurb": "A famous director cannot figure out what his next film is about, and hides from everyone at a spa while memories and fantasies flood in. The film every filmmaker has tried to make since. Save it for last, then watch it again."
+    }
+  ]
+}

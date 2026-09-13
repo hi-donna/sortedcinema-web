@@ -1,0 +1,56 @@
+{
+  "slug": "movies-that-refuse-to-tell-the-story-in-order",
+  "title": "Movies That Refuse to Tell the Story in Order",
+  "kind": "archive",
+  "category": "format",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "The scene you needed first comes last. These six scramble the clock and somehow hit harder for it.",
+  "published": "2026-09-09",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-09-09"
+    ],
+    "buffer_id": "6aa16bf843021dcc349240a2"
+  },
+  "films": [
+    {
+      "title": "Memento",
+      "year": 2000,
+      "blurb": "Two timelines, one in colour running backwards and one in black and white running forwards, meeting at the end. Christopher Nolan built it from his brother Jonathan's short story, and Guy Pearce plays a man who cannot form new memories and hunts his wife's killer with photographs, notes and tattoos. Made for $9 million, it earned $40 million, took two Oscar nominations, and in 2017 the Library of Congress put it in the National Film Registry.",
+      "ott_seen": "LIONSGATE PLAY"
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "blurb": "Four stories in Los Angeles told out of order, so a man you watch die in the middle walks back in at the end. TriStar turned the script down as too demented. Miramax picked it up as the first film it ever fully financed, it won the Palme d'Or at Cannes, took seven Oscar nominations and the screenplay award, and dragged John Travolta's career back from the dead. Tarantino has never been this loose again.",
+      "ott_seen": "JIOHOTSTAR"
+    },
+    {
+      "title": "Dunkirk",
+      "year": 2017,
+      "blurb": "Three timelines, three lengths: a week on the beach, a day on the sea, an hour in the air, cut together so they all arrive at the same moment. Nolan shot it on IMAX 65 mm at the real Dunkirk, timed to the dates of the real evacuation, with real Spitfires and boats that were there in 1940. Hardly any dialogue. It won three Oscars for editing and sound and made over $530 million.",
+      "ott_seen": "JIOHOTSTAR"
+    },
+    {
+      "title": "Arrival",
+      "year": 2016,
+      "blurb": "Amy Adams plays a linguist asked to talk to aliens whose written language has no beginning or end, and the film's structure is the language. What you think are flashbacks are not. Other studios passed on it as too smart. Villeneuve made it for $47 million, it took $203 million and eight Oscar nominations including Best Picture, and Jóhann Jóhannsson's score was ruled ineligible because the film leaned on a Max Richter piece already used in Shutter Island.",
+      "ott_seen": "LIONSGATE PLAY"
+    },
+    {
+      "title": "500 Days of Summer",
+      "year": 2009,
+      "blurb": "Day 1 to day 500, shuffled, so a perfect morning sits right next to the morning it all falls apart. Scott Neustadter wrote it about a real relationship, and when he showed the script to the real Summer she said she related more to Tom. Marc Webb's first film, made for $7.5 million, took $60.7 million and became the break-up movie of a generation. Watch how the film keeps the colour blue for one person only.",
+      "ott_seen": "JIOHOTSTAR"
+    },
+    {
+      "title": "Ghajini",
+      "year": 2008,
+      "blurb": "Aamir Khan loses his memory every 15 minutes and keeps his revenge alive with photographs, notes and tattoos, so the film keeps handing you the past through diaries while the present hunts. The Tamil original grew out of Memento, though Khan insists this is a remake of Ghajini and nothing else. It was the first Hindi film to cross ₹100 crore, which is where the 100 Crore Club came from.",
+      "ott_seen": "PRIME VIDEO · SUN NXT"
+    }
+  ]
+}

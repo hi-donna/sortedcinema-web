@@ -1,0 +1,51 @@
+{
+  "slug": "best-documentaries-on-netflix",
+  "title": "Best Documentaries on Netflix",
+  "kind": "archive",
+  "category": "platform",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "Truth is stranger and darker than fiction. These six will shake you and spark arguments that last all week.",
+  "published": "2026-08-02",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-07-01",
+      "2026-08-02"
+    ],
+    "buffer_id": "6a6f1b24aacd241cfda94f13"
+  },
+  "films": [
+    {
+      "title": "The Keepers",
+      "year": 2017,
+      "line": "A decades-old murder and a cover-up so deep it will hollow you out."
+    },
+    {
+      "title": "The Imposter",
+      "year": 2012,
+      "line": "A missing boy comes home, except nothing about him is right."
+    },
+    {
+      "title": "The Watcher",
+      "year": 2022,
+      "line": "A dream home becomes a living dread when someone knows every move you make."
+    },
+    {
+      "title": "Icarus",
+      "year": 2017,
+      "line": "A casual experiment spirals into one of the most explosive real-world conspiracies ever caught on film."
+    },
+    {
+      "title": "The Inventor: Out for Blood in Silicon Valley",
+      "year": 2019,
+      "line": "Charisma, delusion, and billions of dollars collide in a story stranger than any thriller you could invent."
+    },
+    {
+      "title": "Athlete A",
+      "year": 2020,
+      "line": "Behind the gold medals and standing ovations, investigators uncover a silence that protected the wrong people."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "movies-that-deserved-an-oscar",
+  "title": "Movies That Deserved an Oscar",
+  "kind": "archive",
+  "category": "authority",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "Some films hit harder than any trophy ever could. These ones got away, and the wound is still fresh.",
+  "published": "2026-08-28",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-06-23",
+      "2026-07-26",
+      "2026-08-28"
+    ],
+    "buffer_id": "6a91efb3282ac4de0f812365"
+  },
+  "films": [
+    {
+      "title": "Prisoners",
+      "year": 2013,
+      "line": "A father's desperation unravels into something far darker than the crime itself."
+    },
+    {
+      "title": "Zodiac",
+      "year": 2007,
+      "line": "An obsession that consumes years of lives without ever offering closure."
+    },
+    {
+      "title": "Uncut Gems",
+      "year": 2019,
+      "line": "Every scene tightens the coil until you forget to breathe entirely."
+    },
+    {
+      "title": "A Prophet",
+      "year": 2009,
+      "line": "A young man enters prison invisible and leaves as something truly formidable."
+    },
+    {
+      "title": "Nightcrawler",
+      "year": 2014,
+      "line": "Ambition wears a hollow smile and the city at night rewards it."
+    },
+    {
+      "title": "Requiem for a Dream",
+      "year": 2000,
+      "line": "Four dreams dissolve in slow motion and you feel every single loss."
+    },
+    {
+      "title": "Burning",
+      "year": 2018,
+      "line": "A slow beautiful mystery that lingers under your skin long after the credits roll."
+    },
+    {
+      "title": "Frailty",
+      "year": 2001,
+      "line": "A father receives a divine mission and his sons must decide what to believe."
+    }
+  ]
+}

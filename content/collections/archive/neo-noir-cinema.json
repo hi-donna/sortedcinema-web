@@ -1,0 +1,66 @@
+{
+  "slug": "neo-noir-cinema",
+  "title": "Neo-Noir Cinema",
+  "kind": "archive",
+  "category": "genre",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "The city never sleeps and neither does its guilt. Neon bleeds into pavement and everyone is hiding something.",
+  "published": "2026-08-13",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-07-13",
+      "2026-08-13"
+    ],
+    "buffer_id": "6a7d94281db037b7032d0c07"
+  },
+  "films": [
+    {
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "line": "A rain-soaked search for identity unravels something far more dangerous than the truth."
+    },
+    {
+      "title": "Nightcrawler",
+      "year": 2014,
+      "line": "Ambition curdles into something predatory under the sick glow of Los Angeles at night."
+    },
+    {
+      "title": "Memento",
+      "year": 2000,
+      "blurb": "Two timelines, one in colour running backwards and one in black and white running forwards, meeting at the end. Christopher Nolan built it from his brother Jonathan's short story, and Guy Pearce plays a man who cannot form new memories and hunts his wife's killer with photographs, notes and tattoos. Made for $9 million, it earned $40 million, took two Oscar nominations, and in 2017 the Library of Congress put it in the National Film Registry."
+    },
+    {
+      "title": "Dark City",
+      "year": 1998,
+      "line": "Every morning the city reshapes itself and no one remembers what was real before."
+    },
+    {
+      "title": "Sin City",
+      "year": 2005,
+      "line": "Loyalty, lust and revenge collide in a world painted in shadows and brutal consequence."
+    },
+    {
+      "title": "Drive",
+      "year": 2011,
+      "line": "A quiet man with dangerous hands discovers that love is the most fatal job of all."
+    },
+    {
+      "title": "Brick",
+      "year": 2005,
+      "line": "A teenager descends into a shadow world of crime where every word is a trap."
+    },
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "line": "A man walks out of captivity and into a labyrinth of obsession and dread."
+    },
+    {
+      "title": "Chinatown",
+      "year": 1974,
+      "line": "The deeper he digs the more the city reveals just how rotten its roots really are."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+# Sorted Cinema — refresh data, build, deploy to GitHub Pages.
+#
+# One workflow, three jobs, because a GITHUB_TOKEN push never triggers another
+# workflow: if "enrich" committed data and stopped, nothing would deploy it.
+#
+#   enrich  — resolves every film on TMDB and refreshes India streaming
+#             availability (JustWatch via TMDB). Needs the TMDB_API_KEY secret;
+#             skipped cleanly without it. Commits data/ back to the branch.
+#   build   — `npm run build` (Astro, static). Never touches the network for
+#             film data; it reads data/tmdb/*.json.
+#   deploy  — publishes dist/ to GitHub Pages.
+#
+# Preview vs. production: until a custom domain is set in the repo's Pages
+# settings (which writes public/CNAME), the site is built for
+# https://<owner>.github.io/<repo>/ . Once CNAME exists, it builds for the
+# domain in it at "/". No other change needed.
+name: site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 3 * * 1"   # Mondays 03:17 UTC — weekly provider refresh (best-effort on a private repo)
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Re-resolve every film on TMDB (ignore cache)"
+        type: boolean
+        default: false
+
+concurrency:
+  group: site
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    outputs:
+      sha: ${{ steps.commit.outputs.sha }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Refresh TMDB data + India streaming availability
+        if: ${{ env.TMDB_API_KEY != '' }}
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node scripts/enrich.mjs ${{ inputs.force && '--force' || '' }}
+      - name: Note when the key is missing
+        if: ${{ env.TMDB_API_KEY == '' }}
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: echo "::warning::TMDB_API_KEY secret not set — building with cached data only (posters and streaming info will be missing until it is added)."
+      - name: Commit refreshed data
+        id: commit
+        run: |
+          git config user.name "sortedcinema-bot"
+          git config user.email "bot@sortedcinema.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "no data changes"
+          else
+            git commit -m "data: refresh TMDB + India providers ($(date -u +%F))"
+            git push
+          fi
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+  build:
+    needs: enrich
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.enrich.outputs.sha }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Decide site URL and base path
+        id: target
+        run: |
+          if [ -s public/CNAME ]; then
+            echo "url=https://$(head -n1 public/CNAME | tr -d '[:space:]')" >> "$GITHUB_OUTPUT"
+            echo "base=/" >> "$GITHUB_OUTPUT"
+          else
+            echo "url=https://${{ github.repository_owner }}.github.io" >> "$GITHUB_OUTPUT"
+            echo "base=/${{ github.event.repository.name }}/" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Build
+        env:
+          SITE_URL: ${{ steps.target.outputs.url }}
+          SITE_BASE: ${{ steps.target.outputs.base }}
+        run: npm run build
+      - name: Content checks
+        run: node scripts/check-content.mjs
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

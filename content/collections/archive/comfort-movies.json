@@ -1,0 +1,61 @@
+{
+  "slug": "comfort-movies",
+  "title": "Comfort Movies",
+  "kind": "archive",
+  "category": "mood",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "Some nights you just need a film that holds you gently and sends you to bed smiling. Pull the blanket tighter and let these ones in.",
+  "published": "2026-08-12",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-07-09",
+      "2026-08-12"
+    ],
+    "buffer_id": "6a7c42a446abc51e707395ed"
+  },
+  "films": [
+    {
+      "title": "Paddington 2",
+      "year": 2017,
+      "line": "A film so full of warmth it feels like being handed a cup of tea by the universe."
+    },
+    {
+      "title": "Chef",
+      "year": 2014,
+      "line": "Food, music and second chances fold together into something genuinely nourishing for the soul."
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "year": 2014,
+      "line": "A pastel-coloured fever dream that somehow leaves you feeling completely held and delighted."
+    },
+    {
+      "title": "About Time",
+      "year": 2013,
+      "line": "A quiet gut-punch dressed as a rom-com, reminding you to live inside ordinary moments."
+    },
+    {
+      "title": "Julie & Julia",
+      "year": 2009,
+      "line": "Two women across decades find themselves through butter, ambition and the courage to begin."
+    },
+    {
+      "title": "Singin' in the Rain",
+      "year": 1952,
+      "line": "Pure joy rendered in colour and choreography, the kind that makes cynicism feel embarrassing."
+    },
+    {
+      "title": "The Secret Life of Walter Mitty",
+      "year": 2013,
+      "line": "A quiet dreamer steps into the wild and finds a life worth living."
+    },
+    {
+      "title": "Amélie",
+      "year": 2001,
+      "line": "Paris glows a little warmer when one tender soul decides to change the world."
+    }
+  ]
+}

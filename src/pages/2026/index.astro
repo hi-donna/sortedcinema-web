@@ -1,0 +1,94 @@
+---
+import Base from "../../layouts/Base.astro";
+import Providers from "../../components/Providers.astro";
+import { data, site, film, poster, filmUrl, dateLabel, collection, IMG, hue } from "../../lib/data";
+const c = collection("sorted-2026")!;
+const legend = c.legend || {};
+const byStatus = (s: string) => c.films.filter((e) => e.status === s);
+const groups = [
+  { key: "sorted", title: "Sorted", sub: legend.sorted },
+  { key: "radar", title: "On the radar", sub: legend.radar },
+  { key: "coming", title: "Coming", sub: legend.coming },
+].map((g) => ({ ...g, items: byStatus(g.key).sort((a, b) => (a.release || "").localeCompare(b.release || "")) }));
+const streaming = data.discover?.streaming || [];
+const upcoming = data.discover?.upcoming?.slice(0, 12) || [];
+const description = "A different world: only films released in 2026 or later, only the ones worth your night. Sorted = we vouch for it. On the radar = out, verdict pending. Coming = date set.";
+---
+<Base title="Sorted 2026" description={description}>
+  <section class="page-hero">
+    <div class="grade"></div>
+    <div class="wrap inner">
+      <div class="eyebrow">{c.kicker}</div>
+      <h1 style="margin-top:12px">Sorted <span style="color:var(--text)">2026</span></h1>
+      <p class="lede">{c.intro}</p>
+      <div class="year-legend">
+        <span><span class="badge sorted">Sorted</span>{legend.sorted}</span>
+        <span><span class="badge radar">Radar</span>{legend.radar}</span>
+        <span><span class="badge coming">Coming</span>{legend.coming}</span>
+      </div>
+    </div>
+  </section>
+
+  {groups.map((g) => g.items.length ? (
+    <section class="section" id={g.key}>
+      <div class="wrap">
+        <div class="section-head"><div><div class="eyebrow">{g.sub}</div><h2>{g.title} <span class="count">{g.items.length}</span></h2></div></div>
+        {g.items.map((e) => {
+          const f = film(e.key);
+          const d = dateLabel(e.release);
+          const src = poster(f, "w185");
+          return (
+            <article class="year-row" id={e.key}>
+              <div class="when">{d ? <><b>{d.day ? `${d.day} ${d.month}` : d.month}</b>{d.year}</> : <b>2026</b>}</div>
+              <div class="with-poster">
+                <div>
+                  <h3><a href={filmUrl(f.key)}>{f.title}</a><span class:list={["badge", e.status]}>{e.status}</span></h3>
+                  {f.director && <div class="dim" style="font-size:13px;margin-top:4px">{f.director}</div>}
+                  {e.text && <p class="note">{e.text}</p>}
+                  <div style="margin-top:10px"><Providers f={f} compact={true} /></div>
+                </div>
+                {src
+                  ? <a href={filmUrl(f.key)} aria-hidden="true" tabindex="-1"><img src={src} alt="" width="88" height="132" loading="lazy" style="border-radius:8px;border:1px solid var(--line)" /></a>
+                  : <div style={`--h:${hue(f.key)};aspect-ratio:2/3;border-radius:8px;background:linear-gradient(160deg,hsl(var(--h) 35% 20%),var(--bg-2))`}></div>}
+              </div>
+            </article>
+          );
+        })}
+      </div>
+    </section>
+  ) : null)}
+
+  {streaming.length ? (
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head"><div><div class="eyebrow">Straight from the data</div><h2>2026 releases now streaming in India</h2><p class="sub">Not our picks, just the facts: every 2026 film with a streaming home in India right now, most popular first. Our verdicts live above; this is the raw feed.</p></div></div>
+        <div class="grid posters">
+          {streaming.slice(0, 24).map((d: any) => (
+            <a class="poster-card" href={`https://www.themoviedb.org/movie/${d.tmdb_id}`} rel="noopener" target="_blank">
+              <div class="poster"><img src={`${IMG}w342${d.poster_path}`} alt={`${d.title} poster`} loading="lazy" width="342" height="513" /></div>
+              <div class="t">{d.title}</div>
+              <div class="y">{d.providers?.flatrate?.map((p: any) => p.name).join(" · ") || d.year}</div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  ) : null}
+
+  {upcoming.length ? (
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head"><div><div class="eyebrow">Straight from the data</div><h2>Coming to Indian cinemas</h2></div></div>
+        <div class="grid posters">
+          {upcoming.map((d: any) => { const dl = dateLabel(d.release_date); return (
+            <a class="poster-card" href={`https://www.themoviedb.org/movie/${d.tmdb_id}`} rel="noopener" target="_blank">
+              <div class="poster"><img src={`${IMG}w342${d.poster_path}`} alt={`${d.title} poster`} loading="lazy" width="342" height="513" /></div>
+              <div class="t">{d.title}</div>
+              <div class="y">{dl ? `${dl.day} ${dl.month} ${dl.year}` : ""}</div>
+            </a>
+          ); })}
+        </div>
+      </div>
+    </section>
+  ) : null}
+</Base>

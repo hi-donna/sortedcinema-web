@@ -1,0 +1,36 @@
+---
+import type { Entry } from "../lib/data";
+import { film, poster, filmUrl, hue, runtimeLabel, dateLabel } from "../lib/data";
+import Providers from "./Providers.astro";
+interface Props { e: Entry; total: number; showIndex?: boolean }
+const { e, total, showIndex = true } = Astro.props;
+const f = film(e.key);
+const src = poster(f, "w342");
+const rt = runtimeLabel(f);
+const rel = dateLabel(f.tmdb?.release_date);
+const text = e.text || f.blurbs[0]?.text || f.tmdb?.overview || null;
+const originTitle = f.original_title && f.original_title !== f.title ? f.original_title : null;
+---
+<article class="film-row" id={e.key}>
+  <a class="poster-card" href={filmUrl(f.key)} style={`--h:${hue(f.key)}`} aria-hidden="true" tabindex="-1">
+    {src ? <div class="poster"><img src={src} alt="" loading="lazy" decoding="async" width="342" height="513" /></div> : <div class="poster fallback"><span>{f.title}</span></div>}
+  </a>
+  <div>
+    {showIndex && <div class="idx">{String(e.position).padStart(2, "0")} / {String(total).padStart(2, "0")}</div>}
+    <h3><a href={filmUrl(f.key)}>{f.title}</a></h3>
+    {originTitle && <div class="orig">{originTitle}</div>}
+    <div class="facts">
+      {f.year && <span><b>{f.year}</b></span>}
+      {f.director && <span>{f.director}</span>}
+      {rt && <span>{rt}</span>}
+      {f.tmdb?.rating ? <span>★ {f.tmdb.rating}</span> : null}
+      {f.tmdb?.genres?.length ? <span>{f.tmdb.genres.slice(0, 3).join(" · ")}</span> : null}
+    </div>
+    {text && <p class="text">{text}</p>}
+    <Providers f={f} />
+    <div class="actions">
+      {f.tmdb?.trailer && <a class="btn small" href={`https://www.youtube.com/watch?v=${f.tmdb.trailer}`} rel="noopener" target="_blank">▶ Trailer</a>}
+      <a class="btn small" href={filmUrl(f.key)}>Film page</a>
+    </div>
+  </div>
+</article>

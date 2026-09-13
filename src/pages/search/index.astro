@@ -1,0 +1,49 @@
+---
+import Base from "../../layouts/Base.astro";
+import { href } from "../../lib/data";
+---
+<Base title="Search" description="Search every list and film on Sorted Cinema." noindex={true}>
+  <section class="section">
+    <div class="wrap" style="max-width:820px">
+      <div class="eyebrow">Search</div>
+      <h1 style="font-size:clamp(32px,5vw,52px);margin-top:10px">Find a film or a list</h1>
+      <form class="search-box" role="search" style="margin-top:22px" action={href("/search/")} method="get" data-base={href("/")}>
+        <input type="search" name="q" placeholder="Try “Iranian”, “heist”, “Parasite”, “Netflix”…" autocomplete="off" autofocus data-q />
+        <button class="btn primary" type="submit">Search</button>
+      </form>
+      <div class="results" data-results aria-live="polite"></div>
+    </div>
+  </section>
+  <script>
+    const input = document.querySelector<HTMLInputElement>("[data-q]")!;
+    const out = document.querySelector<HTMLElement>("[data-results]")!;
+    let index: { t: string; s: string; n: string; k: string }[] | null = null;
+    const base = document.querySelector("form")!.getAttribute("data-base") || "/";
+    const norm = (s: string) => s.toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g, "");
+    async function load() { if (!index) index = await (await fetch(base + "search-index.json")).json(); return index!; }
+    function href(r: { t: string; s: string }) { return r.t === "list" ? `${base}lists/${r.s}/` : `${base}film/${r.s}/`; }
+    async function run(q: string) {
+      q = norm(q.trim());
+      if (!q) { out.innerHTML = ""; return; }
+      const idx = await load();
+      const words = q.split(/\s+/);
+      const scored = idx.map((r) => {
+        const hay = norm(r.n + " " + r.k);
+        let s = 0;
+        if (norm(r.n).startsWith(q)) s += 10;
+        for (const w of words) { if (norm(r.n).includes(w)) s += 4; else if (hay.includes(w)) s += 1; else return null; }
+        if (r.t === "list") s += 1;
+        return { r, s };
+      }).filter(Boolean) as { r: any; s: number }[];
+      scored.sort((a, b) => b.s - a.s);
+      out.innerHTML = scored.slice(0, 40).map(({ r }) => `<a class="result" href="${href(r)}"><span class="k">${r.t}</span><span><div class="n">${esc(r.n)}</div><div class="s">${esc(r.k)}</div></span></a>`).join("")
+        || `<p class="notice">Nothing for “${esc(q)}”. Try a country, a mood, or a platform.</p>`;
+    }
+    function esc(s: string) { return s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]!)); }
+    let t: number | undefined;
+    input.addEventListener("input", () => { clearTimeout(t); t = window.setTimeout(() => run(input.value), 120); });
+    document.querySelector("form")!.addEventListener("submit", (e) => { e.preventDefault(); run(input.value); history.replaceState(null, "", `${base}search/?q=${encodeURIComponent(input.value)}`); });
+    const q0 = new URLSearchParams(location.search).get("q");
+    if (q0) { input.value = q0; run(q0); }
+  </script>
+</Base>

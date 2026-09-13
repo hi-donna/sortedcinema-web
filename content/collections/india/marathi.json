@@ -1,0 +1,112 @@
+{
+  "slug": "marathi-cinema-start-here",
+  "title": "Marathi Cinema: Start Here",
+  "kicker": "Indian Cinema · Maharashtra",
+  "kind": "world",
+  "country": "IN",
+  "region": "Maharashtra",
+  "countryName": "Maharashtra",
+  "language": "Marathi",
+  "category": "india",
+  "curator": "sortedcinema",
+  "published": "2026-09-14",
+  "intro": "Marathi cinema gave India its first feature film and, a century later, gave it the most honest films about caste it has ever made. Nagraj Manjule alone would justify this list. The rest of it is a childhood in a fort, a courtroom that will not end, and a father learning to breathe.",
+  "films": [
+    {
+      "title": "Sairat",
+      "year": 2016,
+      "original_title": "सैराट",
+      "director": "Nagraj Manjule",
+      "moods": [
+        "tender",
+        "epic",
+        "devastating"
+      ],
+      "blurb": "A fisherman's son and a politician's daughter fall in love in a village in Solapur, run away, and try to build a life in a city. The first half is the sunniest romance in Indian cinema. The second half is why the film became a phenomenon. Start here."
+    },
+    {
+      "title": "Fandry",
+      "year": 2013,
+      "original_title": "फँड्री",
+      "director": "Nagraj Manjule",
+      "moods": [
+        "tender",
+        "devastating",
+        "tense"
+      ],
+      "blurb": "A Dalit boy in a village school is in love with a girl from a higher caste, and his family's job is to catch the pigs the village will not touch. The last shot is a stone thrown straight at you. Manjule's first film, and still his angriest."
+    },
+    {
+      "title": "Court",
+      "year": 2014,
+      "original_title": "कोर्ट",
+      "director": "Chaitanya Tamhane",
+      "moods": [
+        "slow-burn",
+        "dark",
+        "funny"
+      ],
+      "blurb": "An ageing folk singer is arrested on the charge that his song drove a sewer worker to suicide, and the trial drags on through the Mumbai courts. The film is as patient as the system it observes. Won at Venice. Devastating in the driest possible way."
+    },
+    {
+      "title": "Killa",
+      "year": 2014,
+      "original_title": "किल्ला",
+      "director": "Avinash Arun",
+      "moods": [
+        "tender",
+        "cozy",
+        "hopeful"
+      ],
+      "blurb": "An eleven-year-old boy moves with his widowed mother to a small town on the Konkan coast and has to make new friends, who take him to the old fort. Rain, sea, cycling, a first betrayal. One of the gentlest films about childhood India has made."
+    },
+    {
+      "title": "Harishchandrachi Factory",
+      "year": 2009,
+      "original_title": "हरिश्चंद्राची फॅक्टरी",
+      "director": "Paresh Mokashi",
+      "moods": [
+        "funny",
+        "hopeful",
+        "cozy"
+      ],
+      "blurb": "The story of how Dadasaheb Phalke made India's first feature film in 1913, with a family that thought he had lost his mind and actors who had never seen a camera. A comedy about stubbornness. Charming from start to finish."
+    },
+    {
+      "title": "Shwaas",
+      "year": 2004,
+      "original_title": "श्वास",
+      "director": "Sandeep Sawant",
+      "moods": [
+        "devastating",
+        "tender",
+        "hopeful"
+      ],
+      "blurb": "A grandfather brings his grandson from the village to a Mumbai hospital and learns the boy will lose his sight, and that the surgery cannot wait. He decides to show him as much of the world as he can first. India's entry to the Oscars, and it earned it."
+    },
+    {
+      "title": "Natsamrat",
+      "year": 2016,
+      "original_title": "नटसम्राट",
+      "director": "Mahesh Manjrekar",
+      "moods": [
+        "devastating",
+        "epic",
+        "tender"
+      ],
+      "blurb": "A legendary stage actor retires, gives his house and his money to his children, and finds out what that buys him. Based on the most famous Marathi play, and Nana Patekar gives it everything he has. King Lear, in Marathi, and it hurts just as much."
+    },
+    {
+      "title": "Naal",
+      "year": 2018,
+      "original_title": "नाळ",
+      "director": "Sudhakar Reddy Yakkanti",
+      "moods": [
+        "tender",
+        "cozy",
+        "hopeful"
+      ],
+      "blurb": "An eight-year-old boy in a riverside village in Vidarbha overhears that he is adopted, and sets out to find the mother who gave him up. A small film shot in real light with real villagers. The boy at its centre is a marvel."
+    }
+  ]
+}

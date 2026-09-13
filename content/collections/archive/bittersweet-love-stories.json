@@ -1,0 +1,62 @@
+{
+  "slug": "bittersweet-love-stories",
+  "title": "Bittersweet Love Stories",
+  "kind": "archive",
+  "category": "mood",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "Love is sweetest when it costs something. These are the stories that linger long after the credits.",
+  "published": "2026-08-30",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-06-29",
+      "2026-07-30",
+      "2026-08-30"
+    ],
+    "buffer_id": "6a94389894904b3a23e9640d"
+  },
+  "films": [
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "line": "Would you erase the pain if it meant losing every beautiful moment too."
+    },
+    {
+      "title": "In the Mood for Love",
+      "year": 2000,
+      "line": "Two neighbours fall into a love so quiet it could shatter you completely."
+    },
+    {
+      "title": "Blue Valentine",
+      "year": 2010,
+      "line": "A romance told in two timelines, tender and brutal in equal measure."
+    },
+    {
+      "title": "Atonement",
+      "year": 2007,
+      "line": "A single lie bends two lives across decades of longing and regret."
+    },
+    {
+      "title": "Certified Copy",
+      "year": 2010,
+      "line": "A couple whose history keeps shifting beneath you like sand under water."
+    },
+    {
+      "title": "Never Let Me Go",
+      "year": 2010,
+      "line": "Three friends carry a love story weighted by a fate they cannot outrun."
+    },
+    {
+      "title": "Portrait of a Lady on Fire",
+      "year": 2019,
+      "line": "Every stolen glance carries the weight of a love that was never meant to last."
+    },
+    {
+      "title": "Closer",
+      "year": 2004,
+      "line": "Four people tangle in desire and honesty cuts deeper than any betrayal."
+    }
+  ]
+}

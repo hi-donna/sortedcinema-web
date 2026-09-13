@@ -1,0 +1,143 @@
+{
+  "slug": "peak-plot-twists-ranked",
+  "title": "Peak Plot Twists, Ranked",
+  "kind": "archive",
+  "category": "format",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "Some twists rearrange the whole film in your head and some you clocked from the trailer. We ranked twenty of them from the ones that still keep us up to the ones we saw coming a mile off, with where each one streams below so you can save this for the next movie night.",
+  "published": "2026-09-11",
+  "source": {
+    "type": "instagram",
+    "permalink": "https://www.instagram.com/p/DdIxvEMtlsF/",
+    "posted": [
+      "2026-09-11"
+    ],
+    "buffer_id": "ig:instagramcompDdIxvEMtlsF"
+  },
+  "films": [
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "ott_seen": "PRIME VIDEO",
+      "tier": "Mind Blowing"
+    },
+    {
+      "title": "The Prestige",
+      "year": 2006,
+      "ott_seen": "NETFLIX",
+      "tier": "Mind Blowing"
+    },
+    {
+      "title": "Incendies",
+      "year": 2010,
+      "ott_seen": "NOT STREAMING IN INDIA",
+      "tier": "Mind Blowing"
+    },
+    {
+      "title": "The Sixth Sense",
+      "year": 1999,
+      "ott_seen": "RENT · GOOGLE PLAY",
+      "tier": "Mind Blowing"
+    },
+    {
+      "title": "Saw",
+      "year": 2004,
+      "ott_seen": "LIONSGATE PLAY",
+      "tier": "Never Saw It Coming"
+    },
+    {
+      "title": "The Game",
+      "year": 1997,
+      "ott_seen": "RENT · APPLE TV",
+      "tier": "Never Saw It Coming"
+    },
+    {
+      "title": "Get Out",
+      "year": 2017,
+      "ott_seen": "JIOHOTSTAR",
+      "tier": "Never Saw It Coming"
+    },
+    {
+      "title": "Primal Fear",
+      "year": 1996,
+      "ott_seen": "NETFLIX",
+      "tier": "Never Saw It Coming"
+    },
+    {
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "ott_seen": "RENT · PRIME VIDEO",
+      "tier": "Clever Twist"
+    },
+    {
+      "title": "Memento",
+      "year": 2000,
+      "blurb": "Two timelines, one in colour running backwards and one in black and white running forwards, meeting at the end. Christopher Nolan built it from his brother Jonathan's short story, and Guy Pearce plays a man who cannot form new memories and hunts his wife's killer with photographs, notes and tattoos. Made for $9 million, it earned $40 million, took two Oscar nominations, and in 2017 the Library of Congress put it in the National Film Registry.",
+      "ott_seen": "LIONSGATE PLAY",
+      "tier": "Clever Twist"
+    },
+    {
+      "title": "Gone Girl",
+      "year": 2014,
+      "blurb": "On their fifth anniversary Nick comes home and Amy is gone. Gillian Flynn adapted her own novel, and Fincher kept her on for the whole project instead of swapping in a screenwriter after the first draft, which almost never happens. Rosamund Pike's Amy earned an Oscar nomination, the film took $370 million, and the cool girl monologue is still quoted. A thriller on the surface and a marriage underneath, which is the scarier film.",
+      "ott_seen": "RENT · GOOGLE PLAY",
+      "tier": "Clever Twist"
+    },
+    {
+      "title": "Predestination",
+      "year": 2014,
+      "ott_seen": "PRIME VIDEO",
+      "tier": "Clever Twist"
+    },
+    {
+      "title": "Fight Club",
+      "year": 1999,
+      "ott_seen": "NETFLIX",
+      "tier": "Solid Twist"
+    },
+    {
+      "title": "Parasite",
+      "year": 2019,
+      "ott_seen": "NOT STREAMING IN INDIA",
+      "tier": "Solid Twist"
+    },
+    {
+      "title": "The Departed",
+      "year": 2006,
+      "ott_seen": "PRIME VIDEO",
+      "tier": "Solid Twist"
+    },
+    {
+      "title": "Shutter Island",
+      "year": 2010,
+      "ott_seen": "JIOHOTSTAR",
+      "tier": "Solid Twist"
+    },
+    {
+      "title": "Red Notice",
+      "year": 2021,
+      "ott_seen": "NETFLIX",
+      "tier": "Predictable"
+    },
+    {
+      "title": "Spider-Man: Far From Home",
+      "year": 2019,
+      "ott_seen": "NETFLIX · PRIME VIDEO",
+      "tier": "Predictable"
+    },
+    {
+      "title": "The Village",
+      "year": 2004,
+      "ott_seen": "RENT · GOOGLE PLAY",
+      "tier": "Predictable"
+    },
+    {
+      "title": "Now You See Me",
+      "year": 2013,
+      "ott_seen": "PRIME VIDEO · LIONSGATE PLAY",
+      "tier": "Predictable"
+    }
+  ],
+  "layout": "tiers"
+}

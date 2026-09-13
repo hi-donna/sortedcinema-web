@@ -1,0 +1,61 @@
+{
+  "slug": "slow-burn-thrillers",
+  "title": "Slow Burn Thrillers",
+  "kind": "archive",
+  "category": "genre",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "The dread builds slowly here, like pressure behind your eyes. These are films that stay with you long after the credits roll.",
+  "published": "2026-08-06",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-07-02",
+      "2026-08-06"
+    ],
+    "buffer_id": "6a746c20a21cf6fb66279c3c"
+  },
+  "films": [
+    {
+      "title": "Zodiac",
+      "year": 2007,
+      "line": "An obsession quietly devours a man from the inside out over decades."
+    },
+    {
+      "title": "Prisoners",
+      "year": 2013,
+      "line": "Desperation and moral rot seep into every frame like a cold November rain."
+    },
+    {
+      "title": "A Simple Plan",
+      "year": 1998,
+      "line": "One frozen field, one terrible decision, and a friendship slowly coming undone."
+    },
+    {
+      "title": "Cure",
+      "year": 1997,
+      "line": "Something nameless and contagious moves through a city and you feel it spreading."
+    },
+    {
+      "title": "The Wailing",
+      "year": 2016,
+      "line": "A village unravels under a creeping dread that no one can name or outrun."
+    },
+    {
+      "title": "Hereditary",
+      "year": 2018,
+      "line": "Grief becomes a living thing that stalks every corner of a family home."
+    },
+    {
+      "title": "No Country for Old Men",
+      "year": 2007,
+      "blurb": "The Coens shot only 250,000 feet of film where a production this size burns 700,000, and it shows: nothing is wasted, least of all mercy. Josh Brolin's welder finds a case of drug money in the West Texas desert, and Javier Bardem's Anton Chigurh comes for it with a coin and a cattle gun. It won four Academy Awards including Best Picture, and it still refuses to give you the showdown you are waiting for."
+    },
+    {
+      "title": "The Vanishing",
+      "year": 1988,
+      "line": "The search for an answer becomes more terrifying than the question itself."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "heist-movies",
+  "title": "Heist Movies",
+  "kind": "archive",
+  "category": "genre",
+  "media": "movie",
+  "curator": "sortedcinema",
+  "intro": "The plan looks perfect until the human element walks in. These are heists where tension lives in every pause and glance.",
+  "published": "2026-08-03",
+  "source": {
+    "type": "instagram",
+    "permalink": null,
+    "posted": [
+      "2026-07-03",
+      "2026-08-03"
+    ],
+    "buffer_id": "6a7085c0c8af394d44926771"
+  },
+  "films": [
+    {
+      "title": "Heat",
+      "year": 1995,
+      "line": "Two men on opposite sides of the law locked in a dance neither can escape."
+    },
+    {
+      "title": "Rififi",
+      "year": 1955,
+      "line": "A 28-minute wordless heist sequence that still leaves the room breathless."
+    },
+    {
+      "title": "Inside Man",
+      "year": 2006,
+      "line": "Nothing about this bank robbery is what it appears to be, and that's the whole game."
+    },
+    {
+      "title": "Thief",
+      "year": 1981,
+      "line": "A man who has mastered stealing everything except control of his own life."
+    },
+    {
+      "title": "A Simple Plan",
+      "year": 1998,
+      "line": "Finding a fortune in the snow turns ordinary people into strangers to themselves."
+    },
+    {
+      "title": "The Friends of Eddie Coyle",
+      "year": 1973,
+      "line": "Loyalty and survival collide in the most quietly devastating crime film ever made."
+    }
+  ]
+}
