@@ -2,6 +2,7 @@
 import type { Entry } from "../lib/data";
 import { film, poster, filmUrl, hue, runtimeLabel, dateLabel } from "../lib/data";
 import Providers from "./Providers.astro";
+import PassportButtons from "./PassportButtons.astro";
 interface Props { e: Entry; total: number; showIndex?: boolean }
 const { e, total, showIndex = true } = Astro.props;
 const f = film(e.key);
@@ -31,6 +32,7 @@ const originTitle = f.original_title && f.original_title !== f.title ? f.origina
     <div class="actions">
       {f.tmdb?.trailer && <a class="btn small" href={`https://www.youtube.com/watch?v=${f.tmdb.trailer}`} rel="noopener" target="_blank">▶ Trailer</a>}
       <a class="btn small" href={filmUrl(f.key)}>Film page</a>
+      <PassportButtons k={f.key} small={true} />
     </div>
   </div>
 </article>

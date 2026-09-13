@@ -1,0 +1,136 @@
+---
+import Base from "../../layouts/Base.astro";
+import { data, href, listUrl } from "../../lib/data";
+const onramps = data.collections.filter((c) => c.kind === "world").map((c) => ({ slug: c.slug, name: c.countryName || c.title, lang: c.language, keys: c.films.map((e) => e.key), url: listUrl(c.slug), code: c.country === "IN" ? ({ Malayalam: "ML", Tamil: "TA", Marathi: "MR", Bengali: "BN", Hindi: "HI" }[c.language || ""] || "TK") : (c.country || "??") }));
+const total = Object.keys(data.films).length;
+---
+<Base title="Your passport" description="Your Sorted Cinema passport: what you've seen, what you've saved, and how much of the world you've stamped." noindex={true}>
+  <section class="page-hero">
+    <div class="grade"></div>
+    <div class="wrap inner">
+      <div class="eyebrow">Your passport</div>
+      <h1 style="margin-top:12px">Where have you been?</h1>
+      <p class="lede">Every film you mark as seen stamps a country. Every one you save waits here with where to stream it. It lives in this browser only: no account, nothing sent anywhere.</p>
+      <div class="stats-row" style="margin-top:28px;max-width:640px">
+        <div class="big-stat"><span data-stat="seen">0</span><small>films seen</small></div>
+        <div class="big-stat"><span data-stat="stamps">0</span><small>of {onramps.length} stamps</small></div>
+        <div class="big-stat"><span data-stat="pct">0%</span><small>of the world</small></div>
+        <div class="big-stat"><span data-stat="want">0</span><small>saved for later</small></div>
+      </div>
+      <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:24px">
+        <button class="btn primary" type="button" data-share>Share your passport</button>
+        <a class="btn" href={href("/sort-me/")}>Pick tonight's film</a>
+      </div>
+      <p class="dim" style="font-size:12px;margin-top:10px" data-share-note hidden>Saved a 1080×1350 image — post it to your story and tag {data.site.handle}.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head"><div><div class="eyebrow">Stamps</div><h2>One per country. Ten films each.</h2><p class="sub">A stamp is complete at 10/10. Most people never finish one. Be most people's exception.</p></div></div>
+      <div class="grid tight" data-stamps>
+        {onramps.map((c) => (
+          <a class="stamp-card" href={c.url} data-stamp={c.slug} data-keys={JSON.stringify(c.keys)}>
+            <div class="stamp">{c.code}</div>
+            <div><div class="n">{c.name}</div><div class="s" data-stamp-label>0 / {c.keys.length}</div><div class="progress" style="margin-top:8px"><i data-stamp-bar></i></div></div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head"><div><div class="eyebrow">Your platforms</div><h2>What do you already pay for?</h2><p class="sub">Tick them and every recommendation on the site is filtered to what you can actually press play on tonight.</p></div></div>
+      <div class="platform-picker" data-platforms></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head"><div><div class="eyebrow">Saved for later</div><h2>Your queue</h2></div></div>
+      <div class="grid posters" data-want-grid><p class="notice">Nothing saved yet. Tap “Save for later” on any film.</p></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head"><div><div class="eyebrow">Seen</div><h2>Your history</h2></div></div>
+      <div class="grid posters" data-seen-grid><p class="notice">Nothing marked yet. Tap “Seen it” on any film you have watched.</p></div>
+    </div>
+  </section>
+
+  <script>
+    import { load, films, setPlatforms, PLATFORMS, progress, type FilmRow } from "../../lib/client";
+    const base = document.body.dataset.base || "/";
+    const IMG = "https://image.tmdb.org/t/p/w342";
+    const $ = (s: string) => document.querySelector<HTMLElement>(s)!;
+    const esc = (s: string) => s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]!));
+
+    let rows: FilmRow[] = [];
+    const byKey = () => Object.fromEntries(rows.map((r) => [r.k, r]));
+
+    function card(r: FilmRow) {
+      const h = [...r.k].reduce((a, c) => (a * 31 + c.charCodeAt(0)) % 360, 0);
+      const poster = r.p ? `<div class="poster"><img src="${IMG}${r.p}" alt="" loading="lazy"></div>` : `<div class="poster fallback" style="--h:${h}"><span>${esc(r.t)}</span></div>`;
+      return `<a class="poster-card" href="${base}film/${r.k}/">${poster}<div class="t">${esc(r.t)}</div><div class="y">${r.on.length ? esc(r.on.map((s) => PLATFORMS.find((p) => p.slug === s)?.name || s).join(" · ")) : (r.y || "")}</div></a>`;
+    }
+
+    function paint() {
+      const p = load();
+      const stamps = document.querySelectorAll<HTMLElement>("[data-stamp]");
+      let done = 0, touched = 0;
+      stamps.forEach((el) => {
+        const r = progress(JSON.parse(el.dataset.keys!), p);
+        const st = el.querySelector(".stamp")!;
+        st.classList.toggle("done", r.pct === 100); st.classList.toggle("part", r.n > 0 && r.pct < 100);
+        el.querySelector("[data-stamp-label]")!.textContent = `${r.n} / ${r.total}${r.pct === 100 ? " · stamped" : ""}`;
+        (el.querySelector("[data-stamp-bar]") as HTMLElement).style.width = r.pct + "%";
+        if (r.pct === 100) done++; if (r.n) touched++;
+      });
+      $("[data-stat=seen]").textContent = String(p.seen.length);
+      $("[data-stat=stamps]").textContent = String(done);
+      $("[data-stat=want]").textContent = String(p.want.length);
+      const allKeys = [...document.querySelectorAll<HTMLElement>("[data-stamp]")].flatMap((el) => JSON.parse(el.dataset.keys!));
+      $("[data-stat=pct]").textContent = progress(allKeys, p).pct + "%";
+      if (rows.length) {
+        const k = byKey();
+        const want = p.want.map((x) => k[x]).filter(Boolean), seen = p.seen.map((x) => k[x]).filter(Boolean).reverse();
+        if (want.length) $("[data-want-grid]").innerHTML = want.map(card).join("");
+        if (seen.length) $("[data-seen-grid]").innerHTML = seen.map(card).join("");
+      }
+      const pp = $("[data-platforms]");
+      if (!pp.children.length) pp.innerHTML = PLATFORMS.map((x) => `<label><input type="checkbox" value="${x.slug}" ${p.platforms.includes(x.slug) ? "checked" : ""}>${x.name}</label>`).join("");
+    }
+    $("[data-platforms]").addEventListener("change", () => setPlatforms([...document.querySelectorAll<HTMLInputElement>("[data-platforms] input:checked")].map((i) => i.value)));
+    document.addEventListener("sc:passport", paint);
+    paint();
+    films(base).then((r) => { rows = r; paint(); });
+
+    // Share: draw a 1080x1350 story card on a canvas and download it. Nothing leaves the browser.
+    $("[data-share]").addEventListener("click", async () => {
+      const p = load(); const k = byKey();
+      const c = document.createElement("canvas"); c.width = 1080; c.height = 1350; const g = c.getContext("2d")!;
+      g.fillStyle = "#0b0b0d"; g.fillRect(0, 0, 1080, 1350);
+      const grad = g.createRadialGradient(300, 200, 50, 300, 200, 900); grad.addColorStop(0, "rgba(240,199,78,.18)"); grad.addColorStop(1, "rgba(0,0,0,0)"); g.fillStyle = grad; g.fillRect(0, 0, 1080, 1350);
+      await (document as any).fonts?.load('800 120px "Playfair Display"').catch(() => {});
+      g.fillStyle = "#8f8a80"; g.font = "600 26px -apple-system, Helvetica, Arial"; g.letterSpacing = "8px"; g.fillText("SORTED CINEMA PASSPORT", 80, 120);
+      const stampsDone = [...document.querySelectorAll<HTMLElement>("[data-stamp]")].filter((el) => el.querySelector(".stamp")!.classList.contains("done")).map((el) => el.querySelector(".n")!.textContent);
+      const allKeys = [...document.querySelectorAll<HTMLElement>("[data-stamp]")].flatMap((el) => JSON.parse(el.dataset.keys!));
+      const pct = progress(allKeys, p).pct;
+      g.fillStyle = "#F0C74E"; g.font = '800 200px "Playfair Display", Georgia, serif'; g.letterSpacing = "0px"; g.fillText(`${pct}%`, 74, 360);
+      g.fillStyle = "#f2efe6"; g.font = '600 54px "Playfair Display", Georgia, serif'; g.fillText("of the world, seen.", 80, 440);
+      g.fillStyle = "#b9b4a8"; g.font = "400 30px -apple-system, Helvetica, Arial";
+      g.fillText(`${p.seen.length} films · ${stampsDone.length} countries stamped`, 80, 500);
+      let y = 600;
+      g.fillStyle = "#8f8a80"; g.font = "600 22px -apple-system, Helvetica, Arial"; g.letterSpacing = "6px"; g.fillText(stampsDone.length ? "STAMPED" : "LAST SEEN", 80, y); y += 30; g.letterSpacing = "0px";
+      const lines = stampsDone.length ? stampsDone : p.seen.slice(-6).reverse().map((x) => k[x]?.t || x);
+      g.fillStyle = "#f2efe6"; g.font = '700 44px "Playfair Display", Georgia, serif';
+      for (const l of lines.slice(0, 8)) { y += 62; g.fillText(String(l), 80, y); }
+      g.fillStyle = "#8f8a80"; g.font = "400 26px -apple-system, Helvetica, Arial"; g.fillText("www.sortedcinema.com", 80, 1270);
+      g.fillStyle = "#F0C74E"; g.font = '800 34px "Playfair Display", Georgia, serif'; g.fillText("Sorted Cinema", 700, 1270);
+      const a = document.createElement("a"); a.download = `sorted-passport-${new Date().toISOString().slice(0, 10)}.png`; a.href = c.toDataURL("image/png"); a.click();
+      $("[data-share-note]").hidden = false;
+    });
+  </script>
+</Base>

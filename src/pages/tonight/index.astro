@@ -1,0 +1,27 @@
+---
+import Base from "../../layouts/Base.astro";
+import { data, film, tonightKey, addDays, TONIGHT_DAYS, href, filmUrl } from "../../lib/data";
+const start = data.tonight.start;
+const buildToday = data.stats.today;
+const idx = Math.min(Math.max(Math.round((Date.parse(buildToday) - Date.parse(start)) / 864e5), 0), TONIGHT_DAYS - 1);
+const recent = Array.from({ length: 8 }, (_, k) => idx - k).filter((i) => i >= 0).map((i) => ({ date: addDays(start, i), f: film(tonightKey(i)) }));
+---
+<Base title="Tonight" description="One film for tonight, every night, chosen for India — with where to stream it." noindex={false}>
+  <section class="section">
+    <div class="wrap">
+      <div class="eyebrow">Tonight</div>
+      <h1 style="font-size:clamp(32px,5vw,52px);margin-top:10px">Finding tonight's film…</h1>
+      <p class="muted" style="margin-top:12px">If this does not move, pick a night below.</p>
+      <div class="results" style="margin-top:22px">
+        {recent.map(({ date, f }) => <a class="result" href={href(`/tonight/${date}/`)}><span class="k">{date.slice(5)}</span><span><div class="n">{f.title}</div><div class="s">{[f.year, f.director].filter(Boolean).join(" · ")}</div></span></a>)}
+      </div>
+    </div>
+  </section>
+  <script define:vars={{ start, base: href("/"), days: TONIGHT_DAYS }}>
+    const d = new Date(Date.now() + 5.5 * 3600 * 1000).toISOString().slice(0, 10);
+    let i = Math.round((Date.parse(d) - Date.parse(start)) / 864e5);
+    i = Math.min(Math.max(i, 0), days - 1);
+    const target = new Date(Date.parse(start) + i * 864e5).toISOString().slice(0, 10);
+    location.replace(`${base}tonight/${target}/`);
+  </script>
+</Base>

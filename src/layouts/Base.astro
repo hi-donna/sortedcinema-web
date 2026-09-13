@@ -44,11 +44,16 @@ const og = image || new URL("/og-default.png", Astro.site).href;
     <style is:global set:html={`@font-face{font-family:"Playfair Display";src:url("${href("/fonts/PlayfairDisplay.woff2")}") format("woff2");font-weight:400 900;font-display:swap}`}></style>
     {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
   </head>
-  <body>
+  <body data-base={href("/")}>
     <Header />
     <main>
       <slot />
     </main>
     <Footer />
+    <script>
+      import { wireButtons, touch } from "../lib/client";
+      touch();
+      wireButtons();
+    </script>
   </body>
 </html>

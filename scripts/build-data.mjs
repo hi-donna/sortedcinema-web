@@ -109,6 +109,15 @@ const countries = out.filter((c) => c.kind === "world").map((c) => ({
 
 const discover = readJson(path.join(DATA, `discover-${site.canonYear || 2026}.json`), null);
 
+// ---------------------------------------------------------------- Tonight: one film a day, deterministic
+// Pool = every film we wrote a real paragraph for (world/india on-ramps, editorial batches, 2026 verdicts).
+// Order is a seeded shuffle so the sequence is stable across builds; day N shows order[N % len].
+function mulberry32(a) { return () => { a |= 0; a = (a + 0x6d2b79f5) | 0; let t = Math.imul(a ^ (a >>> 15), 1 | a); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; }
+const pool = [...films.values()].filter((f) => f.blurbs.some((b) => b.kind === "blurb")).map((f) => f.key).sort();
+const rnd = mulberry32(20260914);
+for (let i = pool.length - 1; i > 0; i--) { const j = Math.floor(rnd() * (i + 1)); [pool[i], pool[j]] = [pool[j], pool[i]]; }
+const tonight = { start: site.tonightStart || "2026-09-14", order: pool };
+
 const search = [
   ...out.map((c) => ({ t: "list", s: c.slug, n: c.title, k: c.kicker || c.category || "" })),
   ...[...films.values()].map((f) => ({ t: "film", s: f.key, n: f.title, k: [f.year, f.original_title, f.director].filter(Boolean).join(" · ") })),
@@ -121,5 +130,5 @@ const stats = {
   built: new Date().toISOString(), today,
 };
 
-writeJson(path.join(ROOT, "src", "data", "site.json"), { site, moods, curators, collections: out, films: filmsObj, byMood, platforms, countries, discover, search, stats });
+writeJson(path.join(ROOT, "src", "data", "site.json"), { site, moods, curators, collections: out, films: filmsObj, byMood, platforms, countries, discover, search, stats, tonight });
 console.log(`data: ${stats.collections} collections, ${stats.films} films (${stats.enriched} enriched, ${stats.streamingIndia} streaming in India)`);

@@ -2,7 +2,7 @@
 import Base from "../../layouts/Base.astro";
 import FilmRow from "../../components/FilmRow.astro";
 import ListCard from "../../components/ListCard.astro";
-import { data, site, film, coverOf, dateLabel } from "../../lib/data";
+import { data, site, film, coverOf, dateLabel, href } from "../../lib/data";
 
 export function getStaticPaths() {
   return data.collections.filter((c) => c.kind !== "year").map((c) => ({ params: { slug: c.slug }, props: { c } }));
@@ -33,6 +33,10 @@ const jsonld = {
         {pub && <span>{pub.month} {pub.year}</span>}
         {c.source?.permalink && <span><a class="accent" href={c.source.permalink} rel="noopener" target="_blank">See the post ↗</a></span>}
       </div>
+      <div class="list-progress" data-progress={JSON.stringify(c.films.map((e) => e.key))} style="margin-top:18px;max-width:420px" hidden>
+        <div style="display:flex;justify-content:space-between;font-size:13px;color:var(--text-2);margin-bottom:6px"><span data-progress-label></span><a class="accent" href={href("/passport/")}>Your passport →</a></div>
+        <div class="progress"><i data-progress-bar></i></div>
+      </div>
     </div>
   </section>
 
@@ -59,4 +63,13 @@ const jsonld = {
       </div>
     </section>
   ) : null}
+<script>
+  import { load, progress } from "../../lib/client";
+  const box = document.querySelector<HTMLElement>("[data-progress]");
+  if (box) {
+    const keys = JSON.parse(box.dataset.progress!);
+    const paint = (p: any) => { const r = progress(keys, p); box.hidden = false; box.querySelector("[data-progress-label]")!.textContent = r.n ? `You've seen ${r.n} of ${r.total} · ${r.pct}% stamped` : `Mark what you've seen — ${r.total} to go`; (box.querySelector("[data-progress-bar]") as HTMLElement).style.width = r.pct + "%"; };
+    paint(load()); document.addEventListener("sc:passport", (e: any) => paint(e.detail));
+  }
+</script>
 </Base>

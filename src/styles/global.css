@@ -259,3 +259,75 @@ p { margin: 0; }
 .notice { padding: 14px 18px; border-radius: var(--radius-sm); background: var(--surface); border: 1px solid var(--line); color: var(--text-2); font-size: 14px; }
 .count { font-family: var(--serif); color: var(--accent); }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* ---- passport buttons + progress */
+.pbtns { display: inline-flex; gap: 8px; flex-wrap: wrap; }
+.pbtn { display: inline-flex; align-items: center; gap: 6px; padding: 9px 14px; border-radius: 999px; border: 1px solid var(--line-2); background: rgba(255,255,255,0.04); color: var(--text); font-size: 13px; font-weight: 600; cursor: pointer; transition: background .15s, border-color .15s; }
+.pbtn:hover { background: rgba(255,255,255,0.1); }
+.pbtn.on { background: var(--accent); color: var(--accent-ink); border-color: transparent; }
+.pbtn.small { padding: 6px 11px; font-size: 12px; }
+.progress { height: 6px; border-radius: 999px; background: rgba(255,255,255,0.08); overflow: hidden; }
+.progress > i { display: block; height: 100%; width: 0; background: var(--accent); border-radius: 999px; transition: width .4s; }
+.stamp { display: grid; place-items: center; aspect-ratio: 1; border-radius: 50%; border: 2px dashed var(--line-2); color: var(--muted); font-family: var(--serif); font-weight: 800; font-size: 22px; transition: all .3s; }
+.stamp.done { border: 3px solid var(--accent); color: var(--accent); transform: rotate(-8deg); box-shadow: 0 0 0 4px rgba(240,199,78,.12); }
+.stamp.part { border-style: solid; color: var(--text-2); }
+.stamp-card { display: grid; grid-template-columns: 64px 1fr; gap: 14px; align-items: center; padding: 14px; border-radius: var(--radius); background: var(--surface); border: 1px solid var(--line); }
+.stamp-card:hover { border-color: var(--line-2); color: inherit; }
+.stamp-card .n { font-family: var(--serif); font-weight: 700; font-size: 17px; }
+.stamp-card .s { font-size: 12px; color: var(--muted); margin-top: 2px; }
+.big-stat { font-family: var(--serif); font-size: clamp(40px, 7vw, 72px); font-weight: 800; color: var(--accent); line-height: 1; }
+.big-stat small { font-size: 14px; font-family: var(--sans); color: var(--muted); font-weight: 500; display: block; margin-top: 6px; letter-spacing: .1em; text-transform: uppercase; }
+.stats-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 20px; }
+
+/* ---- tonight */
+.tonight { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 40px; align-items: center; }
+.tonight .date { font-family: var(--serif); font-size: 15px; color: var(--muted); letter-spacing: .08em; }
+.tonight h1 { font-size: clamp(40px, 7vw, 88px); color: var(--text); line-height: .98; margin-top: 10px; }
+.tonight .why { margin-top: 20px; font-family: var(--serif); font-size: clamp(19px, 2.2vw, 24px); line-height: 1.45; max-width: 30em; }
+.tonight .poster { border-radius: var(--radius); overflow: hidden; border: 1px solid var(--line); box-shadow: var(--shadow); }
+.tonight .poster.fallback { aspect-ratio: 2/3; display: grid; place-items: center; background: linear-gradient(160deg, hsl(var(--h,44) 35% 20%), var(--bg-2)); font-family: var(--serif); font-size: 30px; font-weight: 700; text-align: center; padding: 24px; }
+.tonight-nav { display: flex; justify-content: space-between; gap: 12px; margin-top: 30px; font-size: 14px; }
+@media (max-width: 760px) { .tonight { grid-template-columns: 1fr; } .tonight .poster { max-width: 220px; order: -1; } }
+
+/* ---- quiz */
+.q { display: none; }
+.q.active { display: block; }
+.q h2 { font-size: clamp(28px, 4vw, 44px); }
+.q .opts { display: grid; gap: 10px; margin-top: 22px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 220px), 1fr)); }
+.opt { text-align: left; padding: 16px 18px; border-radius: var(--radius); border: 1px solid var(--line-2); background: var(--surface); color: var(--text); cursor: pointer; font-size: 15px; transition: all .15s; }
+.opt small { display: block; color: var(--muted); font-size: 12.5px; margin-top: 4px; }
+.opt:hover { border-color: var(--accent); }
+.opt.on { background: var(--accent); color: var(--accent-ink); border-color: transparent; }
+.opt.on small { color: var(--accent-ink); opacity: .75; }
+.steps { display: flex; gap: 6px; margin-bottom: 18px; }
+.steps i { flex: 1; height: 4px; border-radius: 999px; background: rgba(255,255,255,.1); }
+.steps i.done { background: var(--accent); }
+.pick { display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 22px; border-radius: var(--radius); background: var(--surface); border: 1px solid var(--line); }
+.pick .poster { aspect-ratio: 2/3; border-radius: var(--radius-sm); overflow: hidden; background: linear-gradient(160deg, hsl(var(--h,44) 35% 20%), var(--bg-2)); display: grid; place-items: end start; padding: 10px; font-family: var(--serif); font-weight: 700; }
+.pick .poster img { width: 100%; height: 100%; object-fit: cover; }
+.pick h3 { font-size: clamp(22px, 3vw, 30px); }
+.pick h3 a:hover { color: var(--accent-2); }
+.pick .why { margin-top: 8px; color: var(--text-2); max-width: 60ch; }
+.pick .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 12px; }
+@media (max-width: 560px) { .pick { grid-template-columns: 84px 1fr; gap: 14px; padding: 14px; } }
+.platform-picker { display: flex; flex-wrap: wrap; gap: 8px; }
+.platform-picker label { display: inline-flex; align-items: center; gap: 8px; padding: 9px 14px; border-radius: 999px; border: 1px solid var(--line-2); background: var(--surface); cursor: pointer; font-size: 14px; }
+.platform-picker label:has(input:checked) { background: var(--accent); color: var(--accent-ink); border-color: transparent; }
+.platform-picker input { display: none; }
+
+/* ---- home top: question + tonight card */
+.home-top { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(280px, 1fr); gap: 40px; align-items: start; }
+.home-top h1 { font-size: clamp(40px, 6vw, 72px); color: var(--accent); text-wrap: balance; }
+.home-top .lede { font-size: clamp(17px, 2vw, 20px); color: var(--text-2); max-width: 52ch; margin-top: 16px; }
+.home-top .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 24px; }
+.tonight-card { display: grid; grid-template-columns: 110px 1fr; grid-template-rows: auto auto auto 1fr auto; gap: 4px 18px; padding: 18px; border-radius: var(--radius); background: rgba(20,20,24,.85); border: 1px solid var(--line-2); backdrop-filter: blur(10px); box-shadow: var(--shadow); color: var(--text); }
+.tonight-card:hover { border-color: var(--accent); color: var(--text); }
+.tonight-card .eyebrow { grid-column: 1 / -1; margin-bottom: 8px; }
+.tonight-card .poster { grid-row: 2 / span 4; aspect-ratio: 2/3; border-radius: var(--radius-sm); overflow: hidden; background: var(--surface-2); display: grid; place-items: center; font-family: var(--serif); font-weight: 700; text-align: center; padding: 8px; font-size: 14px; }
+.tonight-card .poster img { width: 100%; height: 100%; object-fit: cover; }
+.tonight-card h3 { font-size: 24px; line-height: 1.1; }
+.tonight-card .s { font-size: 13px; }
+.tonight-card .why { font-size: 14px; color: var(--text-2); margin-top: 8px; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+.tonight-card .btn { justify-self: start; align-self: end; }
+.passport-strip { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-top: 28px; padding: 12px 16px; border-radius: var(--radius-sm); background: rgba(240,199,78,.08); border: 1px solid rgba(240,199,78,.25); font-size: 14px; }
+@media (max-width: 820px) { .home-top { grid-template-columns: 1fr; } }

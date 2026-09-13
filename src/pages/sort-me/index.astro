@@ -1,0 +1,138 @@
+---
+import Base from "../../layouts/Base.astro";
+import { data, href } from "../../lib/data";
+const moods = data.moods;
+---
+<Base title="Sort me" description="Answer four quick questions and get three films for tonight, filtered to the platforms you actually pay for." noindex={true}>
+  <section class="section">
+    <div class="wrap" style="max-width:860px">
+      <div class="eyebrow">Sort me</div>
+      <h1 style="font-size:clamp(30px,5vw,48px);margin-top:10px">Twenty seconds. Three films. No scrolling.</h1>
+      <div class="steps" style="margin-top:24px" data-steps><i></i><i></i><i></i><i></i></div>
+
+      <div class="q active" data-q="time">
+        <h2>How much night do you have?</h2>
+        <div class="opts">
+          <button class="opt" data-v="short">Under 100 minutes<small>A tight one. In bed by midnight.</small></button>
+          <button class="opt" data-v="normal">About two hours<small>The standard evening.</small></button>
+          <button class="opt" data-v="long">All night<small>Three hours, a series, whatever it takes.</small></button>
+        </div>
+      </div>
+
+      <div class="q" data-q="energy">
+        <h2>How are you, honestly?</h2>
+        <div class="opts">
+          <button class="opt" data-v="awake">Wide awake<small>I can take something demanding.</small></button>
+          <button class="opt" data-v="tired">Tired<small>Carry me. Nothing I have to work for.</small></button>
+          <button class="opt" data-v="cry">I need to feel something<small>A good cry, or a good laugh.</small></button>
+          <button class="opt" data-v="thrill">I want my pulse up<small>Tense, twisty, do not check the phone.</small></button>
+        </div>
+      </div>
+
+      <div class="q" data-q="who">
+        <h2>Who's watching?</h2>
+        <div class="opts">
+          <button class="opt" data-v="alone">Just me<small>Anything goes.</small></button>
+          <button class="opt" data-v="partner">Two of us<small>Something we will both talk about after.</small></button>
+          <button class="opt" data-v="family">Family in the room<small>Nothing that makes the room go quiet in the wrong way.</small></button>
+        </div>
+      </div>
+
+      <div class="q" data-q="where">
+        <h2>Where are we going?</h2>
+        <div class="opts">
+          <button class="opt" data-v="anywhere">Anywhere in the world<small>Subtitles are fine.</small></button>
+          <button class="opt" data-v="india">Somewhere in India<small>Malayalam, Tamil, Marathi, Bengali, Hindi and more.</small></button>
+          <button class="opt" data-v="english">English-language only<small>Not tonight, subtitles.</small></button>
+        </div>
+        <p class="dim" style="font-size:13px;margin-top:18px">Filtering to your platforms: <span data-plat-note>none set — <a class="accent" href={href("/passport/")}>set them in your passport</a> and we only suggest what you can press play on.</span></p>
+      </div>
+
+      <div class="q" data-q="result">
+        <div class="section-head"><div><div class="eyebrow">Sorted</div><h2>Tonight, it's one of these.</h2></div><button class="btn small" type="button" data-again>Three more</button></div>
+        <div class="stack" style="--gap:14px" data-picks></div>
+        <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:22px">
+          <button class="btn" type="button" data-restart>Start over</button>
+          <a class="btn" href={href("/tonight/")}>Or just take tonight's pick</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script define:vars={{ moods }}>window.__moods = moods;</script>
+  <script>
+    import { films, load, PLATFORMS, type FilmRow } from "../../lib/client";
+    const base = document.body.dataset.base || "/";
+    const IMG = "https://image.tmdb.org/t/p/w342";
+    const esc = (s: string) => s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]!));
+    const order = ["time", "energy", "who", "where", "result"];
+    const ans: Record<string, string> = {};
+    let step = 0, shown = new Set<string>();
+    const qs = () => document.querySelectorAll<HTMLElement>(".q");
+    const go = (i: number) => { step = i; qs().forEach((q, j) => q.classList.toggle("active", j === i)); document.querySelectorAll<HTMLElement>("[data-steps] i").forEach((s, j) => s.classList.toggle("done", j < i)); window.scrollTo({ top: 0, behavior: "smooth" }); };
+    document.querySelectorAll<HTMLElement>(".opt").forEach((b) => b.addEventListener("click", () => {
+      const q = b.closest<HTMLElement>(".q")!; ans[q.dataset.q!] = b.dataset.v!;
+      q.querySelectorAll(".opt").forEach((o) => o.classList.toggle("on", o === b));
+      setTimeout(() => (step === 3 ? result() : go(step + 1)), 160);
+    }));
+    document.querySelector("[data-restart]")!.addEventListener("click", () => { shown.clear(); go(0); });
+    document.querySelector("[data-again]")!.addEventListener("click", () => result());
+
+    const p0 = load();
+    if (p0.platforms.length) document.querySelector("[data-plat-note]")!.textContent = p0.platforms.map((s) => PLATFORMS.find((x) => x.slug === s)?.name || s).join(", ");
+
+    const ENERGY: Record<string, { want: string[]; avoid: string[] }> = {
+      awake: { want: ["mind-bending", "slow-burn", "epic", "dark"], avoid: [] },
+      tired: { want: ["cozy", "funny", "hopeful", "tender"], avoid: ["slow-burn", "devastating", "mind-bending"] },
+      cry: { want: ["devastating", "tender", "funny", "hopeful"], avoid: [] },
+      thrill: { want: ["tense", "mind-bending", "dark"], avoid: ["cozy"] },
+    };
+    const INDIA = new Set(["hi", "ml", "ta", "mr", "bn", "te", "kn", "pa", "gu"]);
+    const INDIA_LISTS = /malayalam|tamil|marathi|bengali|telugu|hindi/;
+
+    function score(r: FilmRow, p: ReturnType<typeof load>): number | null {
+      if (p.seen.includes(r.k) || shown.has(r.k)) return null;
+      if (r.tv && ans.time !== "long") return null;
+      if (r.r) { if (ans.time === "short" && r.r > 105) return null; if (ans.time === "normal" && r.r > 150) return null; }
+      const isIndia = (r.l && INDIA.has(r.l)) || r.ls.some((s) => INDIA_LISTS.test(s));
+      if (ans.where === "india" && !isIndia) return null;
+      if (ans.where === "english" && r.l && r.l !== "en") return null;
+      if (ans.where === "english" && !r.l && r.ls.some((s) => /start-here/.test(s))) return null; // un-enriched world films
+      if (ans.who === "family" && r.m.includes("dark")) return null;
+      const e = ENERGY[ans.energy] || { want: [], avoid: [] };
+      let s = 0;
+      for (const m of r.m) { if (e.want.includes(m)) s += 3; if (e.avoid.includes(m)) s -= 4; }
+      if (ans.who === "partner" && (r.m.includes("tender") || r.m.includes("funny"))) s += 1;
+      if (ans.who === "family" && (r.m.includes("cozy") || r.m.includes("hopeful"))) s += 2;
+      if (r.b) s += 2; // we wrote something real about it
+      if (p.platforms.length) { if (r.on.some((x) => p.platforms.includes(x))) s += 6; else if (r.on.length) s -= 3; }
+      if (p.want.includes(r.k)) s += 4; // they asked for it
+      if (ans.time === "long" && r.r && r.r > 150) s += 2;
+      return s + Math.random() * 1.5;
+    }
+
+    async function result() {
+      go(4);
+      const p = load(); const rows = await films(base);
+      const ranked = rows.map((r) => ({ r, s: score(r, p) })).filter((x) => x.s !== null).sort((a, b) => b.s! - a.s!).slice(0, 3);
+      if (!ranked.length) { shown.clear(); document.querySelector("[data-picks]")!.innerHTML = `<p class="notice">We ran out of films that fit. <button class="btn small" data-restart2>Loosen it up</button></p>`; document.querySelector("[data-restart2]")!.addEventListener("click", () => go(0)); return; }
+      document.querySelector("[data-picks]")!.innerHTML = ranked.map(({ r }) => {
+        shown.add(r.k);
+        const h = [...r.k].reduce((a, c) => (a * 31 + c.charCodeAt(0)) % 360, 0);
+        const on = r.on.map((s) => PLATFORMS.find((x) => x.slug === s)?.name || s);
+        const mine = r.on.filter((s) => p.platforms.includes(s)).length > 0;
+        const chips = on.length ? on.map((n) => `<span class="chip ${mine ? "on" : ""}">${esc(n)}</span>`).join("") : `<span class="chip none">Streaming info coming</span>`;
+        return `<article class="pick" style="--h:${h}">
+          <a class="poster" href="${base}film/${r.k}/">${r.p ? `<img src="${IMG}${r.p}" alt="">` : esc(r.t)}</a>
+          <div>
+            <h3><a href="${base}film/${r.k}/">${esc(r.t)}</a></h3>
+            <div class="dim" style="font-size:13px;margin-top:2px">${[r.y, r.d, r.r ? Math.floor(r.r / 60) + "h " + (r.r % 60) + "m" : null].filter(Boolean).map(String).map(esc).join(" · ")}</div>
+            ${r.b ? `<p class="why">${esc(r.b)}</p>` : ""}
+            <div class="row"><span class="chips">${chips}</span></div>
+            <div class="row"><button class="pbtn small" data-seen="${r.k}"><span data-label>Seen it</span></button><button class="pbtn small" data-want="${r.k}"><span data-label>Save for later</span></button></div>
+          </div></article>`;
+      }).join("");
+      const { wireButtons } = await import("../../lib/client"); wireButtons();
+    }
+  </script>
+</Base>

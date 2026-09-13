@@ -2,10 +2,13 @@
 import { site, href, BASE } from "../lib/data";
 const path = "/" + Astro.url.pathname.slice(BASE.length);
 const items = [
-  { href: "/lists/", label: "Lists" },
+  { href: "/tonight/", label: "Tonight" },
+  { href: "/sort-me/", label: "Sort me" },
   { href: "/world/", label: "World Cinema" },
   { href: "/2026/", label: "Sorted 2026" },
+  { href: "/lists/", label: "Lists" },
   { href: "/watch/", label: "Where to Watch" },
+  { href: "/passport/", label: "Passport" },
   { href: "/search/", label: "Search" },
 ];
 const current = (href: string) => (href === "/" ? path === "/" : path.startsWith(href));
@@ -19,7 +22,6 @@ const current = (href: string) => (href === "/" ? path === "/" : path.startsWith
     <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav" data-nav-toggle>Menu</button>
     <nav class="nav" id="nav" aria-label="Primary">
       {items.map((i) => <a href={href(i.href)} aria-current={current(i.href) ? "page" : undefined}>{i.label}</a>)}
-      <a href={site.instagram} rel="noopener" target="_blank">Instagram</a>
       <a class="cta" href={site.merch} rel="noopener" target="_blank">{site.merchLabel}</a>
     </nav>
   </div>

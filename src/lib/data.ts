@@ -28,6 +28,7 @@ export const data = raw as unknown as {
   discover: null | { generated_at: string; region: string; year: number; streaming: any[]; upcoming: any[] };
   search: { t: string; s: string; n: string; k: string }[];
   stats: Record<string, any>;
+  tonight: { start: string; order: string[] };
 };
 
 export const site = data.site;
@@ -97,3 +98,8 @@ export function homeRails() {
   const archive = data.collections.filter((c) => c.kind === "archive").sort((a, b) => (b.published || "").localeCompare(a.published || ""));
   return { world, india, archive };
 }
+
+/** Day index → film key for the Tonight pick. */
+export function tonightKey(dayIndex: number) { const o = data.tonight.order; return o[((dayIndex % o.length) + o.length) % o.length]; }
+export function addDays(iso: string, n: number) { const d = new Date(Date.parse(iso) + n * 864e5); return d.toISOString().slice(0, 10); }
+export const TONIGHT_DAYS = 420;

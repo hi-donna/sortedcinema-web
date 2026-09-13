@@ -9,6 +9,17 @@ a growing record of everything worth watching from 2026 onwards. Every film carr
 (JustWatch data) · GitHub Actions builds and deploys to GitHub Pages. No database, no accounts,
 no tracking, $0/month.
 
+## The three habits
+
+- **Tonight** (`/tonight/`): one film a day for everyone, deterministic (seeded order over every
+  film we wrote a real paragraph for; `content/site.json` → `tonightStart`). Dated pages are
+  pre-rendered 420 days ahead; `/tonight/` redirects to today in IST.
+- **Passport** (`/passport/`): Seen it / Save for later on every film, a stamp per country
+  on-ramp, "% of the world", your platforms, and a shareable 1080×1350 story image drawn in the
+  browser. `localStorage` only — no accounts, nothing leaves the device (`src/lib/client.ts`).
+- **Sort me** (`/sort-me/`): four taps → three picks, filtered to the platforms in the passport,
+  excluding what you've seen. Scoring lives in `src/pages/sort-me/index.astro`.
+
 ## How it works
 
 ```

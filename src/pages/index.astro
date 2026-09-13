@@ -16,17 +16,35 @@ const streaming = data.discover?.streaming?.slice(0, 12) || [];
 const jsonld = { "@context": "https://schema.org", "@type": "WebSite", name: site.name, url: site.url, potentialAction: { "@type": "SearchAction", target: `${site.url}/search/?q={q}`, "query-input": "required name=q" } };
 ---
 <Base jsonld={jsonld}>
-  <section class="hero">
+  <section class="hero" style="min-height:0">
     {heroArt && <div class="bg" style={`background-image:url('${heroArt}')`}></div>}
     <div class="grade"></div>
-    <div class="wrap inner">
-      <div class="eyebrow">Sorted Cinema presents</div>
-      <h1 style="margin-top:14px">Films worth your night.<br /><span class="w">And where to watch them in India.</span></h1>
-      <p class="lede">Mood-first, spoiler-free lists from the people behind {site.handle}. World cinema on-ramps for Korea, Iran, Japan, Kerala and more, plus a growing record of everything worth watching from 2026 onwards.</p>
-      <div class="actions">
-        <a class="btn primary" href={href("/world/")}>Start with world cinema</a>
-        <a class="btn" href={href("/2026/")}>Sorted 2026</a>
-        <a class="btn" href={href("/watch/")}>Where to watch</a>
+    <div class="wrap" style="padding-block:clamp(36px,7vw,72px) clamp(28px,5vw,48px)">
+      <div class="home-top">
+        <div>
+          <div class="eyebrow">Sorted Cinema presents</div>
+          <h1 style="margin-top:14px">What kind of night is it?</h1>
+          <p class="lede">Tell us in four taps and we hand you three films you can press play on in India tonight. Or take the one film we picked for everyone today.</p>
+          <div class="actions">
+            <a class="btn primary" href={href("/sort-me/")}>Sort me →</a>
+            <a class="btn" href={href("/world/")}>Start with world cinema</a>
+          </div>
+          <div class="pills" style="margin-top:18px">
+            {moodKeys.map((m) => <a class="pill" href={moodUrl(m)}>{data.moods[m].label}</a>)}
+          </div>
+        </div>
+        <a class="tonight-card" href={href("/tonight/")} data-tonight-card data-order={JSON.stringify(data.tonight.order)} data-start={data.tonight.start}>
+          <div class="eyebrow">Tonight · <span data-tc-date>{data.stats.today}</span></div>
+          <div class="poster" data-tc-poster></div>
+          <h3 data-tc-title>Tonight's film</h3>
+          <div class="s dim" data-tc-sub></div>
+          <p class="why" data-tc-why></p>
+          <span class="btn small" style="margin-top:12px">See tonight's pick →</span>
+        </a>
+      </div>
+      <div class="passport-strip" data-passport-strip hidden>
+        <span data-ps-text></span>
+        <a class="accent" href={href("/passport/")}>Open your passport →</a>
       </div>
     </div>
     {heroArt && heroFilm && <div class="credit">Still from {heroFilm.title} ({heroFilm.year})</div>}
@@ -144,4 +162,31 @@ const jsonld = { "@context": "https://schema.org", "@type": "WebSite", name: sit
       </div>
     </section>
   ) : null}
+<script>
+  import { load, films, progress } from "../lib/client";
+  const base = document.body.dataset.base || "/";
+  const card = document.querySelector<HTMLElement>("[data-tonight-card]");
+  if (card) {
+    const order: string[] = JSON.parse(card.dataset.order!);
+    const d = new Date(Date.now() + 5.5 * 3600 * 1000).toISOString().slice(0, 10);
+    const i = Math.max(0, Math.round((Date.parse(d) - Date.parse(card.dataset.start!)) / 864e5));
+    const key = order[i % order.length];
+    card.setAttribute("href", `${base}tonight/${d}/`);
+    card.querySelector("[data-tc-date]")!.textContent = new Date(d + "T00:00:00").toLocaleDateString("en-IN", { weekday: "short", day: "numeric", month: "short" });
+    films(base).then((rows) => {
+      const r = rows.find((x) => x.k === key); if (!r) return;
+      card.querySelector("[data-tc-title]")!.textContent = r.t;
+      card.querySelector("[data-tc-sub]")!.textContent = [r.y, r.d].filter(Boolean).join(" · ");
+      card.querySelector("[data-tc-why]")!.textContent = r.b ? r.b.split(". ").slice(0, 2).join(". ") + "." : "";
+      const p = card.querySelector<HTMLElement>("[data-tc-poster]")!;
+      if (r.p) p.innerHTML = `<img src="https://image.tmdb.org/t/p/w342${r.p}" alt="">`; else { p.classList.add("fallback"); p.textContent = r.t; }
+    });
+  }
+  const strip = document.querySelector<HTMLElement>("[data-passport-strip]");
+  const p = load();
+  if (strip && (p.seen.length || p.want.length)) {
+    strip.hidden = false;
+    strip.querySelector("[data-ps-text]")!.textContent = `${p.seen.length} seen · ${p.want.length} saved for later${p.visits > 1 ? ` · visit ${p.visits}` : ""}`;
+  }
+</script>
 </Base>

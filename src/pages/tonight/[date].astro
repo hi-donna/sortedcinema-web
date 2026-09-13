@@ -1,0 +1,65 @@
+---
+import Base from "../../layouts/Base.astro";
+import Providers from "../../components/Providers.astro";
+import PassportButtons from "../../components/PassportButtons.astro";
+import { data, film, poster, backdrop, hue, filmUrl, listUrl, leadText, addDays, tonightKey, TONIGHT_DAYS, dateLabel, href, collection } from "../../lib/data";
+
+export function getStaticPaths() {
+  const start = data.tonight.start;
+  return Array.from({ length: TONIGHT_DAYS }, (_, i) => ({ params: { date: addDays(start, i) }, props: { i, date: addDays(start, i) } }));
+}
+const { i, date } = Astro.props;
+const f = film(tonightKey(i));
+const src = poster(f, "w500");
+const art = backdrop(f, "original");
+const lead = leadText(f);
+const d = dateLabel(date)!;
+const dow = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"][new Date(date + "T00:00:00Z").getUTCDay()];
+const prev = i > 0 ? addDays(date, -1) : null;
+const next = i < TONIGHT_DAYS - 1 ? addDays(date, 1) : null;
+const from = lead ? collection(lead.collection) : null;
+---
+<Base title={`Tonight · ${d.day} ${d.month}: ${f.title}`} description={`One film for tonight, ${dow} ${d.day} ${d.month}: ${f.title}${f.year ? ` (${f.year})` : ""}. ${lead?.text || ""}`.slice(0, 300)} image={art || src} type="article">
+  <section class="page-hero" style="min-height:0">
+    {art && <div class="bg" style={`background-image:url('${art}')`}></div>}
+    <div class="grade"></div>
+    <div class="wrap" style="padding-block:clamp(36px,7vw,80px) clamp(28px,5vw,56px)">
+      <div class="tonight">
+        <div>
+          <div class="eyebrow">Tonight</div>
+          <div class="date" data-tonight-date={date}>{dow} {d.day} {d.month} {d.year}</div>
+          <h1><a href={filmUrl(f.key)}>{f.title}</a></h1>
+          <div class="muted" style="margin-top:10px;font-size:15px">{[f.year, f.director].filter(Boolean).join(" · ")}{f.original_title && f.original_title !== f.title ? ` · ${f.original_title}` : ""}</div>
+          {lead && <p class="why">{lead.text}</p>}
+          <div style="margin-top:20px"><Providers f={f} /></div>
+          <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:18px;align-items:center">
+            {f.tmdb?.trailer && <a class="btn primary" href={`https://www.youtube.com/watch?v=${f.tmdb.trailer}`} rel="noopener" target="_blank">▶ Trailer</a>}
+            <a class="btn" href={filmUrl(f.key)}>Film page</a>
+            <PassportButtons k={f.key} />
+          </div>
+          {from && <p class="dim" style="font-size:13px;margin-top:16px">From <a class="accent" href={listUrl(from.slug)}>{from.title}</a></p>}
+          <div class="tonight-nav">
+            {prev ? <a href={href(`/tonight/${prev}/`)}>← Yesterday</a> : <span></span>}
+            <a href={href("/tonight/")} class="accent">Today</a>
+            {next ? <a href={href(`/tonight/${next}/`)} data-tonight-next hidden>Tomorrow →</a> : <span></span>}
+          </div>
+        </div>
+        <div>
+          {src ? <div class="poster"><img src={src} alt={`${f.title} poster`} width="500" height="750" /></div> : <div class="poster fallback" style={`--h:${hue(f.key)}`}>{f.title}</div>}
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="wrap">
+      <p class="notice">One film a night, every night, chosen for India. No algorithm, no account: it is the same film for everyone, so you can argue about it. Come back tomorrow, or <a class="accent" href={href("/sort-me/")}>let us pick for your mood</a>.</p>
+    </div>
+  </section>
+  <script>
+    import { today } from "../../lib/client";
+    // "Tomorrow" only appears once it is actually tomorrow somewhere in India
+    const el = document.querySelector<HTMLElement>("[data-tonight-date]");
+    const nxt = document.querySelector<HTMLElement>("[data-tonight-next]");
+    if (el && nxt && el.dataset.tonightDate! < today()) nxt.hidden = false;
+  </script>
+</Base>

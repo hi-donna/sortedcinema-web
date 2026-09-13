@@ -22,4 +22,7 @@ Read `README.md` first; it is the whole map. The short version:
 - **Base path:** links go through `href()` / `filmUrl()` etc. from `src/lib/data.ts`, never a bare
   `"/x/"`, so the GitHub Pages preview under `/sortedcinema-web/` and the real domain at `/` both
   work.
+- **Client state** (seen/saved/platforms) is `localStorage` via `src/lib/client.ts`. Every
+  `[data-seen]`/`[data-want]` button on any page is wired by the global script in `Base.astro`.
+  Tonight is deterministic from `data.tonight.order`; never make it random.
 - The Stan repo (`../stan`) is read-only from here. `scripts/import-ledger.py` reads its ledger.

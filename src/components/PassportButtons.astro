@@ -1,0 +1,9 @@
+---
+/* Seen it / Save for later. Painted and wired by the global passport script in Base.astro. */
+interface Props { k: string; small?: boolean }
+const { k, small = false } = Astro.props;
+---
+<span class="pbtns">
+  <button type="button" class:list={["pbtn", { small }]} data-seen={k} aria-pressed="false"><span data-label>Seen it</span></button>
+  <button type="button" class:list={["pbtn", { small }]} data-want={k} aria-pressed="false"><span data-label>Save for later</span></button>
+</span>
