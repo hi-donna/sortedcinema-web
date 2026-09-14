@@ -3,6 +3,8 @@
  * Resolve every film in content/collections on TMDB and cache what the site
  * needs: poster/backdrop paths, overview, runtime, rating, trailer key, and
  * WHERE IT STREAMS IN INDIA (JustWatch data licensed through TMDB).
+ * With OMDB_API_KEY set it also caches IMDb / Rotten Tomatoes / Metacritic scores
+ * (OMDb, free tier: 1,000 calls a day, refreshed on the same weekly cadence as providers).
  *
  *   TMDB_API_KEY=... node scripts/enrich.mjs [--force] [--max-age-days 7] [--only <key>] [--no-discover]
  *
@@ -27,6 +29,7 @@ const opt = (n, d) => { const i = args.indexOf(n); return i >= 0 ? args[i + 1] :
 
 const KEY = process.env.TMDB_API_KEY;
 if (!KEY) { console.error("TMDB_API_KEY is not set"); process.exit(2); }
+const OMDB = process.env.OMDB_API_KEY || null;
 const FORCE = flag("--force");
 const MAX_AGE_DAYS = Number(opt("--max-age-days", 7));
 const ONLY = opt("--only", null);
@@ -55,6 +58,24 @@ async function tmdb(p, params = {}, attempt = 0) {
   } finally { clearTimeout(t); }
 }
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+/** IMDb / Rotten Tomatoes / Metacritic via OMDb. Returns null when the key is missing or the call fails. */
+async function omdbRatings(imdbId) {
+  if (!OMDB || !imdbId) return null;
+  try {
+    const res = await fetch(`https://www.omdbapi.com/?i=${imdbId}&apikey=${OMDB}`);
+    if (!res.ok) return null;
+    const j = await res.json();
+    if (j.Response === "False") return null;
+    const num = (s) => { const n = parseFloat(String(s || "").replace(/,/g, "")); return Number.isFinite(n) ? n : null; };
+    const src = (name) => (j.Ratings || []).find((r) => r.Source === name)?.Value || null;
+    return {
+      imdb: num(j.imdbRating), imdb_votes: num(j.imdbVotes),
+      rt: num(src("Rotten Tomatoes")), metacritic: num(src("Metacritic")),
+      refreshed_at: new Date().toISOString(),
+    };
+  } catch { return null; }
+}
 
 // ---------------------------------------------------------------- matching
 const norm = (s) => slugify(s || "").replace(/-/g, "");
@@ -131,9 +152,11 @@ function trailerFrom(details) {
 }
 
 async function fetchDetails(id, media) {
-  const d = await tmdb(`/${media}/${id}`, { append_to_response: "videos,watch/providers" });
+  const d = await tmdb(`/${media}/${id}`, { append_to_response: "videos,watch/providers,external_ids" });
   if (!d) return null;
   const isTv = media === "tv";
+  const imdb_id = d.imdb_id || d.external_ids?.imdb_id || null;
+  const ratings = await omdbRatings(imdb_id);
   return {
     tmdb_id: d.id,
     media,
@@ -154,6 +177,8 @@ async function fetchDetails(id, media) {
     poster_path: d.poster_path || null,
     backdrop_path: d.backdrop_path || null,
     trailer_key: trailerFrom(d),
+    imdb_id,
+    ratings,
     providers: providersFrom(d),
     providers_refreshed_at: new Date().toISOString(),
   };
@@ -171,12 +196,14 @@ async function main() {
     }
   }
   const list = [...films.values()].filter((f) => !ONLY || f.key === ONLY);
-  console.log(`enrich: ${list.length} films, region ${REGION}, force=${FORCE}, maxAge=${MAX_AGE_DAYS}d`);
+  console.log(`enrich: ${list.length} films, region ${REGION}, force=${FORCE}, maxAge=${MAX_AGE_DAYS}d, omdb=${OMDB ? "on" : "off"}`);
 
   const unresolved = [];
   let resolvedNow = 0, refreshed = 0, cached = 0, failed = 0;
   const now = Date.now();
-  const stale = (rec) => !rec?.providers_refreshed_at || (now - Date.parse(rec.providers_refreshed_at)) > MAX_AGE_DAYS * 864e5;
+  const stale = (rec) => !rec?.providers_refreshed_at || (now - Date.parse(rec.providers_refreshed_at)) > MAX_AGE_DAYS * 864e5
+    || rec.imdb_id === undefined                       // cached before IMDb ids were kept
+    || (OMDB && rec.imdb_id && !rec.ratings);           // key newly available: fill ratings in
 
   // modest concurrency: TMDB is generous, but this runs unattended
   const queue = [...list];

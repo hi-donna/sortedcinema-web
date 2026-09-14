@@ -6,7 +6,9 @@ export type Tmdb = {
   id: number; media: "movie" | "tv"; poster: string | null; backdrop: string | null; overview: string; tagline: string;
   runtime: number | null; seasons: number | null; rating: number | null; votes: number; release_date: string | null;
   genres: string[]; language: string | null; countries: string[]; trailer: string | null; providers: Providers; providers_refreshed_at: string;
+  imdb_id: string | null; ratings: Ratings | null;
 };
+export type Ratings = { imdb: number | null; imdb_votes: number | null; rt: number | null; metacritic: number | null; refreshed_at: string };
 export type Film = {
   key: string; title: string; year: number | null; original_title: string | null; director: string | null; media: string;
   tmdb: Tmdb | null; ott_seen: string | null; moods: string[]; blurbs: { collection: string; kind: string; text: string }[]; collections: string[];
@@ -59,6 +61,37 @@ export const listUrl = (slug: string) => {
 };
 export const moodUrl = (m: string) => href(`/mood/${m}/`);
 export const platformUrl = (slug: string) => href(`/watch/${slug}/`);
+
+/**
+ * Deep link into a streaming platform for one film. Platforms do not publish stable per-title
+ * URLs through TMDB/JustWatch, so this opens the platform's own search for the title, which lands
+ * one tap from the film. Unknown platforms fall back to JustWatch India, which does have the exact link.
+ */
+export function providerLink(p: Provider, f: Film): string {
+  const q = encodeURIComponent(f.title);
+  const qy = encodeURIComponent(f.year ? `${f.title} ${f.year}` : f.title);
+  const map: Record<string, string> = {
+    "netflix": `https://www.netflix.com/search?q=${q}`,
+    "prime-video": `https://www.primevideo.com/search/ref=atv_nb_sr?phrase=${q}`,
+    "jiohotstar": `https://www.hotstar.com/in/search?q=${q}`,
+    "zee5": `https://www.zee5.com/search?q=${q}`,
+    "sonyliv": `https://www.sonyliv.com/search?q=${q}`,
+    "apple-tv": `https://tv.apple.com/in/search?term=${q}`,
+    "mubi": `https://mubi.com/en/in/search/films?query=${q}`,
+    "lionsgate-play": `https://www.lionsgateplay.com/search?q=${q}`,
+    "google-play": `https://play.google.com/store/search?q=${q}&c=movies`,
+    "youtube": `https://www.youtube.com/results?search_query=${qy}`,
+    "sun-nxt": `https://www.sunnxt.com/search?q=${q}`,
+    "aha": `https://www.aha.video/search?q=${q}`,
+    "hoichoi": `https://www.hoichoi.tv/search?q=${q}`,
+    "manoramamax": `https://www.manoramamax.com/search?q=${q}`,
+    "eros-now": `https://erosnow.com/search?q=${q}`,
+    "crunchyroll": `https://www.crunchyroll.com/search?q=${q}`,
+    "bookmyshow": `https://in.bookmyshow.com/stream/search?q=${q}`,
+  };
+  return map[p.slug] || `https://www.justwatch.com/in/search?q=${q}`;
+}
+export const imdbUrl = (f: Film) => (f.tmdb?.imdb_id ? `https://www.imdb.com/title/${f.tmdb.imdb_id}/` : null);
 
 export function runtimeLabel(f: Film) {
   const t = f.tmdb;

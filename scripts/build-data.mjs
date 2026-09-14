@@ -40,6 +40,7 @@ function getFilm(entry, coll) {
         rating: tmdb.vote_average, votes: tmdb.vote_count, release_date: tmdb.release_date,
         genres: tmdb.genres, language: tmdb.original_language, countries: tmdb.origin_country,
         trailer: tmdb.trailer_key, providers: tmdb.providers, providers_refreshed_at: tmdb.providers_refreshed_at,
+        imdb_id: tmdb.imdb_id ?? null, ratings: tmdb.ratings ?? null,
       } : null,
       ott_seen: entry.ott_seen || null,
       moods: new Set(),

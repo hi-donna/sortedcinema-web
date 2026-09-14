@@ -5,7 +5,8 @@
 #
 #   enrich  — resolves every film on TMDB and refreshes India streaming
 #             availability (JustWatch via TMDB). Needs the TMDB_API_KEY secret;
-#             skipped cleanly without it. Commits data/ back to the branch.
+#             skipped cleanly without it. With OMDB_API_KEY it also caches
+#             IMDb / Rotten Tomatoes scores. Commits data/ back to the branch.
 #   build   — `npm run build` (Astro, static). Never touches the network for
 #             film data; it reads data/tmdb/*.json.
 #   deploy  — publishes dist/ to GitHub Pages.
@@ -55,6 +56,7 @@ jobs:
         if: ${{ env.TMDB_API_KEY != '' }}
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
         run: node scripts/enrich.mjs ${{ inputs.force && '--force' || '' }}
       - name: Note when the key is missing
         if: ${{ env.TMDB_API_KEY == '' }}

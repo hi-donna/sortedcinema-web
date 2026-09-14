@@ -5,8 +5,11 @@ Read `README.md` first; it is the whole map. The short version:
 - **Static Astro site generated from `content/*.json`.** No database, no auth, no server. Every
   page reads `src/data/site.json`, which `scripts/build-data.mjs` regenerates on every build from
   `content/` + the TMDB cache in `data/tmdb/`. Do not hand-edit `src/data/site.json` or `data/`.
-- **The only network call is `scripts/enrich.mjs`** (TMDB). It runs in the GitHub Action with the
-  `TMDB_API_KEY` secret, and can run locally. Pages never fetch at request time.
+- **The only network call is `scripts/enrich.mjs`** (TMDB, plus OMDb for IMDb / Rotten Tomatoes
+  scores when `OMDB_API_KEY` is set). It runs in the GitHub Action with the `TMDB_API_KEY` and
+  `OMDB_API_KEY` secrets, and can run locally. Pages never fetch at request time.
+- **Provider chips deep-link to the platform's own search for the title** (`providerLink` in
+  `src/lib/data.ts`); unknown platforms fall back to JustWatch India.
 - **A film's key is `slugify(title)-year`.** It is the URL and the cache filename. Changing a title
   in content changes the URL — prefer `content/overrides.json` for TMDB mismatches.
 - **Sorted 2026 status is derived** (future release → Coming; `verdict: "sorted"` → Sorted; else

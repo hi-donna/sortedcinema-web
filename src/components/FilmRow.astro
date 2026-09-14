@@ -3,6 +3,7 @@ import type { Entry } from "../lib/data";
 import { film, poster, filmUrl, hue, runtimeLabel, dateLabel } from "../lib/data";
 import Providers from "./Providers.astro";
 import PassportButtons from "./PassportButtons.astro";
+import Ratings from "./Ratings.astro";
 interface Props { e: Entry; total: number; showIndex?: boolean }
 const { e, total, showIndex = true } = Astro.props;
 const f = film(e.key);
@@ -24,15 +25,15 @@ const originTitle = f.original_title && f.original_title !== f.title ? f.origina
       {f.year && <span><b>{f.year}</b></span>}
       {f.director && <span>{f.director}</span>}
       {rt && <span>{rt}</span>}
-      {f.tmdb?.rating ? <span>★ {f.tmdb.rating}</span> : null}
       {f.tmdb?.genres?.length ? <span>{f.tmdb.genres.slice(0, 3).join(" · ")}</span> : null}
     </div>
+    <div style="margin-top:8px"><Ratings f={f} compact={true} /></div>
     {text && <p class="text">{text}</p>}
     <Providers f={f} />
   </div>
   <div class="actions">
     {f.tmdb?.trailer && <a class="btn small" href={`https://www.youtube.com/watch?v=${f.tmdb.trailer}`} rel="noopener" target="_blank">▶ Trailer</a>}
-    <a class="btn small" href={filmUrl(f.key)}>Film page</a>
+    <a class="btn small" href={filmUrl(f.key)}>Details →</a>
     <PassportButtons k={f.key} small={true} />
   </div>
 </article>

@@ -2,6 +2,7 @@
 import Base from "../../layouts/Base.astro";
 import Providers from "../../components/Providers.astro";
 import PassportButtons from "../../components/PassportButtons.astro";
+import Ratings from "../../components/Ratings.astro";
 import { data, film, poster, backdrop, hue, filmUrl, listUrl, leadText, addDays, tonightKey, TONIGHT_DAYS, dateLabel, href, collection } from "../../lib/data";
 
 export function getStaticPaths() {
@@ -30,11 +31,12 @@ const from = lead ? collection(lead.collection) : null;
           <div class="date" data-tonight-date={date}>{dow} {d.day} {d.month} {d.year}</div>
           <h1><a href={filmUrl(f.key)}>{f.title}</a></h1>
           <div class="muted" style="margin-top:10px;font-size:15px">{[f.year, f.director].filter(Boolean).join(" · ")}{f.original_title && f.original_title !== f.title ? ` · ${f.original_title}` : ""}</div>
+          <div style="margin-top:12px"><Ratings f={f} /></div>
           {lead && <p class="why">{lead.text}</p>}
           <div style="margin-top:20px"><Providers f={f} /></div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:18px;align-items:center">
             {f.tmdb?.trailer && <a class="btn primary" href={`https://www.youtube.com/watch?v=${f.tmdb.trailer}`} rel="noopener" target="_blank">▶ Trailer</a>}
-            <a class="btn" href={filmUrl(f.key)}>Film page</a>
+            <a class="btn" href={filmUrl(f.key)}>Details →</a>
             <PassportButtons k={f.key} />
           </div>
           {from && <p class="dim" style="font-size:13px;margin-top:16px">From <a class="accent" href={listUrl(from.slug)}>{from.title}</a></p>}

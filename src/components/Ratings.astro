@@ -1,0 +1,32 @@
+---
+/* IMDb / Rotten Tomatoes / Metacritic when the OMDb enrichment has run; TMDB's own score otherwise. */
+import type { Film } from "../lib/data";
+import { imdbUrl } from "../lib/data";
+interface Props { f: Film; compact?: boolean }
+const { f, compact = false } = Astro.props;
+const r = f.tmdb?.ratings;
+const imdb = imdbUrl(f);
+const tomatoes = f.tmdb?.ratings?.rt;
+const rtUrl = `https://www.rottentomatoes.com/search?search=${encodeURIComponent(f.title)}`;
+const hasAny = r?.imdb || tomatoes || r?.metacritic || f.tmdb?.rating;
+---
+{hasAny && (
+  <span class="ratings">
+    {r?.imdb ? (
+      <a class="imdb" href={imdb || "#"} rel="noopener" target="_blank" title={r.imdb_votes ? `${r.imdb_votes.toLocaleString()} votes on IMDb` : "IMDb"}>
+        <span class="src">IMDb</span><b>{r.imdb.toFixed(1)}</b>{!compact && <span class="dim">/10</span>}
+      </a>
+    ) : null}
+    {tomatoes ? (
+      <a class:list={["rt", tomatoes >= 60 ? "fresh" : "rotten"]} href={rtUrl} rel="noopener" target="_blank" title="Rotten Tomatoes critics score">
+        <span class="src">RT</span><b>{tomatoes}%</b>
+      </a>
+    ) : null}
+    {!compact && r?.metacritic ? <span class="mc" title="Metacritic"><span class="src">MC</span><b>{r.metacritic}</b></span> : null}
+    {!r?.imdb && f.tmdb?.rating ? (
+      <a class="tmdb" href={`https://www.themoviedb.org/${f.tmdb.media}/${f.tmdb.id}`} rel="noopener" target="_blank" title={`${f.tmdb.votes.toLocaleString()} votes on TMDB`}>
+        <span class="src">TMDB</span><b>{f.tmdb.rating}</b>{!compact && <span class="dim">/10</span>}
+      </a>
+    ) : null}
+  </span>
+)}
