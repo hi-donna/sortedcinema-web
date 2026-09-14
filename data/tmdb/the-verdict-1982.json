@@ -23,11 +23,13 @@
     "US"
   ],
   "vote_average": 7.5,
-  "vote_count": 764,
-  "popularity": 3.8796,
+  "vote_count": 765,
+  "popularity": 4.591,
   "poster_path": "/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg",
   "backdrop_path": "/sgsW7aqUXg4jG2GcoLKotSvp807.jpg",
   "trailer_key": "wwqUtCeODOk",
+  "imdb_id": "tt0084855",
+  "ratings": null,
   "providers": {
     "flatrate": [],
     "rent": [
@@ -56,5 +58,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T00:47:13.364Z"
+  "providers_refreshed_at": "2026-09-14T14:54:34.298Z"
 }

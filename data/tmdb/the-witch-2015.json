@@ -23,17 +23,19 @@
   "origin_country": [
     "RU"
   ],
-  "vote_average": 7.7,
-  "vote_count": 6,
-  "popularity": 0.8324,
+  "vote_average": 7.6,
+  "vote_count": 7,
+  "popularity": 0.7293,
   "poster_path": "/inBpHrLEgLDEZ6A8ZWkg3WS1XKw.jpg",
   "backdrop_path": "/ceyXSpmXXggCjeOhDddrIcLPYt8.jpg",
   "trailer_key": null,
+  "imdb_id": "tt9578354",
+  "ratings": null,
   "providers": {
     "flatrate": [],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T00:47:22.043Z"
+  "providers_refreshed_at": "2026-09-14T14:54:38.794Z"
 }

@@ -24,10 +24,12 @@
   ],
   "vote_average": 7.4,
   "vote_count": 5,
-  "popularity": 1.2933,
+  "popularity": 1.1032,
   "poster_path": "/zaCXIQ3Q68ik9qTSCVq3LJNHKp3.jpg",
   "backdrop_path": "/baGPNDPBMcj1j7YJwD30LZJ78M9.jpg",
   "trailer_key": "6ajhEq4HqHo",
+  "imdb_id": "tt9130246",
+  "ratings": null,
   "providers": {
     "flatrate": [
       {
@@ -51,5 +53,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T00:47:29.351Z"
+  "providers_refreshed_at": "2026-09-14T14:54:44.051Z"
 }

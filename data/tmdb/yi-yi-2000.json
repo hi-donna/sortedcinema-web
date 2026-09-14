@@ -22,17 +22,19 @@
   "origin_country": [
     "TW"
   ],
-  "vote_average": 7.9,
-  "vote_count": 701,
-  "popularity": 5.2363,
+  "vote_average": 8,
+  "vote_count": 703,
+  "popularity": 4.9488,
   "poster_path": "/mR8dSQZI8X6Z1NClJhFrtJp636z.jpg",
   "backdrop_path": "/x903dx8Km6XNLFEmvbXc98vePSV.jpg",
   "trailer_key": "PxgrzNFwyqY",
+  "imdb_id": "tt0244316",
+  "ratings": null,
   "providers": {
     "flatrate": [],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T00:47:31.233Z"
+  "providers_refreshed_at": "2026-09-14T14:54:45.473Z"
 }

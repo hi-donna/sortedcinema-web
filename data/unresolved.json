@@ -1,19 +1,51 @@
 {
-  "generated_at": "2026-09-14T14:44:08.137Z",
+  "generated_at": "2026-09-14T14:54:52.118Z",
   "count": 5,
   "items": [
     {
-      "key": "the-tale-of-princess-kaguya-2013",
-      "title": "The Tale of Princess Kaguya",
-      "year": 2013,
+      "key": "society-1989",
+      "title": "Society",
+      "year": 1989,
       "candidates": [
         {
-          "tmdb_id": 149871,
+          "tmdb_id": 207,
           "media": "movie",
-          "title": "The Tale of The Princess Kaguya",
-          "original_title": "かぐや姫の物語",
-          "year": 2013,
-          "score": 6.4
+          "title": "Dead Poets Society",
+          "original_title": "Dead Poets Society",
+          "year": 1989,
+          "score": 7
+        },
+        {
+          "tmdb_id": 63031,
+          "media": "movie",
+          "title": "Return of the Lucky Stars",
+          "original_title": "福星闖江湖",
+          "year": 1989,
+          "score": 6
+        },
+        {
+          "tmdb_id": 78276,
+          "media": "tv",
+          "title": "Society Game",
+          "original_title": "소사이어티 게임",
+          "year": 2016,
+          "score": 0
+        },
+        {
+          "tmdb_id": 64580,
+          "media": "tv",
+          "title": "Secret Society",
+          "original_title": "Secret Society",
+          "year": 1987,
+          "score": 0
+        },
+        {
+          "tmdb_id": 84647,
+          "media": "tv",
+          "title": "The Society",
+          "original_title": "The Society",
+          "year": 2019,
+          "score": -3.9
         }
       ]
     },
@@ -29,6 +61,21 @@
           "original_title": "Eddie Bravo Invitational 5: The Lightweights (155 Pounds)",
           "year": 2015,
           "score": 6
+        }
+      ]
+    },
+    {
+      "key": "the-tale-of-princess-kaguya-2013",
+      "title": "The Tale of Princess Kaguya",
+      "year": 2013,
+      "candidates": [
+        {
+          "tmdb_id": 149871,
+          "media": "movie",
+          "title": "The Tale of The Princess Kaguya",
+          "original_title": "かぐや姫の物語",
+          "year": 2013,
+          "score": 6.4
         }
       ]
     },
@@ -75,53 +122,6 @@
           "title": "Parasyte: The Grey",
           "original_title": "기생수: 더 그레이",
           "year": 2024,
-          "score": -3.9
-        }
-      ]
-    },
-    {
-      "key": "society-1989",
-      "title": "Society",
-      "year": 1989,
-      "candidates": [
-        {
-          "tmdb_id": 207,
-          "media": "movie",
-          "title": "Dead Poets Society",
-          "original_title": "Dead Poets Society",
-          "year": 1989,
-          "score": 7
-        },
-        {
-          "tmdb_id": 63031,
-          "media": "movie",
-          "title": "Return of the Lucky Stars",
-          "original_title": "福星闖江湖",
-          "year": 1989,
-          "score": 6
-        },
-        {
-          "tmdb_id": 78276,
-          "media": "tv",
-          "title": "Society Game",
-          "original_title": "소사이어티 게임",
-          "year": 2016,
-          "score": 0
-        },
-        {
-          "tmdb_id": 64580,
-          "media": "tv",
-          "title": "Secret Society",
-          "original_title": "Secret Society",
-          "year": 1987,
-          "score": 0
-        },
-        {
-          "tmdb_id": 84647,
-          "media": "tv",
-          "title": "The Society",
-          "original_title": "The Society",
-          "year": 2019,
           "score": -3.9
         }
       ]

@@ -24,16 +24,18 @@
     "RU"
   ],
   "vote_average": 7.4,
-  "vote_count": 992,
-  "popularity": 3.603,
+  "vote_count": 993,
+  "popularity": 3.1924,
   "poster_path": "/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg",
   "backdrop_path": "/ycOp8gMtlfW7pDPL1YiejU1DVn4.jpg",
   "trailer_key": "2oo7H25kirk",
+  "imdb_id": "tt2802154",
+  "ratings": null,
   "providers": {
     "flatrate": [],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T00:47:31.902Z"
+  "providers_refreshed_at": "2026-09-14T14:54:45.904Z"
 }

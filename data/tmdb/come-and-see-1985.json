@@ -26,16 +26,18 @@
     "SU"
   ],
   "vote_average": 8.2,
-  "vote_count": 1950,
-  "popularity": 10.0782,
+  "vote_count": 1953,
+  "popularity": 10.7175,
   "poster_path": "/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
   "backdrop_path": "/3Na31ta8vDuKOgQuPLdSZLs8bCB.jpg",
   "trailer_key": "UHaSQU-4wss",
+  "imdb_id": "tt0091251",
+  "ratings": null,
   "providers": {
     "flatrate": [],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T00:47:18.591Z"
+  "providers_refreshed_at": "2026-09-14T14:54:36.552Z"
 }

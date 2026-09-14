@@ -27,11 +27,13 @@
     "NZ"
   ],
   "vote_average": 6.3,
-  "vote_count": 947,
-  "popularity": 3.8432,
+  "vote_count": 948,
+  "popularity": 3.4933,
   "poster_path": "/msttMX3undIiaeJLZbMRq94v1bw.jpg",
   "backdrop_path": "/ewacCZjc710KBjxztABTwoWMken.jpg",
   "trailer_key": "7IHwKJOZZ6U",
+  "imdb_id": "tt0092610",
+  "ratings": null,
   "providers": {
     "flatrate": [
       {
@@ -44,5 +46,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T00:47:15.378Z"
+  "providers_refreshed_at": "2026-09-14T14:54:34.757Z"
 }

@@ -25,16 +25,18 @@
     "HU"
   ],
   "vote_average": 7.1,
-  "vote_count": 1194,
-  "popularity": 3.314,
+  "vote_count": 1195,
+  "popularity": 3.6163,
   "poster_path": "/9ZcX6NjCJam5uwkooXffhHI29Lj.jpg",
   "backdrop_path": "/5ymJuqUWwQZ7yq63UE8DNpFBELr.jpg",
   "trailer_key": "PSabBa9IWYs",
+  "imdb_id": "tt3808342",
+  "ratings": null,
   "providers": {
     "flatrate": [],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T00:47:31.565Z"
+  "providers_refreshed_at": "2026-09-14T14:54:45.786Z"
 }

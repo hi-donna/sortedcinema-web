@@ -24,11 +24,13 @@
     "GB"
   ],
   "vote_average": 6.8,
-  "vote_count": 4876,
-  "popularity": 10.4221,
+  "vote_count": 4877,
+  "popularity": 10.0064,
   "poster_path": "/6K0wjP8kPCiPYy9PtXBGuypyt5I.jpg",
   "backdrop_path": "/2pOd80PQSJ9cUbli7PDeX59q3vQ.jpg",
   "trailer_key": "BNxsaFCzqxc",
+  "imdb_id": "tt3289956",
+  "ratings": null,
   "providers": {
     "flatrate": [
       {
@@ -41,5 +43,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T00:47:18.110Z"
+  "providers_refreshed_at": "2026-09-14T14:54:36.222Z"
 }

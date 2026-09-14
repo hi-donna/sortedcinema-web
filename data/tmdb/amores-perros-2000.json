@@ -24,11 +24,13 @@
     "MX"
   ],
   "vote_average": 7.6,
-  "vote_count": 3003,
-  "popularity": 8.8707,
+  "vote_count": 3004,
+  "popularity": 9.0914,
   "poster_path": "/1lX74fPZsBoOyyE5fWL5xT7k9sV.jpg",
   "backdrop_path": "/iTkxwBriD9YKg4Q35qWEIlLXd6e.jpg",
   "trailer_key": "_P29GF_NbDc",
+  "imdb_id": "tt0245712",
+  "ratings": null,
   "providers": {
     "flatrate": [
       {
@@ -52,5 +54,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T00:47:36.412Z"
+  "providers_refreshed_at": "2026-09-14T14:54:48.693Z"
 }

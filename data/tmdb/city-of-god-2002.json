@@ -24,11 +24,13 @@
     "BR"
   ],
   "vote_average": 8.4,
-  "vote_count": 8437,
-  "popularity": 22.5821,
+  "vote_count": 8439,
+  "popularity": 21.1724,
   "poster_path": "/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
   "backdrop_path": "/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
   "trailer_key": "dcUOO4Itgmw",
+  "imdb_id": "tt0317248",
+  "ratings": null,
   "providers": {
     "flatrate": [],
     "rent": [
@@ -57,5 +59,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T00:47:36.667Z"
+  "providers_refreshed_at": "2026-09-14T14:54:48.697Z"
 }

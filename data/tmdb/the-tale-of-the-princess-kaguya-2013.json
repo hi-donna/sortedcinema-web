@@ -25,11 +25,13 @@
     "JP"
   ],
   "vote_average": 8.1,
-  "vote_count": 2041,
-  "popularity": 9.6341,
+  "vote_count": 2042,
+  "popularity": 9.7998,
   "poster_path": "/cQidJuA546OSSXKWXoiCeINDxuj.jpg",
   "backdrop_path": "/lMaWlYThCSnsmW3usxWTpSuyZp1.jpg",
   "trailer_key": "iPm7HfO3mis",
+  "imdb_id": "tt2576852",
+  "ratings": null,
   "providers": {
     "flatrate": [
       {
@@ -42,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T00:47:23.444Z"
+  "providers_refreshed_at": "2026-09-14T14:54:40.119Z"
 }

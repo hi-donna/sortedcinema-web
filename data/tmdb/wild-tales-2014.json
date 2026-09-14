@@ -25,11 +25,13 @@
     "AR"
   ],
   "vote_average": 7.9,
-  "vote_count": 3863,
-  "popularity": 6.3882,
+  "vote_count": 3864,
+  "popularity": 6.3891,
   "poster_path": "/vmeCDuWJ6B2cqi9f3QFyIwRKqFV.jpg",
   "backdrop_path": "/dHnki2Dh6lbOtfksrh8H5lg08f5.jpg",
   "trailer_key": "Utq0aDEp084",
+  "imdb_id": "tt3011894",
+  "ratings": null,
   "providers": {
     "flatrate": [],
     "rent": [
@@ -58,5 +60,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T00:47:35.513Z"
+  "providers_refreshed_at": "2026-09-14T14:54:48.687Z"
 }

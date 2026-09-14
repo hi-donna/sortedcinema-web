@@ -24,11 +24,13 @@
     "AU"
   ],
   "vote_average": 7.4,
-  "vote_count": 7312,
-  "popularity": 12.6896,
+  "vote_count": 7314,
+  "popularity": 11.2698,
   "poster_path": "/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
   "backdrop_path": "/cvq9cRMDJIGzNpHaPVGFftqPcLj.jpg",
   "trailer_key": "xxG-YfedrfU",
+  "imdb_id": "tt2397535",
+  "ratings": null,
   "providers": {
     "flatrate": [
       {
@@ -41,5 +43,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T00:47:20.513Z"
+  "providers_refreshed_at": "2026-09-14T14:54:37.898Z"
 }

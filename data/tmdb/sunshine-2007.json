@@ -29,6 +29,8 @@
   "poster_path": "/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg",
   "backdrop_path": "/5AIAnucJKZ3sHpm7r1ykFVIoUHK.jpg",
   "trailer_key": "Ig1BU6PUt0A",
+  "imdb_id": "tt0448134",
+  "ratings": null,
   "providers": {
     "flatrate": [],
     "rent": [
@@ -57,5 +59,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T00:47:19.237Z"
+  "providers_refreshed_at": "2026-09-14T14:54:37.827Z"
 }
