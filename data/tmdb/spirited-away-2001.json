@@ -31,7 +31,13 @@
   "backdrop_path": "/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
   "trailer_key": "GAp2_0JJskk",
   "imdb_id": "tt0245429",
-  "ratings": null,
+  "ratings": {
+    "imdb": 8.6,
+    "imdb_votes": 964088,
+    "rt": 96,
+    "metacritic": 96,
+    "refreshed_at": "2026-09-14T15:03:33.506Z"
+  },
   "providers": {
     "flatrate": [
       {
@@ -44,5 +50,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T14:54:48.311Z"
+  "providers_refreshed_at": "2026-09-14T15:03:33.506Z"
 }

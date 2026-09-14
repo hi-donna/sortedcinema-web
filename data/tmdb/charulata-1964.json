@@ -30,12 +30,18 @@
   "backdrop_path": "/hXYf2k0igWcfReM98949EVTfSgP.jpg",
   "trailer_key": "gFCuy_FUsdo",
   "imdb_id": "tt0057935",
-  "ratings": null,
+  "ratings": {
+    "imdb": 8.1,
+    "imdb_votes": 7598,
+    "rt": 93,
+    "metacritic": null,
+    "refreshed_at": "2026-09-14T15:03:28.105Z"
+  },
   "providers": {
     "flatrate": [],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T14:54:42.198Z"
+  "providers_refreshed_at": "2026-09-14T15:03:28.105Z"
 }

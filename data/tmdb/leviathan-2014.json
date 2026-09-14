@@ -30,12 +30,18 @@
   "backdrop_path": "/ycOp8gMtlfW7pDPL1YiejU1DVn4.jpg",
   "trailer_key": "2oo7H25kirk",
   "imdb_id": "tt2802154",
-  "ratings": null,
+  "ratings": {
+    "imdb": 7.6,
+    "imdb_votes": 59296,
+    "rt": 97,
+    "metacritic": 92,
+    "refreshed_at": "2026-09-14T15:03:31.624Z"
+  },
   "providers": {
     "flatrate": [],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T14:54:45.904Z"
+  "providers_refreshed_at": "2026-09-14T15:03:31.624Z"
 }

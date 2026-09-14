@@ -32,12 +32,18 @@
   "backdrop_path": "/3Na31ta8vDuKOgQuPLdSZLs8bCB.jpg",
   "trailer_key": "UHaSQU-4wss",
   "imdb_id": "tt0091251",
-  "ratings": null,
+  "ratings": {
+    "imdb": 8.3,
+    "imdb_votes": 119291,
+    "rt": 90,
+    "metacritic": null,
+    "refreshed_at": "2026-09-14T15:03:23.048Z"
+  },
   "providers": {
     "flatrate": [],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T14:54:36.552Z"
+  "providers_refreshed_at": "2026-09-14T15:03:23.048Z"
 }

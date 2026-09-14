@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-09-14T14:54:52.118Z",
+  "generated_at": "2026-09-14T15:03:36.887Z",
   "count": 5,
   "items": [
+    {
+      "key": "the-invitation-2015",
+      "title": "The Invitation",
+      "year": 2015,
+      "candidates": [
+        {
+          "tmdb_id": 487720,
+          "media": "movie",
+          "title": "Eddie Bravo Invitational 5: The Lightweights (155 Pounds)",
+          "original_title": "Eddie Bravo Invitational 5: The Lightweights (155 Pounds)",
+          "year": 2015,
+          "score": 6
+        }
+      ]
+    },
     {
       "key": "society-1989",
       "title": "Society",
@@ -46,21 +61,6 @@
           "original_title": "The Society",
           "year": 2019,
           "score": -3.9
-        }
-      ]
-    },
-    {
-      "key": "the-invitation-2015",
-      "title": "The Invitation",
-      "year": 2015,
-      "candidates": [
-        {
-          "tmdb_id": 487720,
-          "media": "movie",
-          "title": "Eddie Bravo Invitational 5: The Lightweights (155 Pounds)",
-          "original_title": "Eddie Bravo Invitational 5: The Lightweights (155 Pounds)",
-          "year": 2015,
-          "score": 6
         }
       ]
     },

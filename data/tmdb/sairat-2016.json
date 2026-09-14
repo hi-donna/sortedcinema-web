@@ -30,7 +30,13 @@
   "backdrop_path": "/vBId5iBnayC6yyqKFeX9shSaoCQ.jpg",
   "trailer_key": "iShPI_JF524",
   "imdb_id": "tt5312232",
-  "ratings": null,
+  "ratings": {
+    "imdb": 8.3,
+    "imdb_votes": 16213,
+    "rt": 100,
+    "metacritic": null,
+    "refreshed_at": "2026-09-14T15:03:24.862Z"
+  },
   "providers": {
     "flatrate": [
       {
@@ -75,5 +81,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T14:54:38.507Z"
+  "providers_refreshed_at": "2026-09-14T15:03:24.862Z"
 }

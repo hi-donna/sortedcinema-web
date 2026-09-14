@@ -30,7 +30,13 @@
   "backdrop_path": "/4Xh2a1WeTp6b8Ksvug0pAMbX3dT.jpg",
   "trailer_key": "Z9AYPxH5NTM",
   "imdb_id": "tt5726616",
-  "ratings": null,
+  "ratings": {
+    "imdb": 7.8,
+    "imdb_votes": 351228,
+    "rt": 95,
+    "metacritic": 94,
+    "refreshed_at": "2026-09-14T15:03:33.204Z"
+  },
   "providers": {
     "flatrate": [
       {
@@ -65,5 +71,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T14:54:48.015Z"
+  "providers_refreshed_at": "2026-09-14T15:03:33.204Z"
 }

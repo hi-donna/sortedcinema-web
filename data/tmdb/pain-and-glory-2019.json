@@ -29,7 +29,13 @@
   "backdrop_path": "/o1JapnInSBCgedfWnj15ytjGC70.jpg",
   "trailer_key": "pJEDh4ikcWA",
   "imdb_id": "tt8291806",
-  "ratings": null,
+  "ratings": {
+    "imdb": 7.5,
+    "imdb_votes": 66539,
+    "rt": 96,
+    "metacritic": 87,
+    "refreshed_at": "2026-09-14T15:03:35.244Z"
+  },
   "providers": {
     "flatrate": [],
     "rent": [
@@ -42,5 +48,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T14:54:50.141Z"
+  "providers_refreshed_at": "2026-09-14T15:03:35.244Z"
 }

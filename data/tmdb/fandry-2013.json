@@ -30,7 +30,13 @@
   "backdrop_path": "/fLpDFeToCC3E2QL0WwhEkuvxtLO.jpg",
   "trailer_key": "BjHsL-_KG30",
   "imdb_id": "tt2827320",
-  "ratings": null,
+  "ratings": {
+    "imdb": 8.2,
+    "imdb_votes": 2591,
+    "rt": null,
+    "metacritic": null,
+    "refreshed_at": "2026-09-14T15:03:29.366Z"
+  },
   "providers": {
     "flatrate": [
       {
@@ -55,5 +61,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T14:54:43.724Z"
+  "providers_refreshed_at": "2026-09-14T15:03:29.366Z"
 }

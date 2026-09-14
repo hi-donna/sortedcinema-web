@@ -29,7 +29,13 @@
   "backdrop_path": "/zAL3LOswagN9onjN8DPcNFTqKuD.jpg",
   "trailer_key": "MILphnfj2mo",
   "imdb_id": "tt0042192",
-  "ratings": null,
+  "ratings": {
+    "imdb": 8.2,
+    "imdb_votes": 147735,
+    "rt": 99,
+    "metacritic": 98,
+    "refreshed_at": "2026-09-14T15:03:27.850Z"
+  },
   "providers": {
     "flatrate": [
       {
@@ -64,5 +70,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T14:54:42.017Z"
+  "providers_refreshed_at": "2026-09-14T15:03:27.851Z"
 }

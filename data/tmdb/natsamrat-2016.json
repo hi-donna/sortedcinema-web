@@ -29,12 +29,18 @@
   "backdrop_path": "/mUbq0l1nGHbyFyNncxvLJMKXMUw.jpg",
   "trailer_key": "DCXDyIsPEN8",
   "imdb_id": "tt5311546",
-  "ratings": null,
+  "ratings": {
+    "imdb": 8.8,
+    "imdb_votes": 7375,
+    "rt": null,
+    "metacritic": null,
+    "refreshed_at": "2026-09-14T15:03:29.794Z"
+  },
   "providers": {
     "flatrate": [],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T14:54:43.999Z"
+  "providers_refreshed_at": "2026-09-14T15:03:29.794Z"
 }
