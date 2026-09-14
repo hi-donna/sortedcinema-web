@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-14T00:47:42.286Z",
+  "generated_at": "2026-09-14T00:48:40.964Z",
   "count": 5,
   "items": [
     {
-      "key": "the-invitation-2015",
-      "title": "The Invitation",
-      "year": 2015,
+      "key": "the-tale-of-princess-kaguya-2013",
+      "title": "The Tale of Princess Kaguya",
+      "year": 2013,
       "candidates": [
         {
-          "tmdb_id": 487720,
+          "tmdb_id": 149871,
           "media": "movie",
-          "title": "Eddie Bravo Invitational 5: The Lightweights (155 Pounds)",
-          "original_title": "Eddie Bravo Invitational 5: The Lightweights (155 Pounds)",
-          "year": 2015,
-          "score": 6
+          "title": "The Tale of The Princess Kaguya",
+          "original_title": "かぐや姫の物語",
+          "year": 2013,
+          "score": 6.4
         }
       ]
     },
@@ -65,17 +65,17 @@
       ]
     },
     {
-      "key": "the-tale-of-princess-kaguya-2013",
-      "title": "The Tale of Princess Kaguya",
-      "year": 2013,
+      "key": "the-invitation-2015",
+      "title": "The Invitation",
+      "year": 2015,
       "candidates": [
         {
-          "tmdb_id": 149871,
+          "tmdb_id": 487720,
           "media": "movie",
-          "title": "The Tale of The Princess Kaguya",
-          "original_title": "かぐや姫の物語",
-          "year": 2013,
-          "score": 6.4
+          "title": "Eddie Bravo Invitational 5: The Lightweights (155 Pounds)",
+          "original_title": "Eddie Bravo Invitational 5: The Lightweights (155 Pounds)",
+          "year": 2015,
+          "score": 6
         }
       ]
     },
