@@ -1,0 +1,41 @@
+{
+  "key": "bone-tomahawk-2015",
+  "query": {
+    "title": "Bone Tomahawk",
+    "year": 2015
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:26.246Z",
+  "tmdb_id": 294963,
+  "media": "movie",
+  "title": "Bone Tomahawk",
+  "original_title": "Bone Tomahawk",
+  "year": 2015,
+  "release_date": "2015-10-23",
+  "runtime": 133,
+  "overview": "During a shootout in a saloon, Sheriff Hunt injures a suspicious stranger. The doctor's assistant, wife of the local foreman, tends to him in prison. That night, the town is attacked and they both disappear—only the arrow of a cannibal tribe is found. Hunt and a few of his men go in search of the prisoner and the foreman's wife.",
+  "tagline": "Death comes for all men.",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Western"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "vote_average": 6.9,
+  "vote_count": 2630,
+  "popularity": 8.4425,
+  "poster_path": "/4MmTHpn2Y8emqvBgvOjufImUmKZ.jpg",
+  "backdrop_path": "/orXMq2jZy8wFmePv7zXS2Kor7Ug.jpg",
+  "trailer_key": "4KNWbfRDEv8",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:26.246Z"
+}

@@ -1,0 +1,39 @@
+{
+  "key": "perfect-blue-1997",
+  "query": {
+    "title": "Perfect Blue",
+    "year": 1997
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:23.409Z",
+  "tmdb_id": 10494,
+  "media": "movie",
+  "title": "Perfect Blue",
+  "original_title": "PERFECT BLUE",
+  "year": 1998,
+  "release_date": "1998-02-28",
+  "runtime": 81,
+  "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.",
+  "tagline": "\"excuse me... who are you?\"",
+  "genres": [
+    "Animation",
+    "Thriller"
+  ],
+  "original_language": "ja",
+  "origin_country": [
+    "JP"
+  ],
+  "vote_average": 8.3,
+  "vote_count": 3344,
+  "popularity": 19.2799,
+  "poster_path": "/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+  "backdrop_path": "/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+  "trailer_key": "RrWausp8zDQ",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:23.409Z"
+}

@@ -1,0 +1,46 @@
+{
+  "key": "jallikattu-2019",
+  "query": {
+    "title": "Jallikattu",
+    "year": 2019
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:28.478Z",
+  "tmdb_id": 564704,
+  "media": "movie",
+  "title": "Jallikattu",
+  "original_title": "ജെല്ലിക്കെട്ട്",
+  "year": 2019,
+  "release_date": "2019-10-04",
+  "runtime": 95,
+  "overview": "An escaped buffalo triggers a frenzy of ecstatic violence in a remote village.",
+  "tagline": "",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "original_language": "ml",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 6.7,
+  "vote_count": 94,
+  "popularity": 1.0113,
+  "poster_path": "/8pEsTp9bS6yjr9P9K43vPP8mw1v.jpg",
+  "backdrop_path": "/x8zNhrr2jKMv7jPLyySYyvruTPX.jpg",
+  "trailer_key": "xD4GMBTDssU",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "aha",
+        "slug": "aha",
+        "logo": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:28.478Z"
+}

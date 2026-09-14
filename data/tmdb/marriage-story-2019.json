@@ -1,0 +1,44 @@
+{
+  "key": "marriage-story-2019",
+  "query": {
+    "title": "Marriage Story",
+    "year": 2019
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:20.701Z",
+  "tmdb_id": 492188,
+  "media": "movie",
+  "title": "Marriage Story",
+  "original_title": "Marriage Story",
+  "year": 2019,
+  "release_date": "2019-09-28",
+  "runtime": 137,
+  "overview": "A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.",
+  "tagline": "Where there's a love, there's a way.",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 7548,
+  "popularity": 6.453,
+  "poster_path": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+  "backdrop_path": "/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg",
+  "trailer_key": "BHi-a1n8t7M",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:20.701Z"
+}

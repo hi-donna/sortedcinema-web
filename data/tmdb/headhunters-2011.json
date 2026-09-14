@@ -1,0 +1,40 @@
+{
+  "key": "headhunters-2011",
+  "query": {
+    "title": "Headhunters",
+    "year": 2011
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:37.221Z",
+  "tmdb_id": 70670,
+  "media": "movie",
+  "title": "Headhunters",
+  "original_title": "Hodejegerne",
+  "year": 2011,
+  "release_date": "2011-08-26",
+  "runtime": 100,
+  "overview": "An accomplished headhunter risks everything to obtain a valuable painting owned by a former mercenary.",
+  "tagline": "The hunt is on.",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Action"
+  ],
+  "original_language": "no",
+  "origin_country": [
+    "NO"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 1417,
+  "popularity": 4.3865,
+  "poster_path": "/k5DQqsb9T8djkTAOdwNCBBBHrtK.jpg",
+  "backdrop_path": "/cuodmX7wuVDciUH8LdSFEqoTzIy.jpg",
+  "trailer_key": "MBjn4tdxC00",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:37.221Z"
+}

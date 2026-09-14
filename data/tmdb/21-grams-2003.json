@@ -1,0 +1,63 @@
+{
+  "key": "21-grams-2003",
+  "query": {
+    "title": "21 Grams",
+    "year": 2003
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:22.337Z",
+  "tmdb_id": 470,
+  "media": "movie",
+  "title": "21 Grams",
+  "original_title": "21 Grams",
+  "year": 2003,
+  "release_date": "2003-11-18",
+  "runtime": 124,
+  "overview": "Paul Rivers, an ailing mathematician lovelessly married to an English émigré; Christina Peck, an upper-middle-class suburban housewife and mother of two girls; and Jack Jordan, a born-again ex-con, are brought together by a terrible accident that changes their lives.",
+  "tagline": "How much does life weigh?",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.3,
+  "vote_count": 3484,
+  "popularity": 7.67,
+  "poster_path": "/wZ0l6or5juuVWqDkLEgaghs4f9l.jpg",
+  "backdrop_path": "/5SgrtPH6kBmmHao0PofxpvOYfWC.jpg",
+  "trailer_key": "x_tPi8pYzSw",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:22.337Z"
+}

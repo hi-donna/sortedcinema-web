@@ -1,0 +1,56 @@
+{
+  "key": "disclosure-day-2026",
+  "query": {
+    "title": "Disclosure Day",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:40.142Z",
+  "tmdb_id": 1275779,
+  "media": "movie",
+  "title": "Disclosure Day",
+  "original_title": "Disclosure Day",
+  "year": 2026,
+  "release_date": "2026-06-10",
+  "runtime": 146,
+  "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+  "tagline": "We deserve to know.",
+  "genres": [
+    "Science Fiction",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 3290,
+  "popularity": 91.3835,
+  "poster_path": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+  "backdrop_path": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+  "trailer_key": "icDuEHSxE-w",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:40.142Z"
+}

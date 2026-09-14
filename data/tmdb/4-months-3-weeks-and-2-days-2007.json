@@ -1,0 +1,38 @@
+{
+  "key": "4-months-3-weeks-and-2-days-2007",
+  "query": {
+    "title": "4 Months, 3 Weeks and 2 Days",
+    "year": 2007
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:31.487Z",
+  "tmdb_id": 2009,
+  "media": "movie",
+  "title": "4 Months, 3 Weeks and 2 Days",
+  "original_title": "4 luni, 3 săptămâni și 2 zile",
+  "year": 2007,
+  "release_date": "2007-08-24",
+  "runtime": 114,
+  "overview": "Two college roommates have 24 hours to make the ultimate choice as they finalize arrangements for a black market abortion.",
+  "tagline": "At what moment do we begin to live?",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "ro",
+  "origin_country": [
+    "RO"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 847,
+  "popularity": 3.9124,
+  "poster_path": "/acEtvzFPeOQwbzRWncjRLenhnKV.jpg",
+  "backdrop_path": "/phYwx0HKSdcQyOuK5bMMO8woETT.jpg",
+  "trailer_key": "UjS7v4AEYco",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:31.487Z"
+}

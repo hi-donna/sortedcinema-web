@@ -1,0 +1,57 @@
+{
+  "key": "about-time-2013",
+  "query": {
+    "title": "About Time",
+    "year": 2013
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:13.358Z",
+  "tmdb_id": 122906,
+  "media": "movie",
+  "title": "About Time",
+  "original_title": "About Time",
+  "year": 2013,
+  "release_date": "2013-09-04",
+  "runtime": 123,
+  "overview": "The night after another unsatisfactory New Year's party, Tim's father reveals to him that the men in their family have the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.",
+  "tagline": "What if every moment in life came with a second chance?",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Fantasy"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 9493,
+  "popularity": 17.2313,
+  "poster_path": "/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+  "backdrop_path": "/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
+  "trailer_key": "7OIFdWk83no",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      },
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:13.358Z"
+}

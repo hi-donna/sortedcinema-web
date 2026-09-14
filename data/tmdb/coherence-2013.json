@@ -1,0 +1,40 @@
+{
+  "key": "coherence-2013",
+  "query": {
+    "title": "Coherence",
+    "year": 2013
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:17.662Z",
+  "tmdb_id": 220289,
+  "media": "movie",
+  "title": "Coherence",
+  "original_title": "Coherence",
+  "year": 2014,
+  "release_date": "2014-04-06",
+  "runtime": 89,
+  "overview": "Four couples gather for dinner the night a mysterious and powerful comet passes overhead.",
+  "tagline": "Rearrange your brain.",
+  "genres": [
+    "Thriller",
+    "Science Fiction"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 3592,
+  "popularity": 8.1703,
+  "poster_path": "/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg",
+  "backdrop_path": "/cvGE73s935bXEAVt2W0zADPPegG.jpg",
+  "trailer_key": "YixSld-6PqM",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:17.662Z"
+}

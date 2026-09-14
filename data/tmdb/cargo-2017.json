@@ -1,0 +1,47 @@
+{
+  "key": "cargo-2017",
+  "query": {
+    "title": "Cargo",
+    "year": 2017
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:26.619Z",
+  "tmdb_id": 425972,
+  "media": "movie",
+  "title": "Cargo",
+  "original_title": "Cargo",
+  "year": 2017,
+  "release_date": "2017-10-06",
+  "runtime": 105,
+  "overview": "After being infected in the wake of a violent pandemic and with only 48 hours to live, a father struggles to find a new home for his baby daughter.",
+  "tagline": "The future is fragile.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Horror"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "vote_average": 6.4,
+  "vote_count": 1902,
+  "popularity": 4.5984,
+  "poster_path": "/cdPSUck4tBRvRu6DFk6XciDrssn.jpg",
+  "backdrop_path": "/tiIpajUBpLMNWMEzpjRBxo0jCbD.jpg",
+  "trailer_key": "W5QJW0M5pik",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:26.619Z"
+}

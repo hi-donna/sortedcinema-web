@@ -1,0 +1,62 @@
+{
+  "key": "the-village-2004",
+  "query": {
+    "title": "The Village",
+    "year": 2004
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:25.548Z",
+  "tmdb_id": 6947,
+  "media": "movie",
+  "title": "The Village",
+  "original_title": "The Village",
+  "year": 2004,
+  "release_date": "2004-07-30",
+  "runtime": 108,
+  "overview": "When a willful young man tries to venture beyond his sequestered Pennsylvania hamlet, his actions set off a chain of chilling incidents that will alter the community forever.",
+  "tagline": "There is no turning back",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 6.5,
+  "vote_count": 4719,
+  "popularity": 10.3423,
+  "poster_path": "/v7UvYtKfIVaHLaHwVgfalyrK7Ho.jpg",
+  "backdrop_path": "/lxwCRTWWfCisuarrFFUhW43eBnW.jpg",
+  "trailer_key": "c7TL1BZegLo",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:25.548Z"
+}

@@ -1,0 +1,40 @@
+{
+  "key": "pi-1998",
+  "query": {
+    "title": "Pi",
+    "year": 1998
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:15.421Z",
+  "tmdb_id": 473,
+  "media": "movie",
+  "title": "Pi",
+  "original_title": "Pi",
+  "year": 1998,
+  "release_date": "1998-07-10",
+  "runtime": 84,
+  "overview": "A mathematical genius discovers a link between numbers and reality, and thus believes he can predict the future.",
+  "tagline": "Faith in chaos.",
+  "genres": [
+    "Mystery",
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.1,
+  "vote_count": 2583,
+  "popularity": 5.4376,
+  "poster_path": "/fJA22FjlAW8rzrOw9Mwanl6oTc9.jpg",
+  "backdrop_path": "/pVmCanXNPYqE74cJoL0U6C9ONf5.jpg",
+  "trailer_key": "yRjkQT9xLZs",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:15.421Z"
+}

@@ -1,0 +1,40 @@
+{
+  "key": "gomorrah-2008",
+  "query": {
+    "title": "Gomorrah",
+    "year": 2008
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:34.567Z",
+  "tmdb_id": 8882,
+  "media": "movie",
+  "title": "Gomorrah",
+  "original_title": "Gomorra",
+  "year": 2008,
+  "release_date": "2008-05-16",
+  "runtime": 137,
+  "overview": "An inside look at Italy's modern-day crime families, the Camorra in Naples and Caserta. Based on a book by Roberto Saviano. Power, money and blood: these are the \"values\" that the residents of the Province of Naples and Caserta have to face every day. They hardly ever have a choice and are forced to obey the rules of the Camorra. Only a lucky few can even think of leading a normal life.",
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "original_language": "it",
+  "origin_country": [
+    "BE",
+    "IT"
+  ],
+  "vote_average": 6.9,
+  "vote_count": 1328,
+  "popularity": 4.2324,
+  "poster_path": "/3XcCTqSovFZE5GRebJmh1kHwziw.jpg",
+  "backdrop_path": "/dmxAEDURAwfz6iTXTWu1GCYcOR3.jpg",
+  "trailer_key": "MN7-tepnIfY",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:34.567Z"
+}

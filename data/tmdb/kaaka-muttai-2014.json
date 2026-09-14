@@ -1,0 +1,44 @@
+{
+  "key": "kaaka-muttai-2014",
+  "query": {
+    "title": "Kaaka Muttai",
+    "year": 2014
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:29.437Z",
+  "tmdb_id": 264038,
+  "media": "movie",
+  "title": "Kaaka Muttai",
+  "original_title": "காக்கா முட்டை",
+  "year": 2015,
+  "release_date": "2015-06-05",
+  "runtime": 109,
+  "overview": "Two slum kids yearn to taste a pizza after being enticed by the pizza shop that has opened near their locality. What happens when they manage to find the money to buy one?",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "ta",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 64,
+  "popularity": 1.2534,
+  "poster_path": "/xa8EJVtnxq6rMPBplGuv2BAS1pl.jpg",
+  "backdrop_path": "/8jScsevTSGlYNGGtqvg20YpS9yx.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:29.437Z"
+}

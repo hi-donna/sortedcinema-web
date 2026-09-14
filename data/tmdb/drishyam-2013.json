@@ -1,0 +1,46 @@
+{
+  "key": "drishyam-2013",
+  "query": {
+    "title": "Drishyam",
+    "year": 2013
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:28.280Z",
+  "tmdb_id": 244049,
+  "media": "movie",
+  "title": "Drishyam",
+  "original_title": "ദൃശ്യം",
+  "year": 2013,
+  "release_date": "2013-12-19",
+  "runtime": 164,
+  "overview": "Georgekutty lives a happy life with his wife and daughters. Things take a turn when his daughter gets indecently filmed using a hidden camera, by the son of a police inspector.",
+  "tagline": "Visuals can be deceiving",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Drama"
+  ],
+  "original_language": "ml",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 234,
+  "popularity": 1.9263,
+  "poster_path": "/7d8GLneJkF81q1POdK7VUrjWafX.jpg",
+  "backdrop_path": "/uqcM9eRqUyZCJCGDkLozP9TGAHn.jpg",
+  "trailer_key": "eMASubc1y_k",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:28.280Z"
+}

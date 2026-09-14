@@ -1,0 +1,77 @@
+{
+  "key": "i-am-legend-2007",
+  "query": {
+    "title": "I Am Legend",
+    "year": 2007
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:25.760Z",
+  "tmdb_id": 6479,
+  "media": "movie",
+  "title": "I Am Legend",
+  "original_title": "I Am Legend",
+  "year": 2007,
+  "release_date": "2007-12-12",
+  "runtime": 101,
+  "overview": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.",
+  "tagline": "The last man on Earth is not alone.",
+  "genres": [
+    "Drama",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 17291,
+  "popularity": 18.3872,
+  "poster_path": "/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
+  "backdrop_path": "/ePgD1cwmklyrFBjl6z96IuixuSY.jpg",
+  "trailer_key": "4uDU6SUpr8k",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:25.760Z"
+}

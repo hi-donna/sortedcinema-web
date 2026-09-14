@@ -1,0 +1,41 @@
+{
+  "key": "sleuth-1972",
+  "query": {
+    "title": "Sleuth",
+    "year": 1972
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:22.422Z",
+  "tmdb_id": 993,
+  "media": "movie",
+  "title": "Sleuth",
+  "original_title": "Sleuth",
+  "year": 1972,
+  "release_date": "1972-12-10",
+  "runtime": 138,
+  "overview": "A man who loves games and theatre invites his wife's lover to meet, setting up a battle of wits with potentially deadly results.",
+  "tagline": "Think of the perfect crime... Then go one step further.",
+  "genres": [
+    "Thriller",
+    "Mystery",
+    "Crime"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 749,
+  "popularity": 3.7547,
+  "poster_path": "/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg",
+  "backdrop_path": "/rVdKBzVyHTG1gv8bAAJnr5Eu6gl.jpg",
+  "trailer_key": "XBRMaieaLdU",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:22.422Z"
+}

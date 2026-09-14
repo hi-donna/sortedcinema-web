@@ -1,0 +1,56 @@
+{
+  "key": "your-name-2016",
+  "query": {
+    "title": "Your Name",
+    "year": 2016
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:35.205Z",
+  "tmdb_id": 372058,
+  "media": "movie",
+  "title": "Your Name.",
+  "original_title": "君の名は。",
+  "year": 2016,
+  "release_date": "2016-07-01",
+  "runtime": 106,
+  "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+  "tagline": "Separated by distance, connected by fate.",
+  "genres": [
+    "Animation",
+    "Romance",
+    "Drama"
+  ],
+  "original_language": "ja",
+  "origin_country": [
+    "JP"
+  ],
+  "vote_average": 8.5,
+  "vote_count": 12980,
+  "popularity": 24.2519,
+  "poster_path": "/vfJFJPepRKapMd5G2ro7klIRysq.jpg",
+  "backdrop_path": "/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
+  "trailer_key": "TYku4P7MHdo",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Crunchyroll",
+        "slug": "crunchyroll",
+        "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+      },
+      {
+        "name": "SonyLIV",
+        "slug": "sonyliv",
+        "logo": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png"
+      },
+      {
+        "name": "Crunchyroll on Prime",
+        "slug": "crunchyroll-on-prime",
+        "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:35.205Z"
+}

@@ -1,0 +1,40 @@
+{
+  "key": "son-of-saul-2015",
+  "query": {
+    "title": "Son of Saul",
+    "year": 2015
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:31.565Z",
+  "tmdb_id": 336050,
+  "media": "movie",
+  "title": "Son of Saul",
+  "original_title": "Saul fia",
+  "year": 2015,
+  "release_date": "2015-06-11",
+  "runtime": 107,
+  "overview": "In the horror of 1944 Auschwitz, a prisoner forced to burn the corpses of his own people finds moral survival trying to save from the flames the body of a boy he takes for his son, seeking to give him a proper Jewish burial.",
+  "tagline": "",
+  "genres": [
+    "War",
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "hu",
+  "origin_country": [
+    "HU"
+  ],
+  "vote_average": 7.1,
+  "vote_count": 1194,
+  "popularity": 3.314,
+  "poster_path": "/9ZcX6NjCJam5uwkooXffhHI29Lj.jpg",
+  "backdrop_path": "/5ymJuqUWwQZ7yq63UE8DNpFBELr.jpg",
+  "trailer_key": "PSabBa9IWYs",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:31.565Z"
+}

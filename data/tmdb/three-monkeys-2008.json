@@ -1,0 +1,41 @@
+{
+  "key": "three-monkeys-2008",
+  "query": {
+    "title": "Three Monkeys",
+    "year": 2008
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:39.046Z",
+  "tmdb_id": 8905,
+  "media": "movie",
+  "title": "Three Monkeys",
+  "original_title": "Üç maymun",
+  "year": 2008,
+  "release_date": "2008-05-16",
+  "runtime": 109,
+  "overview": "A family battles against the odds to stay together when small lies grow into an extravagant cover-up. In order to avoid hardship and responsibilities that would otherwise be impossible to endure, the family chooses to ignore the truth, not to see, hear or talk about it. But does playing “Three Monkeys” invalidate the truth of its existence?",
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "tr",
+  "origin_country": [
+    "TR",
+    "IT",
+    "FR"
+  ],
+  "vote_average": 6.8,
+  "vote_count": 238,
+  "popularity": 1.3843,
+  "poster_path": "/tyIKP8SSTkw9xEXAG9lj5jEnIfW.jpg",
+  "backdrop_path": "/tD7zvUWcx6Uw54GiE0xzpGK15pT.jpg",
+  "trailer_key": "7wBznN7c8YE",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:39.046Z"
+}

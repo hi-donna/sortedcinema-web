@@ -1,0 +1,59 @@
+{
+  "key": "super-deluxe-2019",
+  "query": {
+    "title": "Super Deluxe",
+    "year": 2019
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:29.549Z",
+  "tmdb_id": 432011,
+  "media": "movie",
+  "title": "Super Deluxe",
+  "original_title": "சூப்பர் டீலக்ஸ்",
+  "year": 2019,
+  "release_date": "2019-03-29",
+  "runtime": 176,
+  "overview": "An unfaithful newly-wed wife, an estranged parent, a priest and an angry son suddenly find themselves in the most unexpected predicaments, each poised to experience their destiny, all on one fateful day.",
+  "tagline": "Sex, stigma and spirituality merge in three eccentric stories of Tamil Nadu.",
+  "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama",
+    "Crime"
+  ],
+  "original_language": "ta",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 141,
+  "popularity": 1.4829,
+  "poster_path": "/rTsYDdFWyw87CTk4YgJO6nYmVcJ.jpg",
+  "backdrop_path": "/trBGubNu0WWBGQMLxMBOJe4DylV.jpg",
+  "trailer_key": "DWwvAmVbuEI",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "aha",
+        "slug": "aha",
+        "logo": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:29.549Z"
+}

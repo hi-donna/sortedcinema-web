@@ -1,0 +1,51 @@
+{
+  "key": "bramayugam-2024",
+  "query": {
+    "title": "Bramayugam",
+    "year": 2024
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:20.328Z",
+  "tmdb_id": 1166133,
+  "media": "movie",
+  "title": "Bramayugam",
+  "original_title": "ഭ്രമയുഗം",
+  "year": 2024,
+  "release_date": "2024-02-15",
+  "runtime": 139,
+  "overview": "A folk singer in 17th-century Kerala discovers a mansion. Inside, he encounters an enigmatic cook and a powerful master, setting in motion a chain of events that changes his life.",
+  "tagline": "The Age of Madness",
+  "genres": [
+    "Horror",
+    "Thriller",
+    "Drama"
+  ],
+  "original_language": "ml",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 91,
+  "popularity": 2.8431,
+  "poster_path": "/snQLwRrfQAl5YFKVefZq9Lbscki.jpg",
+  "backdrop_path": "/3Y5pOfxMrG8SqbIcGhYy497eOXc.jpg",
+  "trailer_key": "7FLxInubR5Q",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "SonyLIV",
+        "slug": "sonyliv",
+        "logo": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png"
+      },
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:20.328Z"
+}

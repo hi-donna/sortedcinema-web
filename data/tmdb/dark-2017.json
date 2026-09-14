@@ -1,0 +1,48 @@
+{
+  "key": "dark-2017",
+  "query": {
+    "title": "Dark",
+    "year": 2017
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:11.286Z",
+  "tmdb_id": 70523,
+  "media": "tv",
+  "title": "Dark",
+  "original_title": "Dark",
+  "year": 2017,
+  "release_date": "2017-12-01",
+  "runtime": null,
+  "seasons": 3,
+  "overview": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+  "tagline": "Everything is connected.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Mystery"
+  ],
+  "original_language": "de",
+  "origin_country": [
+    "DE"
+  ],
+  "vote_average": 8.4,
+  "vote_count": 7834,
+  "popularity": 36.5911,
+  "poster_path": "/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
+  "backdrop_path": "/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+  "trailer_key": "ESEUoa-mz2c",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:11.286Z"
+}

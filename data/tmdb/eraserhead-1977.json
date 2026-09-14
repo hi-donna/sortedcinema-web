@@ -1,0 +1,50 @@
+{
+  "key": "eraserhead-1977",
+  "query": {
+    "title": "Eraserhead",
+    "year": 1977
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:15.473Z",
+  "tmdb_id": 985,
+  "media": "movie",
+  "title": "Eraserhead",
+  "original_title": "Eraserhead",
+  "year": 1977,
+  "release_date": "1977-09-28",
+  "runtime": 89,
+  "overview": "First-time father Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.",
+  "tagline": "Where your nightmares end...",
+  "genres": [
+    "Horror",
+    "Science Fiction"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.3,
+  "vote_count": 2829,
+  "popularity": 7.4123,
+  "poster_path": "/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+  "backdrop_path": "/ApB0mF2d5Oqioi3yxjuogiotSLI.jpg",
+  "trailer_key": "zVJICfUx8M0",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:15.473Z"
+}

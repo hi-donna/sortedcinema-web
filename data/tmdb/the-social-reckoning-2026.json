@@ -1,0 +1,39 @@
+{
+  "key": "the-social-reckoning-2026",
+  "query": {
+    "title": "The Social Reckoning",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:40.208Z",
+  "tmdb_id": 1281331,
+  "media": "movie",
+  "title": "The Social Reckoning",
+  "original_title": "The Social Reckoning",
+  "year": 2026,
+  "release_date": "2026-10-07",
+  "runtime": 112,
+  "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+  "tagline": "We're way past making friends.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": null,
+  "vote_count": 0,
+  "popularity": 7.8698,
+  "poster_path": "/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg",
+  "backdrop_path": "/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
+  "trailer_key": "R8ANzYpaZaY",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:40.208Z"
+}

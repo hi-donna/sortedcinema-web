@@ -1,0 +1,38 @@
+{
+  "key": "raise-the-red-lantern-1991",
+  "query": {
+    "title": "Raise the Red Lantern",
+    "year": 1991
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:31.602Z",
+  "tmdb_id": 10404,
+  "media": "movie",
+  "title": "Raise the Red Lantern",
+  "original_title": "大红灯笼高高挂",
+  "year": 1991,
+  "release_date": "1991-12-18",
+  "runtime": 125,
+  "overview": "In 1920s China, 19-year-old Songlian becomes a concubine of a powerful lord and is forced to compete with his three wives for the privileges gained.",
+  "tagline": "China, 1920. One Master, Four Wives.",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "zh",
+  "origin_country": [
+    "CN"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 818,
+  "popularity": 6.6174,
+  "poster_path": "/j6MGZpg55cTqlHHwahBtzI2qQg1.jpg",
+  "backdrop_path": "/9UCHfC9tYojD4mMVBm0boyzYEQq.jpg",
+  "trailer_key": "L0ATH3N1gsM",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:31.602Z"
+}

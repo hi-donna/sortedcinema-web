@@ -1,0 +1,50 @@
+{
+  "key": "fallen-leaves-2023",
+  "query": {
+    "title": "Fallen Leaves",
+    "year": 2023
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:37.329Z",
+  "tmdb_id": 986280,
+  "media": "movie",
+  "title": "Fallen Leaves",
+  "original_title": "Kuolleet lehdet",
+  "year": 2023,
+  "release_date": "2023-09-14",
+  "runtime": 81,
+  "overview": "In modern-day Helsinki, two lonely souls in search of love meet by chance in a karaoke bar. However, their path to happiness is beset by obstacles – from lost phone numbers to mistaken addresses, alcoholism, and a charming stray dog.",
+  "tagline": "",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "original_language": "fi",
+  "origin_country": [
+    "FI"
+  ],
+  "vote_average": 7.1,
+  "vote_count": 767,
+  "popularity": 4.1197,
+  "poster_path": "/9ayYOpeqHhxfHHUoyt3kXzznECO.jpg",
+  "backdrop_path": "/cru4rjGcdHGhnPyjNXvW82jOrif.jpg",
+  "trailer_key": "zS-0FtHVDoA",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:37.329Z"
+}

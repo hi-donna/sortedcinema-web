@@ -1,0 +1,40 @@
+{
+  "key": "shoplifters-2018",
+  "query": {
+    "title": "Shoplifters",
+    "year": 2018
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:19.422Z",
+  "tmdb_id": 505192,
+  "media": "movie",
+  "title": "Shoplifters",
+  "original_title": "万引き家族",
+  "year": 2018,
+  "release_date": "2018-06-02",
+  "runtime": 120,
+  "overview": "In the outskirts of Tokyo, a poor but close-knit group living on the fringes of society survives through shoplifting and odd jobs. When Osamu and his son take in a neglected young girl, their already fragile existence begins to unravel. As the family grows attached to her, buried secrets surface, forcing them to confront the true meaning of love, belonging, and what makes a family.",
+  "tagline": "Sometimes you choose your family.",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "original_language": "ja",
+  "origin_country": [
+    "JP"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 2367,
+  "popularity": 10.6196,
+  "poster_path": "/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg",
+  "backdrop_path": "/dVRkhmtDn3EiyhX6c9SfL7klCoU.jpg",
+  "trailer_key": "wuaoRzuVqI0",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:19.422Z"
+}

@@ -1,0 +1,83 @@
+{
+  "key": "28-days-later-2002",
+  "query": {
+    "title": "28 Days Later",
+    "year": 2002
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:25.658Z",
+  "tmdb_id": 170,
+  "media": "movie",
+  "title": "28 Days Later",
+  "original_title": "28 Days Later",
+  "year": 2002,
+  "release_date": "2002-10-31",
+  "runtime": 113,
+  "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+  "tagline": "The days are numbered.",
+  "genres": [
+    "Horror",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 8861,
+  "popularity": 21.7148,
+  "poster_path": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+  "backdrop_path": "/aJFwk1clMal1prxAvKAgHxKPAf.jpg",
+  "trailer_key": "mWEhfF27O0c",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:25.658Z"
+}

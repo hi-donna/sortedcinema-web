@@ -1,0 +1,56 @@
+{
+  "key": "asuran-2019",
+  "query": {
+    "title": "Asuran",
+    "year": 2019
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:29.627Z",
+  "tmdb_id": 576928,
+  "media": "movie",
+  "title": "Asuran",
+  "original_title": "அசுரன்",
+  "year": 2019,
+  "release_date": "2019-10-02",
+  "runtime": 141,
+  "overview": "A family from the underprivileged class is on the run after the teenaged son kills a rich man from the upper caste. Can the pacifist father be able to save his hot-blooded son?",
+  "tagline": "",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "original_language": "ta",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 115,
+  "popularity": 1.4982,
+  "poster_path": "/nA3rSb8Mqd5b7n6PzPwiQ0ZW43r.jpg",
+  "backdrop_path": "/oxl1w7sICYDJfaD9PM06HfPUmOi.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "Goldmines Play on Prime",
+        "slug": "goldmines-play-on-prime",
+        "logo": "/8uXd8H7oaWlLBszABEvF9jIQCYx.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:29.627Z"
+}

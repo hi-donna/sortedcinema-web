@@ -1,0 +1,38 @@
+{
+  "key": "wild-strawberries-1957",
+  "query": {
+    "title": "Wild Strawberries",
+    "year": 1957
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:37.757Z",
+  "tmdb_id": 614,
+  "media": "movie",
+  "title": "Wild Strawberries",
+  "original_title": "Smultronstället",
+  "year": 1957,
+  "release_date": "1957-08-28",
+  "runtime": 91,
+  "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "sv",
+  "origin_country": [
+    "SE"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 1853,
+  "popularity": 4.219,
+  "poster_path": "/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
+  "backdrop_path": "/BBVAUchYvkmPThVIqipgAfabfl.jpg",
+  "trailer_key": "EwMgTyVbCS0",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:37.757Z"
+}

@@ -1,0 +1,55 @@
+{
+  "key": "memento-2000",
+  "query": {
+    "title": "Memento",
+    "year": 2000
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:15.616Z",
+  "tmdb_id": 77,
+  "media": "movie",
+  "title": "Memento",
+  "original_title": "Memento",
+  "year": 2000,
+  "release_date": "2000-10-11",
+  "runtime": 113,
+  "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+  "tagline": "Some memories are best forgotten.",
+  "genres": [
+    "Mystery",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8.2,
+  "vote_count": 16737,
+  "popularity": 16.8636,
+  "poster_path": "/nzlv62aC0octS5AklAiWpXLX9Z0.jpg",
+  "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+  "trailer_key": "Rq9eM4ZXRgs",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Lionsgate Play",
+        "slug": "lionsgate-play",
+        "logo": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png"
+      },
+      {
+        "name": "Lionsgate Play on Apple TV",
+        "slug": "lionsgate-play-on-apple-tv",
+        "logo": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png"
+      },
+      {
+        "name": "Lionsgate Play on Prime",
+        "slug": "lionsgate-play-on-prime",
+        "logo": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:15.616Z"
+}

@@ -1,0 +1,38 @@
+{
+  "key": "distant-2002",
+  "query": {
+    "title": "Distant",
+    "year": 2002
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:38.528Z",
+  "tmdb_id": 31026,
+  "media": "movie",
+  "title": "Distant",
+  "original_title": "Uzak",
+  "year": 2002,
+  "release_date": "2002-12-20",
+  "runtime": 106,
+  "overview": "A young man from rural Turkey arrives in Istanbul with dreams of working on a ship and stays with a cousin while he searches for work. Over time, the former’s struggles to find employment and the latter’s troubles and disappointments strain their relationship and living situation.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "tr",
+  "origin_country": [
+    "TR"
+  ],
+  "vote_average": 7.1,
+  "vote_count": 265,
+  "popularity": 1.9798,
+  "poster_path": "/7XKGrHh1BRnMiIRMRYRsWPQDJfh.jpg",
+  "backdrop_path": "/rsFMqISY2t9Qv642DPSfX34Lh1Y.jpg",
+  "trailer_key": "YJKIypY3P-g",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:38.528Z"
+}

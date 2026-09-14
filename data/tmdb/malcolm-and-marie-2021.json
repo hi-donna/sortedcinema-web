@@ -1,0 +1,45 @@
+{
+  "key": "malcolm-and-marie-2021",
+  "query": {
+    "title": "Malcolm & Marie",
+    "year": 2021
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:21.317Z",
+  "tmdb_id": 722913,
+  "media": "movie",
+  "title": "Malcolm & Marie",
+  "original_title": "Malcolm & Marie",
+  "year": 2021,
+  "release_date": "2021-01-29",
+  "runtime": 106,
+  "overview": "As a filmmaker and his girlfriend return home from his movie premiere, smoldering tensions and painful revelations push them toward a romantic reckoning.",
+  "tagline": "Madly in love.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7,
+  "vote_count": 1485,
+  "popularity": 3.517,
+  "poster_path": "/bdidDnAZwchN5vTenoNuhGPJTri.jpg",
+  "backdrop_path": "/xLsM5yTg9he5PWXXbrwzw1Wg8xp.jpg",
+  "trailer_key": "CGZmwsK58M8",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:21.317Z"
+}

@@ -1,0 +1,39 @@
+{
+  "key": "dune-part-three-2026",
+  "query": {
+    "title": "Dune: Part Three",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:40.251Z",
+  "tmdb_id": 1170608,
+  "media": "movie",
+  "title": "Dune: Part Three",
+  "original_title": "Dune: Part Three",
+  "year": 2026,
+  "release_date": "2026-12-15",
+  "runtime": 140,
+  "overview": "Emperor Paul Atreides faces the fallout from his ascent to power as political plots and a galaxy-wide holy war endanger the future only he can see.",
+  "tagline": "The epic conclusion.",
+  "genres": [
+    "Science Fiction",
+    "Adventure"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": null,
+  "vote_count": 0,
+  "popularity": 16.4656,
+  "poster_path": "/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+  "backdrop_path": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+  "trailer_key": "NdvqHc56lE0",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:40.251Z"
+}

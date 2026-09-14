@@ -1,0 +1,59 @@
+{
+  "key": "sonar-kella-1974",
+  "query": {
+    "title": "Sonar Kella",
+    "year": 1974
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:27.356Z",
+  "tmdb_id": 164990,
+  "media": "movie",
+  "title": "The Golden Fortress",
+  "original_title": "সোনার কেল্লা",
+  "year": 1974,
+  "release_date": "1974-12-27",
+  "runtime": 135,
+  "overview": "A young boy becomes a target for crooks, after he claims to remember his past life and mentions precious jewels in a golden fortress.",
+  "tagline": "",
+  "genres": [
+    "Mystery"
+  ],
+  "original_language": "bn",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 33,
+  "popularity": 1.1829,
+  "poster_path": "/4TBPQYszjzj6UKoXyZk4ooURlYq.jpg",
+  "backdrop_path": "/tkDruUs0xEXkRjl747kWuQLU9xk.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      },
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      },
+      {
+        "name": "Hoichoi on Prime",
+        "slug": "hoichoi-on-prime",
+        "logo": "/k0ysPvZwKtZpeLQJJJVZWnyhmTW.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:27.356Z"
+}

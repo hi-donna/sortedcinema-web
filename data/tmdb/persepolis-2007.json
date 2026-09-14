@@ -1,0 +1,39 @@
+{
+  "key": "persepolis-2007",
+  "query": {
+    "title": "Persepolis",
+    "year": 2007
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:23.262Z",
+  "tmdb_id": 2011,
+  "media": "movie",
+  "title": "Persepolis",
+  "original_title": "Persepolis",
+  "year": 2007,
+  "release_date": "2007-06-27",
+  "runtime": 95,
+  "overview": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
+  "tagline": "The film Iran didn't want the world to see.",
+  "genres": [
+    "Animation",
+    "Drama"
+  ],
+  "original_language": "fr",
+  "origin_country": [
+    "FR"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 2242,
+  "popularity": 3.4888,
+  "poster_path": "/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg",
+  "backdrop_path": "/4pfb85bv0rKkmslTp2hzAqA7RT4.jpg",
+  "trailer_key": "pr-ffssDVgI",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:23.262Z"
+}

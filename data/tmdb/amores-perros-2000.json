@@ -1,0 +1,56 @@
+{
+  "key": "amores-perros-2000",
+  "query": {
+    "title": "Amores Perros",
+    "year": 2000
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:36.412Z",
+  "tmdb_id": 55,
+  "media": "movie",
+  "title": "Amores Perros",
+  "original_title": "Amores perros",
+  "year": 2000,
+  "release_date": "2000-06-16",
+  "runtime": 154,
+  "overview": "A fatalistic car crash in Mexico city sets off a chain of events in the lives of three people: a supermodel, a young man wanting to run off with his sister-in-law, and a homeless man.",
+  "tagline": "Love. Betrayal. Death.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "es",
+  "origin_country": [
+    "MX"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 3003,
+  "popularity": 8.8707,
+  "poster_path": "/1lX74fPZsBoOyyE5fWL5xT7k9sV.jpg",
+  "backdrop_path": "/iTkxwBriD9YKg4Q35qWEIlLXd6e.jpg",
+  "trailer_key": "_P29GF_NbDc",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:36.412Z"
+}

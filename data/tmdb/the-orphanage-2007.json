@@ -1,0 +1,42 @@
+{
+  "key": "the-orphanage-2007",
+  "query": {
+    "title": "The Orphanage",
+    "year": 2007
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:38.932Z",
+  "tmdb_id": 6537,
+  "media": "movie",
+  "title": "The Orphanage",
+  "original_title": "El orfanato",
+  "year": 2007,
+  "release_date": "2007-05-20",
+  "runtime": 105,
+  "overview": "A woman brings her family back to her childhood home, which used to be an orphanage, intent on reopening it. Before long, her son starts to communicate with a new invisible friend.",
+  "tagline": "A tale of love. A story of horror.",
+  "genres": [
+    "Horror",
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "es",
+  "origin_country": [
+    "BE",
+    "FR",
+    "ES"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 3203,
+  "popularity": 5.0697,
+  "poster_path": "/vIpi1KtHLXUOfSVC2m6MqpjSPgL.jpg",
+  "backdrop_path": "/g6pNnKmvTkNlEvn0ScwstYvhFE.jpg",
+  "trailer_key": "t-OlnNqnddQ",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:38.932Z"
+}

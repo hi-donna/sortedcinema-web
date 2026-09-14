@@ -1,0 +1,48 @@
+{
+  "key": "infernal-affairs-2002",
+  "query": {
+    "title": "Infernal Affairs",
+    "year": 2002
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:31.135Z",
+  "tmdb_id": 10775,
+  "media": "movie",
+  "title": "Infernal Affairs",
+  "original_title": "無間道",
+  "year": 2002,
+  "release_date": "2002-12-12",
+  "runtime": 101,
+  "overview": "Chan Wing Yan, a young police officer, has been sent undercover as a mole in the local mafia. Lau Kin Ming, a young mafia member, infiltrates the police force. Years later, their older counterparts, Chen Wing Yan and Inspector Lau Kin Ming, respectively, race against time to expose the mole within their midst.",
+  "tagline": "Loyalty. Honor. Betrayal.",
+  "genres": [
+    "Drama",
+    "Action",
+    "Thriller",
+    "Crime",
+    "Mystery"
+  ],
+  "original_language": "cn",
+  "origin_country": [
+    "HK"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 1922,
+  "popularity": 21.6577,
+  "poster_path": "/gix9thDBXfjJ8M7rYbihqbQGBcP.jpg",
+  "backdrop_path": "/4Mm5l3TcKGynSNto0eyRJgBrkJ7.jpg",
+  "trailer_key": "GqdXakBnmsE",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:31.134Z"
+}

@@ -1,0 +1,83 @@
+{
+  "key": "titli-2014",
+  "query": {
+    "title": "Titli",
+    "year": 2014
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:28.260Z",
+  "tmdb_id": 266038,
+  "media": "movie",
+  "title": "Titli",
+  "original_title": "तितली",
+  "year": 2015,
+  "release_date": "2015-05-06",
+  "runtime": 112,
+  "overview": "A young man in Delhi tries to break free from his controlling, criminal brothers.",
+  "tagline": "Not every family is a family.",
+  "genres": [
+    "Drama",
+    "Action",
+    "Crime"
+  ],
+  "original_language": "hi",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 6.7,
+  "vote_count": 42,
+  "popularity": 0.7379,
+  "poster_path": "/mGknAQus2ayOXjVkVA6GJZCnPfH.jpg",
+  "backdrop_path": "/d06KfI9oicBeL1fYK3hxrt6X9H7.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:28.260Z"
+}

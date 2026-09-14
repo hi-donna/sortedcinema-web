@@ -1,0 +1,63 @@
+{
+  "key": "witness-for-the-prosecution-1957",
+  "query": {
+    "title": "Witness for the Prosecution",
+    "year": 1957
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:13.453Z",
+  "tmdb_id": 37257,
+  "media": "movie",
+  "title": "Witness for the Prosecution",
+  "original_title": "Witness for the Prosecution",
+  "year": 1957,
+  "release_date": "1957-12-17",
+  "runtime": 116,
+  "overview": "An ailing barrister is thrust back into the courtroom in what becomes one of the most unusual and eventful murder cases of the lawyer's career when he finds himself defending a man being tried for the murder of a socialite.",
+  "tagline": "The most electrifying entertainment of our time!",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Crime"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8.2,
+  "vote_count": 1762,
+  "popularity": 6.7727,
+  "poster_path": "/bCj4EfuehAlgBwVd3diyWyhuuau.jpg",
+  "backdrop_path": "/evUB9YKE5IPPtQOchcEF6hS90BO.jpg",
+  "trailer_key": "CgjVcXRDU0I",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:13.453Z"
+}

@@ -1,0 +1,39 @@
+{
+  "key": "good-bye-lenin-2003",
+  "query": {
+    "title": "Good Bye Lenin!",
+    "year": 2003
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:32.640Z",
+  "tmdb_id": 338,
+  "media": "movie",
+  "title": "Good Bye, Lenin!",
+  "original_title": "Good Bye, Lenin!",
+  "year": 2003,
+  "release_date": "2003-02-13",
+  "runtime": 121,
+  "overview": "Alex Kerner's mother was in a coma while the Berlin wall fell. When she wakes up he must try to keep her from learning what happened (as she was an avid communist supporter) to avoid shocking her which could lead to another heart attack.",
+  "tagline": "",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "original_language": "de",
+  "origin_country": [
+    "DE"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 2697,
+  "popularity": 4.5326,
+  "poster_path": "/uHk1oGEbnvQGLnyiiYxTslZLoog.jpg",
+  "backdrop_path": "/uBLmfG7MyNXPXI50eMs1ZjxpbnV.jpg",
+  "trailer_key": "mIjSaHUKD5I",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:32.640Z"
+}

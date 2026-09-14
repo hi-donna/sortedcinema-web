@@ -1,0 +1,50 @@
+{
+  "key": "maheshinte-prathikaaram-2016",
+  "query": {
+    "title": "Maheshinte Prathikaaram",
+    "year": 2016
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:20.434Z",
+  "tmdb_id": 381691,
+  "media": "movie",
+  "title": "Maheshinte Prathikaaram",
+  "original_title": "മഹേഷിന്‍റെ പ്രതികാരം",
+  "year": 2016,
+  "release_date": "2016-02-05",
+  "runtime": 121,
+  "overview": "Mahesh, a studio photographer and owner of the studio. As the story moves on, Mahesh encounters an anonymous fight ending up with taking revenge that leads to certain realizations in his life.",
+  "tagline": "",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "original_language": "ml",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 76,
+  "popularity": 1.2921,
+  "poster_path": "/hmK9QUWpOaSs1H7tarzlMNqT60H.jpg",
+  "backdrop_path": "/58m1VAHe27SkqRnNdR2rxkqVnWS.jpg",
+  "trailer_key": "_KY8Du4WWew",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "ManoramaMAX",
+        "slug": "manoramamax",
+        "logo": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png"
+      },
+      {
+        "name": "ManoramaMAX on Prime",
+        "slug": "manoramamax-on-prime",
+        "logo": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:20.434Z"
+}

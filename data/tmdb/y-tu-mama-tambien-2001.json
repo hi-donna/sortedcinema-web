@@ -1,0 +1,39 @@
+{
+  "key": "y-tu-mama-tambien-2001",
+  "query": {
+    "title": "Y Tu Mamá También",
+    "year": 2001
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:36.848Z",
+  "tmdb_id": 1391,
+  "media": "movie",
+  "title": "Y Tu Mamá También",
+  "original_title": "Y tu mamá también",
+  "year": 2001,
+  "release_date": "2001-06-08",
+  "runtime": 106,
+  "overview": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+  "tagline": "Life has its ways of teaching.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "original_language": "es",
+  "origin_country": [
+    "MX"
+  ],
+  "vote_average": 7.4,
+  "vote_count": 1822,
+  "popularity": 9.6095,
+  "poster_path": "/aj3rqjab8jfc2fWmcS3H3c5qbur.jpg",
+  "backdrop_path": "/7aW9IZjpsoTXYEARlnOvTtl6EBr.jpg",
+  "trailer_key": "inc0vS58ZKg",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:36.848Z"
+}

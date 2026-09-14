@@ -1,0 +1,84 @@
+{
+  "key": "kumbalangi-nights-2019",
+  "query": {
+    "title": "Kumbalangi Nights",
+    "year": 2019
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:20.231Z",
+  "tmdb_id": 575351,
+  "media": "movie",
+  "title": "Kumbalangi Nights",
+  "original_title": "കുമ്പളങ്ങി നൈറ്റ്‌സ്",
+  "year": 2019,
+  "release_date": "2019-02-07",
+  "runtime": 135,
+  "overview": "Four brothers living in the fishing hamlet of Kumbalangi share a love-hate relationship with each other. Their relationship progresses when Saji, Boney and Franky decide to help Bobby stand by his love.",
+  "tagline": "",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "original_language": "ml",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 128,
+  "popularity": 1.5188,
+  "poster_path": "/lJ3RvIirE2C7gdBKvPRaoQ3iCo2.jpg",
+  "backdrop_path": "/8i8ml0LRdFT6LSaTMUG3gLzJfEq.jpg",
+  "trailer_key": "3P4BFBSafF0",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": [
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ]
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:20.231Z"
+}

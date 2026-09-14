@@ -1,0 +1,61 @@
+{
+  "key": "phone-booth-2003",
+  "query": {
+    "title": "Phone Booth",
+    "year": 2003
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:21.279Z",
+  "tmdb_id": 1817,
+  "media": "movie",
+  "title": "Phone Booth",
+  "original_title": "Phone Booth",
+  "year": 2003,
+  "release_date": "2003-01-06",
+  "runtime": 81,
+  "overview": "A slick New York publicist who picks up a ringing receiver in a phone booth is told that if he hangs up, he'll be killed... and the little red light from a laser rifle sight is proof that the caller isn't kidding.",
+  "tagline": "No options. No lies. No fear. No deals. Just keep talking.",
+  "genres": [
+    "Thriller",
+    "Crime"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 6.9,
+  "vote_count": 4325,
+  "popularity": 7.7021,
+  "poster_path": "/r6lIwPKVDa6Q76qH2TbIBqPhXL3.jpg",
+  "backdrop_path": "/iYOEONglnxIsykyOGfzyc01fyg4.jpg",
+  "trailer_key": "PEDTSk69HcA",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:21.279Z"
+}

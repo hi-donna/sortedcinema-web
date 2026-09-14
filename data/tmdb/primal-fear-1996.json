@@ -1,0 +1,83 @@
+{
+  "key": "primal-fear-1996",
+  "query": {
+    "title": "Primal Fear",
+    "year": 1996
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:13.319Z",
+  "tmdb_id": 1592,
+  "media": "movie",
+  "title": "Primal Fear",
+  "original_title": "Primal Fear",
+  "year": 1996,
+  "release_date": "1996-04-03",
+  "runtime": 130,
+  "overview": "Defense attorney Martin Vail takes on jobs for money and prestige rather than any sense of the greater good. His latest case involves an altar boy, accused of brutally murdering the archbishop of Chicago. Vail finds himself up against his ex-pupil and ex-lover, but as the case progresses and the Church's dark secrets are revealed, Vail finds that what appeared a simple case takes on a darker, more dangerous aspect.",
+  "tagline": "Sooner or later, a man who wears two faces forgets which one is real.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 4141,
+  "popularity": 14.7877,
+  "poster_path": "/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+  "backdrop_path": "/dZM71rHXh3Oo3WZlw8YpMMsoVB5.jpg",
+  "trailer_key": "dUzCu3LntU8",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:13.319Z"
+}

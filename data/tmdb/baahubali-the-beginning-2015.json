@@ -1,0 +1,87 @@
+{
+  "key": "baahubali-the-beginning-2015",
+  "query": {
+    "title": "Baahubali: The Beginning",
+    "year": 2015
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:30.389Z",
+  "tmdb_id": 256040,
+  "media": "movie",
+  "title": "Bāhubali: The Beginning",
+  "original_title": "బాహుబలి:ద బిగినింగ్",
+  "year": 2015,
+  "release_date": "2015-07-10",
+  "runtime": 159,
+  "overview": "The young Shivudu is left as a foundling in a small village by his mother. By the time he’s grown up, it has become apparent that he possesses exceptional gifts. He meets the beautiful warrior princess Avanthika and learns that her queen has been held captive for the last 25 years. Shividu sets off to rescue her, discovering his own origins in the process.",
+  "tagline": "",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "original_language": "te",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 960,
+  "popularity": 5.3841,
+  "poster_path": "/9BAjt8nSSms62uOVYn1t3C3dVto.jpg",
+  "backdrop_path": "/e9ZEuHGHZ06AToHlfN1L7nejJ7W.jpg",
+  "trailer_key": "3NQRhE772b0",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      },
+      {
+        "name": "SonyLIV",
+        "slug": "sonyliv",
+        "logo": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:30.389Z"
+}

@@ -1,0 +1,66 @@
+{
+  "key": "before-sunset-2004",
+  "query": {
+    "title": "Before Sunset",
+    "year": 2004
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:21.042Z",
+  "tmdb_id": 80,
+  "media": "movie",
+  "title": "Before Sunset",
+  "original_title": "Before Sunset",
+  "year": 2004,
+  "release_date": "2004-06-16",
+  "runtime": 80,
+  "overview": "Nine years later, Jesse travels across Europe giving readings from a book he wrote about the night he spent in Vienna with Celine. After his reading in Paris, Celine finds him, and they spend part of the day together before Jesse has to again leave for a flight. They are both in relationships now, and Jesse has a son, but as their strong feelings for each other start to return, both confess a longing for more.",
+  "tagline": "What if you had a second chance with the one that got away?",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 3918,
+  "popularity": 7.2066,
+  "poster_path": "/4sW5XH9ZfYXpvFzev00S1IGAEbg.jpg",
+  "backdrop_path": "/tcZi0LQc5iu2u6i5aOWyj9NBBvl.jpg",
+  "trailer_key": "jx0UWbMMZOQ",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:21.042Z"
+}

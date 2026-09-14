@@ -1,0 +1,51 @@
+{
+  "key": "rashomon-1950",
+  "query": {
+    "title": "Rashomon",
+    "year": 1950
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:26.462Z",
+  "tmdb_id": 548,
+  "media": "movie",
+  "title": "Rashomon",
+  "original_title": "羅生門",
+  "year": 1950,
+  "release_date": "1950-08-26",
+  "runtime": 88,
+  "overview": "Four people recount different versions of the story of a man's murder and the rape of his wife.",
+  "tagline": "The husband, the wife… or the bandit?",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "original_language": "ja",
+  "origin_country": [
+    "JP"
+  ],
+  "vote_average": 8,
+  "vote_count": 2600,
+  "popularity": 9.9242,
+  "poster_path": "/ijWibsAU1iBcCD8tuIZfTmDzMVE.jpg",
+  "backdrop_path": "/tDn1dA52bQH9B85vilHeU7C83W1.jpg",
+  "trailer_key": "L2E_DfExUmU",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Plex",
+        "slug": "plex",
+        "logo": "/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+      },
+      {
+        "name": "Plex Channel",
+        "slug": "plex-channel",
+        "logo": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:26.462Z"
+}

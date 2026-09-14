@@ -1,0 +1,39 @@
+{
+  "key": "melancholia-2011",
+  "query": {
+    "title": "Melancholia",
+    "year": 2011
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:18.659Z",
+  "tmdb_id": 62215,
+  "media": "movie",
+  "title": "Melancholia",
+  "original_title": "Melancholia",
+  "year": 2011,
+  "release_date": "2011-03-16",
+  "runtime": 136,
+  "overview": "Two sisters find their already strained relationship challenged as a mysterious new planet threatens to collide with Earth.",
+  "tagline": "It will change everything.",
+  "genres": [
+    "Drama",
+    "Science Fiction"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "DK"
+  ],
+  "vote_average": 7.1,
+  "vote_count": 3927,
+  "popularity": 6.1836,
+  "poster_path": "/fMneszMiQuTKY8JUXrGGB5vwqJf.jpg",
+  "backdrop_path": "/qzrS5ShZZPsPdhM5ZbcQKG7fwFo.jpg",
+  "trailer_key": "6IZGwvxhXvw",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:18.659Z"
+}

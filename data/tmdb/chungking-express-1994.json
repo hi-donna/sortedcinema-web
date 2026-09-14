@@ -1,0 +1,51 @@
+{
+  "key": "chungking-express-1994",
+  "query": {
+    "title": "Chungking Express",
+    "year": 1994
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:30.718Z",
+  "tmdb_id": 11104,
+  "media": "movie",
+  "title": "Chungking Express",
+  "original_title": "重慶森林",
+  "year": 1994,
+  "release_date": "1994-07-14",
+  "runtime": 103,
+  "overview": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
+  "tagline": "If my memory of her has an expiration date, let it be 10,000 years...",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ],
+  "original_language": "cn",
+  "origin_country": [
+    "HK"
+  ],
+  "vote_average": 8,
+  "vote_count": 2273,
+  "popularity": 12.275,
+  "poster_path": "/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+  "backdrop_path": "/vuglA60RqvpHK9rIcG8sXaiWw1L.jpg",
+  "trailer_key": "P9Mxf_6pVA0",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:30.718Z"
+}

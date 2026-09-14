@@ -1,0 +1,49 @@
+{
+  "key": "meghe-dhaka-tara-1960",
+  "query": {
+    "title": "Meghe Dhaka Tara",
+    "year": 1960
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:27.472Z",
+  "tmdb_id": 59239,
+  "media": "movie",
+  "title": "The Cloud-Capped Star",
+  "original_title": "মেঘে ঢাকা তারা",
+  "year": 1960,
+  "release_date": "1960-04-13",
+  "runtime": 127,
+  "overview": "A selfless young woman, the daughter of a middle-class refugee family from East Pakistan, sacrifices her own happiness for her unappreciative family.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "bn",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 57,
+  "popularity": 0.9489,
+  "poster_path": "/uIlt1x2eBMzuQHwyU54CNPTSK6A.jpg",
+  "backdrop_path": "/oAox7z3d94YqwRHTrQOyEZooK94.jpg",
+  "trailer_key": "ZAAv6fBh8q8",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "hoichoi",
+        "slug": "hoichoi",
+        "logo": "/8dgAD4EzQWMsyudVwWCFg19998L.png"
+      },
+      {
+        "name": "Hoichoi on Prime",
+        "slug": "hoichoi-on-prime",
+        "logo": "/k0ysPvZwKtZpeLQJJJVZWnyhmTW.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:27.472Z"
+}

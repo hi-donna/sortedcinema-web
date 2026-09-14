@@ -1,0 +1,63 @@
+{
+  "key": "the-bride-2026",
+  "query": {
+    "title": "The Bride!",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:39.321Z",
+  "tmdb_id": 1159831,
+  "media": "movie",
+  "title": "The Bride!",
+  "original_title": "The Bride!",
+  "year": 2026,
+  "release_date": "2026-03-04",
+  "runtime": 127,
+  "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
+  "tagline": "Here comes the mother f*%#ing bride!",
+  "genres": [
+    "Science Fiction",
+    "Horror",
+    "Fantasy"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 6.1,
+  "vote_count": 651,
+  "popularity": 16.1811,
+  "poster_path": "/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+  "backdrop_path": "/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg",
+  "trailer_key": "-oLJmEFK14k",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:39.321Z"
+}

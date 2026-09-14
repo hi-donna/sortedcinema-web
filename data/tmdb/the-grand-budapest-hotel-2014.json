@@ -1,0 +1,67 @@
+{
+  "key": "the-grand-budapest-hotel-2014",
+  "query": {
+    "title": "The Grand Budapest Hotel",
+    "year": 2014
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:12.546Z",
+  "tmdb_id": 120467,
+  "media": "movie",
+  "title": "The Grand Budapest Hotel",
+  "original_title": "The Grand Budapest Hotel",
+  "year": 2014,
+  "release_date": "2014-02-26",
+  "runtime": 100,
+  "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+  "tagline": "A murder case of Madam D. with enormous wealth and the most outrageous events surrounding her sudden death!",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8,
+  "vote_count": 16481,
+  "popularity": 17.9979,
+  "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+  "backdrop_path": "/jK65srQczOKTpW62wPxwwKztGgE.jpg",
+  "trailer_key": "G1jG8HUY4zI",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:12.546Z"
+}

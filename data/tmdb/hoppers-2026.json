@@ -1,0 +1,48 @@
+{
+  "key": "hoppers-2026",
+  "query": {
+    "title": "Hoppers",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:39.318Z",
+  "tmdb_id": 1327819,
+  "media": "movie",
+  "title": "Hoppers",
+  "original_title": "Hoppers",
+  "year": 2026,
+  "release_date": "2026-03-04",
+  "runtime": 104,
+  "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+  "tagline": "Act natural.",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Science Fiction"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8.2,
+  "vote_count": 2328,
+  "popularity": 47.0266,
+  "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+  "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+  "trailer_key": "PypDSyIRRSs",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:39.318Z"
+}

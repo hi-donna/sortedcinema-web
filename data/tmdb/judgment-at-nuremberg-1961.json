@@ -1,0 +1,45 @@
+{
+  "key": "judgment-at-nuremberg-1961",
+  "query": {
+    "title": "Judgment at Nuremberg",
+    "year": 1961
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:13.413Z",
+  "tmdb_id": 821,
+  "media": "movie",
+  "title": "Judgment at Nuremberg",
+  "original_title": "Judgment at Nuremberg",
+  "year": 1961,
+  "release_date": "1961-12-18",
+  "runtime": 191,
+  "overview": "In 1947, four German judges who served on the bench during the Nazi regime face a military tribunal to answer charges of crimes against humanity. Chief Justice Haywood hears evidence and testimony not only from lead defendant Ernst Janning and his defense attorney Hans Rolfe, but also from the widow of a Nazi general, an idealistic U.S. Army captain and reluctant witness Irene Wallner.",
+  "tagline": "The event the world will never forget.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8,
+  "vote_count": 986,
+  "popularity": 3.3777,
+  "poster_path": "/b6vYatvui1EXeFYfpDX4rcbueuP.jpg",
+  "backdrop_path": "/aSlDcWtKNfRkW0SbsnEjnGBs9jV.jpg",
+  "trailer_key": "T3taV43-lGc",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "MGM Plus on Prime",
+        "slug": "mgm-plus-on-prime",
+        "logo": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:13.413Z"
+}

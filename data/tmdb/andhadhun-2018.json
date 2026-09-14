@@ -1,0 +1,84 @@
+{
+  "key": "andhadhun-2018",
+  "query": {
+    "title": "Andhadhun",
+    "year": 2018
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:28.150Z",
+  "tmdb_id": 534780,
+  "media": "movie",
+  "title": "Andhadhun",
+  "original_title": "अंधाधुन",
+  "year": 2018,
+  "release_date": "2018-10-05",
+  "runtime": 139,
+  "overview": "A series of mysterious events changes the life of a blind pianist who now must report a crime that was actually never witnessed by him.",
+  "tagline": "Every artist has a secret.",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller",
+    "Comedy"
+  ],
+  "original_language": "hi",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 652,
+  "popularity": 2.9635,
+  "poster_path": "/dy3K6hNvwE05siGgiLJcEiwgpdO.jpg",
+  "backdrop_path": "/ArvKQJv3nEpnBoVyjWDUT7TtJOL.jpg",
+  "trailer_key": "2iVYI99VGaw",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:28.150Z"
+}

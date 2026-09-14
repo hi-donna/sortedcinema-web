@@ -1,0 +1,51 @@
+{
+  "key": "ex-machina-2014",
+  "query": {
+    "title": "Ex Machina",
+    "year": 2014
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:22.231Z",
+  "tmdb_id": 264660,
+  "media": "movie",
+  "title": "Ex Machina",
+  "original_title": "Ex Machina",
+  "year": 2015,
+  "release_date": "2015-01-21",
+  "runtime": 108,
+  "overview": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
+  "tagline": "There is nothing more human than the will to survive.",
+  "genres": [
+    "Drama",
+    "Science Fiction"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 14571,
+  "popularity": 13.2461,
+  "poster_path": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+  "backdrop_path": "/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+  "trailer_key": "sDkEF7Db7Gw",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:22.231Z"
+}

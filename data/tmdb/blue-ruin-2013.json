@@ -1,0 +1,40 @@
+{
+  "key": "blue-ruin-2013",
+  "query": {
+    "title": "Blue Ruin",
+    "year": 2013
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:16.347Z",
+  "tmdb_id": 188166,
+  "media": "movie",
+  "title": "Blue Ruin",
+  "original_title": "Blue Ruin",
+  "year": 2014,
+  "release_date": "2014-04-25",
+  "runtime": 90,
+  "overview": "When the quiet life of a beach bum is upended by dreadful news, he sets off for his childhood home to carry out an act of vengeance. However, he proves an inept assassin and finds himself in a brutal fight to protect his estranged family.",
+  "tagline": "Revenge comes home.",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US",
+    "FR"
+  ],
+  "vote_average": 6.8,
+  "vote_count": 1682,
+  "popularity": 3.8941,
+  "poster_path": "/q0itEsso2drJXqH9kfdidxIT5dF.jpg",
+  "backdrop_path": "/epIcUGDXIZVs1jNNFI5lWgWNUIM.jpg",
+  "trailer_key": "W0XGOxFnm9A",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:16.347Z"
+}

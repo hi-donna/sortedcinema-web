@@ -1,0 +1,96 @@
+{
+  "key": "a-few-good-men-1992",
+  "query": {
+    "title": "A Few Good Men",
+    "year": 1992
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:13.348Z",
+  "tmdb_id": 881,
+  "media": "movie",
+  "title": "A Few Good Men",
+  "original_title": "A Few Good Men",
+  "year": 1992,
+  "release_date": "1992-12-11",
+  "runtime": 138,
+  "overview": "When cocky military lawyer Lt. Daniel Kaffee and his co-counsel, Lt. Cmdr. JoAnne Galloway, are assigned to a murder case, they uncover a hazing ritual that could implicate high-ranking officials such as shady Col. Nathan Jessep.",
+  "tagline": "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 4314,
+  "popularity": 11.6984,
+  "poster_path": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+  "backdrop_path": "/H40nWdJngUc6gtytMAbElm9HOu.jpg",
+  "trailer_key": "2T2pyqrr8UM",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "SonyLIV",
+        "slug": "sonyliv",
+        "logo": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png"
+      },
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      },
+      {
+        "name": "Sony Pictures on Prime",
+        "slug": "sony-pictures-on-prime",
+        "logo": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:13.348Z"
+}

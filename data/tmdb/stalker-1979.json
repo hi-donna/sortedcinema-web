@@ -1,0 +1,39 @@
+{
+  "key": "stalker-1979",
+  "query": {
+    "title": "Stalker",
+    "year": 1979
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:31.586Z",
+  "tmdb_id": 1398,
+  "media": "movie",
+  "title": "Stalker",
+  "original_title": "Сталкер",
+  "year": 1979,
+  "release_date": "1979-05-25",
+  "runtime": 162,
+  "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
+  "tagline": "There's no need to speak. You must only...concentrate and recall all your past life. When a man thinks of the past, he becomes kinder.",
+  "genres": [
+    "Science Fiction",
+    "Drama"
+  ],
+  "original_language": "ru",
+  "origin_country": [
+    "SU"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 2597,
+  "popularity": 10.5098,
+  "poster_path": "/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
+  "backdrop_path": "/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
+  "trailer_key": "JCuwthnCRpg",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:31.586Z"
+}

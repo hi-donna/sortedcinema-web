@@ -1,0 +1,39 @@
+{
+  "key": "thithi-2015",
+  "query": {
+    "title": "Thithi",
+    "year": 2015
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:30.390Z",
+  "tmdb_id": 355786,
+  "media": "movie",
+  "title": "Thithi",
+  "original_title": "ತಿಥಿ",
+  "year": 2016,
+  "release_date": "2016-05-06",
+  "runtime": 123,
+  "overview": "In a remote village in South India, three generations of sons react to the death of Century Gowda, their grandfather, a 101-year-old man. The three story lines intertwine before converging at Century Gowda's \"Thithi\", the final funeral celebration eleven days after a death.",
+  "tagline": "",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "original_language": "kn",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 24,
+  "popularity": 1.4755,
+  "poster_path": "/7M5LZMjTiDay94bfY8no8UL2qzM.jpg",
+  "backdrop_path": "/aRV1oCudtxTvqzSIuw1dI9ZxZ0H.jpg",
+  "trailer_key": "Q_NltD4Stv4",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:30.390Z"
+}

@@ -1,0 +1,57 @@
+{
+  "key": "rope-1948",
+  "query": {
+    "title": "Rope",
+    "year": 1948
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:24.758Z",
+  "tmdb_id": 1580,
+  "media": "movie",
+  "title": "Rope",
+  "original_title": "Rope",
+  "year": 1948,
+  "release_date": "1948-02-01",
+  "runtime": 81,
+  "overview": "Two young men attempt to prove they committed the perfect murder by hosting a dinner party for the family of a classmate they just strangled to death.",
+  "tagline": "It begins with a shriek...it ends with a shot! From beginning to end, nothing ever held you like Alfred Hitchcock's ROPE!",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 3081,
+  "popularity": 4.6044,
+  "poster_path": "/9ar6rxLDB8kagAnXZKn6h9smscr.jpg",
+  "backdrop_path": "/81LX4wktTXWEXjLNlkHTmJm7tRu.jpg",
+  "trailer_key": "mTmEraaEY20",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:24.758Z"
+}

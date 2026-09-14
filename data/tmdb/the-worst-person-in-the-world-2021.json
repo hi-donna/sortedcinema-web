@@ -1,0 +1,57 @@
+{
+  "key": "the-worst-person-in-the-world-2021",
+  "query": {
+    "title": "The Worst Person in the World",
+    "year": 2021
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:36.764Z",
+  "tmdb_id": 660120,
+  "media": "movie",
+  "title": "The Worst Person in the World",
+  "original_title": "Verdens verste menneske",
+  "year": 2021,
+  "release_date": "2021-10-13",
+  "runtime": 128,
+  "overview": "The chronicles of four years in the life of Julie, a young woman who navigates the troubled waters of her love life and struggles to find her career path, leading her to take a realistic look at who she really is.",
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+  ],
+  "original_language": "no",
+  "origin_country": [
+    "NO"
+  ],
+  "vote_average": 7.4,
+  "vote_count": 1959,
+  "popularity": 8.5377,
+  "poster_path": "/1NxGNQchGBTHXJ6RShLY1IlZqWn.jpg",
+  "backdrop_path": "/woYGBHERSMhIHqmkkRCbCXp81l4.jpg",
+  "trailer_key": "gpkQgk1Fi1Q",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:36.764Z"
+}

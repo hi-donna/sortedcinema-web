@@ -1,0 +1,106 @@
+{
+  "key": "crouching-tiger-hidden-dragon-2000",
+  "query": {
+    "title": "Crouching Tiger, Hidden Dragon",
+    "year": 2000
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:31.494Z",
+  "tmdb_id": 146,
+  "media": "movie",
+  "title": "Crouching Tiger, Hidden Dragon",
+  "original_title": "卧虎藏龍",
+  "year": 2000,
+  "release_date": "2000-07-06",
+  "runtime": 120,
+  "overview": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
+  "tagline": "A timeless story of strength, secrets and two warriors who would never surrender.",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Action",
+    "Romance",
+    "Fantasy"
+  ],
+  "original_language": "zh",
+  "origin_country": [
+    "HK",
+    "TW"
+  ],
+  "vote_average": 7.4,
+  "vote_count": 3694,
+  "popularity": 14.9158,
+  "poster_path": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+  "backdrop_path": "/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
+  "trailer_key": "q-HrIQLdaNE",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "SonyLIV",
+        "slug": "sonyliv",
+        "logo": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png"
+      },
+      {
+        "name": "Sony Pictures on Prime",
+        "slug": "sony-pictures-on-prime",
+        "logo": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:31.494Z"
+}

@@ -1,0 +1,40 @@
+{
+  "key": "incendies-2010",
+  "query": {
+    "title": "Incendies",
+    "year": 2010
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:16.076Z",
+  "tmdb_id": 46738,
+  "media": "movie",
+  "title": "Incendies",
+  "original_title": "Incendies",
+  "year": 2010,
+  "release_date": "2010-09-17",
+  "runtime": 131,
+  "overview": "A mother's last wishes send twins Jeanne and Simon on a journey to Middle East in search of their tangled roots. Adapted from Wajdi Mouawad's acclaimed play, Incendies tells the powerful and moving tale of two young adults' voyage to the core of deep-rooted hatred, never-ending wars and enduring love.",
+  "tagline": "2 letters. One for the brother. One for the father.",
+  "genres": [
+    "Drama",
+    "War",
+    "Mystery"
+  ],
+  "original_language": "fr",
+  "origin_country": [
+    "CA"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 3457,
+  "popularity": 12.0644,
+  "poster_path": "/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg",
+  "backdrop_path": "/f3ATwil5vmUeTsogBaMEKbBYBth.jpg",
+  "trailer_key": "XJ69WnwvZhE",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:16.076Z"
+}

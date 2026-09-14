@@ -1,0 +1,61 @@
+{
+  "key": "the-third-man-1949",
+  "query": {
+    "title": "The Third Man",
+    "year": 1949
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:26.352Z",
+  "tmdb_id": 1092,
+  "media": "movie",
+  "title": "The Third Man",
+  "original_title": "The Third Man",
+  "year": 1949,
+  "release_date": "1949-08-31",
+  "runtime": 105,
+  "overview": "In postwar Vienna, Austria, Holly Martins, a writer of pulp Westerns, arrives penniless as a guest of his childhood chum Harry Lime, only to learn he has died. Martins develops a conspiracy theory after learning of a \"third man\" present at the time of Harry's death, running into interference from British officer Major Calloway, and falling head-over-heels for Harry's grief-stricken lover, Anna.",
+  "tagline": "Hunted by men ... Sought by WOMEN!",
+  "genres": [
+    "Thriller",
+    "Mystery"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 2171,
+  "popularity": 7.6794,
+  "poster_path": "/vqnFHTx1phgTAsLfxZoejSbMVHA.jpg",
+  "backdrop_path": "/rLLhOCgAjuvlKmjUqVb7P1UAbUI.jpg",
+  "trailer_key": "Y7nwySBGqCo",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Artiflix",
+        "slug": "artiflix",
+        "logo": "/hO4tZhtSJ7VrVnJusimkY3MltSx.png"
+      },
+      {
+        "name": "Plex",
+        "slug": "plex",
+        "logo": "/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+      },
+      {
+        "name": "Plex Channel",
+        "slug": "plex-channel",
+        "logo": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:26.352Z"
+}

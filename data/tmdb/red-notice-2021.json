@@ -1,0 +1,46 @@
+{
+  "key": "red-notice-2021",
+  "query": {
+    "title": "Red Notice",
+    "year": 2021
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:25.441Z",
+  "tmdb_id": 512195,
+  "media": "movie",
+  "title": "Red Notice",
+  "original_title": "Red Notice",
+  "year": 2021,
+  "release_date": "2021-11-04",
+  "runtime": 118,
+  "overview": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
+  "tagline": "Pro and cons.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 6.7,
+  "vote_count": 6620,
+  "popularity": 12.5007,
+  "poster_path": "/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+  "backdrop_path": "/p34WRcgkN2QIHcds5FtFiSpV3PC.jpg",
+  "trailer_key": "Pj0wz7zu3Ms",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:25.441Z"
+}

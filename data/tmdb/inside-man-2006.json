@@ -1,0 +1,98 @@
+{
+  "key": "inside-man-2006",
+  "query": {
+    "title": "Inside Man",
+    "year": 2006
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:16.707Z",
+  "tmdb_id": 388,
+  "media": "movie",
+  "title": "Inside Man",
+  "original_title": "Inside Man",
+  "year": 2006,
+  "release_date": "2006-03-17",
+  "runtime": 129,
+  "overview": "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+  "tagline": "It looked like the perfect bank robbery. But you can’t judge a crime by its cover.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.4,
+  "vote_count": 6551,
+  "popularity": 12.1416,
+  "poster_path": "/ffMUgkDZICNiyaws1Jkv8qG8uFW.jpg",
+  "backdrop_path": "/tOkSenL74N23O4S7wjJSUHz7Aeh.jpg",
+  "trailer_key": "4G7n7O5pel0",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:16.707Z"
+}

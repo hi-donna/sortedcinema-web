@@ -1,0 +1,45 @@
+{
+  "key": "peddi-2026",
+  "query": {
+    "title": "Peddi",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:41.203Z",
+  "tmdb_id": 1057265,
+  "media": "movie",
+  "title": "Peddi",
+  "original_title": "పెద్ది",
+  "year": 2026,
+  "release_date": "2026-06-03",
+  "runtime": 189,
+  "overview": "In a village that doesn't officially exist, a laborer's unmatched athletic talent becomes his weapon to fight for his people's right to be recognized.",
+  "tagline": "Hurt. Bruised. But not beaten.",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "original_language": "te",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 5.8,
+  "vote_count": 69,
+  "popularity": 10.6207,
+  "poster_path": "/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+  "backdrop_path": "/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+  "trailer_key": "AdEE5xFQelY",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:41.203Z"
+}

@@ -1,0 +1,63 @@
+{
+  "key": "wuthering-heights-2026",
+  "query": {
+    "title": "Wuthering Heights",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:39.231Z",
+  "tmdb_id": 1316092,
+  "media": "movie",
+  "title": "“Wuthering Heights”",
+  "original_title": "“Wuthering Heights”",
+  "year": 2026,
+  "release_date": "2026-02-11",
+  "runtime": 136,
+  "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+  "tagline": "Come undone.",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "vote_average": 6.7,
+  "vote_count": 1338,
+  "popularity": 18.2954,
+  "poster_path": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+  "backdrop_path": "/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg",
+  "trailer_key": "HWFdeoeBNV0",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:39.231Z"
+}

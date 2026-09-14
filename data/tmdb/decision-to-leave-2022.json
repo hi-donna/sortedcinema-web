@@ -1,0 +1,57 @@
+{
+  "key": "decision-to-leave-2022",
+  "query": {
+    "title": "Decision to Leave",
+    "year": 2022
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:37.400Z",
+  "tmdb_id": 705996,
+  "media": "movie",
+  "title": "Decision to Leave",
+  "original_title": "헤어질 결심",
+  "year": 2022,
+  "release_date": "2022-06-29",
+  "runtime": 139,
+  "overview": "From a mountain peak in South Korea, a man plummets to his death. Did he jump, or was he pushed? When detective Hae-joon arrives on the scene, he begins to suspect the dead man’s wife Seo-rae. But as he digs deeper into the investigation, he finds himself trapped in a web of deception and desire.",
+  "tagline": "The closer you look, the harder you fall.",
+  "genres": [
+    "Thriller",
+    "Mystery",
+    "Romance"
+  ],
+  "original_language": "ko",
+  "origin_country": [
+    "KR"
+  ],
+  "vote_average": 7.3,
+  "vote_count": 1614,
+  "popularity": 8.8162,
+  "poster_path": "/zI8KZ4EdLUymWKX1YEkpZ0gtPUa.jpg",
+  "backdrop_path": "/uUXgaOxPsr0jsBhGnkyIgw0g2ge.jpg",
+  "trailer_key": "xL5bU-M_qEg",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:37.400Z"
+}

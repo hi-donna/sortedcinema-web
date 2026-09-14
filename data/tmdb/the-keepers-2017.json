@@ -1,0 +1,47 @@
+{
+  "key": "the-keepers-2017",
+  "query": {
+    "title": "The Keepers",
+    "year": 2017
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:11.139Z",
+  "tmdb_id": 26101,
+  "media": "tv",
+  "title": "The Keepers",
+  "original_title": "The Keepers",
+  "year": 2017,
+  "release_date": "2017-05-19",
+  "runtime": 62,
+  "seasons": 1,
+  "overview": "This docuseries examines the decades-old murder of Sister Catherine Cesnik and its suspected link to a priest accused of abuse.",
+  "tagline": "",
+  "genres": [
+    "Documentary",
+    "Mystery",
+    "Crime"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.4,
+  "vote_count": 213,
+  "popularity": 3.2542,
+  "poster_path": "/kgZE2Hx2zCGNJMPbOet9B7IcWbu.jpg",
+  "backdrop_path": "/tXRpbIxcQeGxfs0opfm6XgXAyzX.jpg",
+  "trailer_key": "Khr7dbuBjuE",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:11.139Z"
+}

@@ -1,0 +1,39 @@
+{
+  "key": "la-dolce-vita-1960",
+  "query": {
+    "title": "La Dolce Vita",
+    "year": 1960
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:35.246Z",
+  "tmdb_id": 439,
+  "media": "movie",
+  "title": "La Dolce Vita",
+  "original_title": "La dolce vita",
+  "year": 1960,
+  "release_date": "1960-02-05",
+  "runtime": 174,
+  "overview": "Episodic journey of journalist Marcello who struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer.",
+  "tagline": "The world’s most talked about movie today!",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "original_language": "it",
+  "origin_country": [
+    "IT"
+  ],
+  "vote_average": 8,
+  "vote_count": 2069,
+  "popularity": 6.4634,
+  "poster_path": "/dZ2v0DAX4aCZartCzZdg4ZinSW2.jpg",
+  "backdrop_path": "/eN2NdMeJLNzLYzWIEEoaGzZAsiD.jpg",
+  "trailer_key": "yg3--NK-Xzo",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:35.246Z"
+}

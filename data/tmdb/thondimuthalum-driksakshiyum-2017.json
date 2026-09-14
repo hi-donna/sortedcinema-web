@@ -1,0 +1,51 @@
+{
+  "key": "thondimuthalum-driksakshiyum-2017",
+  "query": {
+    "title": "Thondimuthalum Driksakshiyum",
+    "year": 2017
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:28.371Z",
+  "tmdb_id": 459719,
+  "media": "movie",
+  "title": "Thondimuthalum Driksakshiyum",
+  "original_title": "തൊണ്ടിമുതലും ദൃക്സാക്ഷിയും",
+  "year": 2017,
+  "release_date": "2017-06-30",
+  "runtime": 136,
+  "overview": "Prasad and Sreeja are a couple planning to set up a new life in Kasargod. On a bus journey they end up being robbed by a thief also named Prasad and this lands them up in a police station.",
+  "tagline": "",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "ml",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 62,
+  "popularity": 1.7714,
+  "poster_path": "/ki1EguwPuXM1t4UTDuaBqD8BLJi.jpg",
+  "backdrop_path": "/uoKL5rkyAsZncL7IvqTlkymNuKV.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:28.371Z"
+}

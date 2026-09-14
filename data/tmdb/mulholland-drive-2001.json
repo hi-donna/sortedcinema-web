@@ -1,0 +1,40 @@
+{
+  "key": "mulholland-drive-2001",
+  "query": {
+    "title": "Mulholland Drive",
+    "year": 2001
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:15.511Z",
+  "tmdb_id": 1018,
+  "media": "movie",
+  "title": "Mulholland Drive",
+  "original_title": "Mulholland Drive",
+  "year": 2001,
+  "release_date": "2001-06-06",
+  "runtime": 147,
+  "overview": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+  "tagline": "An actress longing to be a star. A woman searching for herself. Both worlds will collide... on Mulholland Drive.",
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Mystery"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 7272,
+  "popularity": 13.9759,
+  "poster_path": "/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+  "backdrop_path": "/g9ClaS5EqU0Hk8WIbMNhld0Bk6f.jpg",
+  "trailer_key": "3oa64ktrwKY",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:15.511Z"
+}

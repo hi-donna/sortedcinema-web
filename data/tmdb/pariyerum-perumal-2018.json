@@ -1,0 +1,45 @@
+{
+  "key": "pariyerum-perumal-2018",
+  "query": {
+    "title": "Pariyerum Perumal",
+    "year": 2018
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:29.449Z",
+  "tmdb_id": 462718,
+  "media": "movie",
+  "title": "Pariyerum Perumal",
+  "original_title": "பரியேறும் பெருமாள்",
+  "year": 2018,
+  "release_date": "2018-09-28",
+  "runtime": 155,
+  "overview": "A law student from a lower caste begins a friendship with his classmate, a girl who belongs to a higher caste, and the men in her family start giving him trouble over this.",
+  "tagline": "",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "original_language": "ta",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 8.2,
+  "vote_count": 78,
+  "popularity": 0.8891,
+  "poster_path": "/78YoIO3gzkZPC1jotfDmolNDmgT.jpg",
+  "backdrop_path": "/yt9LXuqEXgUooAaEplUNPw7wJsC.jpg",
+  "trailer_key": "GMNsUxJe4R4",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:29.449Z"
+}

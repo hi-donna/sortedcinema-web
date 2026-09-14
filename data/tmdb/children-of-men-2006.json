@@ -1,0 +1,46 @@
+{
+  "key": "children-of-men-2006",
+  "query": {
+    "title": "Children of Men",
+    "year": 2006
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:25.642Z",
+  "tmdb_id": 9693,
+  "media": "movie",
+  "title": "Children of Men",
+  "original_title": "Children of Men",
+  "year": 2006,
+  "release_date": "2006-09-22",
+  "runtime": 109,
+  "overview": "In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind.",
+  "tagline": "The year 2027: the last days of the human race. No child has been born for 18 years. He must protect our only hope.",
+  "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Action"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 8102,
+  "popularity": 15.1567,
+  "poster_path": "/k9IAS4TehZFcKi4HVByxZNPfqex.jpg",
+  "backdrop_path": "/www52jvhbB0ppe9s0zxbf9EYox.jpg",
+  "trailer_key": "2VT2apoX90o",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:25.642Z"
+}

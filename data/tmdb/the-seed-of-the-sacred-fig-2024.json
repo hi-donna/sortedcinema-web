@@ -1,0 +1,46 @@
+{
+  "key": "the-seed-of-the-sacred-fig-2024",
+  "query": {
+    "title": "The Seed of the Sacred Fig",
+    "year": 2024
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:34.288Z",
+  "tmdb_id": 1278263,
+  "media": "movie",
+  "title": "The Seed of the Sacred Fig",
+  "original_title": "Les Graines du figuier sauvage",
+  "year": 2024,
+  "release_date": "2024-09-18",
+  "runtime": 167,
+  "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "original_language": "fr",
+  "origin_country": [
+    "FR"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 513,
+  "popularity": 4.4959,
+  "poster_path": "/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg",
+  "backdrop_path": "/zqZzYVE4DWv92xrYSCEELPcLnUP.jpg",
+  "trailer_key": "nbKLGsf1Syg",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:34.288Z"
+}

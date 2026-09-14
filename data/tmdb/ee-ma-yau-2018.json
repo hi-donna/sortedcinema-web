@@ -1,0 +1,39 @@
+{
+  "key": "ee-ma-yau-2018",
+  "query": {
+    "title": "Ee.Ma.Yau.",
+    "year": 2018
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:28.422Z",
+  "tmdb_id": 490078,
+  "media": "movie",
+  "title": "Ee.Ma.Yau.",
+  "original_title": "ഈ.മ.യൗ",
+  "year": 2018,
+  "release_date": "2018-05-04",
+  "runtime": 120,
+  "overview": "Set in Chellanam, Kochi, the story revolves around the death of Vavachan Mesthiri in a coastal village. It showcases the events that unfold between two evenings and looks at death from different perspectives.",
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "original_language": "ml",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 47,
+  "popularity": 0.882,
+  "poster_path": "/8NfC32RyRkgAFzQuW42PW3TigDv.jpg",
+  "backdrop_path": "/7GZ8JfiUZlbjL6cpfgcDd0Q5k9P.jpg",
+  "trailer_key": "SweKJ8VVXCU",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:28.422Z"
+}

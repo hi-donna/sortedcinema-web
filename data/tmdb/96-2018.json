@@ -1,0 +1,91 @@
+{
+  "key": "96-2018",
+  "query": {
+    "title": "96",
+    "year": 2018
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:29.297Z",
+  "tmdb_id": 441717,
+  "media": "movie",
+  "title": "96",
+  "original_title": "96",
+  "year": 2018,
+  "release_date": "2018-10-04",
+  "runtime": 159,
+  "overview": "Ram is a photographer and nature lover who travels all around India capturing moments. On a chance visit to his hometown Tanjavur, he goes into his school and begins to walk down memory lane to 1994 when he was a student harboring feelings for his classmate Janu.",
+  "tagline": "",
+  "genres": [
+    "Romance"
+  ],
+  "original_language": "ta",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 159,
+  "popularity": 1.7924,
+  "poster_path": "/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg",
+  "backdrop_path": "/qzu94AvnZ1az30sTUuibx2bXpfs.jpg",
+  "trailer_key": "r0synl-lI4I",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "SonyLIV",
+        "slug": "sonyliv",
+        "logo": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png"
+      },
+      {
+        "name": "Sun NXT",
+        "slug": "sun-nxt",
+        "logo": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png"
+      },
+      {
+        "name": "ManoramaMAX",
+        "slug": "manoramamax",
+        "logo": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png"
+      },
+      {
+        "name": "aha",
+        "slug": "aha",
+        "logo": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png"
+      },
+      {
+        "name": "ManoramaMAX on Prime",
+        "slug": "manoramamax-on-prime",
+        "logo": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png"
+      },
+      {
+        "name": "Goldmines Play on Prime",
+        "slug": "goldmines-play-on-prime",
+        "logo": "/8uXd8H7oaWlLBszABEvF9jIQCYx.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:29.297Z"
+}

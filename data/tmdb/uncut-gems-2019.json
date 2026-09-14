@@ -1,0 +1,46 @@
+{
+  "key": "uncut-gems-2019",
+  "query": {
+    "title": "Uncut Gems",
+    "year": 2019
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:21.939Z",
+  "tmdb_id": 473033,
+  "media": "movie",
+  "title": "Uncut Gems",
+  "original_title": "Uncut Gems",
+  "year": 2019,
+  "release_date": "2019-08-30",
+  "runtime": 136,
+  "overview": "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+  "tagline": "This is how I win.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 5564,
+  "popularity": 10.1958,
+  "poster_path": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+  "backdrop_path": "/eGljNfNCrPhFYG2RXXmmE0OKu5.jpg",
+  "trailer_key": "sXga1Oy0iRk",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:21.939Z"
+}

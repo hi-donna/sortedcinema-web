@@ -1,0 +1,68 @@
+{
+  "key": "28-years-later-the-bone-temple-2026",
+  "query": {
+    "title": "28 Years Later: The Bone Temple",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:39.134Z",
+  "tmdb_id": 1272837,
+  "media": "movie",
+  "title": "28 Years Later: The Bone Temple",
+  "original_title": "28 Years Later: The Bone Temple",
+  "year": 2026,
+  "release_date": "2026-01-14",
+  "runtime": 109,
+  "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
+  "tagline": "Fear is the new faith.",
+  "genres": [
+    "Horror",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB"
+  ],
+  "vote_average": 7.1,
+  "vote_count": 1733,
+  "popularity": 18.0019,
+  "poster_path": "/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+  "backdrop_path": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+  "trailer_key": "rl_DJZCyEH4",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:39.134Z"
+}

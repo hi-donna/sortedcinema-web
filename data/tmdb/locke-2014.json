@@ -1,0 +1,52 @@
+{
+  "key": "locke-2014",
+  "query": {
+    "title": "Locke",
+    "year": 2014
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:21.148Z",
+  "tmdb_id": 210479,
+  "media": "movie",
+  "title": "Locke",
+  "original_title": "Locke",
+  "year": 2014,
+  "release_date": "2014-04-10",
+  "runtime": 85,
+  "overview": "Ivan Locke has worked hard to craft a good life for himself. Tonight, that life will collapse around him. On the eve of the biggest challenge of his career, Ivan receives a phone call that sets in motion a series of events that will unravel his family, job, and soul.",
+  "tagline": "No turning back.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "vote_average": 6.9,
+  "vote_count": 3033,
+  "popularity": 6.1014,
+  "poster_path": "/tTREq5tTyYwmSLDRMhybJ82zXcX.jpg",
+  "backdrop_path": "/9LFk66Se0T3Uw2JPupYxAc6F2Gq.jpg",
+  "trailer_key": "TsBDYAYnQb0",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Lionsgate+ Amazon Channels",
+        "slug": "lionsgate-amazon-channels",
+        "logo": "/1356slxu4QrHOMrEVDKHJXRo5sW.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:21.148Z"
+}

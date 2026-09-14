@@ -1,0 +1,39 @@
+{
+  "key": "the-lives-of-others-2006",
+  "query": {
+    "title": "The Lives of Others",
+    "year": 2006
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:32.492Z",
+  "tmdb_id": 582,
+  "media": "movie",
+  "title": "The Lives of Others",
+  "original_title": "Das Leben der Anderen",
+  "year": 2006,
+  "release_date": "2006-03-23",
+  "runtime": 137,
+  "overview": "In 1984 East Berlin, dedicated Stasi officer Gerd Wiesler begins spying on a famous playwright and his actress-lover Christa-Maria. Wiesler becomes unexpectedly sympathetic to the couple, and faces conflicting loyalties when his superior takes a liking to Christa-Maria.",
+  "tagline": "Before the Fall of the Berlin Wall, East Germany's Secret Police Listened to Your Secrets.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "de",
+  "origin_country": [
+    "DE"
+  ],
+  "vote_average": 8,
+  "vote_count": 4253,
+  "popularity": 8.6242,
+  "poster_path": "/cVUDMnskSc01rdbyH0tLATTJUdP.jpg",
+  "backdrop_path": "/g11nKgir3nIhlG2gIDWIvJeR4fz.jpg",
+  "trailer_key": "n3_iLOp6IhM",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:32.492Z"
+}

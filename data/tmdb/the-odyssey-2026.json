@@ -1,0 +1,41 @@
+{
+  "key": "the-odyssey-2026",
+  "query": {
+    "title": "The Odyssey",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:40.116Z",
+  "tmdb_id": 1368337,
+  "media": "movie",
+  "title": "The Odyssey",
+  "original_title": "The Odyssey",
+  "year": 2026,
+  "release_date": "2026-07-15",
+  "runtime": 173,
+  "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+  "tagline": "Defy the gods.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "vote_average": 8,
+  "vote_count": 3661,
+  "popularity": 408.5067,
+  "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+  "backdrop_path": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+  "trailer_key": "AyIZ9tiiN8I",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:40.116Z"
+}

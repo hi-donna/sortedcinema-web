@@ -1,0 +1,67 @@
+{
+  "key": "call-me-by-your-name-2017",
+  "query": {
+    "title": "Call Me by Your Name",
+    "year": 2017
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:34.471Z",
+  "tmdb_id": 398818,
+  "media": "movie",
+  "title": "Call Me by Your Name",
+  "original_title": "Call Me by Your Name",
+  "year": 2017,
+  "release_date": "2017-10-01",
+  "runtime": 132,
+  "overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
+  "tagline": "Is it better to speak or die?",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 12946,
+  "popularity": 18.1582,
+  "poster_path": "/gXiE0WveDnT0n5J4sW9TMxXF4oT.jpg",
+  "backdrop_path": "/4Xh2a1WeTp6b8Ksvug0pAMbX3dT.jpg",
+  "trailer_key": "Z9AYPxH5NTM",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "SonyLIV",
+        "slug": "sonyliv",
+        "logo": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png"
+      },
+      {
+        "name": "Sony Pictures on Prime",
+        "slug": "sony-pictures-on-prime",
+        "logo": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:34.471Z"
+}

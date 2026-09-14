@@ -1,0 +1,63 @@
+{
+  "key": "hereditary-2018",
+  "query": {
+    "title": "Hereditary",
+    "year": 2018
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:14.621Z",
+  "tmdb_id": 493922,
+  "media": "movie",
+  "title": "Hereditary",
+  "original_title": "Hereditary",
+  "year": 2018,
+  "release_date": "2018-06-07",
+  "runtime": 128,
+  "overview": "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
+  "tagline": "Every family tree hides a secret.",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.3,
+  "vote_count": 8876,
+  "popularity": 21.7746,
+  "poster_path": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+  "backdrop_path": "/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
+  "trailer_key": "MJNR58zaStE",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:14.621Z"
+}

@@ -1,0 +1,39 @@
+{
+  "key": "the-seventh-seal-1957",
+  "query": {
+    "title": "The Seventh Seal",
+    "year": 1957
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:37.441Z",
+  "tmdb_id": 490,
+  "media": "movie",
+  "title": "The Seventh Seal",
+  "original_title": "Det sjunde inseglet",
+  "year": 1957,
+  "release_date": "1957-02-16",
+  "runtime": 96,
+  "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+  "tagline": "The story of a challenge to death.",
+  "genres": [
+    "Fantasy",
+    "Drama"
+  ],
+  "original_language": "sv",
+  "origin_country": [
+    "SE"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 3445,
+  "popularity": 8.0228,
+  "poster_path": "/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+  "backdrop_path": "/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
+  "trailer_key": "vZucwtdSvJ8",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:37.441Z"
+}

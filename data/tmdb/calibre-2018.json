@@ -1,0 +1,45 @@
+{
+  "key": "calibre-2018",
+  "query": {
+    "title": "Calibre",
+    "year": 2018
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:17.467Z",
+  "tmdb_id": 474051,
+  "media": "movie",
+  "title": "Calibre",
+  "original_title": "Calibre",
+  "year": 2018,
+  "release_date": "2018-06-22",
+  "runtime": 101,
+  "overview": "Two lifelong friends head up to an isolated Scottish Highlands village for a weekend hunting trip that descends into a never-ending nightmare as they attempt to cover up a horrific hunting accident.",
+  "tagline": "You can't bury the truth",
+  "genres": [
+    "Thriller",
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB"
+  ],
+  "vote_average": 6.5,
+  "vote_count": 813,
+  "popularity": 2.9018,
+  "poster_path": "/gCVOQzV7Z556WnJFNeX7y8BFhyW.jpg",
+  "backdrop_path": "/yVfhwgLBFDdI1LuaiFfA7y2FbVi.jpg",
+  "trailer_key": "x6yaSYAk2KU",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:17.467Z"
+}

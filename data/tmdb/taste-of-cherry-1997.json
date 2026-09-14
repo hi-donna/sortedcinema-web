@@ -1,0 +1,38 @@
+{
+  "key": "taste-of-cherry-1997",
+  "query": {
+    "title": "Taste of Cherry",
+    "year": 1997
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:33.403Z",
+  "tmdb_id": 30020,
+  "media": "movie",
+  "title": "Taste of Cherry",
+  "original_title": "طعم گيلاس",
+  "year": 1997,
+  "release_date": "1997-09-28",
+  "runtime": 99,
+  "overview": "A middle-aged Tehranian man, Mr. Badii is intent on killing himself and seeks someone to bury him after his demise. Driving around the city, the seemingly well-to-do Badii meets with numerous people, including a Muslim student, asking them to take on the job, but initially he has little luck. Eventually, Badii finds a man who is up for the task because he needs the money, but his new associate soon tries to talk him out of committing suicide.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "fa",
+  "origin_country": [
+    "IR"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 732,
+  "popularity": 4.2577,
+  "poster_path": "/vgPwjgbSdbYWrS1ty8TIZtmi6Tn.jpg",
+  "backdrop_path": "/44SNTCSZTdbF5bzgUy4IfPV3DUq.jpg",
+  "trailer_key": "ukmYdGwVqPg",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:33.403Z"
+}

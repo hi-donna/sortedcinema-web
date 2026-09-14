@@ -1,0 +1,40 @@
+{
+  "key": "mother-2009",
+  "query": {
+    "title": "Mother",
+    "year": 2009
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:19.509Z",
+  "tmdb_id": 30018,
+  "media": "movie",
+  "title": "Mother",
+  "original_title": "마더",
+  "year": 2009,
+  "release_date": "2009-05-28",
+  "runtime": 129,
+  "overview": "A mother lives quietly with her son. One day, a girl is brutally killed, and the boy is charged with the murder. Now, it's his mother's mission to prove him innocent.",
+  "tagline": "She'll stop at nothing.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "original_language": "ko",
+  "origin_country": [
+    "KR"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 1741,
+  "popularity": 5.0871,
+  "poster_path": "/8oBnSkZE6GDVugAbLPO6uJd4GcS.jpg",
+  "backdrop_path": "/mnNkHbs2onvP54zND5c1Ah5Usaa.jpg",
+  "trailer_key": "0oBwQHWeYxo",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:19.509Z"
+}

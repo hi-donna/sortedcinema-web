@@ -1,0 +1,50 @@
+{
+  "key": "bhooter-bhabishyat-2012",
+  "query": {
+    "title": "Bhooter Bhabishyat",
+    "year": 2012
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:27.416Z",
+  "tmdb_id": 126063,
+  "media": "movie",
+  "title": "Bhooter Bhabishyat",
+  "original_title": "ভূতের ভবিষ্যৎ",
+  "year": 2012,
+  "release_date": "2012-03-14",
+  "runtime": 123,
+  "overview": "A young director listens to a hilariously scary story narrated by a stranger, where a group of ghosts try to save the only place they can haunt in peace.",
+  "tagline": "",
+  "genres": [
+    "Comedy",
+    "Horror"
+  ],
+  "original_language": "bn",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 23,
+  "popularity": 1.0909,
+  "poster_path": "/wDlRYYrW091vaQakFwba9lcCmMI.jpg",
+  "backdrop_path": "/6ZMqLQvmlsxMH35EGSh9E4EvfC0.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Hoichoi on Prime",
+        "slug": "hoichoi-on-prime",
+        "logo": "/k0ysPvZwKtZpeLQJJJVZWnyhmTW.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:27.416Z"
+}

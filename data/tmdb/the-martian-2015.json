@@ -1,0 +1,68 @@
+{
+  "key": "the-martian-2015",
+  "query": {
+    "title": "The Martian",
+    "year": 2015
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:19.403Z",
+  "tmdb_id": 286217,
+  "media": "movie",
+  "title": "The Martian",
+  "original_title": "The Martian",
+  "year": 2015,
+  "release_date": "2015-09-30",
+  "runtime": 141,
+  "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+  "tagline": "Bring him home.",
+  "genres": [
+    "Science Fiction",
+    "Drama",
+    "Adventure"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 21792,
+  "popularity": 26.1226,
+  "poster_path": "/fASz8A0yFE3QB6LgGoOfwvFSseV.jpg",
+  "backdrop_path": "/lzMS0CI3FLQYC5EgJoWeIaEt0lm.jpg",
+  "trailer_key": "ej3ioOneTy8",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:19.403Z"
+}

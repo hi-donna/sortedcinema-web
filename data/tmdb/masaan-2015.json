@@ -1,0 +1,54 @@
+{
+  "key": "masaan-2015",
+  "query": {
+    "title": "Masaan",
+    "year": 2015
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:27.457Z",
+  "tmdb_id": 336203,
+  "media": "movie",
+  "title": "Masaan",
+  "original_title": "मसान",
+  "year": 2015,
+  "release_date": "2015-07-24",
+  "runtime": 109,
+  "overview": "Four lives intersect along the Ganges: a low caste boy in hopeless love, a daughter ridden with guilt of a sexual encounter ending in a tragedy, a hapless father with fading morality, and a spirited child yearning for a family, long to escape the moral constructs of a small-town.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "hi",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.1,
+  "vote_count": 216,
+  "popularity": 1.7156,
+  "poster_path": "/wgcPR6Weth2yJDo5wBdNqW2TD6J.jpg",
+  "backdrop_path": "/6vTv4OEy7Qq4FGeDpWxBsAXyTH.jpg",
+  "trailer_key": "SKJfBo3xMW0",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:27.457Z"
+}

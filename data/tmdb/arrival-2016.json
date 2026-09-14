@@ -1,0 +1,93 @@
+{
+  "key": "arrival-2016",
+  "query": {
+    "title": "Arrival",
+    "year": 2016
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:19.141Z",
+  "tmdb_id": 329865,
+  "media": "movie",
+  "title": "Arrival",
+  "original_title": "Arrival",
+  "year": 2016,
+  "release_date": "2016-11-10",
+  "runtime": 116,
+  "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+  "tagline": "Why are they here?",
+  "genres": [
+    "Drama",
+    "Science Fiction",
+    "Mystery"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 19849,
+  "popularity": 22.6998,
+  "poster_path": "/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+  "backdrop_path": "/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg",
+  "trailer_key": "7W1m5ER3I1Y",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Lionsgate Play",
+        "slug": "lionsgate-play",
+        "logo": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png"
+      },
+      {
+        "name": "Lionsgate Play on Apple TV",
+        "slug": "lionsgate-play-on-apple-tv",
+        "logo": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png"
+      },
+      {
+        "name": "Lionsgate Play on Prime",
+        "slug": "lionsgate-play-on-prime",
+        "logo": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:19.141Z"
+}

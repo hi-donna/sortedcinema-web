@@ -1,0 +1,38 @@
+{
+  "key": "the-sea-inside-2004",
+  "query": {
+    "title": "The Sea Inside",
+    "year": 2004
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:37.981Z",
+  "tmdb_id": 1913,
+  "media": "movie",
+  "title": "The Sea Inside",
+  "original_title": "Mar adentro",
+  "year": 2004,
+  "release_date": "2004-09-03",
+  "runtime": 126,
+  "overview": "Ramón Sampedro is a ship mechanic and part-time poet left a quadriplegic following a diving accident. Ramón fought for 30 years for the legal right to end his own life. He develops close relationships with his long-term lawyer Julia and his friend Rosa, who tries to convince him that his life is worth living. Despite his situation, Ramón manages to inspire those around him to live life to the fullest.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "es",
+  "origin_country": [
+    "ES"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 1046,
+  "popularity": 3.8943,
+  "poster_path": "/mQW1JJKCUg02cmWBzr9JFu9vM1V.jpg",
+  "backdrop_path": "/7XmDhCTkce5GH8KCdbMoTZdxn1p.jpg",
+  "trailer_key": "0qqvyzamlns",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:37.981Z"
+}

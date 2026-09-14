@@ -1,0 +1,40 @@
+{
+  "key": "drive-2011",
+  "query": {
+    "title": "Drive",
+    "year": 2011
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:24.334Z",
+  "tmdb_id": 64690,
+  "media": "movie",
+  "title": "Drive",
+  "original_title": "Drive",
+  "year": 2011,
+  "release_date": "2011-09-15",
+  "runtime": 100,
+  "overview": "Driver is a skilled Hollywood stuntman who moonlights as a getaway driver for criminals. Though he projects an icy exterior, lately he's been warming up to a pretty neighbor named Irene and her young son, Benicio. When Irene's husband gets out of jail, he enlists Driver's help in a million-dollar heist. The job goes horribly wrong, and Driver must risk his life to protect Irene and Benicio from the vengeful masterminds behind the robbery.",
+  "tagline": "There are no clean getaways.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 13983,
+  "popularity": 13.5675,
+  "poster_path": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+  "backdrop_path": "/hoyAALgfmjMEK7O1wZ4r8wT91RP.jpg",
+  "trailer_key": "J8lZi3ocbYk",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:24.334Z"
+}

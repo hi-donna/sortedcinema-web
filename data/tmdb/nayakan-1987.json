@@ -1,0 +1,50 @@
+{
+  "key": "nayakan-1987",
+  "query": {
+    "title": "Nayakan",
+    "year": 1987
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:30.041Z",
+  "tmdb_id": 29971,
+  "media": "movie",
+  "title": "Nayakan",
+  "original_title": "நாயகன்",
+  "year": 1987,
+  "release_date": "1987-10-21",
+  "runtime": 156,
+  "overview": "Velu Naicker, who witnesses the brutal murder of his father, kills a corrupt policeman and escapes to Mumbai, only to become a gangster.",
+  "tagline": "Are you a good man or a bad man?",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "original_language": "ta",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 94,
+  "popularity": 1.5382,
+  "poster_path": "/hnCKKPG5VkUiGQV0DTniyMTEZsT.jpg",
+  "backdrop_path": "/u4iRTMD0oJPUP2kjmH3XIEhsDKF.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:30.041Z"
+}

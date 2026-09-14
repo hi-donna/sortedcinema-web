@@ -1,0 +1,39 @@
+{
+  "key": "court-2014",
+  "query": {
+    "title": "Court",
+    "year": 2014
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:28.536Z",
+  "tmdb_id": 342437,
+  "media": "movie",
+  "title": "A Courtesan with Flowered Skin",
+  "original_title": "花宵道中",
+  "year": 2014,
+  "release_date": "2014-11-08",
+  "runtime": 102,
+  "overview": "Japan around 1860: popular courtesan Asagiri will be freed soon from her service, yet she cannot imagine any other existence. Until one day at a local festival, Asagiri meets the young artisan Hanjiro by chance – an encounter that changes her destiny. With a strong performance by leading actress Yumi ADACHI and exquisite camerawork and production design, A COURTESAN WITH FLOWERED SKIN succeeds in recalling the golden age of Japanese erotic film.",
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "original_language": "ja",
+  "origin_country": [
+    "JP"
+  ],
+  "vote_average": 6.7,
+  "vote_count": 17,
+  "popularity": 2.2126,
+  "poster_path": "/zKkeMZr2ZqQlwunpFdtId7tXRzC.jpg",
+  "backdrop_path": "/hxJuNK9gDwzqUUCaD4BDKdOruTF.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:28.536Z"
+}

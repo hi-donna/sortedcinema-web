@@ -1,0 +1,44 @@
+{
+  "key": "udaan-2010",
+  "query": {
+    "title": "Udaan",
+    "year": 2010
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:27.550Z",
+  "tmdb_id": 45316,
+  "media": "movie",
+  "title": "Udaan",
+  "original_title": "उड़ान",
+  "year": 2010,
+  "release_date": "2010-06-17",
+  "runtime": 138,
+  "overview": "Upon returning to his industrial hometown, a young man must decide whether to follow his own dreams or acquiesce to his father's plans for his future.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "hi",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.3,
+  "vote_count": 236,
+  "popularity": 1.3263,
+  "poster_path": "/8dQmrGk0WRPiCwiiGdIxnY5s8Pc.jpg",
+  "backdrop_path": "/ddkcwMd6H7kGfgqntkt2Af52mgl.jpg",
+  "trailer_key": "wEJxe2bE-cE",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:27.550Z"
+}

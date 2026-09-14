@@ -1,0 +1,39 @@
+{
+  "key": "the-witch-2015",
+  "query": {
+    "title": "The Witch",
+    "year": 2015
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:22.043Z",
+  "tmdb_id": 526667,
+  "media": "movie",
+  "title": "The Witch",
+  "original_title": "Ведьма",
+  "year": 2015,
+  "release_date": "2015-06-23",
+  "runtime": 90,
+  "overview": "A summer youth camp by the sea. Tonya, a quiet, reserved, and gullible girl, becomes neighbors with Lyudka, who is vibrant, assertive, and calculating. They both fall in love with the same boy. Suddenly, it turns out that Tonya possesses supernatural abilities she cannot control.",
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "ru",
+  "origin_country": [
+    "RU"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 6,
+  "popularity": 0.8324,
+  "poster_path": "/inBpHrLEgLDEZ6A8ZWkg3WS1XKw.jpg",
+  "backdrop_path": "/ceyXSpmXXggCjeOhDddrIcLPYt8.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:22.043Z"
+}

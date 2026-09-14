@@ -1,0 +1,37 @@
+{
+  "key": "toxic-2026",
+  "query": {
+    "title": "Toxic",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:40.473Z",
+  "tmdb_id": 334430,
+  "media": "tv",
+  "title": "Toxic",
+  "original_title": "Toxic",
+  "year": 2026,
+  "release_date": "2026-10-16",
+  "runtime": null,
+  "seasons": 1,
+  "overview": "",
+  "tagline": "",
+  "genres": [],
+  "original_language": "fr",
+  "origin_country": [
+    "CH"
+  ],
+  "vote_average": null,
+  "vote_count": 0,
+  "popularity": 0.6082,
+  "poster_path": null,
+  "backdrop_path": null,
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:40.473Z"
+}

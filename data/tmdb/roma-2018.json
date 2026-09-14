@@ -1,0 +1,44 @@
+{
+  "key": "roma-2018",
+  "query": {
+    "title": "Roma",
+    "year": 2018
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:35.700Z",
+  "tmdb_id": 426426,
+  "media": "movie",
+  "title": "Roma",
+  "original_title": "Roma",
+  "year": 2018,
+  "release_date": "2018-11-21",
+  "runtime": 135,
+  "overview": "In 1970s Mexico City, two domestic workers help a mother of four while her husband is away for an extended period of time.",
+  "tagline": "There are periods in history that scar societies and moments in life that transform us as individuals.",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "es",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 4183,
+  "popularity": 6.5319,
+  "poster_path": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+  "backdrop_path": "/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+  "trailer_key": "6BS27ngZtxg",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:35.700Z"
+}

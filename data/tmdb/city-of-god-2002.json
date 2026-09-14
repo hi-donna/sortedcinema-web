@@ -1,0 +1,61 @@
+{
+  "key": "city-of-god-2002",
+  "query": {
+    "title": "City of God",
+    "year": 2002
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:36.667Z",
+  "tmdb_id": 598,
+  "media": "movie",
+  "title": "City of God",
+  "original_title": "Cidade de Deus",
+  "year": 2002,
+  "release_date": "2002-08-30",
+  "runtime": 129,
+  "overview": "In the poverty-stricken favelas of Rio de Janeiro in the 1970s, two young men choose different paths. Rocket is a budding photographer who documents the increasing drug-related violence of his neighborhood, while José “Zé” Pequeno is an ambitious drug dealer diving into a dangerous life of crime.",
+  "tagline": "If you run, the beast catches you; if you stay, the beast eats you.",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "original_language": "pt",
+  "origin_country": [
+    "BR"
+  ],
+  "vote_average": 8.4,
+  "vote_count": 8437,
+  "popularity": 22.5821,
+  "poster_path": "/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+  "backdrop_path": "/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+  "trailer_key": "dcUOO4Itgmw",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:36.667Z"
+}

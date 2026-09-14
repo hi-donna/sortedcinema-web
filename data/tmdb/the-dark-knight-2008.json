@@ -1,0 +1,67 @@
+{
+  "key": "the-dark-knight-2008",
+  "query": {
+    "title": "The Dark Knight",
+    "year": 2008
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:18.198Z",
+  "tmdb_id": 155,
+  "media": "movie",
+  "title": "The Dark Knight",
+  "original_title": "The Dark Knight",
+  "year": 2008,
+  "release_date": "2008-07-16",
+  "runtime": 152,
+  "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+  "tagline": "Some men just want to watch the world burn.",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8.5,
+  "vote_count": 36681,
+  "popularity": 51.7256,
+  "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+  "backdrop_path": "/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
+  "trailer_key": "_PZpmTj1Q8Q",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:18.197Z"
+}

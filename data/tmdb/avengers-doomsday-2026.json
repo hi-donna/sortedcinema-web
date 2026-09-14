@@ -1,0 +1,40 @@
+{
+  "key": "avengers-doomsday-2026",
+  "query": {
+    "title": "Avengers: Doomsday",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:40.238Z",
+  "tmdb_id": 1003596,
+  "media": "movie",
+  "title": "Avengers: Doomsday",
+  "original_title": "Avengers: Doomsday",
+  "year": 2026,
+  "release_date": "2026-12-16",
+  "runtime": 165,
+  "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+  "tagline": "",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": null,
+  "vote_count": 0,
+  "popularity": 41.7341,
+  "poster_path": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+  "backdrop_path": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+  "trailer_key": "X1aFkAkFASk",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:40.237Z"
+}

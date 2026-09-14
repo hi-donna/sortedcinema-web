@@ -1,0 +1,39 @@
+{
+  "key": "raw-2016",
+  "query": {
+    "title": "Raw",
+    "year": 2016
+  },
+  "resolved_via": "search-titleonly",
+  "resolved_at": "2026-09-14T00:47:32.460Z",
+  "tmdb_id": 106099,
+  "media": "tv",
+  "title": "Raw Talk",
+  "original_title": "Raw Talk",
+  "year": 2016,
+  "release_date": "2016-10-30",
+  "runtime": null,
+  "seasons": 8,
+  "overview": "In the aftermath of Monday Night Raw, catch up with your favorite Superstars to hear their thoughts and opinions on all of the evening's action. These men and women hold nothing back as they engage in Raw Talk.",
+  "tagline": "",
+  "genres": [
+    "Talk"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 4.5,
+  "vote_count": 4,
+  "popularity": 54.9756,
+  "poster_path": "/dIbARSwdeBlFQXTNwWC1LK8bHmm.jpg",
+  "backdrop_path": "/Ap8YYP6FfDYqDZKokGp3FmWPrh6.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:32.460Z"
+}

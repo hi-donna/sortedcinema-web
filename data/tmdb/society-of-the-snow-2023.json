@@ -1,0 +1,45 @@
+{
+  "key": "society-of-the-snow-2023",
+  "query": {
+    "title": "Society of the Snow",
+    "year": 2023
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:37.573Z",
+  "tmdb_id": 906126,
+  "media": "movie",
+  "title": "Society of the Snow",
+  "original_title": "La sociedad de la nieve",
+  "year": 2023,
+  "release_date": "2023-12-15",
+  "runtime": 143,
+  "overview": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
+  "tagline": "Based on a remarkable true story.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "original_language": "es",
+  "origin_country": [
+    "ES"
+  ],
+  "vote_average": 8,
+  "vote_count": 3619,
+  "popularity": 8.3882,
+  "poster_path": "/2e853FDVSIso600RqAMunPxiZjq.jpg",
+  "backdrop_path": "/md848EEPm3dHZOqwGxxTVwH2vu5.jpg",
+  "trailer_key": "pDak4qLyF4Q",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:37.573Z"
+}

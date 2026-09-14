@@ -1,0 +1,50 @@
+{
+  "key": "in-the-mood-for-love-2000",
+  "query": {
+    "title": "In the Mood for Love",
+    "year": 2000
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:12.324Z",
+  "tmdb_id": 843,
+  "media": "movie",
+  "title": "In the Mood for Love",
+  "original_title": "花樣年華",
+  "year": 2000,
+  "release_date": "2000-09-29",
+  "runtime": 99,
+  "overview": "In 1960s Hong Kong, two neighbors form an intimate bond after making a discovery about their spouses in this visually stunning tale of unrequited love.",
+  "tagline": "Feel the heat, keep the feeling burning, let the sensation explode.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "original_language": "cn",
+  "origin_country": [
+    "HK"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 3367,
+  "popularity": 14.8496,
+  "poster_path": "/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+  "backdrop_path": "/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
+  "trailer_key": "rc3QleuaQMw",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:12.324Z"
+}

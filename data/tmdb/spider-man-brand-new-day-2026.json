@@ -1,0 +1,40 @@
+{
+  "key": "spider-man-brand-new-day-2026",
+  "query": {
+    "title": "Spider-Man: Brand New Day",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:40.153Z",
+  "tmdb_id": 969681,
+  "media": "movie",
+  "title": "Spider-Man: Brand New Day",
+  "original_title": "Spider-Man: Brand New Day",
+  "year": 2026,
+  "release_date": "2026-07-29",
+  "runtime": 145,
+  "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+  "tagline": "A brand new day starts now.",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 2650,
+  "popularity": 756.7679,
+  "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+  "backdrop_path": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+  "trailer_key": "P3uI5sLosKU",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:40.153Z"
+}

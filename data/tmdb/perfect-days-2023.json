@@ -1,0 +1,55 @@
+{
+  "key": "perfect-days-2023",
+  "query": {
+    "title": "Perfect Days",
+    "year": 2023
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:35.294Z",
+  "tmdb_id": 976893,
+  "media": "movie",
+  "title": "Perfect Days",
+  "original_title": "PERFECT DAYS",
+  "year": 2023,
+  "release_date": "2023-11-10",
+  "runtime": 124,
+  "overview": "Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world.",
+  "tagline": "In a world of fleeting moments, find the beauty that lasts.",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "ja",
+  "origin_country": [
+    "JP"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 2050,
+  "popularity": 14.25,
+  "poster_path": "/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg",
+  "backdrop_path": "/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
+  "trailer_key": "Iv8YO5BXCAQ",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:35.294Z"
+}

@@ -1,0 +1,50 @@
+{
+  "key": "premam-2015",
+  "query": {
+    "title": "Premam",
+    "year": 2015
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:28.316Z",
+  "tmdb_id": 341895,
+  "media": "movie",
+  "title": "Premam",
+  "original_title": "പ്രേമം",
+  "year": 2015,
+  "release_date": "2015-05-29",
+  "runtime": 157,
+  "overview": "Three stages in George's life, and three girls he encounters in each stage.",
+  "tagline": "",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "original_language": "ml",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 127,
+  "popularity": 1.9277,
+  "poster_path": "/wfMgsfDrtouYOM6MbrkHtU96Xij.jpg",
+  "backdrop_path": "/d8FBRbCNsAU25YScpKCT3dp46gD.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:28.316Z"
+}

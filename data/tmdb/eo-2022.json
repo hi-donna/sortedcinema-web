@@ -1,0 +1,45 @@
+{
+  "key": "eo-2022",
+  "query": {
+    "title": "EO",
+    "year": 2022
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:31.699Z",
+  "tmdb_id": 785398,
+  "media": "movie",
+  "title": "EO",
+  "original_title": "EO",
+  "year": 2022,
+  "release_date": "2022-09-30",
+  "runtime": 88,
+  "overview": "The world is a mysterious place when seen through the eyes of an animal. EO, a grey donkey with melancholic eyes, meets good and bad people on his life’s path, experiences joy and pain, endures the wheel of fortune randomly turn his luck into disaster and his despair into unexpected bliss. But not even for a moment does he lose his innocence.",
+  "tagline": "May all your dreams come true.",
+  "genres": [
+    "Drama",
+    "Adventure"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "PL"
+  ],
+  "vote_average": 6.5,
+  "vote_count": 442,
+  "popularity": 4.8747,
+  "poster_path": "/1MK86Vr2nf1GSYOtRd8pFvA5RM8.jpg",
+  "backdrop_path": "/bdncpEiiH3C7OjzvIu07zl2zcTd.jpg",
+  "trailer_key": "ii0gjj963ZY",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:31.699Z"
+}

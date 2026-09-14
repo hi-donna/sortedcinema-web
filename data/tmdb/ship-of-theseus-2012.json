@@ -1,0 +1,70 @@
+{
+  "key": "ship-of-theseus-2012",
+  "query": {
+    "title": "Ship of Theseus",
+    "year": 2012
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:28.216Z",
+  "tmdb_id": 128207,
+  "media": "movie",
+  "title": "Ship of Theseus",
+  "original_title": "Ship of Theseus",
+  "year": 2012,
+  "release_date": "2012-09-06",
+  "runtime": 143,
+  "overview": "Three stories about persons forced to think about the ethics and moral issues raised by medical advances.",
+  "tagline": "How do you know where you end and where your environment begins?",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "hi",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 6.9,
+  "vote_count": 66,
+  "popularity": 0.9448,
+  "poster_path": "/t75n1cm3uZXl4WQj8U9UcfBRmWC.jpg",
+  "backdrop_path": "/442KB0zDUd69ecKTqaQulnZsKst.jpg",
+  "trailer_key": "-CWFqkcx9CQ",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:28.216Z"
+}

@@ -1,0 +1,38 @@
+{
+  "key": "natsamrat-2016",
+  "query": {
+    "title": "Natsamrat",
+    "year": 2016
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:29.314Z",
+  "tmdb_id": 378227,
+  "media": "movie",
+  "title": "Natsamrat",
+  "original_title": "नटसम्राट",
+  "year": 2016,
+  "release_date": "2016-01-01",
+  "runtime": 166,
+  "overview": "A veteran Shakespearean actor steps off the stage and into the painful tragedy of old age, facing ungrateful family and his fleeting legacy.  Based on a play of the same name written by playwright Kusumagraj (V. V. Shirwadkar).",
+  "tagline": "The King Of Theatre",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "mr",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 8.3,
+  "vote_count": 34,
+  "popularity": 1.6238,
+  "poster_path": "/idpdndC9eRM4CLH3rttMaMAeXv.jpg",
+  "backdrop_path": "/mUbq0l1nGHbyFyNncxvLJMKXMUw.jpg",
+  "trailer_key": "DCXDyIsPEN8",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:29.314Z"
+}

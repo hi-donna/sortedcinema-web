@@ -1,0 +1,46 @@
+{
+  "key": "godzilla-minus-one-2023",
+  "query": {
+    "title": "Godzilla Minus One",
+    "year": 2023
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:35.341Z",
+  "tmdb_id": 940721,
+  "media": "movie",
+  "title": "Godzilla Minus One",
+  "original_title": "ゴジラ-1.0",
+  "year": 2023,
+  "release_date": "2023-11-03",
+  "runtime": 125,
+  "overview": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+  "tagline": "Live and Fight. Survive and Resist.",
+  "genres": [
+    "Science Fiction",
+    "Horror",
+    "Action"
+  ],
+  "original_language": "ja",
+  "origin_country": [
+    "JP"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 3400,
+  "popularity": 20.985,
+  "poster_path": "/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+  "backdrop_path": "/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+  "trailer_key": "MSp68m8OJus",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:35.341Z"
+}

@@ -1,0 +1,77 @@
+{
+  "key": "now-you-see-me-2013",
+  "query": {
+    "title": "Now You See Me",
+    "year": 2013
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:25.627Z",
+  "tmdb_id": 75656,
+  "media": "movie",
+  "title": "Now You See Me",
+  "original_title": "Now You See Me",
+  "year": 2013,
+  "release_date": "2013-05-29",
+  "runtime": 116,
+  "overview": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.",
+  "tagline": "The closer you look, the less you’ll see.",
+  "genres": [
+    "Thriller",
+    "Crime"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.3,
+  "vote_count": 17112,
+  "popularity": 19.1048,
+  "poster_path": "/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg",
+  "backdrop_path": "/xEY0MV2jSQBz9iOJfCFvLTiPGMA.jpg",
+  "trailer_key": "DaavRAV8a0A",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "Lionsgate Play",
+        "slug": "lionsgate-play",
+        "logo": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png"
+      },
+      {
+        "name": "Lionsgate Play on Apple TV",
+        "slug": "lionsgate-play-on-apple-tv",
+        "logo": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png"
+      },
+      {
+        "name": "Lionsgate Play on Prime",
+        "slug": "lionsgate-play-on-prime",
+        "logo": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:25.627Z"
+}

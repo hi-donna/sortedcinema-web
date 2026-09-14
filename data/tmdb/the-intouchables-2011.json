@@ -1,0 +1,39 @@
+{
+  "key": "the-intouchables-2011",
+  "query": {
+    "title": "The Intouchables",
+    "year": 2011
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:32.107Z",
+  "tmdb_id": 77338,
+  "media": "movie",
+  "title": "The Intouchables",
+  "original_title": "Intouchables",
+  "year": 2011,
+  "release_date": "2011-11-02",
+  "runtime": 113,
+  "overview": "A true story of two men who should never have met – a quadriplegic aristocrat who was injured in a paragliding accident and a young man from the projects.",
+  "tagline": "Sometimes you have to reach into someone else's world to find out what's missing in your own.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "original_language": "fr",
+  "origin_country": [
+    "FR"
+  ],
+  "vote_average": 8.3,
+  "vote_count": 18801,
+  "popularity": 23.046,
+  "poster_path": "/1QU7HKgsQbGpzsJbJK4pAVQV9F5.jpg",
+  "backdrop_path": "/q6OGlZ1KMEb14AC8KbPCxyNOal6.jpg",
+  "trailer_key": "dvdJ--DV0Uo",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:32.106Z"
+}

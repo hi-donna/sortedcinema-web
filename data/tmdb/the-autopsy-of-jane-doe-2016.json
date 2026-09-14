@@ -1,0 +1,45 @@
+{
+  "key": "the-autopsy-of-jane-doe-2016",
+  "query": {
+    "title": "The Autopsy of Jane Doe",
+    "year": 2016
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:18.110Z",
+  "tmdb_id": 397243,
+  "media": "movie",
+  "title": "The Autopsy of Jane Doe",
+  "original_title": "The Autopsy of Jane Doe",
+  "year": 2016,
+  "release_date": "2016-12-21",
+  "runtime": 86,
+  "overview": "Father and son coroners receive a mysterious unidentified corpse with no apparent cause of death. As they attempt to examine the \"Jane Doe,\" they discover increasingly bizarre clues that hold the key to her terrifying secrets.",
+  "tagline": "Every body has a secret.",
+  "genres": [
+    "Horror",
+    "Mystery"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB"
+  ],
+  "vote_average": 6.8,
+  "vote_count": 4876,
+  "popularity": 10.4221,
+  "poster_path": "/6K0wjP8kPCiPYy9PtXBGuypyt5I.jpg",
+  "backdrop_path": "/2pOd80PQSJ9cUbli7PDeX59q3vQ.jpg",
+  "trailer_key": "BNxsaFCzqxc",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Lionsgate+ Amazon Channels",
+        "slug": "lionsgate-amazon-channels",
+        "logo": "/1356slxu4QrHOMrEVDKHJXRo5sW.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:18.110Z"
+}

@@ -1,0 +1,51 @@
+{
+  "key": "gone-girl-2014",
+  "query": {
+    "title": "Gone Girl",
+    "year": 2014
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:16.098Z",
+  "tmdb_id": 210577,
+  "media": "movie",
+  "title": "Gone Girl",
+  "original_title": "Gone Girl",
+  "year": 2014,
+  "release_date": "2014-10-01",
+  "runtime": 149,
+  "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+  "tagline": "You don't know what you've got 'til it's...",
+  "genres": [
+    "Mystery",
+    "Thriller",
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 20386,
+  "popularity": 27.0907,
+  "poster_path": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+  "backdrop_path": "/iWak7wT0j6ycCc8lKr4NBz9c7n5.jpg",
+  "trailer_key": "2-_-1nJf8Vg",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:16.098Z"
+}

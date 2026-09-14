@@ -1,0 +1,38 @@
+{
+  "key": "yi-yi-2000",
+  "query": {
+    "title": "Yi Yi",
+    "year": 2000
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:31.233Z",
+  "tmdb_id": 25538,
+  "media": "movie",
+  "title": "Yi Yi",
+  "original_title": "一一",
+  "year": 2000,
+  "release_date": "2000-09-20",
+  "runtime": 174,
+  "overview": "Each member of a family in Taipei asks hard questions about life's meaning as they live through everyday quandaries. NJ is morose: his brother owes him money, his mother is in a coma, his wife suffers a spiritual crisis when she finds her life a blank and his business partners make bad decisions.",
+  "tagline": "We never live the same day twice.",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "zh",
+  "origin_country": [
+    "TW"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 701,
+  "popularity": 5.2363,
+  "poster_path": "/mR8dSQZI8X6Z1NClJhFrtJp636z.jpg",
+  "backdrop_path": "/x903dx8Km6XNLFEmvbXc98vePSV.jpg",
+  "trailer_key": "PxgrzNFwyqY",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:31.233Z"
+}

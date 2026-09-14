@@ -1,0 +1,61 @@
+{
+  "key": "sunshine-2007",
+  "query": {
+    "title": "Sunshine",
+    "year": 2007
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:19.237Z",
+  "tmdb_id": 1272,
+  "media": "movie",
+  "title": "Sunshine",
+  "original_title": "Sunshine",
+  "year": 2007,
+  "release_date": "2007-04-05",
+  "runtime": 108,
+  "overview": "Fifty years into the future, the sun is dying, and Earth is threatened by arctic temperatures. A team of astronauts is sent to revive the Sun — but the mission fails. Seven years later, a new team is sent to finish the mission as mankind’s last hope.",
+  "tagline": "If it dies, so do we.",
+  "genres": [
+    "Science Fiction",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB"
+  ],
+  "vote_average": 7,
+  "vote_count": 4422,
+  "popularity": 11.23,
+  "poster_path": "/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg",
+  "backdrop_path": "/5AIAnucJKZ3sHpm7r1ykFVIoUHK.jpg",
+  "trailer_key": "Ig1BU6PUt0A",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:19.237Z"
+}

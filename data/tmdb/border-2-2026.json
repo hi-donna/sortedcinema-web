@@ -1,0 +1,46 @@
+{
+  "key": "border-2-2026",
+  "query": {
+    "title": "Border 2",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:40.832Z",
+  "tmdb_id": 1213898,
+  "media": "movie",
+  "title": "Border 2",
+  "original_title": "बॉर्डर २",
+  "year": 2026,
+  "release_date": "2026-01-23",
+  "runtime": 201,
+  "overview": "Three idealistic soldiers in the Indian army, navy and air force face grueling combat conditions in this film set during the 1971 Indo-Pak war.",
+  "tagline": "",
+  "genres": [
+    "Action",
+    "Drama",
+    "War"
+  ],
+  "original_language": "hi",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 35,
+  "popularity": 5.3802,
+  "poster_path": "/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg",
+  "backdrop_path": "/nusKn1Kkjz4NsAKXBswjJVOwMXQ.jpg",
+  "trailer_key": "nvmc2ECk8Lo",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:40.832Z"
+}

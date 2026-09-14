@@ -1,0 +1,40 @@
+{
+  "key": "memories-of-murder-2003",
+  "query": {
+    "title": "Memories of Murder",
+    "year": 2003
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:14.689Z",
+  "tmdb_id": 11423,
+  "media": "movie",
+  "title": "Memories of Murder",
+  "original_title": "살인의 추억",
+  "year": 2003,
+  "release_date": "2003-04-25",
+  "runtime": 131,
+  "overview": "A sadistic serial rapist and murderer of young women terrorizes a small province in 1980s South Korea. To prevent further crimes, three increasingly desperate detectives with conflicting methods race against time to unravel the violent mind of the killer in a futile effort to solve the case.",
+  "tagline": "The worst of them will stay with you... forever.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "ko",
+  "origin_country": [
+    "KR"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 4800,
+  "popularity": 16.8523,
+  "poster_path": "/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg",
+  "backdrop_path": "/6Kn6qW3an3DkPl3MahWemTzrjCt.jpg",
+  "trailer_key": "0n_HQwQU8ls",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:14.689Z"
+}

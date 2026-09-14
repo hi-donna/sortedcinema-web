@@ -1,0 +1,89 @@
+{
+  "key": "inception-2010",
+  "query": {
+    "title": "Inception",
+    "year": 2010
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:22.143Z",
+  "tmdb_id": 27205,
+  "media": "movie",
+  "title": "Inception",
+  "original_title": "Inception",
+  "year": 2010,
+  "release_date": "2010-07-15",
+  "runtime": 148,
+  "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+  "tagline": "Your mind is the scene of the crime.",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "vote_average": 8.4,
+  "vote_count": 40163,
+  "popularity": 52.429,
+  "poster_path": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+  "backdrop_path": "/ii8QGacT3MXESqBckQlyrATY0lT.jpg",
+  "trailer_key": "JE9z-gy4De4",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:22.143Z"
+}

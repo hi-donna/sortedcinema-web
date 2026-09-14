@@ -1,0 +1,56 @@
+{
+  "key": "children-of-heaven-1997",
+  "query": {
+    "title": "Children of Heaven",
+    "year": 1997
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:33.204Z",
+  "tmdb_id": 21334,
+  "media": "movie",
+  "title": "Children of Heaven",
+  "original_title": "بچه‌های آسمان",
+  "year": 1997,
+  "release_date": "1997-08-01",
+  "runtime": 88,
+  "overview": "Zohre's shoes are gone; her older brother Ali lost them. They are poor, there are no shoes for Zohre until they come up with an idea: they will share one pair of shoes. School awaits.",
+  "tagline": "A Little Secret... Their Biggest Adventure!",
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "original_language": "fa",
+  "origin_country": [
+    "IR"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 747,
+  "popularity": 3.4467,
+  "poster_path": "/jWqh1CJWAEcxckMRrf6ARhIEh0R.jpg",
+  "backdrop_path": "/9W250lyDDC3P9AgW5ZKGRj7R2Pv.jpg",
+  "trailer_key": "dqxvZeQsVzY",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:33.204Z"
+}

@@ -1,0 +1,39 @@
+{
+  "key": "the-dog-stars-2026",
+  "query": {
+    "title": "The Dog Stars",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:39.423Z",
+  "tmdb_id": 1384216,
+  "media": "movie",
+  "title": "The Dog Stars",
+  "original_title": "The Dog Stars",
+  "year": 2026,
+  "release_date": "2026-08-26",
+  "runtime": 119,
+  "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+  "tagline": "At the end of the world, no one survives alone.",
+  "genres": [
+    "Science Fiction",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 6.6,
+  "vote_count": 257,
+  "popularity": 46.2158,
+  "poster_path": "/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
+  "backdrop_path": "/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
+  "trailer_key": "-xSxaE1ClEE",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:39.423Z"
+}

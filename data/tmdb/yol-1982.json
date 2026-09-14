@@ -1,0 +1,42 @@
+{
+  "key": "yol-1982",
+  "query": {
+    "title": "Yol",
+    "year": 1982
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:39.651Z",
+  "tmdb_id": 52556,
+  "media": "movie",
+  "title": "The Road",
+  "original_title": "Yol",
+  "year": 1982,
+  "release_date": "1982-09-01",
+  "runtime": 110,
+  "overview": "When five Kurdish prisoners are granted one week's home leave, they find to their dismay that they face continued oppression outside of prison from their families, the culture, and the government.",
+  "tagline": "The story of three families' search for freedom.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "original_language": "tr",
+  "origin_country": [
+    "CH",
+    "TR",
+    "FR",
+    "DE"
+  ],
+  "vote_average": 7.3,
+  "vote_count": 135,
+  "popularity": 2.0939,
+  "poster_path": "/oblv2iaKFvrleCqBMLNHzcOCufR.jpg",
+  "backdrop_path": "/ql80H0Lfv2EWTSEZBLyenxa8vj5.jpg",
+  "trailer_key": "F4xo8hMJ_24",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:39.651Z"
+}

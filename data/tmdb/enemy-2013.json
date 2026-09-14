@@ -1,0 +1,42 @@
+{
+  "key": "enemy-2013",
+  "query": {
+    "title": "Enemy",
+    "year": 2013
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:15.244Z",
+  "tmdb_id": 522815,
+  "media": "movie",
+  "title": "Enemy",
+  "original_title": "Shatru",
+  "year": 2013,
+  "release_date": "2013-08-30",
+  "runtime": 130,
+  "overview": "Shotru (English: Enemy) is a 2011 Bengali action film directed by Raj Chakraborty and starring Jeet, Supriyo Dutta and Nusrat Jahan, who gave her debut by this film. This film was produced by Ashok Dhanuka of Eskay Movies who also distributed it. The movie is a remake of the Tamil film Singam which starred Surya and ...",
+  "tagline": "Shatru",
+  "genres": [],
+  "original_language": "ta",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 8,
+  "popularity": 1.2699,
+  "poster_path": "/uRliduDz4zOiN8POcQsQI13Zlff.jpg",
+  "backdrop_path": null,
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:15.244Z"
+}

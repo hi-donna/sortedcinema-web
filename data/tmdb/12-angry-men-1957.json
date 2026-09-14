@@ -1,0 +1,50 @@
+{
+  "key": "12-angry-men-1957",
+  "query": {
+    "title": "12 Angry Men",
+    "year": 1957
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:18.287Z",
+  "tmdb_id": 389,
+  "media": "movie",
+  "title": "12 Angry Men",
+  "original_title": "12 Angry Men",
+  "year": 1957,
+  "release_date": "1957-04-10",
+  "runtime": 97,
+  "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+  "tagline": "It explodes like 12 sticks of dynamite!",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8.6,
+  "vote_count": 10354,
+  "popularity": 28.5251,
+  "poster_path": "/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+  "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+  "trailer_key": "TEN-2uTi2c0",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "MGM Plus on Prime",
+        "slug": "mgm-plus-on-prime",
+        "logo": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:18.287Z"
+}

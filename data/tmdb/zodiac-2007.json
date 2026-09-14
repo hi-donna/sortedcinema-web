@@ -1,0 +1,63 @@
+{
+  "key": "zodiac-2007",
+  "query": {
+    "title": "Zodiac",
+    "year": 2007
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:15.658Z",
+  "tmdb_id": 1949,
+  "media": "movie",
+  "title": "Zodiac",
+  "original_title": "Zodiac",
+  "year": 2007,
+  "release_date": "2007-03-02",
+  "runtime": 157,
+  "overview": "The story follows the manhunt for the Zodiac Killer, a serial killer who terrorized the San Francisco Bay Area during the late 1960s and early 1970s, taunting police with letters, bloodstained clothing, and ciphers mailed to newspapers.",
+  "tagline": "There's more than one way to lose your life to a killer.",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 11874,
+  "popularity": 14.3033,
+  "poster_path": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+  "backdrop_path": "/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
+  "trailer_key": "yNncHPl1UXg",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:15.658Z"
+}

@@ -1,0 +1,41 @@
+{
+  "key": "the-imposter-2012",
+  "query": {
+    "title": "The Imposter",
+    "year": 2012
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:11.113Z",
+  "tmdb_id": 84287,
+  "media": "movie",
+  "title": "The Imposter",
+  "original_title": "The Imposter",
+  "year": 2012,
+  "release_date": "2012-07-13",
+  "runtime": 99,
+  "overview": "In 1994, a 13-year-old boy disappeared without a trace from his home in San Antonio, Texas. Three-and-a-half years later, he is found alive in a village in southern Spain with a horrifying story of kidnap and torture. His family is overjoyed to bring him home. But all is not quite as it seems.",
+  "tagline": "There are two sides to every lie.",
+  "genres": [
+    "Documentary",
+    "Mystery",
+    "Crime"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "vote_average": 7.3,
+  "vote_count": 817,
+  "popularity": 2.3862,
+  "poster_path": "/bhdGcqZqPju3KEaT9J6lMxRO0TI.jpg",
+  "backdrop_path": "/gwxItUSR8qvaKlNqsQCRVNNZAAF.jpg",
+  "trailer_key": "dmmYc46nSHY",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:11.113Z"
+}

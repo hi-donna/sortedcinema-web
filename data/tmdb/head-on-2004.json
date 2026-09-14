@@ -1,0 +1,40 @@
+{
+  "key": "head-on-2004",
+  "query": {
+    "title": "Head-On",
+    "year": 2004
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:38.454Z",
+  "tmdb_id": 363,
+  "media": "movie",
+  "title": "Head-On",
+  "original_title": "Gegen die Wand",
+  "year": 2004,
+  "release_date": "2004-03-11",
+  "runtime": 122,
+  "overview": "With the intention to break free from the strict familial restrictions, a suicidal young woman sets up a marriage of convenience with a forty-year-old addict, an act that will lead to an outburst of envious love.",
+  "tagline": "You don't really know how much you can love...",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "original_language": "de",
+  "origin_country": [
+    "DE",
+    "TR"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 646,
+  "popularity": 3.2492,
+  "poster_path": "/9L5BBJiXZss58EBcbw0l4holdzZ.jpg",
+  "backdrop_path": "/wpHeTVD7KtfbIPh0dIBXzzb985E.jpg",
+  "trailer_key": "zRioyPHCSVo",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:38.454Z"
+}

@@ -1,0 +1,42 @@
+{
+  "key": "hero-2002",
+  "query": {
+    "title": "Hero",
+    "year": 2002
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:31.183Z",
+  "tmdb_id": 79,
+  "media": "movie",
+  "title": "Hero",
+  "original_title": "英雄",
+  "year": 2002,
+  "release_date": "2002-12-19",
+  "runtime": 99,
+  "overview": "During China's Warring States period, a district prefect arrives at the palace of Qin Shi Huang, claiming to have killed the three assassins who had made an attempt on the king's life three years ago.",
+  "tagline": "One man's strength will unite an empire.",
+  "genres": [
+    "Drama",
+    "Adventure",
+    "Action",
+    "History"
+  ],
+  "original_language": "zh",
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 2587,
+  "popularity": 13.9521,
+  "poster_path": "/vxgZto2Cz7ILHAlmRXt50I2brB2.jpg",
+  "backdrop_path": "/jDz6RYN3nKYtlo7J9IMvGoJit7B.jpg",
+  "trailer_key": "MgsddFEe9Oc",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:31.183Z"
+}

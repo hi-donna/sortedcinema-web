@@ -1,0 +1,52 @@
+{
+  "key": "united-93-2006",
+  "query": {
+    "title": "United 93",
+    "year": 2006
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:21.353Z",
+  "tmdb_id": 9829,
+  "media": "movie",
+  "title": "United 93",
+  "original_title": "United 93",
+  "year": 2006,
+  "release_date": "2006-04-28",
+  "runtime": 111,
+  "overview": "A real-time account of the events on United Flight 93, one of the planes hijacked on 9/11 that crashed near Shanksville, Pennsylvania when passengers foiled the terrorist plot.",
+  "tagline": "September 11, 2001. Four planes were hijacked. Three of them reached their target. This is the story of the fourth.",
+  "genres": [
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.1,
+  "vote_count": 1686,
+  "popularity": 10.231,
+  "poster_path": "/r3mdSgsnpoi4UiUufdybhjha68t.jpg",
+  "backdrop_path": "/mRq6cmEk4jPSlEIqRYwP4dNNptR.jpg",
+  "trailer_key": "kHdqw6scuIc",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:21.353Z"
+}

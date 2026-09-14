@@ -1,0 +1,40 @@
+{
+  "key": "quo-vadis-aida-2020",
+  "query": {
+    "title": "Quo Vadis, Aida?",
+    "year": 2020
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:32.343Z",
+  "tmdb_id": 728118,
+  "media": "movie",
+  "title": "Quo Vadis, Aida?",
+  "original_title": "Quo Vadis, Aida?",
+  "year": 2021,
+  "release_date": "2021-02-26",
+  "runtime": 104,
+  "overview": "Bosnia, July 1995. Aida is a translator for the UN in the small town of Srebrenica. When the Serbian army takes over the town, her family is among the thousands of citizens looking for shelter in the UN camp. As an insider to the negotiations Aida has access to crucial information that she needs to interpret. What is at the horizon for her family and people – rescue or death? Which move should she take?",
+  "tagline": "",
+  "genres": [
+    "War",
+    "Drama",
+    "History"
+  ],
+  "original_language": "sr",
+  "origin_country": [
+    "BA"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 495,
+  "popularity": 3.4207,
+  "poster_path": "/eQy2Tgvmx0FkK8vMMqMW4aX5UXQ.jpg",
+  "backdrop_path": "/awElIr61fFpbudzlCfobIpbwEro.jpg",
+  "trailer_key": "ErLD8P4VUjY",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:32.343Z"
+}

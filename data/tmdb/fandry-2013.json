@@ -1,0 +1,57 @@
+{
+  "key": "fandry-2013",
+  "query": {
+    "title": "Fandry",
+    "year": 2013
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:28.477Z",
+  "tmdb_id": 230846,
+  "media": "movie",
+  "title": "Fandry",
+  "original_title": "फँड्री",
+  "year": 2013,
+  "release_date": "2013-10-09",
+  "runtime": 102,
+  "overview": "Set in contemporary times, Fandry ('Pig') tells the story of teenager Jabya and his family, who are Dalits. While Jabya is struggling in his love life, having fallen for Shalu, a rich upper caste girl in his class, his family is on the lookout for a way to hunt down a wild pig to earn some money.",
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "original_language": "mr",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 6.8,
+  "vote_count": 20,
+  "popularity": 1.0852,
+  "poster_path": "/zCeFTfyKDITgfYFg2gEyzubhOD9.jpg",
+  "backdrop_path": "/fLpDFeToCC3E2QL0WwhEkuvxtLO.jpg",
+  "trailer_key": "BjHsL-_KG30",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:28.477Z"
+}

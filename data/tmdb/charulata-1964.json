@@ -1,0 +1,39 @@
+{
+  "key": "charulata-1964",
+  "query": {
+    "title": "Charulata",
+    "year": 1964
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:27.490Z",
+  "tmdb_id": 35790,
+  "media": "movie",
+  "title": "Charulata",
+  "original_title": "চারুলতা",
+  "year": 1964,
+  "release_date": "1964-04-17",
+  "runtime": 117,
+  "overview": "In 1870s India, Charulata is an isolated, artistically inclined woman who sees little of her busy journalist husband, Bhupati. Realizing that his wife is alienated and unhappy, he convinces his cousin, Amal, to spend time with Charulata and nourish her creative impulses. Amal is a fledgling poet himself, and he and Charulata bond over their shared love of art.",
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "original_language": "bn",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 155,
+  "popularity": 1.4669,
+  "poster_path": "/ei2YaCcnUBudyc6BQSc6mpCSJTx.jpg",
+  "backdrop_path": "/hXYf2k0igWcfReM98949EVTfSgP.jpg",
+  "trailer_key": "gFCuy_FUsdo",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:27.490Z"
+}

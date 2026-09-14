@@ -1,0 +1,39 @@
+{
+  "key": "seven-samurai-1954",
+  "query": {
+    "title": "Seven Samurai",
+    "year": 1954
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:35.384Z",
+  "tmdb_id": 346,
+  "media": "movie",
+  "title": "Seven Samurai",
+  "original_title": "七人の侍",
+  "year": 1954,
+  "release_date": "1954-04-26",
+  "runtime": 207,
+  "overview": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
+  "tagline": "Unmatched for suspense and spectacle!",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "original_language": "ja",
+  "origin_country": [
+    "JP"
+  ],
+  "vote_average": 8.5,
+  "vote_count": 4364,
+  "popularity": 14.6348,
+  "poster_path": "/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg",
+  "backdrop_path": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+  "trailer_key": "RsRN65PlaIM",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:35.384Z"
+}

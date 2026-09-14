@@ -1,0 +1,40 @@
+{
+  "key": "the-invisible-guest-2016",
+  "query": {
+    "title": "The Invisible Guest",
+    "year": 2016
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:37.556Z",
+  "tmdb_id": 411088,
+  "media": "movie",
+  "title": "The Invisible Guest",
+  "original_title": "Contratiempo",
+  "year": 2017,
+  "release_date": "2017-01-06",
+  "runtime": 107,
+  "overview": "Barcelona, Spain. Adrián Doria, a young and successful businessman accused of murder, meets one night with Virginia Goodman, an expert interrogation lawyer, in order to devise a defense strategy.",
+  "tagline": "Every story has two sides. The truth, only one.",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "original_language": "es",
+  "origin_country": [
+    "ES"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 5122,
+  "popularity": 13.5987,
+  "poster_path": "/fptnZJbLzKUHeNlYrAynbyoL5YJ.jpg",
+  "backdrop_path": "/157QuwzU58D5RtXmkBl5iNaxigN.jpg",
+  "trailer_key": "epCg2RbyF80",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:37.556Z"
+}

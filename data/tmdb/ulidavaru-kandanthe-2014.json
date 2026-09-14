@@ -1,0 +1,46 @@
+{
+  "key": "ulidavaru-kandanthe-2014",
+  "query": {
+    "title": "Ulidavaru Kandanthe",
+    "year": 2014
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:30.367Z",
+  "tmdb_id": 262476,
+  "media": "movie",
+  "title": "Ulidavaru Kandanthe",
+  "original_title": "ಉಳಿದವರು ಕಂಡಂತೆ",
+  "year": 2014,
+  "release_date": "2014-03-28",
+  "runtime": 154,
+  "overview": "Malpe, a small fishing town on the Arabian Coast. Located 6 kms to the west of the temple town, Udupi. Malpe's beaches are washed clean everyday by the sea. The waves ensure that nothing gets left behind on the sands. But then, the waves cannot reach everything. It is the time of the year when Udupi and its surroundings are decked up to celebrate Sri Krishna Janmaashtami. Men and children walk the streets dressed up as characters from mythology. Teams painted as tigers are seen dancing to drum beats all around the town. But violence seems to be brewing in Malpe this Krishna Janmaashtami.",
+  "tagline": "As Seen by the Rest",
+  "genres": [
+    "Romance",
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "kn",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 26,
+  "popularity": 0.8704,
+  "poster_path": "/b7Ee4DKKhNVYNV84rovdqcWXjgt.jpg",
+  "backdrop_path": "/gEdMkJTxYJNhV7OBO65FHyI9KgO.jpg",
+  "trailer_key": "POJ_6EtGeMw",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Sun NXT",
+        "slug": "sun-nxt",
+        "logo": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:30.367Z"
+}

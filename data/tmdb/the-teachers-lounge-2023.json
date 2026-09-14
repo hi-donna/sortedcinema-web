@@ -1,0 +1,44 @@
+{
+  "key": "the-teachers-lounge-2023",
+  "query": {
+    "title": "The Teachers' Lounge",
+    "year": 2023
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:33.410Z",
+  "tmdb_id": 998022,
+  "media": "movie",
+  "title": "The Teachers' Lounge",
+  "original_title": "Das Lehrerzimmer",
+  "year": 2023,
+  "release_date": "2023-05-04",
+  "runtime": 98,
+  "overview": "When one of her students is suspected of theft, teacher Carla Nowak decides to get to the bottom of the matter. Caught between her ideals and the school system, the consequences of her actions threaten to break her.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "de",
+  "origin_country": [
+    "DE"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 757,
+  "popularity": 3.6313,
+  "poster_path": "/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg",
+  "backdrop_path": "/7RxhC2ntrglVl1nkKjAgNoO0XP.jpg",
+  "trailer_key": "kbUaACY8wRQ",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:33.410Z"
+}

@@ -1,0 +1,57 @@
+{
+  "key": "paddington-2-2017",
+  "query": {
+    "title": "Paddington 2",
+    "year": 2017
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:12.450Z",
+  "tmdb_id": 346648,
+  "media": "movie",
+  "title": "Paddington 2",
+  "original_title": "Paddington 2",
+  "year": 2017,
+  "release_date": "2017-11-09",
+  "runtime": 104,
+  "overview": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
+  "tagline": "Magic. Mystery. Marmalade.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 2891,
+  "popularity": 7.8752,
+  "poster_path": "/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+  "backdrop_path": "/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+  "trailer_key": "07Um1PY_P4o",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:12.450Z"
+}

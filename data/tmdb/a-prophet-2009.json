@@ -1,0 +1,39 @@
+{
+  "key": "a-prophet-2009",
+  "query": {
+    "title": "A Prophet",
+    "year": 2009
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:16.368Z",
+  "tmdb_id": 21575,
+  "media": "movie",
+  "title": "A Prophet",
+  "original_title": "Un prophète",
+  "year": 2009,
+  "release_date": "2009-08-26",
+  "runtime": 155,
+  "overview": "Sentenced to six years in prison, Malik El Djebena is alone in the world and can neither read nor write. On his arrival at the prison, he seems younger and more brittle than the others detained there. At once he falls under the sway of a group of Corsicans who enforce their rule in the prison. As the 'missions' go by, he toughens himself and wins the confidence of the Corsican group.",
+  "tagline": "Escaping the prison of life.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "original_language": "fr",
+  "origin_country": [
+    "FR"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 1780,
+  "popularity": 5.1877,
+  "poster_path": "/x9Jb8kewBHPzjTtgCQvoQoDsy4d.jpg",
+  "backdrop_path": "/jEJDjDBT6KCoS4WOBq68vZMbFk2.jpg",
+  "trailer_key": "l69ARbQt-Ko",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:16.368Z"
+}

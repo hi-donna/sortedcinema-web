@@ -1,0 +1,55 @@
+{
+  "key": "naal-2018",
+  "query": {
+    "title": "Naal",
+    "year": 2018
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:29.351Z",
+  "tmdb_id": 562040,
+  "media": "movie",
+  "title": "Naal",
+  "original_title": "नाळ",
+  "year": 2018,
+  "release_date": "2018-11-16",
+  "runtime": 117,
+  "overview": "Pampered by his loving and caring parents, an eight-year-old boy's life takes a turn for the worse when he learns a hidden truth about himself. Soon, he begins to distance himself from his mother.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "mr",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.4,
+  "vote_count": 5,
+  "popularity": 1.2933,
+  "poster_path": "/zaCXIQ3Q68ik9qTSCVq3LJNHKp3.jpg",
+  "backdrop_path": "/baGPNDPBMcj1j7YJwD30LZJ78M9.jpg",
+  "trailer_key": "6ajhEq4HqHo",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      },
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:29.351Z"
+}

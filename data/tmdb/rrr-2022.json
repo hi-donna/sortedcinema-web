@@ -1,0 +1,56 @@
+{
+  "key": "rrr-2022",
+  "query": {
+    "title": "RRR",
+    "year": 2022
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:30.076Z",
+  "tmdb_id": 579974,
+  "media": "movie",
+  "title": "RRR",
+  "original_title": "రౌద్రం రణం రుధిరం",
+  "year": 2022,
+  "release_date": "2022-03-24",
+  "runtime": 187,
+  "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+  "tagline": "Rise, Roar, Revolt",
+  "genres": [
+    "Action",
+    "History",
+    "Drama"
+  ],
+  "original_language": "te",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 1693,
+  "popularity": 9.9914,
+  "poster_path": "/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
+  "backdrop_path": "/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
+  "trailer_key": "i4pjiLGUTtk",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      },
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      },
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:30.076Z"
+}

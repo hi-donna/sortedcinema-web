@@ -1,0 +1,38 @@
+{
+  "key": "festen-1998",
+  "query": {
+    "title": "Festen",
+    "year": 1998
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:36.865Z",
+  "tmdb_id": 309,
+  "media": "movie",
+  "title": "The Celebration",
+  "original_title": "Festen",
+  "year": 1998,
+  "release_date": "1998-06-19",
+  "runtime": 101,
+  "overview": "The family of a wealthy businessman gather to celebrate his 60th birthday. During the course of the party, his eldest son presents a speech that reveals a devastating secret that turns the night into a battle of truth and denial.",
+  "tagline": "Every family has a secret.",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "da",
+  "origin_country": [
+    "DK"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 1315,
+  "popularity": 2.9351,
+  "poster_path": "/2LRzNq41yrY8EjCnD1S8sCCPvKk.jpg",
+  "backdrop_path": "/yCtgdv7TfgZLHj6R9IQKD5TjljP.jpg",
+  "trailer_key": "XCqc_JTiNxg",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:36.865Z"
+}

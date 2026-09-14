@@ -1,0 +1,38 @@
+{
+  "key": "mahanagar-1963",
+  "query": {
+    "title": "Mahanagar",
+    "year": 1963
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:27.299Z",
+  "tmdb_id": 60567,
+  "media": "movie",
+  "title": "The Big City",
+  "original_title": "মহানগর",
+  "year": 1963,
+  "release_date": "1963-09-27",
+  "runtime": 136,
+  "overview": "Arati takes a job as a door-to-door saleswoman in Calcutta's wealthy neighbourhoods, in defiance of her traditionally-minded husband, Subrata, and his live-in parents. Emulating her Anglo-Indian friend Edith, who speaks equal to the men she encounters on the job, Arati quickly becomes her firm's top salesperson. When Subrata loses his job, the power dynamic begins to shift.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "bn",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 108,
+  "popularity": 1.5065,
+  "poster_path": "/hPDMRWqb5WzXKa4qJCgcnvxAkO6.jpg",
+  "backdrop_path": "/cDxkqKumuTe9q5MoC98tRXGW50o.jpg",
+  "trailer_key": "HGA8WBTvQco",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:27.299Z"
+}

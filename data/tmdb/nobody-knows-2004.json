@@ -1,0 +1,38 @@
+{
+  "key": "nobody-knows-2004",
+  "query": {
+    "title": "Nobody Knows",
+    "year": 2004
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:36.384Z",
+  "tmdb_id": 2517,
+  "media": "movie",
+  "title": "Nobody Knows",
+  "original_title": "誰も知らない",
+  "year": 2004,
+  "release_date": "2004-08-07",
+  "runtime": 141,
+  "overview": "In a small Tokyo apartment, twelve-year-old Akira must care for his younger siblings after their mother leaves them and shows no sign of returning.",
+  "tagline": "Did mom really abandon us?",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "ja",
+  "origin_country": [
+    "JP"
+  ],
+  "vote_average": 8,
+  "vote_count": 674,
+  "popularity": 5.5166,
+  "poster_path": "/kDUUdWrbBBVqzSmm27pHFJcTvCU.jpg",
+  "backdrop_path": "/gCD0eMZW1pUitLzH93WYWJYQgGk.jpg",
+  "trailer_key": "ThksKmIMGAM",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:36.384Z"
+}

@@ -1,0 +1,47 @@
+{
+  "key": "anomalisa-2015",
+  "query": {
+    "title": "Anomalisa",
+    "year": 2015
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:23.174Z",
+  "tmdb_id": 291270,
+  "media": "movie",
+  "title": "Anomalisa",
+  "original_title": "Anomalisa",
+  "year": 2015,
+  "release_date": "2015-12-30",
+  "runtime": 91,
+  "overview": "An inspirational speaker becomes reinvigorated after meeting a lively woman who shakes up his mundane existence.",
+  "tagline": "",
+  "genres": [
+    "Animation",
+    "Drama",
+    "Romance",
+    "Comedy"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.1,
+  "vote_count": 1869,
+  "popularity": 3.9551,
+  "poster_path": "/4DJ1zNr4Y6q7zQ27goEYla46VdO.jpg",
+  "backdrop_path": "/xNykrL50OsygNTtFuHCw9U0D3eu.jpg",
+  "trailer_key": "WQkHA3fHk_0",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:23.174Z"
+}

@@ -1,0 +1,67 @@
+{
+  "key": "haider-2014",
+  "query": {
+    "title": "Haider",
+    "year": 2014
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:21.476Z",
+  "tmdb_id": 280795,
+  "media": "movie",
+  "title": "Haider",
+  "original_title": "हैदर",
+  "year": 2014,
+  "release_date": "2014-10-02",
+  "runtime": 150,
+  "overview": "A young man returns to Kashmir after his father's disappearance to confront his uncle - the man he suspects to have a role in his father's fate.",
+  "tagline": "",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "original_language": "hi",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 259,
+  "popularity": 1.3599,
+  "poster_path": "/lOCotkHPODWdsRDMoLbSdLdVT3L.jpg",
+  "backdrop_path": "/bbd3XvJfY5MppOoYKl447HKjKXp.jpg",
+  "trailer_key": "ZmN_VSo8DOo",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:21.476Z"
+}

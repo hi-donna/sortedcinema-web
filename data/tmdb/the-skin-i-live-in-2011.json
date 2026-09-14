@@ -1,0 +1,41 @@
+{
+  "key": "the-skin-i-live-in-2011",
+  "query": {
+    "title": "The Skin I Live In",
+    "year": 2011
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:38.083Z",
+  "tmdb_id": 63311,
+  "media": "movie",
+  "title": "The Skin I Live In",
+  "original_title": "La piel que habito",
+  "year": 2011,
+  "release_date": "2011-08-17",
+  "runtime": 120,
+  "overview": "A brilliant plastic surgeon creates a synthetic skin that withstands any kind of damage. His guinea pig: a mysterious and volatile woman who holds the key to his obsession.",
+  "tagline": "The things the love of a madman can do...",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "original_language": "es",
+  "origin_country": [
+    "ES"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 4736,
+  "popularity": 10.4164,
+  "poster_path": "/xa7uCwGYykrf8MMI8iF5dZvNlrG.jpg",
+  "backdrop_path": "/qn8NzshtQmJD7Nm06sAp5yOtexH.jpg",
+  "trailer_key": "PavJUoZNT7g",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:38.083Z"
+}

@@ -1,0 +1,39 @@
+{
+  "key": "dark-city-1998",
+  "query": {
+    "title": "Dark City",
+    "year": 1998
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:23.540Z",
+  "tmdb_id": 2666,
+  "media": "movie",
+  "title": "Dark City",
+  "original_title": "Dark City",
+  "year": 1998,
+  "release_date": "1998-02-27",
+  "runtime": 101,
+  "overview": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
+  "tagline": "They built the city to see what makes us tick. Last night, one of us went off.",
+  "genres": [
+    "Mystery",
+    "Science Fiction"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "AU"
+  ],
+  "vote_average": 7.3,
+  "vote_count": 3330,
+  "popularity": 11.7156,
+  "poster_path": "/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
+  "backdrop_path": "/sWi4SSeVPii4NU365Df9vzX1yOX.jpg",
+  "trailer_key": "30mmoegSQCs",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:23.540Z"
+}

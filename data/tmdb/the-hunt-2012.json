@@ -1,0 +1,38 @@
+{
+  "key": "the-hunt-2012",
+  "query": {
+    "title": "The Hunt",
+    "year": 2012
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:36.669Z",
+  "tmdb_id": 103663,
+  "media": "movie",
+  "title": "The Hunt",
+  "original_title": "Jagten",
+  "year": 2012,
+  "release_date": "2012-10-25",
+  "runtime": 116,
+  "overview": "A teacher lives a lonely life, all the while struggling over his son’s custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+  "tagline": "The lie is spreading.",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "da",
+  "origin_country": [
+    "DK"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 4968,
+  "popularity": 10.587,
+  "poster_path": "/jkixsXzRh28q3PCqFoWcf7unghT.jpg",
+  "backdrop_path": "/jmVWlCZ8hRtmrQGbKXXFHsrSohp.jpg",
+  "trailer_key": "BSVDnUgJVYY",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:36.669Z"
+}

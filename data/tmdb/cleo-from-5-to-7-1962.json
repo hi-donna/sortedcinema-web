@@ -1,0 +1,49 @@
+{
+  "key": "cleo-from-5-to-7-1962",
+  "query": {
+    "title": "Cléo from 5 to 7",
+    "year": 1962
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:32.398Z",
+  "tmdb_id": 499,
+  "media": "movie",
+  "title": "Cléo from 5 to 7",
+  "original_title": "Cléo de 5 à 7",
+  "year": 1962,
+  "release_date": "1962-04-11",
+  "runtime": 90,
+  "overview": "Agnès Varda eloquently captures Paris in the sixties with this real-time portrait of a singer set adrift in the city as she awaits test results of a biopsy. A chronicle of the minutes of one woman’s life, Cléo from 5 to 7 is a spirited mix of vivid vérité and melodrama, featuring a score by Michel Legrand and cameos by Jean-Luc Godard and Anna Karina.",
+  "tagline": "The whole world... has made an appointment with...",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "fr",
+  "origin_country": [
+    "FR"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 802,
+  "popularity": 4.2835,
+  "poster_path": "/oelBStY4xpguaplRv15P3Za7Xsr.jpg",
+  "backdrop_path": "/oyatchDPpS4I9jpIIezFJGrmXcR.jpg",
+  "trailer_key": "sRR0_VJFqwg",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:32.398Z"
+}

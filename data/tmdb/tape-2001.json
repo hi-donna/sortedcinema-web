@@ -1,0 +1,38 @@
+{
+  "key": "tape-2001",
+  "query": {
+    "title": "Tape",
+    "year": 2001
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:24.658Z",
+  "tmdb_id": 23949,
+  "media": "movie",
+  "title": "Tape",
+  "original_title": "Tape",
+  "year": 2001,
+  "release_date": "2001-11-02",
+  "runtime": 87,
+  "overview": "Jon, a first-time filmmaker, finds himself in Lansing, Michigan to present his film at a local film festival. Vince, his high school friend who is now a volunteer fireman and small-time drug dealer, also visits the town to support Jon on his big day, or so it seems. After a raucous hello and much backslapping, it appears that there is an undercurrent of tension in the air.",
+  "tagline": "Some things can't be erased.",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 6.9,
+  "vote_count": 256,
+  "popularity": 1.5496,
+  "poster_path": "/4Flz17KOjGdGqJ2dFRhKnB7eg5.jpg",
+  "backdrop_path": "/o6PsWbkPva254PkEaVAnB87wpFH.jpg",
+  "trailer_key": "JVSUQLGoYZ0",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:24.658Z"
+}

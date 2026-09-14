@@ -1,0 +1,73 @@
+{
+  "key": "jai-bhim-2021",
+  "query": {
+    "title": "Jai Bhim",
+    "year": 2021
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:29.605Z",
+  "tmdb_id": 855400,
+  "media": "movie",
+  "title": "Jai Bhim",
+  "original_title": "ஜெய் பீம்",
+  "year": 2021,
+  "release_date": "2021-11-02",
+  "runtime": 164,
+  "overview": "A pregnant woman from a primitive tribal community, searches desperately for her husband, who is missing from police custody. So as to find her husband and seek justice for them, as their voice, a High Court advocate rises in support. Will their battle for justice succeed?",
+  "tagline": "",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "History"
+  ],
+  "original_language": "ta",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.4,
+  "vote_count": 253,
+  "popularity": 2.1871,
+  "poster_path": "/ehybiOtBUtrMkmtB39zQEtq1Jie.jpg",
+  "backdrop_path": "/40lmQ5vzKJhj5k7i0hvZuglneyj.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "ManoramaMAX",
+        "slug": "manoramamax",
+        "logo": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png"
+      },
+      {
+        "name": "ManoramaMAX on Prime",
+        "slug": "manoramamax-on-prime",
+        "logo": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png"
+      },
+      {
+        "name": "MX Player",
+        "slug": "mx-player",
+        "logo": "/kqwaac38jeFJRkZj9FJ09MYiyJE.png"
+      },
+      {
+        "name": "Amazon MX Player",
+        "slug": "amazon-mx-player",
+        "logo": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:29.605Z"
+}

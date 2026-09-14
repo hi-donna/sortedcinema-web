@@ -1,0 +1,56 @@
+{
+  "key": "nocturnal-animals-2016",
+  "query": {
+    "title": "Nocturnal Animals",
+    "year": 2016
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:22.874Z",
+  "tmdb_id": 340666,
+  "media": "movie",
+  "title": "Nocturnal Animals",
+  "original_title": "Nocturnal Animals",
+  "year": 2016,
+  "release_date": "2016-11-04",
+  "runtime": 116,
+  "overview": "Susan Morrow receives a book manuscript from her ex-husband – a man she left 20 years earlier – asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a mathematics professor whose family vacation turns violent.",
+  "tagline": "When you love someone you can't just throw it away.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.4,
+  "vote_count": 8430,
+  "popularity": 7.8246,
+  "poster_path": "/mdLDgQBD0va09npSQX5Zgo2evXM.jpg",
+  "backdrop_path": "/5d6m8CIBQcHeiwr6R5ou4wxO9Vn.jpg",
+  "trailer_key": "SI45fDplBpw",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:22.874Z"
+}

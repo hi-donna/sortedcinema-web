@@ -1,0 +1,77 @@
+{
+  "key": "contact-1997",
+  "query": {
+    "title": "Contact",
+    "year": 1997
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:19.301Z",
+  "tmdb_id": 686,
+  "media": "movie",
+  "title": "Contact",
+  "original_title": "Contact",
+  "year": 1997,
+  "release_date": "1997-07-11",
+  "runtime": 150,
+  "overview": "A radio astronomer receives the first extraterrestrial radio signal ever picked up on Earth. As the world powers scramble to decipher the message and decide upon a course of action, she must make some difficult decisions between her beliefs, the truth, and reality.",
+  "tagline": "Take a journey to the heart of the universe.",
+  "genres": [
+    "Drama",
+    "Science Fiction",
+    "Mystery"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 5180,
+  "popularity": 12.6363,
+  "poster_path": "/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg",
+  "backdrop_path": "/yFkUPqBuUnbhYbQL8VFpTrAT9za.jpg",
+  "trailer_key": "s3hcz8OCd-Q",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:19.301Z"
+}

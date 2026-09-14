@@ -1,0 +1,46 @@
+{
+  "key": "paprika-2006",
+  "query": {
+    "title": "Paprika",
+    "year": 2006
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:22.869Z",
+  "tmdb_id": 4977,
+  "media": "movie",
+  "title": "Paprika",
+  "original_title": "パプリカ",
+  "year": 2006,
+  "release_date": "2006-10-01",
+  "runtime": 90,
+  "overview": "Dr. Atsuko Chiba is a research psychologist who uses a device called the DC Mini to enter her patients' dreams, wherein she adopts the alter-ego \"Paprika\". When the device is stolen, she must stop rogue elements from merging the dream and waking worlds.",
+  "tagline": "This is your brain on anime.",
+  "genres": [
+    "Animation",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "original_language": "ja",
+  "origin_country": [
+    "JP"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 2977,
+  "popularity": 9.4342,
+  "poster_path": "/nHJljo2Pi7XimYEgV9hvRchQWmg.jpg",
+  "backdrop_path": "/3fgcEjBNrhstYgPlG1c8WT7UpIN.jpg",
+  "trailer_key": "a6avI9oPgnw",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:22.869Z"
+}

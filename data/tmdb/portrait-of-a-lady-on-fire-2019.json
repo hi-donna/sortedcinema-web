@@ -1,0 +1,55 @@
+{
+  "key": "portrait-of-a-lady-on-fire-2019",
+  "query": {
+    "title": "Portrait of a Lady on Fire",
+    "year": 2019
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:12.345Z",
+  "tmdb_id": 531428,
+  "media": "movie",
+  "title": "Portrait of a Lady on Fire",
+  "original_title": "Portrait de la jeune fille en feu",
+  "year": 2019,
+  "release_date": "2019-09-06",
+  "runtime": 121,
+  "overview": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",
+  "tagline": "Don't regret. Remember.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "original_language": "fr",
+  "origin_country": [
+    "FR"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 3037,
+  "popularity": 11.2176,
+  "poster_path": "/rUDuOKpkKBHxx41BScqKej72iT3.jpg",
+  "backdrop_path": "/ivJ5UzT6IzucLVfbZwCCwiJJoBz.jpg",
+  "trailer_key": "R-fQPTwma9o",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:12.345Z"
+}

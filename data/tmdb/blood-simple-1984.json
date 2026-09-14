@@ -1,0 +1,46 @@
+{
+  "key": "blood-simple-1984",
+  "query": {
+    "title": "Blood Simple",
+    "year": 1984
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:17.262Z",
+  "tmdb_id": 11368,
+  "media": "movie",
+  "title": "Blood Simple",
+  "original_title": "Blood Simple",
+  "year": 1985,
+  "release_date": "1985-01-18",
+  "runtime": 97,
+  "overview": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered.",
+  "tagline": "Passion led to Adultery. Adultery led to Murder. It all seemed so simple...",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 1677,
+  "popularity": 6.8012,
+  "poster_path": "/n8D1gVXUgmW4kkDzUzzoezAmUUa.jpg",
+  "backdrop_path": "/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
+  "trailer_key": "CO54LvO26zs",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:17.262Z"
+}

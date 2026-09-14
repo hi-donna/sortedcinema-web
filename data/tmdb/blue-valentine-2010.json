@@ -1,0 +1,39 @@
+{
+  "key": "blue-valentine-2010",
+  "query": {
+    "title": "Blue Valentine",
+    "year": 2010
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:12.970Z",
+  "tmdb_id": 46705,
+  "media": "movie",
+  "title": "Blue Valentine",
+  "original_title": "Blue Valentine",
+  "year": 2010,
+  "release_date": "2010-12-26",
+  "runtime": 112,
+  "overview": "Dean and Cindy live a quiet life in a modest neighborhood. They appear to have the world at their feet at the outset of the relationship. However, his lack of ambition and her retreat into self-absorption cause potentially irreversible cracks in their marriage.",
+  "tagline": "A Love Story.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7,
+  "vote_count": 3611,
+  "popularity": 6.534,
+  "poster_path": "/dc8BdKnDY5Iy28KzUGtHIXuqqFK.jpg",
+  "backdrop_path": "/fAqpfILTPsaKpAzoAvkXf5glgSo.jpg",
+  "trailer_key": "aw0NChcdQfQ",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:12.970Z"
+}

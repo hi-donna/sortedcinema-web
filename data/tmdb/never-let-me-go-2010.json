@@ -1,0 +1,40 @@
+{
+  "key": "never-let-me-go-2010",
+  "query": {
+    "title": "Never Let Me Go",
+    "year": 2010
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:12.256Z",
+  "tmdb_id": 42188,
+  "media": "movie",
+  "title": "Never Let Me Go",
+  "original_title": "Never Let Me Go",
+  "year": 2010,
+  "release_date": "2010-03-18",
+  "runtime": 104,
+  "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+  "tagline": "These students have everything they need. Except time.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Science Fiction"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB"
+  ],
+  "vote_average": 6.8,
+  "vote_count": 2531,
+  "popularity": 4.5066,
+  "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+  "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+  "trailer_key": "sXiRZhDEo8A",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:12.256Z"
+}

@@ -1,0 +1,40 @@
+{
+  "key": "snowpiercer-2013",
+  "query": {
+    "title": "Snowpiercer",
+    "year": 2013
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:25.771Z",
+  "tmdb_id": 110415,
+  "media": "movie",
+  "title": "Snowpiercer",
+  "original_title": "설국열차",
+  "year": 2013,
+  "release_date": "2013-08-01",
+  "runtime": 127,
+  "overview": "In a future where a failed global-warming experiment kills off most life on the planet, a class system evolves aboard the Snowpiercer; a train that travels around the globe via a perpetual-motion engine.",
+  "tagline": "Fight your way to the front.",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Drama"
+  ],
+  "original_language": "ko",
+  "origin_country": [
+    "KR"
+  ],
+  "vote_average": 6.9,
+  "vote_count": 10666,
+  "popularity": 11.9297,
+  "poster_path": "/kw6YQudA0TMcNmGUGy5XIw7zbnV.jpg",
+  "backdrop_path": "/vz45GHSnBNYRcyoZe3UCQ4HD4D4.jpg",
+  "trailer_key": "3Np3v7xnNJk",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:25.771Z"
+}

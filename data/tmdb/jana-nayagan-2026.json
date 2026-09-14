@@ -1,0 +1,45 @@
+{
+  "key": "jana-nayagan-2026",
+  "query": {
+    "title": "Jana Nayagan",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:40.343Z",
+  "tmdb_id": 1235877,
+  "media": "movie",
+  "title": "Jana Nayagan",
+  "original_title": "ஜன நாயகன்",
+  "year": 2026,
+  "release_date": "2026-07-22",
+  "runtime": 183,
+  "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+  "tagline": "The Torch Bearer of Democracy",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "original_language": "ta",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 5.3,
+  "vote_count": 20,
+  "popularity": 12.7052,
+  "poster_path": "/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+  "backdrop_path": "/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:40.343Z"
+}

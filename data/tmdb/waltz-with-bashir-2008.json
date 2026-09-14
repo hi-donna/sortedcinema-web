@@ -1,0 +1,41 @@
+{
+  "key": "waltz-with-bashir-2008",
+  "query": {
+    "title": "Waltz with Bashir",
+    "year": 2008
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:23.355Z",
+  "tmdb_id": 8885,
+  "media": "movie",
+  "title": "Waltz with Bashir",
+  "original_title": "ואלס עם באשיר",
+  "year": 2008,
+  "release_date": "2008-06-12",
+  "runtime": 90,
+  "overview": "A film director from Israel interviews fellow veterans of the 1982 invasion of Lebanon to reconstruct his own memories of his term of service in that conflict.",
+  "tagline": "One man's journey to uncover his past.",
+  "genres": [
+    "Animation",
+    "Documentary",
+    "Drama",
+    "War"
+  ],
+  "original_language": "he",
+  "origin_country": [
+    "IL"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 1084,
+  "popularity": 3.0416,
+  "poster_path": "/zQaCv7lKwHsh0YSHkt1QNjIOZ1c.jpg",
+  "backdrop_path": "/cMoiIk3tD6qshxccYRjjym7l5YV.jpg",
+  "trailer_key": "XbXdwBNkCmk",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:23.355Z"
+}

@@ -1,0 +1,38 @@
+{
+  "key": "winter-sleep-2014",
+  "query": {
+    "title": "Winter Sleep",
+    "year": 2014
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:38.432Z",
+  "tmdb_id": 265169,
+  "media": "movie",
+  "title": "Winter Sleep",
+  "original_title": "Kış Uykusu",
+  "year": 2014,
+  "release_date": "2014-06-13",
+  "runtime": 196,
+  "overview": "Aydın is a hotel owner and a retired actor in rural Turkey. As winter emerges he begins navigating the conflicts within the relationships with his wife, sister and existence.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "tr",
+  "origin_country": [
+    "TR"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 639,
+  "popularity": 2.4625,
+  "poster_path": "/95j83qOqH3Ivz4RYkaSjGT0VSNr.jpg",
+  "backdrop_path": "/4JuoO0XywrCDeHLy4kTB9FU5U2C.jpg",
+  "trailer_key": "zKSLXIjhj-w",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:38.432Z"
+}

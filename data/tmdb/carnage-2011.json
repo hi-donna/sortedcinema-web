@@ -1,0 +1,43 @@
+{
+  "key": "carnage-2011",
+  "query": {
+    "title": "Carnage",
+    "year": 2011
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:24.641Z",
+  "tmdb_id": 72113,
+  "media": "movie",
+  "title": "Carnage",
+  "original_title": "Carnage",
+  "year": 2011,
+  "release_date": "2011-09-16",
+  "runtime": 80,
+  "overview": "Two pairs of parents hold a cordial meeting after their sons are involved in a fight, though as their time together progresses, increasingly childish behavior throws the discussion into chaos.",
+  "tagline": "A new comedy of no manners.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "DE",
+    "FR",
+    "PL",
+    "US",
+    "ES"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 3216,
+  "popularity": 4.511,
+  "poster_path": "/3Imx53XV3T02ADlMxYazYXVNysZ.jpg",
+  "backdrop_path": "/mntBeW6TRgm7GkYJwRDy3oJnKtn.jpg",
+  "trailer_key": "Zvg_wK6smK4",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:24.641Z"
+}

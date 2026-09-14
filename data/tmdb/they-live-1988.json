@@ -1,0 +1,46 @@
+{
+  "key": "they-live-1988",
+  "query": {
+    "title": "They Live",
+    "year": 1988
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:14.319Z",
+  "tmdb_id": 8337,
+  "media": "movie",
+  "title": "They Live",
+  "original_title": "They Live",
+  "year": 1988,
+  "release_date": "1988-11-04",
+  "runtime": 93,
+  "overview": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+  "tagline": "You see them on the street. You watch them on TV. You might even vote for one this fall. You think they're people just like you. You're wrong. Dead wrong.",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.3,
+  "vote_count": 3619,
+  "popularity": 9.8377,
+  "poster_path": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+  "backdrop_path": "/bwyLycDaQdS3rS4crpbYssYLJRy.jpg",
+  "trailer_key": "vSVQ975eTBI",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:14.319Z"
+}

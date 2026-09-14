@@ -1,0 +1,46 @@
+{
+  "key": "thief-1981",
+  "query": {
+    "title": "Thief",
+    "year": 1981
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:17.562Z",
+  "tmdb_id": 11524,
+  "media": "movie",
+  "title": "Thief",
+  "original_title": "Thief",
+  "year": 1981,
+  "release_date": "1981-03-27",
+  "runtime": 123,
+  "overview": "Frank is an expert professional safecracker, specialized in high-profile diamond heists. He plans to use his ill-gotten income to retire from crime and build a nice life for himself complete with a home, wife and kids. To accelerate the process, he signs on with a top gangster for a big score.",
+  "tagline": "Tonight, his take home pay is $410,000... tax free.",
+  "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 892,
+  "popularity": 5.3714,
+  "poster_path": "/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
+  "backdrop_path": "/3pYudqkEC8rkjqpBw8pqoLUtGHe.jpg",
+  "trailer_key": "YDa_z0op7iU",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "MGM Plus on Prime",
+        "slug": "mgm-plus-on-prime",
+        "logo": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:17.562Z"
+}

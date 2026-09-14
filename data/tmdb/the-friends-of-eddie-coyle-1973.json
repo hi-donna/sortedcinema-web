@@ -1,0 +1,46 @@
+{
+  "key": "the-friends-of-eddie-coyle-1973",
+  "query": {
+    "title": "The Friends of Eddie Coyle",
+    "year": 1973
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:17.371Z",
+  "tmdb_id": 25680,
+  "media": "movie",
+  "title": "The Friends of Eddie Coyle",
+  "original_title": "The Friends of Eddie Coyle",
+  "year": 1973,
+  "release_date": "1973-06-26",
+  "runtime": 102,
+  "overview": "An aging hood is about to go back to prison. Hoping to escape his fate, he supplies information on stolen guns to the feds, while simultaneously supplying arms to his bank robbing chums.",
+  "tagline": "It’s a grubby, violent, dangerous world. But it’s the only world they know. And they’re the only friends Eddie has.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 218,
+  "popularity": 1.7963,
+  "poster_path": "/tyV8Bgf2huCIbGUxTdGgnzdIRKZ.jpg",
+  "backdrop_path": "/mRRFX4LHJTEEnIfYI7dMCRvAdD3.jpg",
+  "trailer_key": "vWdqoPHW-F8",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:17.371Z"
+}

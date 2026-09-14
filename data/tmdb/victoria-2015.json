@@ -1,0 +1,51 @@
+{
+  "key": "victoria-2015",
+  "query": {
+    "title": "Victoria",
+    "year": 2015
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:21.259Z",
+  "tmdb_id": 320007,
+  "media": "movie",
+  "title": "Victoria",
+  "original_title": "Victoria",
+  "year": 2015,
+  "release_date": "2015-06-11",
+  "runtime": 138,
+  "overview": "A young Spanish woman who has newly moved to Berlin finds her flirtation with a local guy turn potentially deadly as their night out with his friends reveals a dangerous secret.",
+  "tagline": "One City. One Night. One Take.",
+  "genres": [
+    "Crime",
+    "Thriller",
+    "Romance"
+  ],
+  "original_language": "de",
+  "origin_country": [
+    "DE"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 1395,
+  "popularity": 2.3773,
+  "poster_path": "/9P8QgfoMcFX7vp2Gj2cYFecHVRZ.jpg",
+  "backdrop_path": "/dGEBDMw3FaUmVGLn4vpjdgoTunk.jpg",
+  "trailer_key": "sqeWbhO8rXY",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:21.259Z"
+}

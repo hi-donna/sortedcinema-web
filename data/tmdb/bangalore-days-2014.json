@@ -1,0 +1,51 @@
+{
+  "key": "bangalore-days-2014",
+  "query": {
+    "title": "Bangalore Days",
+    "year": 2014
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:28.377Z",
+  "tmdb_id": 268660,
+  "media": "movie",
+  "title": "Bangalore Days",
+  "original_title": "ബാംഗ്ലൂർ ഡെയ്സ്",
+  "year": 2014,
+  "release_date": "2014-05-30",
+  "runtime": 172,
+  "overview": "A fun roller coaster ride about three young people, Aju, Divya and Kuttan who are cousins, reach Bangalore to dream, discover & explore!",
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Family",
+    "Romance"
+  ],
+  "original_language": "ml",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 145,
+  "popularity": 1.4072,
+  "poster_path": "/iFMyZw1DTGvZ8hPa0eTseSFiRT1.jpg",
+  "backdrop_path": "/vWBcVHy4oPAqzCuDlth6JAa2Kng.jpg",
+  "trailer_key": "uVpHL5g4buY",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:28.377Z"
+}

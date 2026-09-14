@@ -1,0 +1,62 @@
+{
+  "key": "julie-and-julia-2009",
+  "query": {
+    "title": "Julie & Julia",
+    "year": 2009
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:12.643Z",
+  "tmdb_id": 24803,
+  "media": "movie",
+  "title": "Julie & Julia",
+  "original_title": "Julie & Julia",
+  "year": 2009,
+  "release_date": "2009-08-06",
+  "runtime": 123,
+  "overview": "Julia Child and Julie Powell – both of whom wrote memoirs – find their lives intertwined. Though separated by time and space, both women are at loose ends... until they discover that with the right combination of passion, fearlessness and butter, anything is possible.",
+  "tagline": "Based on two true stories.",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 6.7,
+  "vote_count": 2257,
+  "popularity": 7.8906,
+  "poster_path": "/1QZNWOOwfRi86ZApGvr2TtJZPBK.jpg",
+  "backdrop_path": "/1tWpsnSelznXfkdssCWQGgavRZM.jpg",
+  "trailer_key": "ozRK7VXQl-k",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:12.643Z"
+}

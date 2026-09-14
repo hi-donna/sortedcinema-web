@@ -1,0 +1,39 @@
+{
+  "key": "timecrimes-2007",
+  "query": {
+    "title": "Timecrimes",
+    "year": 2007
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:17.625Z",
+  "tmdb_id": 14139,
+  "media": "movie",
+  "title": "Timecrimes",
+  "original_title": "Los cronocrímenes",
+  "year": 2007,
+  "release_date": "2007-11-01",
+  "runtime": 93,
+  "overview": "A man accidentally gets into a time machine and travels back in time nearly an hour. Finding himself will be the first of a series of disasters of unforeseeable consequences.",
+  "tagline": "A trip back in time from the present to...",
+  "genres": [
+    "Science Fiction",
+    "Thriller"
+  ],
+  "original_language": "es",
+  "origin_country": [
+    "ES"
+  ],
+  "vote_average": 7,
+  "vote_count": 1525,
+  "popularity": 15.7828,
+  "poster_path": "/zdxQRP7mzczMJBwKnv8MCPRq7rQ.jpg",
+  "backdrop_path": "/anA2hEvG5SWrYETwcJ1SUPUfKDz.jpg",
+  "trailer_key": "0XSAGj2liCI",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:17.625Z"
+}

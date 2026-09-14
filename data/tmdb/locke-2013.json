@@ -1,0 +1,38 @@
+{
+  "key": "locke-2013",
+  "query": {
+    "title": "Locke",
+    "year": 2013
+  },
+  "resolved_via": "search-titleonly",
+  "resolved_at": "2026-09-14T00:47:24.452Z",
+  "tmdb_id": 1211420,
+  "media": "movie",
+  "title": "Locked Down",
+  "original_title": "סגורות",
+  "year": 2013,
+  "release_date": "2013-01-01",
+  "runtime": null,
+  "overview": "A rare look at the interactions between women inmates and wardens over a period of two years. Ethnic diversity is explored within the confines of tiny prison cells.",
+  "tagline": "",
+  "genres": [
+    "Documentary"
+  ],
+  "original_language": "he",
+  "origin_country": [
+    "IL"
+  ],
+  "vote_average": null,
+  "vote_count": 0,
+  "popularity": 0.4052,
+  "poster_path": "/bpTApQMByYgTZ4lotw5AqwtIbZO.jpg",
+  "backdrop_path": "/8inImmxUPGX8d0nxCNWqMNS3Gvf.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:24.452Z"
+}

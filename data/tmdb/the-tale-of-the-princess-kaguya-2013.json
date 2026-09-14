@@ -1,0 +1,46 @@
+{
+  "key": "the-tale-of-the-princess-kaguya-2013",
+  "query": {
+    "title": "The Tale of the Princess Kaguya",
+    "year": 2013
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:23.444Z",
+  "tmdb_id": 149871,
+  "media": "movie",
+  "title": "The Tale of The Princess Kaguya",
+  "original_title": "かぐや姫の物語",
+  "year": 2013,
+  "release_date": "2013-11-23",
+  "runtime": 137,
+  "overview": "Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious young princess enthrals all who encounter her. But, ultimately, she must confront her fate.",
+  "tagline": "",
+  "genres": [
+    "Animation",
+    "Drama",
+    "Fantasy"
+  ],
+  "original_language": "ja",
+  "origin_country": [
+    "JP"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 2041,
+  "popularity": 9.6341,
+  "poster_path": "/cQidJuA546OSSXKWXoiCeINDxuj.jpg",
+  "backdrop_path": "/lMaWlYThCSnsmW3usxWTpSuyZp1.jpg",
+  "trailer_key": "iPm7HfO3mis",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:23.444Z"
+}

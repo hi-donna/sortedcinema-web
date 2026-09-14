@@ -1,0 +1,44 @@
+{
+  "key": "pain-and-glory-2019",
+  "query": {
+    "title": "Pain and Glory",
+    "year": 2019
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:38.430Z",
+  "tmdb_id": 519010,
+  "media": "movie",
+  "title": "Pain and Glory",
+  "original_title": "Dolor y gloria",
+  "year": 2019,
+  "release_date": "2019-03-22",
+  "runtime": 114,
+  "overview": "Salvador Mallo, a filmmaker in the twilight of his career, remembers his life: his mother, his lovers, the actors he worked with. The sixties in a small village in Valencia, the eighties in Madrid, the present, when he feels an immeasurable emptiness, facing his mortality, the incapability of continuing filming, the impossibility of separating creation from his own life. The need of narrating his past can be his salvation.",
+  "tagline": "Pain, Glory, Love, Art, Cinema",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "es",
+  "origin_country": [
+    "ES"
+  ],
+  "vote_average": 7.4,
+  "vote_count": 1949,
+  "popularity": 5.5753,
+  "poster_path": "/cMlueArJXXwZbeLpb4NhC3pxmBk.jpg",
+  "backdrop_path": "/o1JapnInSBCgedfWnj15ytjGC70.jpg",
+  "trailer_key": "pJEDh4ikcWA",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:38.430Z"
+}

@@ -1,0 +1,54 @@
+{
+  "key": "tokyo-story-1953",
+  "query": {
+    "title": "Tokyo Story",
+    "year": 1953
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:35.393Z",
+  "tmdb_id": 18148,
+  "media": "movie",
+  "title": "Tokyo Story",
+  "original_title": "東京物語",
+  "year": 1953,
+  "release_date": "1953-11-03",
+  "runtime": 137,
+  "overview": "The elderly Shukishi and his wife, Tomi, take the long journey from their small seaside village to visit their adult children in Tokyo. Their elder son, Koichi, a doctor, and their daughter, Shige, a hairdresser, don't have much time to spend with their aged parents, and so it falls to Noriko, the widow of their younger son who was killed in the war, to keep her in-laws company.",
+  "tagline": "As long as life goes on, relationships between parents and children will bring boundless joy and endless grief.",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "ja",
+  "origin_country": [
+    "JP"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 1260,
+  "popularity": 5.7771,
+  "poster_path": "/g2YbTYKpY7N2yDSk7BfXZ18I5QV.jpg",
+  "backdrop_path": "/jLq0ol1f0ZKXni9R9GsPBcyPrNN.jpg",
+  "trailer_key": "xqO0d3328Do",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Tubi TV",
+        "slug": "tubi-tv",
+        "logo": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
+      },
+      {
+        "name": "Plex",
+        "slug": "plex",
+        "logo": "/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+      },
+      {
+        "name": "Plex Channel",
+        "slug": "plex-channel",
+        "logo": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:35.393Z"
+}

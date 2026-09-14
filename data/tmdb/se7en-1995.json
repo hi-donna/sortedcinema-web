@@ -1,0 +1,77 @@
+{
+  "key": "se7en-1995",
+  "query": {
+    "title": "Se7en",
+    "year": 1995
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:14.595Z",
+  "tmdb_id": 807,
+  "media": "movie",
+  "title": "Se7en",
+  "original_title": "Se7en",
+  "year": 1995,
+  "release_date": "1995-09-22",
+  "runtime": 127,
+  "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+  "tagline": "Gluttony. Greed. Sloth. Envy. Wrath. Pride. Lust.",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8.4,
+  "vote_count": 23752,
+  "popularity": 31.2235,
+  "poster_path": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+  "backdrop_path": "/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
+  "trailer_key": "KPOuJGkpblk",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:14.595Z"
+}

@@ -1,0 +1,39 @@
+{
+  "key": "the-road-2009",
+  "query": {
+    "title": "The Road",
+    "year": 2009
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:18.555Z",
+  "tmdb_id": 20766,
+  "media": "movie",
+  "title": "The Road",
+  "original_title": "The Road",
+  "year": 2009,
+  "release_date": "2009-11-25",
+  "runtime": 111,
+  "overview": "A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind and water. It is cold enough to crack stones and, when the snow falls, it is gray. Their destination is the warmer south, although they don't know what, if anything, awaits them there.",
+  "tagline": "In a moment, the world changed forever.",
+  "genres": [
+    "Adventure",
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7,
+  "vote_count": 4417,
+  "popularity": 8.3885,
+  "poster_path": "/qLaXnLzqleBWQtjvZ6JGVSaKoC3.jpg",
+  "backdrop_path": "/6188iOmUAitGThYUjyx20fO4LJd.jpg",
+  "trailer_key": "P8PyedKdTIY",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:18.555Z"
+}

@@ -1,0 +1,41 @@
+{
+  "key": "the-fountain-2006",
+  "query": {
+    "title": "The Fountain",
+    "year": 2006
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:19.199Z",
+  "tmdb_id": 1381,
+  "media": "movie",
+  "title": "The Fountain",
+  "original_title": "The Fountain",
+  "year": 2006,
+  "release_date": "2006-11-22",
+  "runtime": 96,
+  "overview": "Spanning over one thousand years, and three parallel stories, The Fountain is a story of love, death, spirituality, and the fragility of our existence in this world.",
+  "tagline": "What if you could live forever?",
+  "genres": [
+    "Drama",
+    "Adventure",
+    "Science Fiction",
+    "Romance"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 6.9,
+  "vote_count": 3219,
+  "popularity": 8.701,
+  "poster_path": "/4XTf8GuCVLWolubANaKkpk62YPq.jpg",
+  "backdrop_path": "/9RNJ0pKYA8EQiMa0lFZ68gzeElH.jpg",
+  "trailer_key": "pT1B1ykme2M",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:19.199Z"
+}

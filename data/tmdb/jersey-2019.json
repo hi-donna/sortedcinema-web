@@ -1,0 +1,59 @@
+{
+  "key": "jersey-2019",
+  "query": {
+    "title": "Jersey",
+    "year": 2019
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:30.174Z",
+  "tmdb_id": 592898,
+  "media": "movie",
+  "title": "Jersey",
+  "original_title": "జెర్సీ",
+  "year": 2019,
+  "release_date": "2019-04-19",
+  "runtime": 160,
+  "overview": "After his career fails to take off, a gifted cricketer in his mid-thirties decides that he’s not ready to give up quite yet.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "te",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 8,
+  "vote_count": 79,
+  "popularity": 1.5459,
+  "poster_path": "/bU9q9yVtxeBiC0Do27CekHXNE6D.jpg",
+  "backdrop_path": "/53CsGhbXKhmzcOQntz7Qs0whQ6g.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Sun NXT",
+        "slug": "sun-nxt",
+        "logo": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png"
+      },
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      },
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:30.174Z"
+}

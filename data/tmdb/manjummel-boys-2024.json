@@ -1,0 +1,46 @@
+{
+  "key": "manjummel-boys-2024",
+  "query": {
+    "title": "Manjummel Boys",
+    "year": 2024
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:20.939Z",
+  "tmdb_id": 1069945,
+  "media": "movie",
+  "title": "Manjummel Boys",
+  "original_title": "മഞ്ഞുമ്മല്‍ BOYS",
+  "year": 2024,
+  "release_date": "2024-02-22",
+  "runtime": 135,
+  "overview": "A carefree vacation turns into a desperate race against time when a group of lifelong friends must unite to save one of their own from a notoriously perilous, uncharted abyss deep within the Guna Caves.",
+  "tagline": "",
+  "genres": [
+    "Adventure",
+    "Thriller",
+    "Drama"
+  ],
+  "original_language": "ml",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 97,
+  "popularity": 2.2072,
+  "poster_path": "/bswrtewwthpsh6nABiqKevU4UBI.jpg",
+  "backdrop_path": "/zGsHpuMN412VyzJZZnQeq4lMdjF.jpg",
+  "trailer_key": "9uzfrur9SDU",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:20.939Z"
+}

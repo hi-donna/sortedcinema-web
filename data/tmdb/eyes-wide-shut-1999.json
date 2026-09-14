@@ -1,0 +1,59 @@
+{
+  "key": "eyes-wide-shut-1999",
+  "query": {
+    "title": "Eyes Wide Shut",
+    "year": 1999
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:19.333Z",
+  "tmdb_id": 345,
+  "media": "movie",
+  "title": "Eyes Wide Shut",
+  "original_title": "Eyes Wide Shut",
+  "year": 1999,
+  "release_date": "1999-07-16",
+  "runtime": 159,
+  "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+  "tagline": "No dream is ever just a dream.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 7289,
+  "popularity": 21.2656,
+  "poster_path": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+  "backdrop_path": "/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+  "trailer_key": "qku0sbMkFZo",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:19.333Z"
+}

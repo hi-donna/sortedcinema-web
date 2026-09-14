@@ -1,0 +1,40 @@
+{
+  "key": "downfall-2004",
+  "query": {
+    "title": "Downfall",
+    "year": 2004
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:32.599Z",
+  "tmdb_id": 613,
+  "media": "movie",
+  "title": "Downfall",
+  "original_title": "Der Untergang",
+  "year": 2004,
+  "release_date": "2004-09-16",
+  "runtime": 155,
+  "overview": "In April of 1945, Germany stands at the brink of defeat with the Russian Army closing in from the east and the Allied Expeditionary Force attacking from the west. In Berlin, capital of the Third Reich, Adolf Hitler proclaims that Germany will still achieve victory and orders his generals and advisers to fight to the last man. When the end finally does come, and Hitler lies dead by his own hand, what is left of his military must find a way to end the killing that is the Battle of Berlin, and lay down their arms in surrender.",
+  "tagline": "April 1945, a nation awaits its... Downfall",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "original_language": "de",
+  "origin_country": [
+    "DE"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 4445,
+  "popularity": 9.2226,
+  "poster_path": "/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg",
+  "backdrop_path": "/cT80aGpjWZLn8rd7cLtsbktFMhf.jpg",
+  "trailer_key": "Bp1RXmM1-60",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:32.599Z"
+}

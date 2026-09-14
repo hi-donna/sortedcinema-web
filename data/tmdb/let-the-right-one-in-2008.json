@@ -1,0 +1,39 @@
+{
+  "key": "let-the-right-one-in-2008",
+  "query": {
+    "title": "Let the Right One In",
+    "year": 2008
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:36.763Z",
+  "tmdb_id": 13310,
+  "media": "movie",
+  "title": "Let the Right One In",
+  "original_title": "Låt den rätte komma in",
+  "year": 2008,
+  "release_date": "2008-10-24",
+  "runtime": 115,
+  "overview": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl.",
+  "tagline": "Eli is 12 years old. She's been 12 for over 200 years, and she just moved in next door.",
+  "genres": [
+    "Horror",
+    "Drama"
+  ],
+  "original_language": "sv",
+  "origin_country": [
+    "SE"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 3353,
+  "popularity": 6.4606,
+  "poster_path": "/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
+  "backdrop_path": "/tu9RF8tzmT3umpWUBWYXQhxN77R.jpg",
+  "trailer_key": "o2LywKbT5oM",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:36.763Z"
+}

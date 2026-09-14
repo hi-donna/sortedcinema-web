@@ -1,0 +1,38 @@
+{
+  "key": "la-haine-1995",
+  "query": {
+    "title": "La Haine",
+    "year": 1995
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:33.204Z",
+  "tmdb_id": 406,
+  "media": "movie",
+  "title": "La Haine",
+  "original_title": "La Haine",
+  "year": 1995,
+  "release_date": "1995-05-31",
+  "runtime": 98,
+  "overview": "After a chaotic night of rioting in a marginal suburb of Paris, three young friends, Vinz, Hubert and Saïd, wander around unoccupied waiting for news about the state of health of a mutual friend who has been seriously injured when confronting the police.",
+  "tagline": "How far you fall doesn't matter, it's how you land…",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "fr",
+  "origin_country": [
+    "FR"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 4693,
+  "popularity": 8.4945,
+  "poster_path": "/hY4exng4s29RzDbtQInjx9MA3PZ.jpg",
+  "backdrop_path": "/viGCwLxupyoaLsa6hrnu1gYrB0B.jpg",
+  "trailer_key": "FKwcXt3JIaU",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:33.204Z"
+}

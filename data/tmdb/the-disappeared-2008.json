@@ -1,0 +1,40 @@
+{
+  "key": "the-disappeared-2008",
+  "query": {
+    "title": "The Disappeared",
+    "year": 2008
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:17.526Z",
+  "tmdb_id": 32540,
+  "media": "movie",
+  "title": "The Disappeared",
+  "original_title": "The Disappeared",
+  "year": 2008,
+  "release_date": "2008-08-25",
+  "runtime": 92,
+  "overview": "Following the disappearance of his younger brother Tom, Matthew Ryan tries to put his life and sanity back together. However the past keeps coming back to haunt him.",
+  "tagline": "Evil is among us",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "vote_average": 5.7,
+  "vote_count": 39,
+  "popularity": 1.4982,
+  "poster_path": "/uWMrrZTrU89MUVUutwETLqxFAdv.jpg",
+  "backdrop_path": "/8efmbCKaFDUXBOqSwjwSgByRn2d.jpg",
+  "trailer_key": "n2ErAa-u5Uk",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:17.526Z"
+}

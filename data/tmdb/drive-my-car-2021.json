@@ -1,0 +1,55 @@
+{
+  "key": "drive-my-car-2021",
+  "query": {
+    "title": "Drive My Car",
+    "year": 2021
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:35.300Z",
+  "tmdb_id": 758866,
+  "media": "movie",
+  "title": "Drive My Car",
+  "original_title": "ドライブ・マイ・カー",
+  "year": 2021,
+  "release_date": "2021-08-18",
+  "runtime": 179,
+  "overview": "Yusuke Kafuku, a stage actor and director, still unable, after two years, to cope with the loss of his beloved wife, accepts to direct Uncle Vanya at a theater festival in Hiroshima. There he meets Misaki, an introverted young woman, appointed to drive his car. In between rides, secrets from the past and heartfelt confessions will be unveiled.",
+  "tagline": "Go on living.",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "ja",
+  "origin_country": [
+    "JP"
+  ],
+  "vote_average": 7.4,
+  "vote_count": 1559,
+  "popularity": 8.2024,
+  "poster_path": "/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg",
+  "backdrop_path": "/r6aqhlmJmu8Dv5E7QYEruaEXKYm.jpg",
+  "trailer_key": "YyDSxD51WRE",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:35.300Z"
+}

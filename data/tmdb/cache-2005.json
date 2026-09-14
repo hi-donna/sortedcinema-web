@@ -1,0 +1,40 @@
+{
+  "key": "cache-2005",
+  "query": {
+    "title": "Caché",
+    "year": 2005
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:14.528Z",
+  "tmdb_id": 445,
+  "media": "movie",
+  "title": "Caché",
+  "original_title": "Caché",
+  "year": 2005,
+  "release_date": "2005-10-05",
+  "runtime": 118,
+  "overview": "As the host of a literary TV show, Georges begins receiving anonymously filmed videos of his family alongside cryptic, disturbing drawings, but as the tapes become increasingly intimate, they reveal a stalker who has known him for a very long time.",
+  "tagline": "Hidden within.",
+  "genres": [
+    "Mystery",
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "fr",
+  "origin_country": [
+    "FR"
+  ],
+  "vote_average": 7,
+  "vote_count": 1302,
+  "popularity": 3.4509,
+  "poster_path": "/vTzjRi0Uhy0tt3Rjw8SARZZJHlX.jpg",
+  "backdrop_path": "/mOYIUiSdoLWynoZIGDZSAAUZ3ss.jpg",
+  "trailer_key": "pvT_9TqIEtM",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:14.528Z"
+}

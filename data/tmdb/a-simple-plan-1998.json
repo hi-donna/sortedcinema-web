@@ -1,0 +1,40 @@
+{
+  "key": "a-simple-plan-1998",
+  "query": {
+    "title": "A Simple Plan",
+    "year": 1998
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:16.517Z",
+  "tmdb_id": 10223,
+  "media": "movie",
+  "title": "A Simple Plan",
+  "original_title": "A Simple Plan",
+  "year": 1998,
+  "release_date": "1998-12-11",
+  "runtime": 121,
+  "overview": "Captivated by the lure of sudden wealth, the quiet rural lives of two brothers erupt into conflicts of greed, paranoia and distrust when over $4 million in cash is discovered at the remote site of a downed small airplane. Their simple plan to retain the money while avoiding detection opens a Pandora's box when the fear of getting caught triggers panicked behavior and leads to virulent consequences.",
+  "tagline": "Sometimes good people do evil things.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 1133,
+  "popularity": 4.458,
+  "poster_path": "/wO2gH7DMqpMeHlj5QmDhW4IkgAr.jpg",
+  "backdrop_path": "/gtdCmYpubVkkvTQ8rdR9tkixDSj.jpg",
+  "trailer_key": "Li8aZUd6O9A",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:16.517Z"
+}

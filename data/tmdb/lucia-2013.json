@@ -1,0 +1,51 @@
+{
+  "key": "lucia-2013",
+  "query": {
+    "title": "Lucia",
+    "year": 2013
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:30.405Z",
+  "tmdb_id": 219343,
+  "media": "movie",
+  "title": "Lucia",
+  "original_title": "ಲೂಸಿಯಾ",
+  "year": 2013,
+  "release_date": "2013-10-19",
+  "runtime": 136,
+  "overview": "A man suffering from insomnia is tricked into buying a drug, Lucia, that makes his desires come true in his dreams, blurring the line between fantasy and reality.",
+  "tagline": "",
+  "genres": [
+    "Fantasy",
+    "Romance",
+    "Thriller"
+  ],
+  "original_language": "kn",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 61,
+  "popularity": 1.1701,
+  "poster_path": "/1b0pkG5fKRXbgxQrk3AVwXSNo7e.jpg",
+  "backdrop_path": "/dIyyXVDBSNQAqz9UEaio1DFaJEW.jpg",
+  "trailer_key": "pgIL2H-OdcA",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Sun NXT",
+        "slug": "sun-nxt",
+        "logo": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png"
+      },
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:30.405Z"
+}

@@ -1,0 +1,62 @@
+{
+  "key": "wild-tales-2014",
+  "query": {
+    "title": "Wild Tales",
+    "year": 2014
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:35.513Z",
+  "tmdb_id": 265195,
+  "media": "movie",
+  "title": "Wild Tales",
+  "original_title": "Relatos salvajes",
+  "year": 2014,
+  "release_date": "2014-08-21",
+  "runtime": 122,
+  "overview": "Injustice and the demands of the world can cause stress for many people. Some of them, however, explode. This includes a waitress serving a grouchy loan shark, an altercation between two motorists, an ill-fated wedding reception, and a wealthy businessman who tries to buy his family out of trouble.",
+  "tagline": "We can all lose control",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Comedy"
+  ],
+  "original_language": "es",
+  "origin_country": [
+    "AR"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 3863,
+  "popularity": 6.3882,
+  "poster_path": "/vmeCDuWJ6B2cqi9f3QFyIwRKqFV.jpg",
+  "backdrop_path": "/dHnki2Dh6lbOtfksrh8H5lg08f5.jpg",
+  "trailer_key": "Utq0aDEp084",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:35.513Z"
+}

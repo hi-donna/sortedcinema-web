@@ -1,0 +1,51 @@
+{
+  "key": "tumbbad-2018",
+  "query": {
+    "title": "Tumbbad",
+    "year": 2018
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:28.114Z",
+  "tmdb_id": 538858,
+  "media": "movie",
+  "title": "Tumbbad",
+  "original_title": "तुम्बाड",
+  "year": 2018,
+  "release_date": "2018-10-12",
+  "runtime": 113,
+  "overview": "India, 1918. On the outskirts of Tumbbad, a cursed village where it always rains, Vinayak, along with his mother and his brother, care of a mysterious old woman who keeps the secret of an ancestral treasure that Vinayak gets obsessed with.",
+  "tagline": "A Tale of Greed Beyond Fear.",
+  "genres": [
+    "Fantasy",
+    "Horror"
+  ],
+  "original_language": "hi",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 350,
+  "popularity": 2.6859,
+  "poster_path": "/vzjZAKozbDplHWcQXbXo0APKxst.jpg",
+  "backdrop_path": "/l0YKBu3LaehIFzBNjseLjx7MbaN.jpg",
+  "trailer_key": "ZjuhALyNgss",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:28.114Z"
+}

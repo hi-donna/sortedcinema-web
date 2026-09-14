@@ -1,0 +1,45 @@
+{
+  "key": "double-indemnity-1944",
+  "query": {
+    "title": "Double Indemnity",
+    "year": 1944
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:26.536Z",
+  "tmdb_id": 996,
+  "media": "movie",
+  "title": "Double Indemnity",
+  "original_title": "Double Indemnity",
+  "year": 1944,
+  "release_date": "1944-07-06",
+  "runtime": 107,
+  "overview": "An insurance representative is seduced by a dissatisfied housewife into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, a claims investigator.",
+  "tagline": "It's love and murder at first sight!",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 2093,
+  "popularity": 3.9312,
+  "poster_path": "/rVNYZZgfhwqVMMWlBmxOfWqnwCj.jpg",
+  "backdrop_path": "/byQdu1nzQLI9t1VeoP1xuQfru3L.jpg",
+  "trailer_key": "9oxVkwB05rU",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:26.536Z"
+}

@@ -1,0 +1,46 @@
+{
+  "key": "the-handmaiden-2016",
+  "query": {
+    "title": "The Handmaiden",
+    "year": 2016
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:19.507Z",
+  "tmdb_id": 290098,
+  "media": "movie",
+  "title": "The Handmaiden",
+  "original_title": "아가씨",
+  "year": 2016,
+  "release_date": "2016-06-01",
+  "runtime": 145,
+  "overview": "1930s Korea, in the period of Japanese occupation, a new girl, Sook-hee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to steal her fortune.",
+  "tagline": "You're the one being tricked.",
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Romance"
+  ],
+  "original_language": "ko",
+  "origin_country": [
+    "KR"
+  ],
+  "vote_average": 8.2,
+  "vote_count": 4483,
+  "popularity": 23.1831,
+  "poster_path": "/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
+  "backdrop_path": "/jnFmHDHmPZrQ7vyHmxXHcoxp25j.jpg",
+  "trailer_key": "wYsdzNIcJNc",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "FilmBox+",
+        "slug": "filmbox",
+        "logo": "/hfooLkJnxKlZRzY1yNK8ryKiijf.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:19.507Z"
+}

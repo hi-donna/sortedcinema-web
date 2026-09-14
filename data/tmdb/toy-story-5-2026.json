@@ -1,0 +1,41 @@
+{
+  "key": "toy-story-5-2026",
+  "query": {
+    "title": "Toy Story 5",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:39.753Z",
+  "tmdb_id": 1084244,
+  "media": "movie",
+  "title": "Toy Story 5",
+  "original_title": "Toy Story 5",
+  "year": 2026,
+  "release_date": "2026-06-17",
+  "runtime": 102,
+  "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+  "tagline": "It's on.",
+  "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Adventure"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8.3,
+  "vote_count": 2113,
+  "popularity": 147.7164,
+  "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+  "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+  "trailer_key": "QftAW9TTmuQ",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:39.753Z"
+}

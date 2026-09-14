@@ -1,0 +1,40 @@
+{
+  "key": "pontypool-2008",
+  "query": {
+    "title": "Pontypool",
+    "year": 2008
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:17.670Z",
+  "tmdb_id": 23963,
+  "media": "movie",
+  "title": "Pontypool",
+  "original_title": "Pontypool",
+  "year": 2009,
+  "release_date": "2009-03-06",
+  "runtime": 96,
+  "overview": "When disc jockey Grant Mazzy reports to his basement radio station in the Canadian town of Pontypool, he thinks it's just another day at work. But when he hears reports of a virus that turns people into zombies, Mazzy barricades himself in the radio booth and tries to figure out a way to warn his listeners about the virus and its unlikely mode of transmission.",
+  "tagline": "Shut up or die.",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Science Fiction"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "CA"
+  ],
+  "vote_average": 6.5,
+  "vote_count": 727,
+  "popularity": 2.2215,
+  "poster_path": "/4wWMvurzg1AoArX57pqsPWwhps2.jpg",
+  "backdrop_path": "/2VMuMLAThKwQoY09UVcXPz005js.jpg",
+  "trailer_key": "0W6y6pncMJQ",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:17.670Z"
+}

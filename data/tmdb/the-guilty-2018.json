@@ -1,0 +1,40 @@
+{
+  "key": "the-guilty-2018",
+  "query": {
+    "title": "The Guilty",
+    "year": 2018
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:24.562Z",
+  "tmdb_id": 486947,
+  "media": "movie",
+  "title": "The Guilty",
+  "original_title": "Den skyldige",
+  "year": 2018,
+  "release_date": "2018-02-22",
+  "runtime": 85,
+  "overview": "Police officer Asger Holm, demoted to desk work as an alarm dispatcher, answers a call from a panicked woman who claims to have been kidnapped. Confined to the police station and with the phone as his only tool, Asger races against time to get help and find her.",
+  "tagline": "The crime is bigger than you think",
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Crime"
+  ],
+  "original_language": "da",
+  "origin_country": [
+    "DK"
+  ],
+  "vote_average": 7.3,
+  "vote_count": 1894,
+  "popularity": 3.894,
+  "poster_path": "/42QPG6p7oLcLd4LQOPeSTLhqfMx.jpg",
+  "backdrop_path": "/wXZ2JmuQq58E9A4OcP9e8yeKFGR.jpg",
+  "trailer_key": "abaoKA6rn5k",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:24.562Z"
+}

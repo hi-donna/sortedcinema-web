@@ -1,0 +1,39 @@
+{
+  "key": "hit-the-road-2021",
+  "query": {
+    "title": "Hit the Road",
+    "year": 2021
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:35.164Z",
+  "tmdb_id": 838154,
+  "media": "movie",
+  "title": "Hit the Road",
+  "original_title": "جاده خاکی",
+  "year": 2021,
+  "release_date": "2021-10-29",
+  "runtime": 94,
+  "overview": "A chaotic family is on a road trip across a rugged landscape. In the back seat, Dad has a broken leg, Mom tries to laugh when she's not holding back tears, and the youngest keeps exploding into car karaoke. Only the older brother is quiet.",
+  "tagline": "",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "original_language": "fa",
+  "origin_country": [
+    "IR"
+  ],
+  "vote_average": 6.7,
+  "vote_count": 155,
+  "popularity": 1.6575,
+  "poster_path": "/vJziqfgyEmY1kimb1vbMqEJdYKI.jpg",
+  "backdrop_path": "/tjp0zRqvbseghJ8rtJwmfFh2oN0.jpg",
+  "trailer_key": "imQTdOg9FCQ",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:35.164Z"
+}

@@ -1,0 +1,38 @@
+{
+  "key": "miracle-in-cell-no-7-2019",
+  "query": {
+    "title": "Miracle in Cell No. 7",
+    "year": 2019
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:38.169Z",
+  "tmdb_id": 637920,
+  "media": "movie",
+  "title": "Miracle in Cell No. 7",
+  "original_title": "7. Koğuştaki Mucize",
+  "year": 2019,
+  "release_date": "2019-10-10",
+  "runtime": 132,
+  "overview": "Separated from his daughter, a father with an intellectual disability must prove his innocence when he is jailed for the death of a commander's child.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "tr",
+  "origin_country": [
+    "TR"
+  ],
+  "vote_average": 8.3,
+  "vote_count": 4596,
+  "popularity": 5.8615,
+  "poster_path": "/bOth4QmNyEkalwahfPCfiXjNh1r.jpg",
+  "backdrop_path": "/inEy3A5OPgeYW4rjRiGycfEeQzA.jpg",
+  "trailer_key": "bDAkHkR6fwA",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:38.169Z"
+}

@@ -1,0 +1,45 @@
+{
+  "key": "killa-2014",
+  "query": {
+    "title": "Killa",
+    "year": 2014
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:28.912Z",
+  "tmdb_id": 284729,
+  "media": "movie",
+  "title": "Killa",
+  "original_title": "किल्ला",
+  "year": 2014,
+  "release_date": "2014-10-26",
+  "runtime": 107,
+  "overview": "An 11-year-old boy struggles to cope with the death of his father while trying to make new friends in an unfamiliar place, after his mother gets a job transfer.",
+  "tagline": "",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "original_language": "mr",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 23,
+  "popularity": 1.0732,
+  "poster_path": "/9iVHqmYP2h8d4gDPW3r6bUjJEDS.jpg",
+  "backdrop_path": "/yu0m6V2M9B67MdKT2AO2lEHvmLB.jpg",
+  "trailer_key": "t3B_WzebSHM",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:28.912Z"
+}

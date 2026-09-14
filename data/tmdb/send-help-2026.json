@@ -1,0 +1,46 @@
+{
+  "key": "send-help-2026",
+  "query": {
+    "title": "Send Help",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:39.225Z",
+  "tmdb_id": 1198994,
+  "media": "movie",
+  "title": "Send Help",
+  "original_title": "Send Help",
+  "year": 2026,
+  "release_date": "2026-01-22",
+  "runtime": 113,
+  "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+  "tagline": "Meet Linda Liddle... She's from strategy and planning. She's the boss now.",
+  "genres": [
+    "Horror",
+    "Thriller",
+    "Comedy"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7,
+  "vote_count": 2281,
+  "popularity": 25.6206,
+  "poster_path": "/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
+  "backdrop_path": "/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg",
+  "trailer_key": "cOmnmFz_Uzs",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:39.225Z"
+}

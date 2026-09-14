@@ -1,0 +1,39 @@
+{
+  "key": "the-salesman-2016",
+  "query": {
+    "title": "The Salesman",
+    "year": 2016
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:33.301Z",
+  "tmdb_id": 375315,
+  "media": "movie",
+  "title": "The Salesman",
+  "original_title": "فروشنده",
+  "year": 2016,
+  "release_date": "2016-06-24",
+  "runtime": 125,
+  "overview": "Forced out of their apartment due to dangerous works on a neighboring building, Emad and Rana move into a new flat in the center of Tehran. An incident linked to the previous tenant will dramatically change the young couple’s life.",
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "fa",
+  "origin_country": [
+    "IR"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 954,
+  "popularity": 3.4429,
+  "poster_path": "/x4PIuYU5ZMMXiTrheNR8vCTYPBf.jpg",
+  "backdrop_path": "/woSmQgo1wxE4WRVXWHrmgv3jy2O.jpg",
+  "trailer_key": "r-61yYjKHHc",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:33.301Z"
+}

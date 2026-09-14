@@ -1,0 +1,76 @@
+{
+  "key": "goodfellas-1990",
+  "query": {
+    "title": "Goodfellas",
+    "year": 1990
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:18.378Z",
+  "tmdb_id": 769,
+  "media": "movie",
+  "title": "GoodFellas",
+  "original_title": "GoodFellas",
+  "year": 1990,
+  "release_date": "1990-09-12",
+  "runtime": 145,
+  "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+  "tagline": "Three decades of life in the mafia.",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8.5,
+  "vote_count": 14741,
+  "popularity": 24.013,
+  "poster_path": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+  "backdrop_path": "/gILte6Zd7m1YneIr6MVhh30S9pr.jpg",
+  "trailer_key": "PTBRNXGQR9Q",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:18.378Z"
+}

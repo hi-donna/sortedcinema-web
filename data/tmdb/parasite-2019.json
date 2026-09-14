@@ -1,0 +1,46 @@
+{
+  "key": "parasite-2019",
+  "query": {
+    "title": "Parasite",
+    "year": 2019
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:16.261Z",
+  "tmdb_id": 496243,
+  "media": "movie",
+  "title": "Parasite",
+  "original_title": "기생충",
+  "year": 2019,
+  "release_date": "2019-05-30",
+  "runtime": 133,
+  "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+  "tagline": "Act like you own the place.",
+  "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama"
+  ],
+  "original_language": "ko",
+  "origin_country": [
+    "KR"
+  ],
+  "vote_average": 8.5,
+  "vote_count": 21291,
+  "popularity": 36.1736,
+  "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+  "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+  "trailer_key": "bM9QabAojCg",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:16.261Z"
+}

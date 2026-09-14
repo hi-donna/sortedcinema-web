@@ -1,0 +1,38 @@
+{
+  "key": "81-2-1963",
+  "query": {
+    "title": "8½",
+    "year": 1963
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:35.568Z",
+  "tmdb_id": 422,
+  "media": "movie",
+  "title": "8½",
+  "original_title": "8½",
+  "year": 1963,
+  "release_date": "1963-02-14",
+  "runtime": 139,
+  "overview": "Guido Anselmi, a film director, finds himself creatively barren at the peak of his career. Urged by his doctors to rest, Anselmi heads for a luxurious resort, but a sorry group gathers—his producer, staff, actors, wife, mistress, and relatives—each one begging him to get on with the show. In retreat from their dependency, he fantasizes about past women and dreams of his childhood.",
+  "tagline": "A picture that goes beyond what men think about - because no man ever thought about it in quite this way!",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "it",
+  "origin_country": [
+    "IT"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 2587,
+  "popularity": 6.0934,
+  "poster_path": "/23VIf7zNxAgaXwIlvzd3IvOd9sY.jpg",
+  "backdrop_path": "/y2FNZLHynsevBnVTocGW6c3pQpr.jpg",
+  "trailer_key": "yruJBocWfn4",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:35.568Z"
+}

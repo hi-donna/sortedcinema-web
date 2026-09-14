@@ -1,0 +1,49 @@
+{
+  "key": "the-inventor-out-for-blood-in-silicon-valley-2019",
+  "query": {
+    "title": "The Inventor: Out for Blood in Silicon Valley",
+    "year": 2019
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:11.233Z",
+  "tmdb_id": 566228,
+  "media": "movie",
+  "title": "The Inventor: Out for Blood in Silicon Valley",
+  "original_title": "The Inventor: Out for Blood in Silicon Valley",
+  "year": 2019,
+  "release_date": "2019-01-24",
+  "runtime": 119,
+  "overview": "With a magical new invention that promised to revolutionize blood testing, Elizabeth Holmes became the world’s youngest self-made billionaire, heralded as the next Steve Jobs. Then, overnight, her 10-billion-dollar company dissolved. The rise and fall of Theranos is a window into the psychology of fraud.",
+  "tagline": "Visionary. Billionaire. Fraud?",
+  "genres": [
+    "Documentary"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7,
+  "vote_count": 310,
+  "popularity": 2.9843,
+  "poster_path": "/u21ImPnHHX2SFgkdHIjwlpEwRux.jpg",
+  "backdrop_path": "/911kCT2YwGBhFz1CNDfb0La8ybG.jpg",
+  "trailer_key": "wtDaP18OGfw",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      },
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:11.233Z"
+}

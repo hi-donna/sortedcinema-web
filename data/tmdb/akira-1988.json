@@ -1,0 +1,40 @@
+{
+  "key": "akira-1988",
+  "query": {
+    "title": "Akira",
+    "year": 1988
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:23.077Z",
+  "tmdb_id": 149,
+  "media": "movie",
+  "title": "Akira",
+  "original_title": "AKIRA",
+  "year": 1988,
+  "release_date": "1988-06-10",
+  "runtime": 124,
+  "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+  "tagline": "Neo-Tokyo is about to E.X.P.L.O.D.E.",
+  "genres": [
+    "Animation",
+    "Science Fiction",
+    "Action"
+  ],
+  "original_language": "ja",
+  "origin_country": [
+    "JP"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 4976,
+  "popularity": 19.0843,
+  "poster_path": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+  "backdrop_path": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+  "trailer_key": "Jq4ER-P6NCQ",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:23.077Z"
+}

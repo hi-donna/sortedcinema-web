@@ -1,0 +1,36 @@
+{
+  "key": "brick-2005",
+  "query": {
+    "title": "Brick",
+    "year": 2005
+  },
+  "resolved_via": "search-titleonly",
+  "resolved_at": "2026-09-14T00:47:25.660Z",
+  "tmdb_id": 345308,
+  "media": "movie",
+  "title": "Brick Vision",
+  "original_title": "Brick Vision",
+  "year": 2005,
+  "release_date": "2005-06-17",
+  "runtime": 15,
+  "overview": "The story of the man who had such a long tie that he had to walk around with a stepladder.",
+  "tagline": "",
+  "genres": [],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": null,
+  "vote_count": 0,
+  "popularity": 1.4269,
+  "poster_path": "/mh0DjS0vgwrCYA485ob8mqlH0nT.jpg",
+  "backdrop_path": null,
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:25.660Z"
+}

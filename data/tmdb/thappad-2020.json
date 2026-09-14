@@ -1,0 +1,54 @@
+{
+  "key": "thappad-2020",
+  "query": {
+    "title": "Thappad",
+    "year": 2020
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:20.712Z",
+  "tmdb_id": 668435,
+  "media": "movie",
+  "title": "Thappad",
+  "original_title": "थप्पड़",
+  "year": 2020,
+  "release_date": "2020-02-27",
+  "runtime": 144,
+  "overview": "A young woman's life is shattered into pieces when her husband slaps her at a party, causing her to question what this relationship stands for.",
+  "tagline": "Bas itni si baat?",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "hi",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7,
+  "vote_count": 74,
+  "popularity": 1.0085,
+  "poster_path": "/nSOgDTClgfbIOBgv4Itf3GSEkWA.jpg",
+  "backdrop_path": "/4CGBZuEfG2VmxDb2mNtQdHwPurq.jpg",
+  "trailer_key": "OONSPIaFy8Q",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "MX Player",
+        "slug": "mx-player",
+        "logo": "/kqwaac38jeFJRkZj9FJ09MYiyJE.png"
+      },
+      {
+        "name": "Amazon MX Player",
+        "slug": "amazon-mx-player",
+        "logo": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:20.712Z"
+}

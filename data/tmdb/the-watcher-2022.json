@@ -1,0 +1,38 @@
+{
+  "key": "the-watcher-2022",
+  "query": {
+    "title": "The Watcher",
+    "year": 2022
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:11.099Z",
+  "tmdb_id": 1099702,
+  "media": "movie",
+  "title": "The Watcher",
+  "original_title": "The Watcher",
+  "year": 2022,
+  "release_date": "2022-10-31",
+  "runtime": 9,
+  "overview": "Danielle, the last member of a small religious cult (The Children of Enoch), awaits the resurrection of her recently departed \"sisters\" and their leader, Father Enoch.",
+  "tagline": "",
+  "genres": [
+    "Horror"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8,
+  "vote_count": 1,
+  "popularity": 1.5225,
+  "poster_path": "/yLY2Tk8s4SWU1mIsPWUuotsZjUg.jpg",
+  "backdrop_path": null,
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:11.099Z"
+}

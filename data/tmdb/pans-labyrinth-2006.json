@@ -1,0 +1,41 @@
+{
+  "key": "pans-labyrinth-2006",
+  "query": {
+    "title": "Pan's Labyrinth",
+    "year": 2006
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:37.486Z",
+  "tmdb_id": 1417,
+  "media": "movie",
+  "title": "Pan's Labyrinth",
+  "original_title": "El laberinto del fauno",
+  "year": 2006,
+  "release_date": "2006-10-11",
+  "runtime": 118,
+  "overview": "In post–civil war Spain, 10-year-old Ofelia moves with her pregnant mother to live under the control of her cruel stepfather. Drawn into a mysterious labyrinth, she meets a faun who reveals that she may be a lost princess from an underground kingdom. To return to her true father, she must complete a series of surreal and perilous tasks that blur the line between reality and fantasy.",
+  "tagline": "Innocence has a power evil cannot imagine.",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "War"
+  ],
+  "original_language": "es",
+  "origin_country": [
+    "MX",
+    "ES"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 11725,
+  "popularity": 19.8579,
+  "poster_path": "/z7xXihu5wHuSMWymq5VAulPVuvg.jpg",
+  "backdrop_path": "/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+  "trailer_key": "OBGKGm3RYos",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:37.486Z"
+}

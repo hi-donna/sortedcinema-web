@@ -1,0 +1,51 @@
+{
+  "key": "a-death-in-the-gunj-2016",
+  "query": {
+    "title": "A Death in the Gunj",
+    "year": 2016
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:28.458Z",
+  "tmdb_id": 408624,
+  "media": "movie",
+  "title": "A Death in the Gunj",
+  "original_title": "A Death in the Gunj",
+  "year": 2016,
+  "release_date": "2016-09-09",
+  "runtime": 110,
+  "overview": "Life for a shy young Indian student slowly falls to pieces during a family road trip.",
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "hi",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7,
+  "vote_count": 60,
+  "popularity": 1.2183,
+  "poster_path": "/vXSnbVgCJpsa3xQV93ol94eiXV0.jpg",
+  "backdrop_path": "/wRe8Et2LzalpcSgEsUuTQeU7UIS.jpg",
+  "trailer_key": "XliKkuxa_nA",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Ultraplaybox on Prime",
+        "slug": "ultraplaybox-on-prime",
+        "logo": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:28.458Z"
+}

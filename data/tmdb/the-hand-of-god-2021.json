@@ -1,0 +1,44 @@
+{
+  "key": "the-hand-of-god-2021",
+  "query": {
+    "title": "The Hand of God",
+    "year": 2021
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:34.535Z",
+  "tmdb_id": 722778,
+  "media": "movie",
+  "title": "The Hand of God",
+  "original_title": "È stata la mano di Dio",
+  "year": 2021,
+  "release_date": "2021-11-24",
+  "runtime": 130,
+  "overview": "In 1980s Naples, an awkward teen struggling to find his place experiences heartbreak and liberation after he's inadvertently saved from a freak accident by football legend Diego Maradona.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "it",
+  "origin_country": [
+    "IT"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 1810,
+  "popularity": 2.4523,
+  "poster_path": "/kreVxr5moB7K52IGGV1BGAn6nq1.jpg",
+  "backdrop_path": "/dTvGUMFc5WCziTzXZKZ2EfW2bEM.jpg",
+  "trailer_key": "i_1VW_0i6vo",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:34.535Z"
+}

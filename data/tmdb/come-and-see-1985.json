@@ -1,0 +1,41 @@
+{
+  "key": "come-and-see-1985",
+  "query": {
+    "title": "Come and See",
+    "year": 1985
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:18.591Z",
+  "tmdb_id": 25237,
+  "media": "movie",
+  "title": "Come and See",
+  "original_title": "Иди и смотри",
+  "year": 1985,
+  "release_date": "1985-10-17",
+  "runtime": 142,
+  "overview": "The invasion of a village in Belarus by German forces sends young Flyora into the forest to join the weary Resistance fighters, against his family's wishes. There he meets a girl, Glasha, who accompanies him back to his village. On returning home, Flyora finds his family and fellow peasants massacred. His continued survival amidst the brutal debris of war becomes increasingly nightmarish, a battle between despair and hope.",
+  "tagline": "The cruelest side of war.",
+  "genres": [
+    "Drama",
+    "War",
+    "Horror",
+    "History"
+  ],
+  "original_language": "ru",
+  "origin_country": [
+    "SU"
+  ],
+  "vote_average": 8.2,
+  "vote_count": 1950,
+  "popularity": 10.0782,
+  "poster_path": "/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+  "backdrop_path": "/3Na31ta8vDuKOgQuPLdSZLs8bCB.jpg",
+  "trailer_key": "UHaSQU-4wss",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:18.591Z"
+}

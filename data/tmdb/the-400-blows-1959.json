@@ -1,0 +1,38 @@
+{
+  "key": "the-400-blows-1959",
+  "query": {
+    "title": "The 400 Blows",
+    "year": 1959
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:32.311Z",
+  "tmdb_id": 147,
+  "media": "movie",
+  "title": "The 400 Blows",
+  "original_title": "Les Quatre Cents Coups",
+  "year": 1959,
+  "release_date": "1959-06-03",
+  "runtime": 99,
+  "overview": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
+  "tagline": "Angel faces hell-bent for violence.",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "fr",
+  "origin_country": [
+    "FR"
+  ],
+  "vote_average": 8,
+  "vote_count": 2381,
+  "popularity": 5.252,
+  "poster_path": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+  "backdrop_path": "/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
+  "trailer_key": "ICGZfU-9Yl0",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:32.311Z"
+}

@@ -1,0 +1,40 @@
+{
+  "key": "watership-down-1978",
+  "query": {
+    "title": "Watership Down",
+    "year": 1978
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:23.497Z",
+  "tmdb_id": 11837,
+  "media": "movie",
+  "title": "Watership Down",
+  "original_title": "Watership Down",
+  "year": 1978,
+  "release_date": "1978-10-14",
+  "runtime": 92,
+  "overview": "When the warren belonging to a community of rabbits is threatened, a brave group led by Fiver, Bigwig, Blackberry and Hazel leave their homeland in a search of a safe new haven.",
+  "tagline": "All the world will be your enemy, Prince with a Thousand Enemies, and when they catch you, they will kill you... but first they must catch you.",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 731,
+  "popularity": 4.5971,
+  "poster_path": "/q9ZcNxfquJbMTd6UfhAlJbmLBts.jpg",
+  "backdrop_path": "/fcp2yZ6ZzrV7RVVbU8BSKhOmpzN.jpg",
+  "trailer_key": "T67u55jjMbY",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:23.497Z"
+}

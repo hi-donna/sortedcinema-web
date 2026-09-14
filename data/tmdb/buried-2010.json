@@ -1,0 +1,38 @@
+{
+  "key": "buried-2010",
+  "query": {
+    "title": "Buried",
+    "year": 2010
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:25.257Z",
+  "tmdb_id": 26388,
+  "media": "movie",
+  "title": "Buried",
+  "original_title": "Buried",
+  "year": 2010,
+  "release_date": "2010-09-24",
+  "runtime": 95,
+  "overview": "As an American civilian truck driver working in Iraq, Paul Conroy's convoy is attacked by a group of Iraqi insurgents. Some time later, Paul awakes in a coffin with only a lighter, a cell phone, and his ever-growing anxiety. Faced with a dwindling oxygen supply and a dying battery, he must fight panic, despair, and delirium as he races against time to escape the claustrophobic death trap.",
+  "tagline": "170,000 sq miles of desert. 90 minutes of oxygen. No way out.",
+  "genres": [
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 6.6,
+  "vote_count": 3138,
+  "popularity": 7.0974,
+  "poster_path": "/lQP2sZngXzjh3NDIWzo9OVK5YVh.jpg",
+  "backdrop_path": "/ju2i7Is6T4d6u4abdgXsHYkcg2d.jpg",
+  "trailer_key": "d8KBYAvYpO4",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:25.257Z"
+}

@@ -1,0 +1,56 @@
+{
+  "key": "fight-club-1999",
+  "query": {
+    "title": "Fight Club",
+    "year": 1999
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:25.551Z",
+  "tmdb_id": 550,
+  "media": "movie",
+  "title": "Fight Club",
+  "original_title": "Fight Club",
+  "year": 1999,
+  "release_date": "1999-10-15",
+  "runtime": 139,
+  "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+  "tagline": "Mischief. Mayhem. Soap.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8.4,
+  "vote_count": 32847,
+  "popularity": 38.3803,
+  "poster_path": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+  "backdrop_path": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+  "trailer_key": "dfeUzm6KF4g",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:25.551Z"
+}

@@ -1,0 +1,40 @@
+{
+  "key": "the-mandalorian-and-grogu-2026",
+  "query": {
+    "title": "The Mandalorian and Grogu",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:40.012Z",
+  "tmdb_id": 1228710,
+  "media": "movie",
+  "title": "The Mandalorian and Grogu",
+  "original_title": "The Mandalorian and Grogu",
+  "year": 2026,
+  "release_date": "2026-05-20",
+  "runtime": 132,
+  "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+  "tagline": "If you're searching for new adventure, \"this is the way.\"",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 1598,
+  "popularity": 81.2985,
+  "poster_path": "/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
+  "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
+  "trailer_key": "uwild1rw7Aw",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:40.012Z"
+}

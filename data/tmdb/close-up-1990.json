@@ -1,0 +1,39 @@
+{
+  "key": "close-up-1990",
+  "query": {
+    "title": "Close-Up",
+    "year": 1990
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:33.377Z",
+  "tmdb_id": 30017,
+  "media": "movie",
+  "title": "Close-Up",
+  "original_title": "کلوزآپ ، نمای نزدیک",
+  "year": 1990,
+  "release_date": "1990-05-09",
+  "runtime": 98,
+  "overview": "This fiction-documentary hybrid uses a sensational real-life event—the arrest of a young man on charges that he fraudulently impersonated the well-known filmmaker Mohsen Makhmalbaf—as the basis for a stunning, multilayered investigation into movies, identity, artistic creation, and existence, in which the real people from the case play themselves.",
+  "tagline": "A real-life situation based on a real incident in actual locations with actual people involved.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "original_language": "fa",
+  "origin_country": [
+    "IR"
+  ],
+  "vote_average": 8,
+  "vote_count": 459,
+  "popularity": 2.8768,
+  "poster_path": "/m9HG2N9ZKCmNN9qOHJTNyy18wn3.jpg",
+  "backdrop_path": "/3t1qZqP1e17wQshpPKSqII1OogM.jpg",
+  "trailer_key": "YeFZ448yQ-0",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:33.377Z"
+}

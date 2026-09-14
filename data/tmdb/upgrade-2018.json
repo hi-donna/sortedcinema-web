@@ -1,0 +1,52 @@
+{
+  "key": "upgrade-2018",
+  "query": {
+    "title": "Upgrade",
+    "year": 2018
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:16.446Z",
+  "tmdb_id": 500664,
+  "media": "movie",
+  "title": "Upgrade",
+  "original_title": "Upgrade",
+  "year": 2018,
+  "release_date": "2018-05-31",
+  "runtime": 100,
+  "overview": "A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.",
+  "tagline": "Not man. Not machine. More.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 5232,
+  "popularity": 10.1488,
+  "poster_path": "/woLGROUdPWdBnLVFKYdGD3kFkPY.jpg",
+  "backdrop_path": "/oiPUcD1IIZrYGTSIpvTmd3dRmPo.jpg",
+  "trailer_key": "gEnRNIvEKu8",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:16.446Z"
+}

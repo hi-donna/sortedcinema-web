@@ -1,0 +1,40 @@
+{
+  "key": "ramayana-2026",
+  "query": {
+    "title": "Ramayana",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:42.226Z",
+  "tmdb_id": 656908,
+  "media": "movie",
+  "title": "Ramayana",
+  "original_title": "रामायण",
+  "year": 2026,
+  "release_date": "2026-11-05",
+  "runtime": null,
+  "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+  "tagline": "Our truth. Our history.",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Action"
+  ],
+  "original_language": "hi",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": null,
+  "vote_count": 0,
+  "popularity": 5.0419,
+  "poster_path": "/f3yZZw7zIsWo6m9xJStfjDauIZX.jpg",
+  "backdrop_path": "/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
+  "trailer_key": "74nF-FWAS6M",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:42.226Z"
+}

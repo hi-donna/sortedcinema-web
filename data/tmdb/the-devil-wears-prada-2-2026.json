@@ -1,0 +1,45 @@
+{
+  "key": "the-devil-wears-prada-2-2026",
+  "query": {
+    "title": "The Devil Wears Prada 2",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:39.525Z",
+  "tmdb_id": 1314481,
+  "media": "movie",
+  "title": "The Devil Wears Prada 2",
+  "original_title": "The Devil Wears Prada 2",
+  "year": 2026,
+  "release_date": "2026-04-29",
+  "runtime": 119,
+  "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+  "tagline": "Icons reign forever.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7,
+  "vote_count": 2313,
+  "popularity": 47.9618,
+  "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+  "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
+  "trailer_key": "PMd1at7OwiE",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:39.525Z"
+}

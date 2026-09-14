@@ -1,0 +1,39 @@
+{
+  "key": "runaway-jury-2003",
+  "query": {
+    "title": "Runaway Jury",
+    "year": 2003
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:13.442Z",
+  "tmdb_id": 11329,
+  "media": "movie",
+  "title": "Runaway Jury",
+  "original_title": "Runaway Jury",
+  "year": 2003,
+  "release_date": "2003-10-17",
+  "runtime": 127,
+  "overview": "After a workplace shooting in New Orleans, a trial against the gun manufacturer pits lawyer Wendell Rohr against shady jury consultant Rankin Fitch, who uses illegal means to stack the jury with people sympathetic to the defense. But when juror Nicholas Easter and his girlfriend Marlee reveal their ability to sway the jury into delivering any verdict they want, a high-stakes cat-and-mouse game begins.",
+  "tagline": "Trials are too important to be decided by juries.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 6.9,
+  "vote_count": 1601,
+  "popularity": 9.0415,
+  "poster_path": "/hpBot7sqaskTdZS264c7hOhGiQ0.jpg",
+  "backdrop_path": "/zIckqbwhqxiMQKcpfdPuOCXfp5c.jpg",
+  "trailer_key": "c80vGyzA0LI",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:13.442Z"
+}

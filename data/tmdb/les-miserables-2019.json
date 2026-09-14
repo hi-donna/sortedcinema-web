@@ -1,0 +1,40 @@
+{
+  "key": "les-miserables-2019",
+  "query": {
+    "title": "Les Misérables",
+    "year": 2019
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:32.207Z",
+  "tmdb_id": 586863,
+  "media": "movie",
+  "title": "Les Misérables",
+  "original_title": "Les Misérables",
+  "year": 2019,
+  "release_date": "2019-11-14",
+  "runtime": 104,
+  "overview": "Stéphane has recently joined the Anti-Crime Squad in Montfermeil, in the suburbs of Paris, France, where Victor Hugo set his famed novel “Les Miserables”. Alongside his new colleagues Chris and Gwada – both experienced members of the team – he quickly discovers tensions running high between local gangs. When the trio finds themselves overrun during the course of an arrest, a drone captures the encounter, threatening to expose the reality of everyday life.",
+  "tagline": "",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "fr",
+  "origin_country": [
+    "FR"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 1628,
+  "popularity": 6.6502,
+  "poster_path": "/2ZQV9rPFXF0iFfKbsAvVIweQ1yM.jpg",
+  "backdrop_path": "/6K74rGGGjKGrblGTa7S9yRcUtnF.jpg",
+  "trailer_key": "r1kVRhhoLCg",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:32.207Z"
+}

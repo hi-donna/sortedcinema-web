@@ -1,0 +1,38 @@
+{
+  "key": "severance-2022",
+  "query": {
+    "title": "Severance",
+    "year": 2022
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:11.233Z",
+  "tmdb_id": 1205412,
+  "media": "movie",
+  "title": "Severance",
+  "original_title": "Severance",
+  "year": 2022,
+  "release_date": "2022-11-18",
+  "runtime": 11,
+  "overview": "In fear of being outed as a gay male at work, Matt switches personalities based on the environment he finds himself inhabiting. He has spent his life keeping these two worlds separate, but what happens when they collide?",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 3,
+  "popularity": 2.5124,
+  "poster_path": "/AnI5jipbxwJg942QWy1KIeecMll.jpg",
+  "backdrop_path": null,
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:11.233Z"
+}

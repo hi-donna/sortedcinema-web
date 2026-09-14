@@ -1,0 +1,39 @@
+{
+  "key": "following-1998",
+  "query": {
+    "title": "Following",
+    "year": 1998
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:15.288Z",
+  "tmdb_id": 11660,
+  "media": "movie",
+  "title": "Following",
+  "original_title": "Following",
+  "year": 1999,
+  "release_date": "1999-04-02",
+  "runtime": 69,
+  "overview": "Bill, an idle, unemployed aspiring writer, walks the crowded streets of London following randomly chosen strangers, a seemingly innocent entertainment that becomes dangerous when he crosses paths with a mysterious character.",
+  "tagline": "You're never alone.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB"
+  ],
+  "vote_average": 7.1,
+  "vote_count": 1960,
+  "popularity": 4.8268,
+  "poster_path": "/3bX6VVSMf0dvzk5pMT4ALG5A92d.jpg",
+  "backdrop_path": "/yf5I5VHllK4h5VdbxHfQ40RBTe8.jpg",
+  "trailer_key": "62TTN6gD2So",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:15.288Z"
+}

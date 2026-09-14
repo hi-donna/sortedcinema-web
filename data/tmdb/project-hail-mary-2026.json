@@ -1,0 +1,62 @@
+{
+  "key": "project-hail-mary-2026",
+  "query": {
+    "title": "Project Hail Mary",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:39.131Z",
+  "tmdb_id": 687163,
+  "media": "movie",
+  "title": "Project Hail Mary",
+  "original_title": "Project Hail Mary",
+  "year": 2026,
+  "release_date": "2026-03-15",
+  "runtime": 157,
+  "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+  "tagline": "Believe in the Hail Mary.",
+  "genres": [
+    "Science Fiction",
+    "Adventure"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8.6,
+  "vote_count": 7719,
+  "popularity": 89.6056,
+  "poster_path": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+  "backdrop_path": "/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+  "trailer_key": "NKYea63tQmI",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:39.131Z"
+}

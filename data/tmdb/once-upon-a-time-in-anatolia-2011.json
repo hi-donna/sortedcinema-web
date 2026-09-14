@@ -1,0 +1,39 @@
+{
+  "key": "once-upon-a-time-in-anatolia-2011",
+  "query": {
+    "title": "Once Upon a Time in Anatolia",
+    "year": 2011
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:38.266Z",
+  "tmdb_id": 74879,
+  "media": "movie",
+  "title": "Once Upon a Time in Anatolia",
+  "original_title": "Bir Zamanlar Anadolu'da",
+  "year": 2011,
+  "release_date": "2011-09-23",
+  "runtime": 163,
+  "overview": "A group of men set out in search of a dead body in the Anatolian steppes",
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "original_language": "tr",
+  "origin_country": [
+    "TR"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 561,
+  "popularity": 2.2374,
+  "poster_path": "/bN84guFndgvtWIvFC7sTD8AAJDE.jpg",
+  "backdrop_path": "/213Gdu9zjGsVeWQl6p5gJrBq8n8.jpg",
+  "trailer_key": "oMxDtfN2U_0",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:38.266Z"
+}

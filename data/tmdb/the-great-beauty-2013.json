@@ -1,0 +1,38 @@
+{
+  "key": "the-great-beauty-2013",
+  "query": {
+    "title": "The Great Beauty",
+    "year": 2013
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:34.440Z",
+  "tmdb_id": 179144,
+  "media": "movie",
+  "title": "The Great Beauty",
+  "original_title": "La grande bellezza",
+  "year": 2013,
+  "release_date": "2013-05-21",
+  "runtime": 142,
+  "overview": "Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday and a shock from the past, Jep looks past the nightclubs and parties to find a timeless landscape of absurd, exquisite beauty.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "it",
+  "origin_country": [
+    "IT"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 3358,
+  "popularity": 4.0521,
+  "poster_path": "/7suf0vaQfv5E7X1GVh4HJwK90yo.jpg",
+  "backdrop_path": "/4T5d7KGrpx3BTDq9IKm6KpMeeNp.jpg",
+  "trailer_key": "koxRDhAQOpw",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:34.440Z"
+}

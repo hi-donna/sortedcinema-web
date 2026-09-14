@@ -1,0 +1,38 @@
+{
+  "key": "apur-sansar-1959",
+  "query": {
+    "title": "Apur Sansar",
+    "year": 1959
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:26.721Z",
+  "tmdb_id": 896,
+  "media": "movie",
+  "title": "The World of Apu",
+  "original_title": "অপুর সংসার",
+  "year": 1959,
+  "release_date": "1959-05-01",
+  "runtime": 105,
+  "overview": "Apu, now a jobless ex-student dreaming vaguely of a future as a writer, is invited to join an old college friend on a trip up-country to a village wedding.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "bn",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 290,
+  "popularity": 1.8323,
+  "poster_path": "/6Tz1Q69o2n3Zwb0ZffzPL0nFt2T.jpg",
+  "backdrop_path": "/d3RW7jRsBCHfC9QZaUF9FpzJrh8.jpg",
+  "trailer_key": "mgv68E_o6VM",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:26.721Z"
+}

@@ -1,0 +1,51 @@
+{
+  "key": "mahanati-2018",
+  "query": {
+    "title": "Mahanati",
+    "year": 2018
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:30.269Z",
+  "tmdb_id": 459713,
+  "media": "movie",
+  "title": "Mahanati",
+  "original_title": "మహానటి",
+  "year": 2018,
+  "release_date": "2018-05-09",
+  "runtime": 176,
+  "overview": "Mahanati depicts the life and career of one of Telugu cinema's greatest and most iconic starlets, the first Indian female super star, Savitri.",
+  "tagline": "Come Be A Part of History",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "original_language": "te",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 67,
+  "popularity": 1.9973,
+  "poster_path": "/5hwtlwoLdSpkoeusT0sf8qW5VFB.jpg",
+  "backdrop_path": "/ankByTJkkTVGYRBZuHcW9SXoFU1.jpg",
+  "trailer_key": "OrnYMmWBuV4",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:30.269Z"
+}

@@ -1,0 +1,46 @@
+{
+  "key": "manhunter-1986",
+  "query": {
+    "title": "Manhunter",
+    "year": 1986
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:14.482Z",
+  "tmdb_id": 11454,
+  "media": "movie",
+  "title": "Manhunter",
+  "original_title": "Manhunter",
+  "year": 1986,
+  "release_date": "1986-08-15",
+  "runtime": 120,
+  "overview": "FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
+  "tagline": "It's just you and me now, sport…",
+  "genres": [
+    "Crime",
+    "Horror",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7,
+  "vote_count": 1590,
+  "popularity": 0.3976,
+  "poster_path": "/6rb24x39vV8n5301IelC8rCPJTH.jpg",
+  "backdrop_path": "/zOO8GRa02x9o1iGOIIAJD50YcMW.jpg",
+  "trailer_key": "fywNBuzD2SU",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:14.482Z"
+}

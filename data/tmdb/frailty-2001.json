@@ -1,0 +1,52 @@
+{
+  "key": "frailty-2001",
+  "query": {
+    "title": "Frailty",
+    "year": 2001
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:14.524Z",
+  "tmdb_id": 12149,
+  "media": "movie",
+  "title": "Frailty",
+  "original_title": "Frailty",
+  "year": 2002,
+  "release_date": "2002-04-12",
+  "runtime": 100,
+  "overview": "A mysterious man arrives at the offices of an FBI agent and recounts his childhood: how his religious fanatic father received visions telling him to kill people who were in fact \"demons.\"",
+  "tagline": "No soul is safe.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7,
+  "vote_count": 1397,
+  "popularity": 5.2315,
+  "poster_path": "/jid7dyfHa6ApZSTweC3T3nllWjh.jpg",
+  "backdrop_path": "/2NI8J2dktpprOfXb65hsNQ5TNt6.jpg",
+  "trailer_key": "HUfNR_7YxQE",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Lionsgate+ Amazon Channels",
+        "slug": "lionsgate-amazon-channels",
+        "logo": "/1356slxu4QrHOMrEVDKHJXRo5sW.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:14.524Z"
+}

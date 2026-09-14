@@ -1,0 +1,50 @@
+{
+  "key": "dancer-in-the-dark-2000",
+  "query": {
+    "title": "Dancer in the Dark",
+    "year": 2000
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:18.489Z",
+  "tmdb_id": 16,
+  "media": "movie",
+  "title": "Dancer in the Dark",
+  "original_title": "Dancer in the Dark",
+  "year": 2000,
+  "release_date": "2000-09-01",
+  "runtime": 140,
+  "overview": "Selma, a Czech immigrant on the verge of blindness, struggles to make ends meet for herself and her son, who has inherited the same genetic disorder and will suffer the same fate without an expensive operation. When life gets too difficult, Selma learns to cope through her love of musicals, dreaming up little numbers to the rhythmic beats of her surroundings.",
+  "tagline": "In a world of shadows, she found the light of life.",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "DK"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 2064,
+  "popularity": 4.4558,
+  "poster_path": "/pWzOfTJRZHPNO1VNrMnNFqRcJwg.jpg",
+  "backdrop_path": "/vxvzf0cGtFY2Vpw5ULWumCIW6Ri.jpg",
+  "trailer_key": "ddcCwLqtT8w",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:18.489Z"
+}

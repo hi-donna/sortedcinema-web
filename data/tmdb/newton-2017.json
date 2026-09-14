@@ -1,0 +1,51 @@
+{
+  "key": "newton-2017",
+  "query": {
+    "title": "Newton",
+    "year": 2017
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:28.190Z",
+  "tmdb_id": 439128,
+  "media": "movie",
+  "title": "Newton",
+  "original_title": "न्यूटन",
+  "year": 2017,
+  "release_date": "2017-09-22",
+  "runtime": 106,
+  "overview": "A government clerk on election duty in a conflict-ridden jungle of Central India tries his best to conduct free and fair voting despite the apathy of security forces and the looming fear of guerrilla attacks by communist rebels.",
+  "tagline": "",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "original_language": "hi",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 155,
+  "popularity": 1.0333,
+  "poster_path": "/ubzHA1aXUsWvQJHjvqBCHxzTBi5.jpg",
+  "backdrop_path": "/5aNFEcMFjDsdiRao2CnipUTFUwr.jpg",
+  "trailer_key": "yU6zMPFd4UU",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:28.190Z"
+}

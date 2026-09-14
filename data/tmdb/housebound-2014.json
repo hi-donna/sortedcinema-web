@@ -1,0 +1,47 @@
+{
+  "key": "housebound-2014",
+  "query": {
+    "title": "Housebound",
+    "year": 2014
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:17.561Z",
+  "tmdb_id": 253306,
+  "media": "movie",
+  "title": "Housebound",
+  "original_title": "Housebound",
+  "year": 2014,
+  "release_date": "2014-09-04",
+  "runtime": 111,
+  "overview": "When Kylie Bucknell is sentenced to home detention, she's forced to come to terms with her unsociable behaviour, her blabbering mother and a hostile spirit who seems less than happy about the new living arrangement.",
+  "tagline": "Terror gets domesticated.",
+  "genres": [
+    "Horror",
+    "Comedy",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US",
+    "NZ"
+  ],
+  "vote_average": 6.6,
+  "vote_count": 936,
+  "popularity": 2.6194,
+  "poster_path": "/jPKEeHmUuoDnIaRs6VUqSr4qRGR.jpg",
+  "backdrop_path": "/3haw0ndhE0MihQHvyIbU9etWpoN.jpg",
+  "trailer_key": "Ysde4KaFirk",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Tubi TV",
+        "slug": "tubi-tv",
+        "logo": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:17.561Z"
+}

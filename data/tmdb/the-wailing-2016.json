@@ -1,0 +1,39 @@
+{
+  "key": "the-wailing-2016",
+  "query": {
+    "title": "The Wailing",
+    "year": 2016
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:17.720Z",
+  "tmdb_id": 293670,
+  "media": "movie",
+  "title": "The Wailing",
+  "original_title": "곡성",
+  "year": 2016,
+  "release_date": "2016-05-12",
+  "runtime": 156,
+  "overview": "A stranger arrives in a little village and soon after a mysterious sickness starts spreading. A policeman is drawn into the incident and is forced to solve the mystery in order to save his daughter.",
+  "tagline": "Never be tempted.",
+  "genres": [
+    "Horror",
+    "Mystery"
+  ],
+  "original_language": "ko",
+  "origin_country": [
+    "KR"
+  ],
+  "vote_average": 7.4,
+  "vote_count": 2152,
+  "popularity": 15.5244,
+  "poster_path": "/lWE9ih9qgjx8HatYboP7fG0nri.jpg",
+  "backdrop_path": "/9qxBNfI1QFbiZS62fsgaUd563t2.jpg",
+  "trailer_key": "VUWAgbXSJ4Y",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:17.720Z"
+}

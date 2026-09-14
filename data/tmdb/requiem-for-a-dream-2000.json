@@ -1,0 +1,57 @@
+{
+  "key": "requiem-for-a-dream-2000",
+  "query": {
+    "title": "Requiem for a Dream",
+    "year": 2000
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:16.410Z",
+  "tmdb_id": 641,
+  "media": "movie",
+  "title": "Requiem for a Dream",
+  "original_title": "Requiem for a Dream",
+  "year": 2000,
+  "release_date": "2000-10-06",
+  "runtime": 102,
+  "overview": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+  "tagline": "",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8,
+  "vote_count": 11283,
+  "popularity": 7.8172,
+  "poster_path": "/9BTwsLaMVHOGFlmsSlx5QYCaXb.jpg",
+  "backdrop_path": "/fAGYRJCujRBMw7TCuTp893eSG8e.jpg",
+  "trailer_key": "NEKjZSTo0Uk",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Lionsgate+ Amazon Channels",
+        "slug": "lionsgate-amazon-channels",
+        "logo": "/1356slxu4QrHOMrEVDKHJXRo5sW.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:16.410Z"
+}

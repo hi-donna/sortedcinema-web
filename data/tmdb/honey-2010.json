@@ -1,0 +1,38 @@
+{
+  "key": "honey-2010",
+  "query": {
+    "title": "Honey",
+    "year": 2010
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:39.040Z",
+  "tmdb_id": 44160,
+  "media": "movie",
+  "title": "Honey",
+  "original_title": "Bal",
+  "year": 2010,
+  "release_date": "2010-04-09",
+  "runtime": 103,
+  "overview": "In the remote and undeveloped eastern Black Sea region, a six-year-old boy (Yusuf) wanders through the woods searching for his lost father, trying to make sense of his life.His father is a beekeeper whose bees have disappeared unexpectedly, threatening his livelihood. A bizarre accident kills the father.There is little dialogue or music in the film. The three main characters (Yusuf and his parents) are all fairly taciturn, and the soundtrack is filled out with the sounds of the forest and the creatures that live there.The environment is a recurring theme.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "tr",
+  "origin_country": [
+    "TR"
+  ],
+  "vote_average": 6.8,
+  "vote_count": 105,
+  "popularity": 1.1821,
+  "poster_path": "/1zeG8HGIJI4ae9SI7SGHhHc7pzG.jpg",
+  "backdrop_path": "/rqUj70pNdivzKknRAgqurydLvJE.jpg",
+  "trailer_key": "P_hVZwkw000",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:39.040Z"
+}

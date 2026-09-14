@@ -1,0 +1,38 @@
+{
+  "key": "a-separation-2011",
+  "query": {
+    "title": "A Separation",
+    "year": 2011
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:16.170Z",
+  "tmdb_id": 60243,
+  "media": "movie",
+  "title": "A Separation",
+  "original_title": "جدایی نادر از سیمین",
+  "year": 2011,
+  "release_date": "2011-02-15",
+  "runtime": 123,
+  "overview": "A married couple are faced with a difficult decision – to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+  "tagline": "Ugly truth, sweet lies.",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "fa",
+  "origin_country": [
+    "IR"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 2014,
+  "popularity": 4.1827,
+  "poster_path": "/xQadpnoLokxzN3hRpCPbBGpxsiz.jpg",
+  "backdrop_path": "/vSQ2FK4LzevXeHeXvEHb7t4I0SW.jpg",
+  "trailer_key": "58Onuy5USTc",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:16.170Z"
+}

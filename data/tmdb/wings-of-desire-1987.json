@@ -1,0 +1,40 @@
+{
+  "key": "wings-of-desire-1987",
+  "query": {
+    "title": "Wings of Desire",
+    "year": 1987
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:33.099Z",
+  "tmdb_id": 144,
+  "media": "movie",
+  "title": "Wings of Desire",
+  "original_title": "Der Himmel über Berlin",
+  "year": 1987,
+  "release_date": "1987-09-23",
+  "runtime": 128,
+  "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
+  "tagline": "There are angels on the streets of Berlin.",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "original_language": "de",
+  "origin_country": [
+    "DE"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 1531,
+  "popularity": 4.5614,
+  "poster_path": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+  "backdrop_path": "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+  "trailer_key": "0iAzYofuItM",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:33.099Z"
+}

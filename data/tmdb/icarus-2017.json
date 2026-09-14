@@ -1,0 +1,44 @@
+{
+  "key": "icarus-2017",
+  "query": {
+    "title": "Icarus",
+    "year": 2017
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:11.118Z",
+  "tmdb_id": 432976,
+  "media": "movie",
+  "title": "Icarus",
+  "original_title": "Icarus",
+  "year": 2017,
+  "release_date": "2017-06-03",
+  "runtime": 121,
+  "overview": "While investigating the furtive world of illegal doping in sports, director Bryan Fogel connects with renegade Russian scientist Dr. Grigory Rodchenkov—a pillar of his country’s “anti-doping” program. Over dozens of Skype calls, urine samples, and badly administered hormone injections, Fogel and Rodchenkov grow closer despite shocking allegations that place Rodchenkov at the center of Russia’s state-sponsored Olympic doping program.",
+  "tagline": "Truth is the new banned substance.",
+  "genres": [
+    "Documentary"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 851,
+  "popularity": 2.828,
+  "poster_path": "/x5azMi1KvZWbBbfjmGqpHNGqjH.jpg",
+  "backdrop_path": "/ambKXAJYrDPJK9wBJlIVVWbQbar.jpg",
+  "trailer_key": "qXoRdSTrR-4",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:11.118Z"
+}

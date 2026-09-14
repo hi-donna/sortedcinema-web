@@ -1,0 +1,57 @@
+{
+  "key": "get-out-2017",
+  "query": {
+    "title": "Get Out",
+    "year": 2017
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:20.837Z",
+  "tmdb_id": 419430,
+  "media": "movie",
+  "title": "Get Out",
+  "original_title": "Get Out",
+  "year": 2017,
+  "release_date": "2017-02-24",
+  "runtime": 104,
+  "overview": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+  "tagline": "Just because you're invited, doesn't mean you're welcome.",
+  "genres": [
+    "Mystery",
+    "Thriller",
+    "Horror"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 19324,
+  "popularity": 23.285,
+  "poster_path": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+  "backdrop_path": "/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg",
+  "trailer_key": "gsB70ZRY-hI",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:20.837Z"
+}

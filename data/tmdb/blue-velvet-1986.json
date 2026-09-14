@@ -1,0 +1,52 @@
+{
+  "key": "blue-velvet-1986",
+  "query": {
+    "title": "Blue Velvet",
+    "year": 1986
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:13.534Z",
+  "tmdb_id": 793,
+  "media": "movie",
+  "title": "Blue Velvet",
+  "original_title": "Blue Velvet",
+  "year": 1986,
+  "release_date": "1986-09-19",
+  "runtime": 120,
+  "overview": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+  "tagline": "It's a strange world, isn't it?",
+  "genres": [
+    "Mystery",
+    "Thriller",
+    "Crime"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 3944,
+  "popularity": 10.0871,
+  "poster_path": "/6v1zYh2FKOYVddY5pCQhd4PO9uX.jpg",
+  "backdrop_path": "/s1CBwblInR0ZBIv59CSko2QdLD3.jpg",
+  "trailer_key": "rAA6imfqMYQ",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:13.534Z"
+}

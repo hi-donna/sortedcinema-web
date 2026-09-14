@@ -1,0 +1,67 @@
+{
+  "key": "sita-ramam-2022",
+  "query": {
+    "title": "Sita Ramam",
+    "year": 2022
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:30.257Z",
+  "tmdb_id": 894803,
+  "media": "movie",
+  "title": "Sita Ramam",
+  "original_title": "సీతా రామం",
+  "year": 2022,
+  "release_date": "2022-08-05",
+  "runtime": 158,
+  "overview": "Afreen, a rebellious Pakistani student sets ablaze the car of an Indian in London. Angered Afreen returns to Pakistan to ask for money from her grandfather that she has to pay in a month's time as damages. However, she gets to know that he is no more and the only thing he has left for her is a letter-delivering task, written by Ram to Sita. As Afreen sets out to find Ram, there begins her journey of discovering the secret behind the 20-year-old letter.",
+  "tagline": "",
+  "genres": [
+    "History",
+    "Romance",
+    "Drama"
+  ],
+  "original_language": "te",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 118,
+  "popularity": 3.0577,
+  "poster_path": "/t1O94ZBzsQXJihtVkrsStRLyUDR.jpg",
+  "backdrop_path": "/28EqsZDeEAy4VMZfrYbiyJZznKn.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      },
+      {
+        "name": "MX Player",
+        "slug": "mx-player",
+        "logo": "/kqwaac38jeFJRkZj9FJ09MYiyJE.png"
+      },
+      {
+        "name": "Amazon MX Player",
+        "slug": "amazon-mx-player",
+        "logo": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:30.257Z"
+}

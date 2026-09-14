@@ -1,0 +1,72 @@
+{
+  "key": "annihilation-2018",
+  "query": {
+    "title": "Annihilation",
+    "year": 2018
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:19.042Z",
+  "tmdb_id": 300668,
+  "media": "movie",
+  "title": "Annihilation",
+  "original_title": "Annihilation",
+  "year": 2018,
+  "release_date": "2018-02-22",
+  "runtime": 115,
+  "overview": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+  "tagline": "Fear what's inside.",
+  "genres": [
+    "Science Fiction",
+    "Horror"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 6.4,
+  "vote_count": 9614,
+  "popularity": 13.308,
+  "poster_path": "/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+  "backdrop_path": "/9trZvBr44UGedUOiGo3jgSUw13e.jpg",
+  "trailer_key": "89OP78l9oF0",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Google Play",
+        "slug": "google-play",
+        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+      },
+      {
+        "name": "YouTube",
+        "slug": "youtube",
+        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:19.042Z"
+}

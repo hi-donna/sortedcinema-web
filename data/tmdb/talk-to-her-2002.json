@@ -1,0 +1,39 @@
+{
+  "key": "talk-to-her-2002",
+  "query": {
+    "title": "Talk to Her",
+    "year": 2002
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:37.878Z",
+  "tmdb_id": 64,
+  "media": "movie",
+  "title": "Talk to Her",
+  "original_title": "Hable con ella",
+  "year": 2002,
+  "release_date": "2002-03-15",
+  "runtime": 112,
+  "overview": "Two men share an odd friendship while they care for two women who are both in deep comas.",
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "original_language": "es",
+  "origin_country": [
+    "ES"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 1480,
+  "popularity": 5.0546,
+  "poster_path": "/fWDbQlOWOqjR5jZm98KjGyYmUOw.jpg",
+  "backdrop_path": "/rknvDtxOe1uqLX0EFWLHIQxRXcJ.jpg",
+  "trailer_key": "XwJGTuxj1t0",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:37.878Z"
+}

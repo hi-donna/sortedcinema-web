@@ -1,0 +1,39 @@
+{
+  "key": "amelie-2001",
+  "query": {
+    "title": "Amélie",
+    "year": 2001
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:13.154Z",
+  "tmdb_id": 194,
+  "media": "movie",
+  "title": "Amélie",
+  "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+  "year": 2001,
+  "release_date": "2001-04-25",
+  "runtime": 122,
+  "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+  "tagline": "She’ll change your life.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "original_language": "fr",
+  "origin_country": [
+    "FR"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 12645,
+  "popularity": 24.3449,
+  "poster_path": "/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
+  "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+  "trailer_key": "555A7T_kmIc",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:13.154Z"
+}

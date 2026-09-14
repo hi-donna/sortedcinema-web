@@ -1,0 +1,54 @@
+{
+  "key": "wolfwalkers-2020",
+  "query": {
+    "title": "Wolfwalkers",
+    "year": 2020
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:23.488Z",
+  "tmdb_id": 441130,
+  "media": "movie",
+  "title": "Wolfwalkers",
+  "original_title": "Wolfwalkers",
+  "year": 2020,
+  "release_date": "2020-10-26",
+  "runtime": 102,
+  "overview": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy.",
+  "tagline": "Be fierce. Be wild. Be free.",
+  "genres": [
+    "Animation",
+    "Family",
+    "Adventure",
+    "Fantasy"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "IE",
+    "LU",
+    "US"
+  ],
+  "vote_average": 8.2,
+  "vote_count": 1448,
+  "popularity": 6.8667,
+  "poster_path": "/vqGiNbdc2sDwsnivMMYzwAoSSu6.jpg",
+  "backdrop_path": "/3zTbERSBLh7waK9811RTKGAcG86.jpg",
+  "trailer_key": "d_Z_tybgPgg",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Apple TV",
+        "slug": "apple-tv",
+        "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+      },
+      {
+        "name": "Apple TV on Prime",
+        "slug": "apple-tv-on-prime",
+        "logo": "/rerVCu9auZrgxTTiZu1criqrQzg.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:23.488Z"
+}

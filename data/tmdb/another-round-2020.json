@@ -1,0 +1,50 @@
+{
+  "key": "another-round-2020",
+  "query": {
+    "title": "Another Round",
+    "year": 2020
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:36.700Z",
+  "tmdb_id": 580175,
+  "media": "movie",
+  "title": "Another Round",
+  "original_title": "Druk",
+  "year": 2020,
+  "release_date": "2020-09-24",
+  "runtime": 117,
+  "overview": "Four stagnant high school teachers decide to test out a theory that maintaining a constant level of intoxication will improve their overall lives.",
+  "tagline": "What is youth? A dream. What is love? The content of the dream.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "original_language": "da",
+  "origin_country": [
+    "DK"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 3911,
+  "popularity": 7.8404,
+  "poster_path": "/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
+  "backdrop_path": "/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
+  "trailer_key": "xlwAgvn1e5E",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:36.700Z"
+}

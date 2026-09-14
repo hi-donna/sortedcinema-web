@@ -1,0 +1,38 @@
+{
+  "key": "shwaas-2004",
+  "query": {
+    "title": "Shwaas",
+    "year": 2004
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:29.086Z",
+  "tmdb_id": 116753,
+  "media": "movie",
+  "title": "Shwaas",
+  "original_title": "श्वास",
+  "year": 2004,
+  "release_date": "2004-12-10",
+  "runtime": 107,
+  "overview": "This story follows an old man who, while facing the insurmountable challenge of cancer, strives to show his grandson the profound beauty and value of life. It highlights the power of maintaining a positive outlook, even in the darkest times.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "mr",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.4,
+  "vote_count": 12,
+  "popularity": 0.5384,
+  "poster_path": "/6FgJ3PDXE955djB25zKz23fyko9.jpg",
+  "backdrop_path": "/AaxHKIvqk9hSmioQGZ3EuPGpHTz.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:29.086Z"
+}

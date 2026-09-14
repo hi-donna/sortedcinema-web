@@ -1,0 +1,57 @@
+{
+  "key": "rear-window-1954",
+  "query": {
+    "title": "Rear Window",
+    "year": 1954
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:26.549Z",
+  "tmdb_id": 567,
+  "media": "movie",
+  "title": "Rear Window",
+  "original_title": "Rear Window",
+  "year": 1954,
+  "release_date": "1954-08-01",
+  "runtime": 113,
+  "overview": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+  "tagline": "It only takes one witness to spoil the perfect crime.",
+  "genres": [
+    "Thriller",
+    "Mystery",
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8.3,
+  "vote_count": 7350,
+  "popularity": 13.807,
+  "poster_path": "/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+  "backdrop_path": "/zGs5tZOlvc9cprdcU6kDOVNpujf.jpg",
+  "trailer_key": "iZOTTxwzyMU",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:26.549Z"
+}

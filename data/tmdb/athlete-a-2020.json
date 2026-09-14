@@ -1,0 +1,44 @@
+{
+  "key": "athlete-a-2020",
+  "query": {
+    "title": "Athlete A",
+    "year": 2020
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:11.211Z",
+  "tmdb_id": 684700,
+  "media": "movie",
+  "title": "Athlete A",
+  "original_title": "Athlete A",
+  "year": 2020,
+  "release_date": "2020-06-23",
+  "runtime": 105,
+  "overview": "Follow the Indianapolis Star reporters that broke the story about USA Gymnastics doctor Larry Nassar's abuse and hear from gymnasts.",
+  "tagline": "Was winning worth the cost?",
+  "genres": [
+    "Documentary"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 291,
+  "popularity": 1.6299,
+  "poster_path": "/jUVbqKcDgcLSS5s4UV82XUkMKlU.jpg",
+  "backdrop_path": "/pKItm4sW0Xji31QXm8YiAmCGo4b.jpg",
+  "trailer_key": "I3tF46qzSAg",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:11.211Z"
+}

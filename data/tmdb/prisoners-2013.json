@@ -1,0 +1,73 @@
+{
+  "key": "prisoners-2013",
+  "query": {
+    "title": "Prisoners",
+    "year": 2013
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:13.458Z",
+  "tmdb_id": 146233,
+  "media": "movie",
+  "title": "Prisoners",
+  "original_title": "Prisoners",
+  "year": 2013,
+  "release_date": "2013-09-19",
+  "runtime": 153,
+  "overview": "After his six-year-old daughter is abducted, a desperate father takes justice into his own hands when he loses faith in the detective leading the investigation, setting both men on a collision course as the search descends into obsession and moral compromise.",
+  "tagline": "How far would you go to protect your child?",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 13482,
+  "popularity": 19.3041,
+  "poster_path": "/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+  "backdrop_path": "/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
+  "trailer_key": "yszyHq-S9W8",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "FilmBox+",
+        "slug": "filmbox",
+        "logo": "/hfooLkJnxKlZRzY1yNK8ryKiijf.png"
+      },
+      {
+        "name": "Lionsgate+ Amazon Channels",
+        "slug": "lionsgate-amazon-channels",
+        "logo": "/1356slxu4QrHOMrEVDKHJXRo5sW.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:13.458Z"
+}

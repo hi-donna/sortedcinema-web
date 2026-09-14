@@ -1,0 +1,39 @@
+{
+  "key": "naked-1993",
+  "query": {
+    "title": "Naked",
+    "year": 1993
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:18.813Z",
+  "tmdb_id": 21450,
+  "media": "movie",
+  "title": "Naked",
+  "original_title": "Naked",
+  "year": 1993,
+  "release_date": "1993-08-06",
+  "runtime": 131,
+  "overview": "An unemployed Brit vents his rage on unsuspecting strangers as he embarks on a nocturnal London odyssey.",
+  "tagline": "When unbalance leads to submission",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB"
+  ],
+  "vote_average": 7.3,
+  "vote_count": 695,
+  "popularity": 3.4698,
+  "poster_path": "/xMYP4uaNeyPmX4FQ2xxWk2eIN6K.jpg",
+  "backdrop_path": "/uIh3mW3AuSM7ww7NYtvSWDQ1zc7.jpg",
+  "trailer_key": "TdKPbyvS0qc",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:18.813Z"
+}

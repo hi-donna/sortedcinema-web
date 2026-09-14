@@ -1,0 +1,63 @@
+{
+  "key": "bottle-rocket-1996",
+  "query": {
+    "title": "Bottle Rocket",
+    "year": 1996
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:15.444Z",
+  "tmdb_id": 13685,
+  "media": "movie",
+  "title": "Bottle Rocket",
+  "original_title": "Bottle Rocket",
+  "year": 1996,
+  "release_date": "1996-02-21",
+  "runtime": 91,
+  "overview": "Upon his release from a mental hospital following a nervous breakdown, the directionless Anthony joins his friend Dignan, who seems far less sane than the former. Dignan has hatched a harebrained scheme for an as-yet-unspecified crime spree that somehow involves his former boss, the (supposedly) legendary Mr. Henry.",
+  "tagline": "They're not really criminals, but everyone's got to have a dream.",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 6.7,
+  "vote_count": 1234,
+  "popularity": 5.04,
+  "poster_path": "/6E7mJ5wpzTFbYFbJvTzzZ8Til9C.jpg",
+  "backdrop_path": "/yTDwyUEYHZTK35z7Iyp4QHxvVj9.jpg",
+  "trailer_key": "JJPQ-NnjZR0",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Sony Pictures on Prime",
+        "slug": "sony-pictures-on-prime",
+        "logo": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:15.444Z"
+}

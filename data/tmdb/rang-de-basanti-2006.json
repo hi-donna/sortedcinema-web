@@ -1,0 +1,64 @@
+{
+  "key": "rang-de-basanti-2006",
+  "query": {
+    "title": "Rang De Basanti",
+    "year": 2006
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:21.418Z",
+  "tmdb_id": 7913,
+  "media": "movie",
+  "title": "Rang De Basanti",
+  "original_title": "रंग दे बसंती",
+  "year": 2006,
+  "release_date": "2006-01-26",
+  "runtime": 157,
+  "overview": "After a group of friends graduate from Delhi University, they listlessly haunt their old campus, until a British filmmaker casts them in a film she's making about freedom fighters under British rule. Although the group is largely apolitical, the tragic death of a friend owing to local government corruption awakens their patriotism. Inspired by the freedom fighters they represent in the film, the friends collectively decide to avenge the killing.",
+  "tagline": "A Generation Awakens.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "original_language": "hi",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.1,
+  "vote_count": 526,
+  "popularity": 2.2062,
+  "poster_path": "/f1bF8CHzEu621bPSIg6XiUNAabh.jpg",
+  "backdrop_path": "/fgRhyGbMAolDsQ65VRBRBtVQZNn.jpg",
+  "trailer_key": "l-BTOTtcGmk",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:21.418Z"
+}

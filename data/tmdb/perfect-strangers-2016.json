@@ -1,0 +1,38 @@
+{
+  "key": "perfect-strangers-2016",
+  "query": {
+    "title": "Perfect Strangers",
+    "year": 2016
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:35.015Z",
+  "tmdb_id": 381341,
+  "media": "movie",
+  "title": "Perfect Strangers",
+  "original_title": "Perfetti sconosciuti",
+  "year": 2016,
+  "release_date": "2016-02-11",
+  "runtime": 97,
+  "overview": "During a dinner, a group of friends decide to share whatever message or phone call they will receive during the evening, with unforeseen consequences.",
+  "tagline": "Everyone has three lives: A public life. A private life... and a secret life.",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "it",
+  "origin_country": [
+    "IT"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 4681,
+  "popularity": 4.4883,
+  "poster_path": "/3wknM629Vryofb1HNo2YnLQnQyn.jpg",
+  "backdrop_path": "/1YhiocGm8aOwILGX7mwlkdbr0ph.jpg",
+  "trailer_key": "-lOUnBsjGuY",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:35.015Z"
+}

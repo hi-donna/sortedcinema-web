@@ -1,0 +1,38 @@
+{
+  "key": "force-majeure-2014",
+  "query": {
+    "title": "Force Majeure",
+    "year": 2014
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:36.790Z",
+  "tmdb_id": 265189,
+  "media": "movie",
+  "title": "Force Majeure",
+  "original_title": "Turist",
+  "year": 2014,
+  "release_date": "2014-08-15",
+  "runtime": 119,
+  "overview": "While holidaying in the French Alps, a Swedish family deals with acts of cowardliness as an avalanche breaks out.",
+  "tagline": "A film about disasters - both natural and man-made.",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "sv",
+  "origin_country": [
+    "SE"
+  ],
+  "vote_average": 6.8,
+  "vote_count": 1262,
+  "popularity": 3.2969,
+  "poster_path": "/41agNfzepz2DTdgTBX1fX0QclHp.jpg",
+  "backdrop_path": "/oZp8CLwvRXgBAYGhn8P0pKOD4Ho.jpg",
+  "trailer_key": "skQk2nVaAsI",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:36.790Z"
+}

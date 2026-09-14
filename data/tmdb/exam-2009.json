@@ -1,0 +1,39 @@
+{
+  "key": "exam-2009",
+  "query": {
+    "title": "Exam",
+    "year": 2009
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:24.731Z",
+  "tmdb_id": 29917,
+  "media": "movie",
+  "title": "Exam",
+  "original_title": "Exam",
+  "year": 2009,
+  "release_date": "2009-06-19",
+  "runtime": 101,
+  "overview": "Eight talented candidates have reached the final stage of selection to join the ranks of a mysterious and powerful corporation. Entering a windowless room, where an armed guard keeps watch, they are given 80 minutes to answer one simple question.",
+  "tagline": "How far would you go to win the ultimate job?",
+  "genres": [
+    "Thriller",
+    "Mystery"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "GB"
+  ],
+  "vote_average": 6.7,
+  "vote_count": 2368,
+  "popularity": 5.2971,
+  "poster_path": "/i1J2zBCyOQJKsQipqJ0qXERC1Ma.jpg",
+  "backdrop_path": "/rwQx6uQAt3ImucZQL0Ymr9NVxTL.jpg",
+  "trailer_key": "hbivC9ztGOE",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:24.731Z"
+}

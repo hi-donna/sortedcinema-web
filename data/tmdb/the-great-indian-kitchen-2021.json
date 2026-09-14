@@ -1,0 +1,66 @@
+{
+  "key": "the-great-indian-kitchen-2021",
+  "query": {
+    "title": "The Great Indian Kitchen",
+    "year": 2021
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:20.315Z",
+  "tmdb_id": 786064,
+  "media": "movie",
+  "title": "The Great Indian Kitchen",
+  "original_title": "മഹത്തായ ഭാരതീയ അടുക്കള",
+  "year": 2021,
+  "release_date": "2021-01-15",
+  "runtime": 100,
+  "overview": "After marriage, a woman struggles to be the submissive wife that her husband and his family expect her to be.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "ml",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 55,
+  "popularity": 1.2418,
+  "poster_path": "/4jgiaVOGD8sTjWlwBdx8q5JMJM3.jpg",
+  "backdrop_path": "/pyYcByKY5HyRsYdhTyIwFOnO6jT.jpg",
+  "trailer_key": "k_E6ctiFn6I",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      },
+      {
+        "name": "ManoramaMAX on Prime",
+        "slug": "manoramamax-on-prime",
+        "logo": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:20.315Z"
+}

@@ -1,0 +1,40 @@
+{
+  "key": "better-days-2019",
+  "query": {
+    "title": "Better Days",
+    "year": 2019
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:31.319Z",
+  "tmdb_id": 575813,
+  "media": "movie",
+  "title": "Better Days",
+  "original_title": "少年的你",
+  "year": 2019,
+  "release_date": "2019-10-25",
+  "runtime": 135,
+  "overview": "A bullied teenage girl forms an unlikely friendship with a mysterious young man who protects her from her assailants, while she copes with the pressures of her final examinations.",
+  "tagline": "You protect the world. I'll protect you.",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Romance"
+  ],
+  "original_language": "zh",
+  "origin_country": [
+    "CN"
+  ],
+  "vote_average": 8.1,
+  "vote_count": 581,
+  "popularity": 5.6929,
+  "poster_path": "/csVZ2ZQCj98XdZoCuW1aixMYJ0W.jpg",
+  "backdrop_path": "/putsivYODgbKrhvwl9n4OqhPOkO.jpg",
+  "trailer_key": "vtjEqBwNPt0",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:31.319Z"
+}

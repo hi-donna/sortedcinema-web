@@ -1,0 +1,63 @@
+{
+  "key": "pulp-fiction-1994",
+  "query": {
+    "title": "Pulp Fiction",
+    "year": 1994
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:19.492Z",
+  "tmdb_id": 680,
+  "media": "movie",
+  "title": "Pulp Fiction",
+  "original_title": "Pulp Fiction",
+  "year": 1994,
+  "release_date": "1994-09-10",
+  "runtime": 154,
+  "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+  "tagline": "You won’t know the facts until you’ve seen the fiction.",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Comedy"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8.5,
+  "vote_count": 30850,
+  "popularity": 37.7958,
+  "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+  "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+  "trailer_key": "tGpTpVyI_OQ",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:19.492Z"
+}

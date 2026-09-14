@@ -1,0 +1,60 @@
+{
+  "key": "pather-panchali-1955",
+  "query": {
+    "title": "Pather Panchali",
+    "year": 1955
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:26.638Z",
+  "tmdb_id": 5801,
+  "media": "movie",
+  "title": "Pather Panchali",
+  "original_title": "পথের পাঁচালী",
+  "year": 1955,
+  "release_date": "1955-08-26",
+  "runtime": 125,
+  "overview": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work. Alone, his wife, Sarbojaya, looks after her rebellious daughter, Durga, and her young son, Apu, as well as Harihar's elderly aunt Indir. The children enjoy the small pleasures of their difficult life, while their parents suffer the daily indignities heaped upon them.",
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "original_language": "bn",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 505,
+  "popularity": 2.8024,
+  "poster_path": "/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
+  "backdrop_path": "/wadoNHCMPElgYuOqLxqDQqXpTMx.jpg",
+  "trailer_key": "mgv68E_o6VM",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      },
+      {
+        "name": "Plex",
+        "slug": "plex",
+        "logo": "/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+      },
+      {
+        "name": "Plex Channel",
+        "slug": "plex-channel",
+        "logo": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:26.638Z"
+}

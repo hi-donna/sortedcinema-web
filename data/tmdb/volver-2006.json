@@ -1,0 +1,40 @@
+{
+  "key": "volver-2006",
+  "query": {
+    "title": "Volver",
+    "year": 2006
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:38.340Z",
+  "tmdb_id": 219,
+  "media": "movie",
+  "title": "Volver",
+  "original_title": "Volver",
+  "year": 2006,
+  "release_date": "2006-03-17",
+  "runtime": 121,
+  "overview": "Three generations of women deal with family secrets while surviving the east wind, fire, insanity, superstition, lies and even death.",
+  "tagline": "",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "original_language": "es",
+  "origin_country": [
+    "ES"
+  ],
+  "vote_average": 7.5,
+  "vote_count": 1965,
+  "popularity": 3.9178,
+  "poster_path": "/ljRPzuI1xybiFUGU1uCRdx68h0K.jpg",
+  "backdrop_path": "/cLvcOx8RbSUPCbkynKzNIg1zc2g.jpg",
+  "trailer_key": "ABSvppyQGdE",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:38.340Z"
+}

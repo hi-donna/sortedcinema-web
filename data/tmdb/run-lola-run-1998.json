@@ -1,0 +1,40 @@
+{
+  "key": "run-lola-run-1998",
+  "query": {
+    "title": "Run Lola Run",
+    "year": 1998
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:32.551Z",
+  "tmdb_id": 104,
+  "media": "movie",
+  "title": "Run Lola Run",
+  "original_title": "Lola rennt",
+  "year": 1998,
+  "release_date": "1998-08-20",
+  "runtime": 80,
+  "overview": "Lola receives a phone call from her boyfriend Manni. He lost 100,000 DM in a subway train that belongs to a very bad guy. She has 20 minutes to raise this amount and meet Manni. Otherwise, he will rob a store to get the money. Three different alternatives may happen depending on some minor event along Lola's run.",
+  "tagline": "Every second of every day you're faced with a decision that can change your life.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "de",
+  "origin_country": [
+    "DE"
+  ],
+  "vote_average": 7.3,
+  "vote_count": 2656,
+  "popularity": 9.3134,
+  "poster_path": "/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
+  "backdrop_path": "/wRcm3iwi4BeMN59U4fjO7u3dOVI.jpg",
+  "trailer_key": "ZCYnsUdO6H0",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:32.551Z"
+}

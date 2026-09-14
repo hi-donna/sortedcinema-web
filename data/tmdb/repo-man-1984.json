@@ -1,0 +1,45 @@
+{
+  "key": "repo-man-1984",
+  "query": {
+    "title": "Repo Man",
+    "year": 1984
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:14.326Z",
+  "tmdb_id": 13820,
+  "media": "movie",
+  "title": "Repo Man",
+  "original_title": "Repo Man",
+  "year": 1984,
+  "release_date": "1984-03-02",
+  "runtime": 92,
+  "overview": "A down and out young punk gets a job working with a seasoned repo man, but what awaits him in his new career is a series of outlandish adventures revolving around aliens, the CIA, and a most wanted '64 Chevy.",
+  "tagline": "It’s 4 a.m. Do you know where your car is?",
+  "genres": [
+    "Comedy",
+    "Science Fiction"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 6.7,
+  "vote_count": 702,
+  "popularity": 5.313,
+  "poster_path": "/bjuu5UceuVUNUjnOC2fBzL3hZKC.jpg",
+  "backdrop_path": "/5K5oPo1NJrAVUeaPzcXFH13Xplo.jpg",
+  "trailer_key": "NK8ETgSLRpA",
+  "providers": {
+    "flatrate": [],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:14.326Z"
+}

@@ -1,0 +1,40 @@
+{
+  "key": "harishchandrachi-factory-2009",
+  "query": {
+    "title": "Harishchandrachi Factory",
+    "year": 2009
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:28.598Z",
+  "tmdb_id": 35572,
+  "media": "movie",
+  "title": "Harishchandrachi Factory",
+  "original_title": "हरिश्चंद्राची फॅक्टरी",
+  "year": 2009,
+  "release_date": "2009-01-15",
+  "runtime": 96,
+  "overview": "In 1913 India's cinema industry is born from Dadasaheb Phalke's efforts to make Raja Harishchandra (1913), India's first feature-length B&W silent film.",
+  "tagline": "",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "History"
+  ],
+  "original_language": "mr",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 6.5,
+  "vote_count": 23,
+  "popularity": 1.0943,
+  "poster_path": "/uRC3yCRlsETdnCvZiyXilLtMrdE.jpg",
+  "backdrop_path": "/xKsE9Z3AiGxo6gCc8FqAZlYrC0Y.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:28.598Z"
+}

@@ -1,0 +1,63 @@
+{
+  "key": "the-mist-2007",
+  "query": {
+    "title": "The Mist",
+    "year": 2007
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:21.382Z",
+  "tmdb_id": 5876,
+  "media": "movie",
+  "title": "The Mist",
+  "original_title": "The Mist",
+  "year": 2007,
+  "release_date": "2007-11-21",
+  "runtime": 126,
+  "overview": "After a violent storm, a dense cloud of mist envelops a small Maine town, trapping David Drayton and his five-year-old son in a local grocery store with other local residents. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.",
+  "tagline": "Fear changes everything.",
+  "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7,
+  "vote_count": 6079,
+  "popularity": 16.0686,
+  "poster_path": "/c4UgUKZjM0Qzy5t4hAXSOFHYsnb.jpg",
+  "backdrop_path": "/76J14zgwVWyOciri7X7F3DGP3TA.jpg",
+  "trailer_key": "E-NF55EZ5tw",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Lionsgate+ Amazon Channels",
+        "slug": "lionsgate-amazon-channels",
+        "logo": "/1356slxu4QrHOMrEVDKHJXRo5sW.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:21.382Z"
+}

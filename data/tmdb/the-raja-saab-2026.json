@@ -1,0 +1,47 @@
+{
+  "key": "the-raja-saab-2026",
+  "query": {
+    "title": "The Raja Saab",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:40.352Z",
+  "tmdb_id": 1022453,
+  "media": "movie",
+  "title": "The Rajasaab",
+  "original_title": "ది రాజాసాబ్",
+  "year": 2026,
+  "release_date": "2026-01-08",
+  "runtime": 186,
+  "overview": "Seeking his lost grandfather, a young man enters a haunted mansion and awakens a family curse powerful enough to upend both his life and reality.",
+  "tagline": "",
+  "genres": [
+    "Comedy",
+    "Horror",
+    "Fantasy",
+    "Action"
+  ],
+  "original_language": "te",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 5,
+  "vote_count": 34,
+  "popularity": 4.2621,
+  "poster_path": "/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg",
+  "backdrop_path": "/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
+  "trailer_key": "YFZMBqyXkqQ",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:40.352Z"
+}

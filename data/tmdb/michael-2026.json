@@ -1,0 +1,62 @@
+{
+  "key": "michael-2026",
+  "query": {
+    "title": "Michael",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:39.518Z",
+  "tmdb_id": 936075,
+  "media": "movie",
+  "title": "Michael",
+  "original_title": "Michael",
+  "year": 2026,
+  "release_date": "2026-04-22",
+  "runtime": 128,
+  "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+  "tagline": "Discover the making of a king.",
+  "genres": [
+    "Music",
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 8.6,
+  "vote_count": 4321,
+  "popularity": 55.5532,
+  "poster_path": "/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
+  "backdrop_path": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+  "trailer_key": "k-YAcjaLuSI",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:39.518Z"
+}

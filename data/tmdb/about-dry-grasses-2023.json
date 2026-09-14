@@ -1,0 +1,54 @@
+{
+  "key": "about-dry-grasses-2023",
+  "query": {
+    "title": "About Dry Grasses",
+    "year": 2023
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:40.067Z",
+  "tmdb_id": 665733,
+  "media": "movie",
+  "title": "About Dry Grasses",
+  "original_title": "Kuru Otlar Üstüne",
+  "year": 2023,
+  "release_date": "2023-07-12",
+  "runtime": 197,
+  "overview": "A young art teacher hopes to be transferred to Istanbul after completing his mandatory duty in a remote village school in Anatolia. After accusations of inappropriate contact with a student surface, his hopes of escape fade and he descends further into an existential crisis.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "tr",
+  "origin_country": [
+    "TR"
+  ],
+  "vote_average": 7.7,
+  "vote_count": 179,
+  "popularity": 2.8389,
+  "poster_path": "/mUFpdQSFAch1fMUb9MqHoESpmLS.jpg",
+  "backdrop_path": "/y2fxmO7IUV9YXvoUhFppwGcUTt.jpg",
+  "trailer_key": "WI1QH2R6c6Q",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:40.067Z"
+}

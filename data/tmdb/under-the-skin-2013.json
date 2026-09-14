@@ -1,0 +1,38 @@
+{
+  "key": "under-the-skin-2013",
+  "query": {
+    "title": "Under the Skin",
+    "year": 2013
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:22.325Z",
+  "tmdb_id": 698232,
+  "media": "movie",
+  "title": "Under the Skin",
+  "original_title": "Sob a Pele",
+  "year": 2013,
+  "release_date": "2013-10-19",
+  "runtime": 19,
+  "overview": "Man and Woman are reunited after a long time. Sorrow and desire cannot break the silence. But that's okay: when words don't come, it's the body that speaks.",
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "pt",
+  "origin_country": [
+    "BR"
+  ],
+  "vote_average": 6.2,
+  "vote_count": 20,
+  "popularity": 0.7134,
+  "poster_path": "/kX41SU4XFBbeXvVzEb0vbzpkGgO.jpg",
+  "backdrop_path": null,
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:22.325Z"
+}

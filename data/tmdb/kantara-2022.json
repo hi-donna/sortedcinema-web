@@ -1,0 +1,57 @@
+{
+  "key": "kantara-2022",
+  "query": {
+    "title": "Kantara",
+    "year": 2022
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:30.266Z",
+  "tmdb_id": 858485,
+  "media": "movie",
+  "title": "Kantara",
+  "original_title": "ಕಾಂತಾರ",
+  "year": 2022,
+  "release_date": "2022-09-30",
+  "runtime": 147,
+  "overview": "Shiva, a tribal vagabond lives with his mother in hamlet, stays away from the traditional Daivaradhane and Bhoota Kola legacy due to an unforgettable childhood incident. He is happy loafing around with his friends and doing petty jobs for his landlord. When Forest officer Murali enters the scene, it gives a fresh dimension to the man-vs-nature fight. Can Shiva save the forest from Murali? Or is Murali just a dummy bait cast by bigger fish?",
+  "tagline": "A Legend",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "original_language": "kn",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.2,
+  "vote_count": 154,
+  "popularity": 2.6504,
+  "poster_path": "/jIsKmkxMzdCZ0Ux1GVSnu8m6Na6.jpg",
+  "backdrop_path": "/kXElm7wt2kAXEVwJqW4cFhP43nW.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:30.266Z"
+}

@@ -1,0 +1,52 @@
+{
+  "key": "drishyam-3-2026",
+  "query": {
+    "title": "Drishyam 3",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:41.718Z",
+  "tmdb_id": 847742,
+  "media": "movie",
+  "title": "Drishyam 3",
+  "original_title": "ദൃശ്യം 3",
+  "year": 2026,
+  "release_date": "2026-05-21",
+  "runtime": 157,
+  "overview": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
+  "tagline": "The past never stays silent",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "original_language": "ml",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 6.6,
+  "vote_count": 20,
+  "popularity": 3.5576,
+  "poster_path": "/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
+  "backdrop_path": "/enwc2Acl38mvX33QffmTzDSV89D.jpg",
+  "trailer_key": null,
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:41.718Z"
+}

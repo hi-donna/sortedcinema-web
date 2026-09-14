@@ -1,0 +1,39 @@
+{
+  "key": "farewell-my-concubine-1993",
+  "query": {
+    "title": "Farewell My Concubine",
+    "year": 1993
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:30.491Z",
+  "tmdb_id": 10997,
+  "media": "movie",
+  "title": "Farewell My Concubine",
+  "original_title": "霸王别姬",
+  "year": 1993,
+  "release_date": "1993-01-01",
+  "runtime": 171,
+  "overview": "In an epic tale of theater, gender, love and class, two Beijing opera actors navigate political turmoil as their friendship evolves over decades.",
+  "tagline": "The passionate triangle of two lifelong friends and the woman who comes between them!",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "zh",
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "vote_average": 7.9,
+  "vote_count": 708,
+  "popularity": 28.7248,
+  "poster_path": "/f54hNIiHNINw3JiUJB2XaQl5wCN.jpg",
+  "backdrop_path": "/bBiZN1epQTu3F8iFLBuMhc4TRzr.jpg",
+  "trailer_key": "FFiHfDBt9lE",
+  "providers": {
+    "flatrate": [],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:30.491Z"
+}

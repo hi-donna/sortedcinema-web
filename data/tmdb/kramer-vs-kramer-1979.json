@@ -1,0 +1,61 @@
+{
+  "key": "kramer-vs-kramer-1979",
+  "query": {
+    "title": "Kramer vs. Kramer",
+    "year": 1979
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:21.185Z",
+  "tmdb_id": 12102,
+  "media": "movie",
+  "title": "Kramer vs. Kramer",
+  "original_title": "Kramer vs. Kramer",
+  "year": 1979,
+  "release_date": "1979-12-07",
+  "runtime": 105,
+  "overview": "Ted Kramer is a career man for whom his work comes before his family. His wife Joanna cannot take this anymore, so she decides to leave him. Ted is now faced with the tasks of housekeeping and taking care of himself and their young son Billy.",
+  "tagline": "There are three sides to this love story.",
+  "genres": [
+    "Drama"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 7.6,
+  "vote_count": 2535,
+  "popularity": 7.2882,
+  "poster_path": "/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg",
+  "backdrop_path": "/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg",
+  "trailer_key": "TuDnCnr504A",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Sony Pictures on Prime",
+        "slug": "sony-pictures-on-prime",
+        "logo": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:21.185Z"
+}

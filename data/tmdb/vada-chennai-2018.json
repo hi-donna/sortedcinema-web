@@ -1,0 +1,56 @@
+{
+  "key": "vada-chennai-2018",
+  "query": {
+    "title": "Vada Chennai",
+    "year": 2018
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:29.509Z",
+  "tmdb_id": 410331,
+  "media": "movie",
+  "title": "Vada Chennai",
+  "original_title": "வடசென்னை",
+  "year": 2018,
+  "release_date": "2018-10-17",
+  "runtime": 166,
+  "overview": "Anbu, a young carrom player in North Chennai becomes inadvertently involved in an ongoing conflict between two local gangsters.",
+  "tagline": "",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "original_language": "ta",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 7.8,
+  "vote_count": 113,
+  "popularity": 1.8724,
+  "poster_path": "/4Pa7SriYtq4BdoS2BAPm6w66vLi.jpg",
+  "backdrop_path": "/51ypVhVjplqXBycQiiumjXW98VT.jpg",
+  "trailer_key": "q5GG5HJ1hVk",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      },
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      },
+      {
+        "name": "Goldmines Play on Prime",
+        "slug": "goldmines-play-on-prime",
+        "logo": "/8uXd8H7oaWlLBszABEvF9jIQCYx.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:29.509Z"
+}

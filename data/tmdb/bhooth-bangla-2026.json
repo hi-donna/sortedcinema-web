@@ -1,0 +1,45 @@
+{
+  "key": "bhooth-bangla-2026",
+  "query": {
+    "title": "Bhooth Bangla",
+    "year": 2026
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-14T00:47:40.585Z",
+  "tmdb_id": 1239134,
+  "media": "movie",
+  "title": "Bhooth Bangla",
+  "original_title": "भूत बंगला",
+  "year": 2026,
+  "release_date": "2026-04-16",
+  "runtime": 163,
+  "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+  "tagline": "",
+  "genres": [
+    "Horror",
+    "Comedy"
+  ],
+  "original_language": "hi",
+  "origin_country": [
+    "IN"
+  ],
+  "vote_average": 5.6,
+  "vote_count": 63,
+  "popularity": 6.2271,
+  "poster_path": "/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+  "backdrop_path": "/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+  "trailer_key": "XW1RkKiRnsg",
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
+    "rent": [],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-14T00:47:40.585Z"
+}
