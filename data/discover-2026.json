@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T00:48:47.502Z",
+  "generated_at": "2026-09-14T08:56:21.356Z",
   "region": "IN",
   "year": 2026,
   "streaming": [
@@ -46,7 +46,7 @@
       "poster_path": "/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
       "backdrop_path": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
       "vote_average": 7.9,
-      "vote_count": 540,
+      "vote_count": 557,
       "original_language": "en",
       "genre_ids": [
         28,
@@ -82,7 +82,7 @@
       "poster_path": "/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
       "backdrop_path": "/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
       "vote_average": 6.8,
-      "vote_count": 441,
+      "vote_count": 451,
       "original_language": "en",
       "genre_ids": [
         53,
@@ -144,11 +144,43 @@
       "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
       "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
       "vote_average": 8.8,
-      "vote_count": 642,
+      "vote_count": 646,
       "original_language": "es",
       "genre_ids": [
         80,
         28,
+        53
+      ],
+      "providers": {
+        "flatrate": [
+          {
+            "name": "Netflix",
+            "slug": "netflix",
+            "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          }
+        ],
+        "rent": [],
+        "buy": [],
+        "free": []
+      }
+    },
+    {
+      "key": "the-whisper-man-2026",
+      "tmdb_id": 860508,
+      "media": "movie",
+      "title": "The Whisper Man",
+      "original_title": "The Whisper Man",
+      "year": 2026,
+      "release_date": "2026-08-28",
+      "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+      "poster_path": "/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+      "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+      "vote_average": 6.8,
+      "vote_count": 655,
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        18,
         53
       ],
       "providers": {
@@ -202,38 +234,6 @@
       }
     },
     {
-      "key": "the-whisper-man-2026",
-      "tmdb_id": 860508,
-      "media": "movie",
-      "title": "The Whisper Man",
-      "original_title": "The Whisper Man",
-      "year": 2026,
-      "release_date": "2026-08-28",
-      "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-      "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-      "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
-      "vote_average": 6.8,
-      "vote_count": 648,
-      "original_language": "en",
-      "genre_ids": [
-        80,
-        18,
-        53
-      ],
-      "providers": {
-        "flatrate": [
-          {
-            "name": "Netflix",
-            "slug": "netflix",
-            "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          }
-        ],
-        "rent": [],
-        "buy": [],
-        "free": []
-      }
-    },
-    {
       "key": "avatar-aang-the-last-airbender-2026",
       "tmdb_id": 980431,
       "media": "movie",
@@ -245,7 +245,7 @@
       "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
       "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
       "vote_average": 9.1,
-      "vote_count": 1116,
+      "vote_count": 1119,
       "original_language": "en",
       "genre_ids": [
         16,
@@ -278,7 +278,7 @@
       "poster_path": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "backdrop_path": "/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
       "vote_average": 8.6,
-      "vote_count": 7729,
+      "vote_count": 7738,
       "original_language": "en",
       "genre_ids": [
         878,
@@ -326,7 +326,7 @@
       "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "backdrop_path": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "vote_average": 7,
-      "vote_count": 3260,
+      "vote_count": 3268,
       "original_language": "en",
       "genre_ids": [
         27,
@@ -358,7 +358,7 @@
       "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
       "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "vote_average": 8.2,
-      "vote_count": 3662,
+      "vote_count": 3665,
       "original_language": "en",
       "genre_ids": [
         10751,
@@ -409,7 +409,7 @@
       "poster_path": "/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
       "backdrop_path": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
       "vote_average": 8.6,
-      "vote_count": 4325,
+      "vote_count": 4327,
       "original_language": "en",
       "genre_ids": [
         10402,
@@ -457,7 +457,7 @@
       "poster_path": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
       "backdrop_path": "/5MUMB3aPEPEQPCIAaygXFUTWE9Y.jpg",
       "vote_average": 7.1,
-      "vote_count": 2109,
+      "vote_count": 2113,
       "original_language": "en",
       "genre_ids": [
         28,
@@ -489,7 +489,7 @@
       "poster_path": "/cv7DeQQ7TOozPoTCBdNJIvWKhU1.jpg",
       "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
       "vote_average": 7.8,
-      "vote_count": 1854,
+      "vote_count": 1856,
       "original_language": "en",
       "genre_ids": [
         28,
@@ -531,8 +531,8 @@
       "overview": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.",
       "poster_path": "/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
       "backdrop_path": "/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
-      "vote_average": 6,
-      "vote_count": 38,
+      "vote_average": 6.1,
+      "vote_count": 39,
       "original_language": "fr",
       "genre_ids": [
         35,
@@ -563,7 +563,7 @@
       "poster_path": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
       "backdrop_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
       "vote_average": 7.6,
-      "vote_count": 953,
+      "vote_count": 955,
       "original_language": "en",
       "genre_ids": [
         28,
@@ -594,7 +594,7 @@
       "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
       "vote_average": 7,
-      "vote_count": 2313,
+      "vote_count": 2317,
       "original_language": "en",
       "genre_ids": [
         35,
@@ -625,7 +625,7 @@
       "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
       "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "vote_average": 8.2,
-      "vote_count": 2329,
+      "vote_count": 2330,
       "original_language": "en",
       "genre_ids": [
         12,
@@ -659,7 +659,7 @@
       "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
       "vote_average": 6.9,
-      "vote_count": 1319,
+      "vote_count": 1324,
       "original_language": "en",
       "genre_ids": [
         27,
@@ -690,8 +690,8 @@
       "overview": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adventures, a pirate threat looms.",
       "poster_path": "/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
       "backdrop_path": "/sVatzfUXkmPzPaR6iJIYiwp2TR6.jpg",
-      "vote_average": 6.9,
-      "vote_count": 24,
+      "vote_average": 6.8,
+      "vote_count": 25,
       "original_language": "en",
       "genre_ids": [
         16,
@@ -725,7 +725,7 @@
       "poster_path": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
       "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
       "vote_average": 8.3,
-      "vote_count": 2213,
+      "vote_count": 2215,
       "original_language": "en",
       "genre_ids": [
         28,
@@ -859,7 +859,7 @@
       "poster_path": "/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
       "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
       "vote_average": 7.5,
-      "vote_count": 2449,
+      "vote_count": 2450,
       "original_language": "en",
       "genre_ids": [
         28,
@@ -891,7 +891,7 @@
       "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
       "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
       "vote_average": 6.2,
-      "vote_count": 93,
+      "vote_count": 96,
       "original_language": "da",
       "genre_ids": [
         18,
@@ -923,7 +923,7 @@
       "poster_path": "/hnr0QkZSDLlrJTvU2ecco65wcHo.jpg",
       "backdrop_path": "/4pXBWLKMew7Xmtq3OgMQxTHp060.jpg",
       "vote_average": 7.2,
-      "vote_count": 65,
+      "vote_count": 66,
       "original_language": "es",
       "genre_ids": [
         18,
@@ -955,7 +955,7 @@
       "poster_path": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
       "vote_average": 8.1,
-      "vote_count": 1076,
+      "vote_count": 1077,
       "original_language": "en",
       "genre_ids": [
         16,
@@ -1004,7 +1004,7 @@
       "poster_path": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
       "backdrop_path": "/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
       "vote_average": 7,
-      "vote_count": 1347,
+      "vote_count": 1348,
       "original_language": "en",
       "genre_ids": [
         80,
@@ -1089,7 +1089,7 @@
       "poster_path": "/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
       "backdrop_path": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
       "vote_average": 7.9,
-      "vote_count": 1641,
+      "vote_count": 1646,
       "original_language": "en",
       "genre_ids": [
         35,
@@ -1214,7 +1214,7 @@
       "poster_path": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
       "backdrop_path": "/pLyaH6k69OJHnONSmN3R7Peh6HE.jpg",
       "vote_average": 6.5,
-      "vote_count": 776,
+      "vote_count": 777,
       "original_language": "en",
       "genre_ids": [
         27,
@@ -1281,7 +1281,7 @@
       "poster_path": "/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
       "backdrop_path": "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
       "vote_average": 6.9,
-      "vote_count": 1916,
+      "vote_count": 1918,
       "original_language": "en",
       "genre_ids": [
         28,
@@ -1393,7 +1393,7 @@
       "poster_path": "/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
       "backdrop_path": "/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg",
       "vote_average": 7,
-      "vote_count": 2281,
+      "vote_count": 2282,
       "original_language": "en",
       "genre_ids": [
         27,
@@ -1444,7 +1444,7 @@
       "poster_path": "/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
       "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
       "vote_average": 7.1,
-      "vote_count": 1262,
+      "vote_count": 1263,
       "original_language": "en",
       "genre_ids": [
         28,
@@ -1484,7 +1484,7 @@
       "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
       "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
       "vote_average": 7.5,
-      "vote_count": 178,
+      "vote_count": 179,
       "original_language": "en",
       "genre_ids": [
         14,
@@ -1505,12 +1505,31 @@
       "poster_path": "/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg",
       "backdrop_path": "/kwNIQW7egAmI66sb0zIugMbpCfU.jpg",
       "vote_average": 7.1,
-      "vote_count": 1918,
+      "vote_count": 1919,
       "original_language": "en",
       "genre_ids": [
         28,
         53,
         80
+      ]
+    },
+    {
+      "key": "wuthering-heights-2026",
+      "tmdb_id": 1316092,
+      "media": "movie",
+      "title": "“Wuthering Heights”",
+      "original_title": "“Wuthering Heights”",
+      "year": 2026,
+      "release_date": "2026-02-12",
+      "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+      "poster_path": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+      "backdrop_path": "/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg",
+      "vote_average": 6.7,
+      "vote_count": 1338,
+      "original_language": "en",
+      "genre_ids": [
+        10749,
+        18
       ]
     },
     {
@@ -1545,7 +1564,7 @@
       "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
       "backdrop_path": "/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
       "vote_average": 7.5,
-      "vote_count": 181,
+      "vote_count": 182,
       "original_language": "en",
       "genre_ids": [
         28,
@@ -1564,7 +1583,7 @@
       "poster_path": "/af7yguGbWQyvYtk6QCD5l4yBbKN.jpg",
       "backdrop_path": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
       "vote_average": 7.1,
-      "vote_count": 998,
+      "vote_count": 1000,
       "original_language": "en",
       "genre_ids": [
         878,
@@ -1622,30 +1641,11 @@
       "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
       "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
       "vote_average": 8.3,
-      "vote_count": 887,
+      "vote_count": 888,
       "original_language": "en",
       "genre_ids": [
         10749,
         35,
-        18
-      ]
-    },
-    {
-      "key": "wuthering-heights-2026",
-      "tmdb_id": 1316092,
-      "media": "movie",
-      "title": "“Wuthering Heights”",
-      "original_title": "“Wuthering Heights”",
-      "year": 2026,
-      "release_date": "2026-02-12",
-      "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
-      "poster_path": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
-      "backdrop_path": "/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg",
-      "vote_average": 6.7,
-      "vote_count": 1338,
-      "original_language": "en",
-      "genre_ids": [
-        10749,
         18
       ]
     },
@@ -1700,7 +1700,7 @@
       "poster_path": "/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
       "backdrop_path": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
       "vote_average": 7.3,
-      "vote_count": 578,
+      "vote_count": 579,
       "original_language": "en",
       "genre_ids": [
         28,
@@ -1720,7 +1720,7 @@
       "poster_path": "/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
       "backdrop_path": "/gIClklFGYBe0uiOoiP2vtocJbss.jpg",
       "vote_average": 7.1,
-      "vote_count": 1675,
+      "vote_count": 1678,
       "original_language": "en",
       "genre_ids": [
         878,
@@ -1779,8 +1779,8 @@
       "overview": "In 1775 during the Spanish colonial period in the Philippines, nuns attempts to survive the night after an unknown evil was set free in their cloister. Meanwhile in 2025, a group of friends attend a Halloween masquerade ball which was attacked by a serial killer. Fast forward to the future in 2050, a post-apocalytic Philippines is ruled by the aswang.",
       "poster_path": "/2ayOQIh18qhJRoajoAxxGuZXry2.jpg",
       "backdrop_path": "/90Vx3KpCXR2D9iVdxJpkjeYBq9P.jpg",
-      "vote_average": 5.8,
-      "vote_count": 21,
+      "vote_average": 5.9,
+      "vote_count": 22,
       "original_language": "tl",
       "genre_ids": [
         27
@@ -2212,27 +2212,6 @@
       ]
     },
     {
-      "key": "dorothy-2026",
-      "tmdb_id": 1578079,
-      "media": "movie",
-      "title": "Dorothy",
-      "original_title": "டோரதி",
-      "year": 2026,
-      "release_date": "2026-09-25",
-      "overview": "Set in a world shaped by caste, violence, and toxic masculinity, two childhood friends grow up inseparable in rural Tamil Nadu. Their lives are transformed by the arrival of Dorothy, a woman whose compassion quietly challenges the world around them.",
-      "poster_path": "/3RnxzfJ66aKrb7TIxsozj1DkWtU.jpg",
-      "backdrop_path": "/h4aZ0QB7HqACSE7iepy92F5Gnld.jpg",
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "ta",
-      "genre_ids": [
-        28,
-        12,
-        18,
-        10749
-      ]
-    },
-    {
       "key": "spark-2026",
       "tmdb_id": 1754121,
       "media": "movie",
@@ -2251,6 +2230,27 @@
         18,
         53,
         28
+      ]
+    },
+    {
+      "key": "dorothy-2026",
+      "tmdb_id": 1578079,
+      "media": "movie",
+      "title": "Dorothy",
+      "original_title": "டோரதி",
+      "year": 2026,
+      "release_date": "2026-09-25",
+      "overview": "Set in a world shaped by caste, violence, and toxic masculinity, two childhood friends grow up inseparable in rural Tamil Nadu. Their lives are transformed by the arrival of Dorothy, a woman whose compassion quietly challenges the world around them.",
+      "poster_path": "/3RnxzfJ66aKrb7TIxsozj1DkWtU.jpg",
+      "backdrop_path": "/h4aZ0QB7HqACSE7iepy92F5Gnld.jpg",
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "ta",
+      "genre_ids": [
+        28,
+        12,
+        18,
+        10749
       ]
     },
     {

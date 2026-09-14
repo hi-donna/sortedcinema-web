@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-09-14T00:48:40.964Z",
+  "generated_at": "2026-09-14T08:56:14.884Z",
   "count": 5,
   "items": [
-    {
-      "key": "the-tale-of-princess-kaguya-2013",
-      "title": "The Tale of Princess Kaguya",
-      "year": 2013,
-      "candidates": [
-        {
-          "tmdb_id": 149871,
-          "media": "movie",
-          "title": "The Tale of The Princess Kaguya",
-          "original_title": "かぐや姫の物語",
-          "year": 2013,
-          "score": 6.4
-        }
-      ]
-    },
     {
       "key": "society-1989",
       "title": "Society",
@@ -76,6 +61,21 @@
           "original_title": "Eddie Bravo Invitational 5: The Lightweights (155 Pounds)",
           "year": 2015,
           "score": 6
+        }
+      ]
+    },
+    {
+      "key": "the-tale-of-princess-kaguya-2013",
+      "title": "The Tale of Princess Kaguya",
+      "year": 2013,
+      "candidates": [
+        {
+          "tmdb_id": 149871,
+          "media": "movie",
+          "title": "The Tale of The Princess Kaguya",
+          "original_title": "かぐや姫の物語",
+          "year": 2013,
+          "score": 6.4
         }
       ]
     },
