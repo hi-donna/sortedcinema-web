@@ -29,10 +29,10 @@ const originTitle = f.original_title && f.original_title !== f.title ? f.origina
     </div>
     {text && <p class="text">{text}</p>}
     <Providers f={f} />
-    <div class="actions">
-      {f.tmdb?.trailer && <a class="btn small" href={`https://www.youtube.com/watch?v=${f.tmdb.trailer}`} rel="noopener" target="_blank">▶ Trailer</a>}
-      <a class="btn small" href={filmUrl(f.key)}>Film page</a>
-      <PassportButtons k={f.key} small={true} />
-    </div>
+  </div>
+  <div class="actions">
+    {f.tmdb?.trailer && <a class="btn small" href={`https://www.youtube.com/watch?v=${f.tmdb.trailer}`} rel="noopener" target="_blank">▶ Trailer</a>}
+    <a class="btn small" href={filmUrl(f.key)}>Film page</a>
+    <PassportButtons k={f.key} small={true} />
   </div>
 </article>

@@ -27,10 +27,21 @@ const current = (href: string) => (href === "/" ? path === "/" : path.startsWith
   </div>
 </header>
 <script>
-  const btn = document.querySelector("[data-nav-toggle]");
+  const btn = document.querySelector<HTMLButtonElement>("[data-nav-toggle]");
   const nav = document.getElementById("nav");
-  btn?.addEventListener("click", () => {
-    const open = nav?.classList.toggle("open");
-    btn.setAttribute("aria-expanded", String(!!open));
+  const set = (open: boolean) => {
+    if (!btn || !nav) return;
+    nav.classList.toggle("open", open);
+    btn.setAttribute("aria-expanded", String(open));
+    btn.textContent = open ? "Close" : "Menu";
+    document.body.classList.toggle("nav-open", open);
+  };
+  btn?.addEventListener("click", () => set(!nav?.classList.contains("open")));
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") set(false); });
+  document.addEventListener("click", (e) => {
+    const t = e.target as Node;
+    if (nav?.classList.contains("open") && !nav.contains(t) && !btn?.contains(t)) set(false);
   });
+  nav?.addEventListener("click", (e) => { if ((e.target as HTMLElement).closest("a")) set(false); });
+  matchMedia("(min-width: 821px)").addEventListener("change", (e) => { if (e.matches) set(false); });
 </script>
