@@ -1,0 +1,65 @@
+{
+  "key": "the-grey-2011",
+  "query": {
+    "title": "The Grey",
+    "year": 2011
+  },
+  "resolved_via": "search",
+  "resolved_at": "2026-09-21T08:56:41.235Z",
+  "tmdb_id": 75174,
+  "media": "movie",
+  "title": "The Grey",
+  "original_title": "The Grey",
+  "year": 2011,
+  "release_date": "2011-12-11",
+  "runtime": 117,
+  "overview": "After their plane crashes in Alaska, six oil workers are led by a skilled huntsman to survival, but a pack of merciless wolves haunts their every step.",
+  "tagline": "Live or Die on This Day.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "original_language": "en",
+  "origin_country": [
+    "US"
+  ],
+  "vote_average": 6.6,
+  "vote_count": 4249,
+  "popularity": 12.2557,
+  "poster_path": "/a0Vt3wx8ciKmPt4iXPx9sH4HBVU.jpg",
+  "backdrop_path": "/g8ArhdKmms7TKGX1SgvXf5d1RXG.jpg",
+  "trailer_key": "0ex3kvVa-48",
+  "imdb_id": "tt1601913",
+  "ratings": {
+    "imdb": 6.7,
+    "imdb_votes": 273584,
+    "rt": 80,
+    "metacritic": 64,
+    "refreshed_at": "2026-09-21T08:56:41.234Z"
+  },
+  "providers": {
+    "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
+    "rent": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [],
+    "free": []
+  },
+  "providers_refreshed_at": "2026-09-21T08:56:41.235Z"
+}

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T15:03:36.887Z",
-  "count": 5,
+  "generated_at": "2026-09-21T08:56:41.295Z",
+  "count": 4,
   "items": [
     {
       "key": "the-invitation-2015",
@@ -14,6 +14,21 @@
           "original_title": "Eddie Bravo Invitational 5: The Lightweights (155 Pounds)",
           "year": 2015,
           "score": 6
+        }
+      ]
+    },
+    {
+      "key": "the-tale-of-princess-kaguya-2013",
+      "title": "The Tale of Princess Kaguya",
+      "year": 2013,
+      "candidates": [
+        {
+          "tmdb_id": 149871,
+          "media": "movie",
+          "title": "The Tale of The Princess Kaguya",
+          "original_title": "かぐや姫の物語",
+          "year": 2013,
+          "score": 6.4
         }
       ]
     },
@@ -60,68 +75,6 @@
           "title": "The Society",
           "original_title": "The Society",
           "year": 2019,
-          "score": -3.9
-        }
-      ]
-    },
-    {
-      "key": "the-tale-of-princess-kaguya-2013",
-      "title": "The Tale of Princess Kaguya",
-      "year": 2013,
-      "candidates": [
-        {
-          "tmdb_id": 149871,
-          "media": "movie",
-          "title": "The Tale of The Princess Kaguya",
-          "original_title": "かぐや姫の物語",
-          "year": 2013,
-          "score": 6.4
-        }
-      ]
-    },
-    {
-      "key": "the-grey-2011",
-      "title": "The Grey",
-      "year": 2011,
-      "candidates": [
-        {
-          "tmdb_id": 83865,
-          "media": "movie",
-          "title": "Ivan Tsarevich & the Grey Wolf",
-          "original_title": "Иван Царевич и Серый Волк",
-          "year": 2011,
-          "score": 6
-        },
-        {
-          "tmdb_id": 120881,
-          "media": "movie",
-          "title": "Documenting the Grey Man",
-          "original_title": "Documenting the Grey Man",
-          "year": 2011,
-          "score": 6
-        },
-        {
-          "tmdb_id": 215936,
-          "media": "tv",
-          "title": "One Week with Little Grey Fergie: The Web Series",
-          "original_title": "One Week with Little Grey Fergie: The Web Series",
-          "year": 2013,
-          "score": 0
-        },
-        {
-          "tmdb_id": 97214,
-          "media": "tv",
-          "title": "The Grey Wolves: Echoes from WWII",
-          "original_title": "The Grey Wolves: Echoes from WWII",
-          "year": 2016,
-          "score": 0
-        },
-        {
-          "tmdb_id": 208825,
-          "media": "tv",
-          "title": "Parasyte: The Grey",
-          "original_title": "기생수: 더 그레이",
-          "year": 2024,
           "score": -3.9
         }
       ]
