@@ -25,8 +25,8 @@
     "GB"
   ],
   "vote_average": 7.6,
-  "vote_count": 8105,
-  "popularity": 13.7595,
+  "vote_count": 8138,
+  "popularity": 14.6634,
   "poster_path": "/k9IAS4TehZFcKi4HVByxZNPfqex.jpg",
   "backdrop_path": "/www52jvhbB0ppe9s0zxbf9EYox.jpg",
   "trailer_key": "2VT2apoX90o",
@@ -36,10 +36,21 @@
     "imdb_votes": 557669,
     "rt": 92,
     "metacritic": 84,
-    "refreshed_at": "2026-09-14T15:03:27.291Z"
+    "refreshed_at": "2026-09-28T09:46:44.779Z"
   },
   "providers": {
-    "flatrate": [],
+    "flatrate": [
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
     "rent": [
       {
         "name": "Prime Video",
@@ -50,5 +61,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:27.291Z"
+  "providers_refreshed_at": "2026-09-28T09:46:44.779Z"
 }

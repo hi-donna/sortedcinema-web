@@ -17,16 +17,17 @@
   "tagline": "Come undone.",
   "genres": [
     "Romance",
-    "Drama"
+    "Drama",
+    "History"
   ],
   "original_language": "en",
   "origin_country": [
     "GB",
     "US"
   ],
-  "vote_average": 6.7,
-  "vote_count": 1338,
-  "popularity": 20.2533,
+  "vote_average": 6.6,
+  "vote_count": 1368,
+  "popularity": 24.0115,
   "poster_path": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
   "backdrop_path": "/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg",
   "trailer_key": "HWFdeoeBNV0",
@@ -36,7 +37,7 @@
     "imdb_votes": 57394,
     "rt": 57,
     "metacritic": 55,
-    "refreshed_at": "2026-09-14T15:03:35.892Z"
+    "refreshed_at": "2026-09-28T09:46:53.978Z"
   },
   "providers": {
     "flatrate": [
@@ -67,5 +68,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:35.892Z"
+  "providers_refreshed_at": "2026-09-28T09:46:53.978Z"
 }

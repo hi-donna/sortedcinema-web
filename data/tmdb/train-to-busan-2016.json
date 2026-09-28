@@ -26,8 +26,8 @@
     "KR"
   ],
   "vote_average": 7.7,
-  "vote_count": 8727,
-  "popularity": 28.5511,
+  "vote_count": 8782,
+  "popularity": 24.0627,
   "poster_path": "/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
   "backdrop_path": "/brnfCYyz8EMbBrHgmh8sCwBi5i1.jpg",
   "trailer_key": "4qm59Rcq1Fw",
@@ -37,7 +37,7 @@
     "imdb_votes": 300921,
     "rt": 95,
     "metacritic": 73,
-    "refreshed_at": "2026-09-14T15:03:34.865Z"
+    "refreshed_at": "2026-09-28T09:46:52.760Z"
   },
   "providers": {
     "flatrate": [
@@ -75,6 +75,11 @@
         "name": "Amazon MX Player",
         "slug": "amazon-mx-player",
         "logo": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
+      },
+      {
+        "name": "Amazon Prime Video Free with Ads",
+        "slug": "amazon-prime-video-free-with-ads",
+        "logo": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png"
       }
     ],
     "rent": [
@@ -113,5 +118,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:34.865Z"
+  "providers_refreshed_at": "2026-09-28T09:46:52.760Z"
 }

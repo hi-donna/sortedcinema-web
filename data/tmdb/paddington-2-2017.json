@@ -11,7 +11,7 @@
   "title": "Paddington 2",
   "original_title": "Paddington 2",
   "year": 2017,
-  "release_date": "2017-11-09",
+  "release_date": "2017-11-05",
   "runtime": 104,
   "overview": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
   "tagline": "Magic. Mystery. Marmalade.",
@@ -25,8 +25,8 @@
     "GB"
   ],
   "vote_average": 7.5,
-  "vote_count": 2893,
-  "popularity": 8.3642,
+  "vote_count": 2908,
+  "popularity": 12.6864,
   "poster_path": "/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
   "backdrop_path": "/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
   "trailer_key": "07Um1PY_P4o",
@@ -36,7 +36,7 @@
     "imdb_votes": 111600,
     "rt": 99,
     "metacritic": 88,
-    "refreshed_at": "2026-09-14T15:03:19.131Z"
+    "refreshed_at": "2026-09-28T09:46:34.777Z"
   },
   "providers": {
     "flatrate": [],
@@ -61,5 +61,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:19.131Z"
+  "providers_refreshed_at": "2026-09-28T09:46:34.777Z"
 }

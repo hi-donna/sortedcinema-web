@@ -24,18 +24,18 @@
     "IN"
   ],
   "vote_average": 7.5,
-  "vote_count": 155,
-  "popularity": 1.2745,
+  "vote_count": 157,
+  "popularity": 2.1079,
   "poster_path": "/ei2YaCcnUBudyc6BQSc6mpCSJTx.jpg",
   "backdrop_path": "/hXYf2k0igWcfReM98949EVTfSgP.jpg",
   "trailer_key": "gFCuy_FUsdo",
   "imdb_id": "tt0057935",
   "ratings": {
     "imdb": 8.1,
-    "imdb_votes": 7598,
+    "imdb_votes": 8118,
     "rt": 93,
     "metacritic": null,
-    "refreshed_at": "2026-09-14T15:03:28.105Z"
+    "refreshed_at": "2026-09-28T09:46:45.687Z"
   },
   "providers": {
     "flatrate": [],
@@ -43,5 +43,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:28.105Z"
+  "providers_refreshed_at": "2026-09-28T09:46:45.687Z"
 }

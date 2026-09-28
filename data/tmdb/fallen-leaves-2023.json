@@ -17,25 +17,26 @@
   "tagline": "",
   "genres": [
     "Romance",
-    "Drama"
+    "Drama",
+    "Comedy"
   ],
   "original_language": "fi",
   "origin_country": [
     "FI"
   ],
   "vote_average": 7.1,
-  "vote_count": 767,
-  "popularity": 3.5974,
+  "vote_count": 771,
+  "popularity": 7.5608,
   "poster_path": "/9ayYOpeqHhxfHHUoyt3kXzznECO.jpg",
   "backdrop_path": "/cru4rjGcdHGhnPyjNXvW82jOrif.jpg",
   "trailer_key": "zS-0FtHVDoA",
   "imdb_id": "tt21027780",
   "ratings": {
-    "imdb": 7.3,
-    "imdb_votes": 33069,
+    "imdb": 7.2,
+    "imdb_votes": 37416,
     "rt": 97,
     "metacritic": 86,
-    "refreshed_at": "2026-09-14T15:03:34.510Z"
+    "refreshed_at": "2026-09-28T09:46:52.619Z"
   },
   "providers": {
     "flatrate": [
@@ -54,5 +55,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:34.510Z"
+  "providers_refreshed_at": "2026-09-28T09:46:52.619Z"
 }

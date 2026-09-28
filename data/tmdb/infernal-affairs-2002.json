@@ -17,18 +17,16 @@
   "tagline": "Loyalty. Honor. Betrayal.",
   "genres": [
     "Drama",
-    "Action",
     "Thriller",
-    "Crime",
-    "Mystery"
+    "Crime"
   ],
   "original_language": "cn",
   "origin_country": [
     "HK"
   ],
   "vote_average": 7.8,
-  "vote_count": 1922,
-  "popularity": 20.0285,
+  "vote_count": 1936,
+  "popularity": 8.5193,
   "poster_path": "/gix9thDBXfjJ8M7rYbihqbQGBcP.jpg",
   "backdrop_path": "/4Mm5l3TcKGynSNto0eyRJgBrkJ7.jpg",
   "trailer_key": "GqdXakBnmsE",
@@ -38,7 +36,7 @@
     "imdb_votes": 137536,
     "rt": 94,
     "metacritic": 75,
-    "refreshed_at": "2026-09-14T15:03:30.657Z"
+    "refreshed_at": "2026-09-28T09:46:48.715Z"
   },
   "providers": {
     "flatrate": [
@@ -52,5 +50,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:30.657Z"
+  "providers_refreshed_at": "2026-09-28T09:46:48.715Z"
 }

@@ -23,8 +23,8 @@
     "SE"
   ],
   "vote_average": 8.1,
-  "vote_count": 1853,
-  "popularity": 3.9973,
+  "vote_count": 1864,
+  "popularity": 6.235,
   "poster_path": "/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
   "backdrop_path": "/BBVAUchYvkmPThVIqipgAfabfl.jpg",
   "trailer_key": "EwMgTyVbCS0",
@@ -34,7 +34,7 @@
     "imdb_votes": 122286,
     "rt": 94,
     "metacritic": 88,
-    "refreshed_at": "2026-09-14T15:03:34.572Z"
+    "refreshed_at": "2026-09-28T09:46:52.748Z"
   },
   "providers": {
     "flatrate": [],
@@ -42,5 +42,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:34.572Z"
+  "providers_refreshed_at": "2026-09-28T09:46:52.748Z"
 }

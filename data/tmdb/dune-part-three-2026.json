@@ -13,7 +13,7 @@
   "year": 2026,
   "release_date": "2026-12-15",
   "runtime": 140,
-  "overview": "Emperor Paul Atreides faces the fallout from his ascent to power as political plots and a galaxy-wide holy war endanger the future only he can see.",
+  "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
   "tagline": "The epic conclusion.",
   "genres": [
     "Science Fiction",
@@ -25,7 +25,7 @@
   ],
   "vote_average": null,
   "vote_count": 0,
-  "popularity": 18.4169,
+  "popularity": 17.4778,
   "poster_path": "/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
   "backdrop_path": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
   "trailer_key": "NdvqHc56lE0",
@@ -35,7 +35,7 @@
     "imdb_votes": null,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-09-14T15:03:36.549Z"
+    "refreshed_at": "2026-09-28T09:46:54.622Z"
   },
   "providers": {
     "flatrate": [],
@@ -43,5 +43,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:36.549Z"
+  "providers_refreshed_at": "2026-09-28T09:46:54.622Z"
 }

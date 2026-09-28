@@ -24,8 +24,8 @@
     "US"
   ],
   "vote_average": 7.4,
-  "vote_count": 8430,
-  "popularity": 7.707,
+  "vote_count": 8483,
+  "popularity": 12.1119,
   "poster_path": "/mdLDgQBD0va09npSQX5Zgo2evXM.jpg",
   "backdrop_path": "/5d6m8CIBQcHeiwr6R5ou4wxO9Vn.jpg",
   "trailer_key": "SI45fDplBpw",
@@ -35,10 +35,15 @@
     "imdb_votes": 331564,
     "rt": 74,
     "metacritic": 67,
-    "refreshed_at": "2026-09-14T15:03:25.110Z"
+    "refreshed_at": "2026-09-28T09:46:41.769Z"
   },
   "providers": {
     "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      },
       {
         "name": "Prime Video",
         "slug": "prime-video",
@@ -60,5 +65,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:25.110Z"
+  "providers_refreshed_at": "2026-09-28T09:46:41.769Z"
 }

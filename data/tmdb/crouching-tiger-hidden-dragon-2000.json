@@ -18,9 +18,7 @@
   "genres": [
     "Adventure",
     "Drama",
-    "Action",
-    "Romance",
-    "Fantasy"
+    "Action"
   ],
   "original_language": "zh",
   "origin_country": [
@@ -28,8 +26,8 @@
     "TW"
   ],
   "vote_average": 7.4,
-  "vote_count": 3695,
-  "popularity": 13.1337,
+  "vote_count": 3717,
+  "popularity": 12.5066,
   "poster_path": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
   "backdrop_path": "/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
   "trailer_key": "q-HrIQLdaNE",
@@ -39,7 +37,7 @@
     "imdb_votes": 293086,
     "rt": 96,
     "metacritic": 94,
-    "refreshed_at": "2026-09-14T15:03:31.003Z"
+    "refreshed_at": "2026-09-28T09:46:48.088Z"
   },
   "providers": {
     "flatrate": [
@@ -110,5 +108,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:31.003Z"
+  "providers_refreshed_at": "2026-09-28T09:46:48.088Z"
 }

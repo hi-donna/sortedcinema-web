@@ -17,15 +17,16 @@
   "tagline": "At the end of the world, no one survives alone.",
   "genres": [
     "Science Fiction",
-    "Thriller"
+    "Thriller",
+    "Adventure"
   ],
   "original_language": "en",
   "origin_country": [
     "US"
   ],
   "vote_average": 6.6,
-  "vote_count": 261,
-  "popularity": 46.8591,
+  "vote_count": 294,
+  "popularity": 53.1862,
   "poster_path": "/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
   "backdrop_path": "/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
   "trailer_key": "-xSxaE1ClEE",
@@ -35,7 +36,7 @@
     "imdb_votes": 13521,
     "rt": 40,
     "metacritic": 49,
-    "refreshed_at": "2026-09-14T15:03:36.272Z"
+    "refreshed_at": "2026-09-28T09:46:54.160Z"
   },
   "providers": {
     "flatrate": [],
@@ -43,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:36.272Z"
+  "providers_refreshed_at": "2026-09-28T09:46:54.161Z"
 }

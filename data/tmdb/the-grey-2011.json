@@ -10,8 +10,8 @@
   "media": "movie",
   "title": "The Grey",
   "original_title": "The Grey",
-  "year": 2011,
-  "release_date": "2011-12-11",
+  "year": 2012,
+  "release_date": "2012-01-26",
   "runtime": 117,
   "overview": "After their plane crashes in Alaska, six oil workers are led by a skilled huntsman to survival, but a pack of merciless wolves haunts their every step.",
   "tagline": "Live or Die on This Day.",
@@ -25,8 +25,8 @@
     "US"
   ],
   "vote_average": 6.6,
-  "vote_count": 4249,
-  "popularity": 12.2557,
+  "vote_count": 4257,
+  "popularity": 9.7612,
   "poster_path": "/a0Vt3wx8ciKmPt4iXPx9sH4HBVU.jpg",
   "backdrop_path": "/g8ArhdKmms7TKGX1SgvXf5d1RXG.jpg",
   "trailer_key": "0ex3kvVa-48",
@@ -36,7 +36,7 @@
     "imdb_votes": 273584,
     "rt": 80,
     "metacritic": 64,
-    "refreshed_at": "2026-09-21T08:56:41.234Z"
+    "refreshed_at": "2026-09-28T09:46:45.054Z"
   },
   "providers": {
     "flatrate": [
@@ -61,5 +61,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-21T08:56:41.235Z"
+  "providers_refreshed_at": "2026-09-28T09:46:45.054Z"
 }

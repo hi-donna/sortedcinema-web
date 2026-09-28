@@ -14,7 +14,7 @@
   "release_date": "1991-12-18",
   "runtime": 125,
   "overview": "In 1920s China, 19-year-old Songlian becomes a concubine of a powerful lord and is forced to compete with his three wives for the privileges gained.",
-  "tagline": "China, 1920. One Master, Four Wives.",
+  "tagline": "China, 1920. One master, four wives.",
   "genres": [
     "Drama"
   ],
@@ -23,18 +23,18 @@
     "CN"
   ],
   "vote_average": 7.9,
-  "vote_count": 818,
-  "popularity": 6.274,
+  "vote_count": 820,
+  "popularity": 4.8498,
   "poster_path": "/j6MGZpg55cTqlHHwahBtzI2qQg1.jpg",
   "backdrop_path": "/9UCHfC9tYojD4mMVBm0boyzYEQq.jpg",
-  "trailer_key": "L0ATH3N1gsM",
+  "trailer_key": "tLYJzEtmavg",
   "imdb_id": "tt0101640",
   "ratings": {
     "imdb": 8.1,
     "imdb_votes": 37672,
     "rt": 97,
     "metacritic": null,
-    "refreshed_at": "2026-09-14T15:03:31.335Z"
+    "refreshed_at": "2026-09-28T09:46:48.240Z"
   },
   "providers": {
     "flatrate": [],
@@ -42,5 +42,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:31.335Z"
+  "providers_refreshed_at": "2026-09-28T09:46:48.240Z"
 }

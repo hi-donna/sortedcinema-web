@@ -11,7 +11,7 @@
   "title": "About Time",
   "original_title": "About Time",
   "year": 2013,
-  "release_date": "2013-09-04",
+  "release_date": "2013-06-27",
   "runtime": 123,
   "overview": "The night after another unsatisfactory New Year's party, Tim's father reveals to him that the men in their family have the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.",
   "tagline": "What if every moment in life came with a second chance?",
@@ -25,8 +25,8 @@
     "GB"
   ],
   "vote_average": 7.9,
-  "vote_count": 9493,
-  "popularity": 15.5102,
+  "vote_count": 9531,
+  "popularity": 21.1617,
   "poster_path": "/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
   "backdrop_path": "/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
   "trailer_key": "7OIFdWk83no",
@@ -36,7 +36,7 @@
     "imdb_votes": 429483,
     "rt": 70,
     "metacritic": 55,
-    "refreshed_at": "2026-09-14T15:03:19.252Z"
+    "refreshed_at": "2026-09-28T09:46:34.934Z"
   },
   "providers": {
     "flatrate": [
@@ -61,5 +61,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:19.252Z"
+  "providers_refreshed_at": "2026-09-28T09:46:34.934Z"
 }

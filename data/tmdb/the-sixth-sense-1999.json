@@ -25,8 +25,8 @@
     "US"
   ],
   "vote_average": 8,
-  "vote_count": 13281,
-  "popularity": 24.1334,
+  "vote_count": 13358,
+  "popularity": 24.5916,
   "poster_path": "/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
   "backdrop_path": "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
   "trailer_key": "HXG4HTIlc1U",
@@ -36,35 +36,13 @@
     "imdb_votes": 1136530,
     "rt": 86,
     "metacritic": 64,
-    "refreshed_at": "2026-09-14T15:03:26.634Z"
+    "refreshed_at": "2026-09-28T09:46:44.317Z"
   },
   "providers": {
     "flatrate": [],
-    "rent": [
-      {
-        "name": "Google Play",
-        "slug": "google-play",
-        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
-      },
-      {
-        "name": "YouTube",
-        "slug": "youtube",
-        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
-      }
-    ],
-    "buy": [
-      {
-        "name": "Google Play",
-        "slug": "google-play",
-        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
-      },
-      {
-        "name": "YouTube",
-        "slug": "youtube",
-        "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
-      }
-    ],
+    "rent": [],
+    "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:26.635Z"
+  "providers_refreshed_at": "2026-09-28T09:46:44.317Z"
 }

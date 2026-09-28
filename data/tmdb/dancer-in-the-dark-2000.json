@@ -13,7 +13,7 @@
   "year": 2000,
   "release_date": "2000-09-01",
   "runtime": 140,
-  "overview": "Selma, a Czech immigrant on the verge of blindness, struggles to make ends meet for herself and her son, who has inherited the same genetic disorder and will suffer the same fate without an expensive operation. When life gets too difficult, Selma learns to cope through her love of musicals, dreaming up little numbers to the rhythmic beats of her surroundings.",
+  "overview": "Selma, a Czech immigrant on the verge of blindness, struggles to make ends meet for herself and her young son, who has inherited the same genetic disorder and will suffer the same fate without an expensive operation. When life becomes increasingly difficult, Selma learns to cope through her love of musicals, dreaming up little numbers to the rhythmic beats of her surroundings.",
   "tagline": "In a world of shadows, she found the light of life.",
   "genres": [
     "Drama",
@@ -24,8 +24,8 @@
     "DK"
   ],
   "vote_average": 7.8,
-  "vote_count": 2065,
-  "popularity": 3.7903,
+  "vote_count": 2078,
+  "popularity": 9.1353,
   "poster_path": "/pWzOfTJRZHPNO1VNrMnNFqRcJwg.jpg",
   "backdrop_path": "/vxvzf0cGtFY2Vpw5ULWumCIW6Ri.jpg",
   "trailer_key": "ddcCwLqtT8w",
@@ -35,7 +35,7 @@
     "imdb_votes": 122419,
     "rt": 69,
     "metacritic": 63,
-    "refreshed_at": "2026-09-14T15:03:22.967Z"
+    "refreshed_at": "2026-09-28T09:46:38.824Z"
   },
   "providers": {
     "flatrate": [
@@ -54,5 +54,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:22.968Z"
+  "providers_refreshed_at": "2026-09-28T09:46:38.824Z"
 }

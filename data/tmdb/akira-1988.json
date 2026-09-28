@@ -11,7 +11,7 @@
   "title": "Akira",
   "original_title": "AKIRA",
   "year": 1988,
-  "release_date": "1988-06-10",
+  "release_date": "1988-07-16",
   "runtime": 124,
   "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
   "tagline": "Neo-Tokyo is about to E.X.P.L.O.D.E.",
@@ -25,8 +25,8 @@
     "JP"
   ],
   "vote_average": 7.9,
-  "vote_count": 4979,
-  "popularity": 18.2442,
+  "vote_count": 5029,
+  "popularity": 19.1829,
   "poster_path": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
   "backdrop_path": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
   "trailer_key": "Jq4ER-P6NCQ",
@@ -34,9 +34,9 @@
   "ratings": {
     "imdb": 8,
     "imdb_votes": 223673,
-    "rt": 91,
+    "rt": 88,
     "metacritic": 68,
-    "refreshed_at": "2026-09-14T15:03:25.651Z"
+    "refreshed_at": "2026-09-28T09:46:42.522Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:25.651Z"
+  "providers_refreshed_at": "2026-09-28T09:46:42.522Z"
 }

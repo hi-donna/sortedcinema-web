@@ -11,7 +11,7 @@
   "title": "Uncut Gems",
   "original_title": "Uncut Gems",
   "year": 2019,
-  "release_date": "2019-08-30",
+  "release_date": "2019-12-13",
   "runtime": 136,
   "overview": "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
   "tagline": "This is how I win.",
@@ -25,8 +25,8 @@
     "US"
   ],
   "vote_average": 7.2,
-  "vote_count": 5565,
-  "popularity": 9.6731,
+  "vote_count": 5598,
+  "popularity": 16.2069,
   "poster_path": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
   "backdrop_path": "/eGljNfNCrPhFYG2RXXmmE0OKu5.jpg",
   "trailer_key": "sXga1Oy0iRk",
@@ -36,7 +36,7 @@
     "imdb_votes": 351556,
     "rt": 91,
     "metacritic": 93,
-    "refreshed_at": "2026-09-14T15:03:24.619Z"
+    "refreshed_at": "2026-09-28T09:46:41.000Z"
   },
   "providers": {
     "flatrate": [
@@ -50,5 +50,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:24.619Z"
+  "providers_refreshed_at": "2026-09-28T09:46:41.000Z"
 }

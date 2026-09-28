@@ -25,8 +25,8 @@
     "DK"
   ],
   "vote_average": 7.3,
-  "vote_count": 1894,
-  "popularity": 4.0185,
+  "vote_count": 1901,
+  "popularity": 6.4365,
   "poster_path": "/42QPG6p7oLcLd4LQOPeSTLhqfMx.jpg",
   "backdrop_path": "/wXZ2JmuQq58E9A4OcP9e8yeKFGR.jpg",
   "trailer_key": "abaoKA6rn5k",
@@ -36,7 +36,7 @@
     "imdb_votes": 68119,
     "rt": 98,
     "metacritic": 83,
-    "refreshed_at": "2026-09-14T15:03:26.463Z"
+    "refreshed_at": "2026-09-28T09:46:43.721Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-14T15:03:26.463Z"
+  "providers_refreshed_at": "2026-09-28T09:46:43.721Z"
 }
