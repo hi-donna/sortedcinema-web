@@ -25,10 +25,10 @@
     "HU"
   ],
   "vote_average": 7.1,
-  "vote_count": 1198,
-  "popularity": 4.3843,
+  "vote_count": 1199,
+  "popularity": 4.1321,
   "poster_path": "/9ZcX6NjCJam5uwkooXffhHI29Lj.jpg",
-  "backdrop_path": "/5ymJuqUWwQZ7yq63UE8DNpFBELr.jpg",
+  "backdrop_path": "/vM7FGdOnzSHYNdlJYxlzKamSPa.jpg",
   "trailer_key": "PSabBa9IWYs",
   "imdb_id": "tt3808342",
   "ratings": {
@@ -36,7 +36,7 @@
     "imdb_votes": 52784,
     "rt": 96,
     "metacritic": 91,
-    "refreshed_at": "2026-09-28T09:46:48.725Z"
+    "refreshed_at": "2026-10-05T10:26:30.364Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-28T09:46:48.725Z"
+  "providers_refreshed_at": "2026-10-05T10:26:30.364Z"
 }

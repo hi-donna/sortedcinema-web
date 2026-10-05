@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T09:47:00.729Z",
+  "generated_at": "2026-10-05T10:26:39.917Z",
   "region": "IN",
   "year": 2026,
   "streaming": [
@@ -14,8 +14,8 @@
       "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
       "poster_path": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
       "backdrop_path": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "vote_average": 8.2,
-      "vote_count": 322,
+      "vote_average": 8.1,
+      "vote_count": 477,
       "original_language": "en",
       "genre_ids": [
         10749,
@@ -45,8 +45,8 @@
       "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
       "poster_path": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
       "backdrop_path": "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-      "vote_average": 7,
-      "vote_count": 149,
+      "vote_average": 6.6,
+      "vote_count": 344,
       "original_language": "en",
       "genre_ids": [
         53,
@@ -67,29 +67,30 @@
       }
     },
     {
-      "key": "drawn-together-2026",
-      "tmdb_id": 1440098,
+      "key": "backrooms-2026",
+      "tmdb_id": 1083381,
       "media": "movie",
-      "title": "Drawn Together",
-      "original_title": "Enfrentados: Marfil",
+      "title": "Backrooms",
+      "original_title": "Backrooms",
       "year": 2026,
-      "release_date": "2026-09-09",
-      "overview": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her father hires Sebastian Moore as bodyguard and, forced to spend every minute together, an inevitable attraction ignites in a world where nothing is as it seems.",
-      "poster_path": "/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-      "backdrop_path": "/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-      "vote_average": 6.8,
-      "vote_count": 135,
-      "original_language": "es",
+      "release_date": "2026-06-12",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "backdrop_path": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "vote_average": 7,
+      "vote_count": 3590,
+      "original_language": "en",
       "genre_ids": [
-        10749,
-        53
+        27,
+        9648,
+        878
       ],
       "providers": {
         "flatrate": [
           {
-            "name": "Prime Video",
-            "slug": "prime-video",
-            "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            "name": "SonyLIV",
+            "slug": "sonyliv",
+            "logo": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png"
           }
         ],
         "rent": [],
@@ -109,7 +110,7 @@
       "poster_path": "/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
       "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "vote_average": 8.6,
-      "vote_count": 8017,
+      "vote_count": 8130,
       "original_language": "en",
       "genre_ids": [
         878,
@@ -146,30 +147,93 @@
       }
     },
     {
-      "key": "backrooms-2026",
-      "tmdb_id": 1083381,
+      "key": "drawn-together-2026",
+      "tmdb_id": 1440098,
       "media": "movie",
-      "title": "Backrooms",
-      "original_title": "Backrooms",
+      "title": "Drawn Together",
+      "original_title": "Enfrentados: Marfil",
       "year": 2026,
-      "release_date": "2026-06-12",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "backdrop_path": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "vote_average": 7,
-      "vote_count": 3471,
-      "original_language": "en",
+      "release_date": "2026-09-09",
+      "overview": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her father hires Sebastian Moore as bodyguard and, forced to spend every minute together, an inevitable attraction ignites in a world where nothing is as it seems.",
+      "poster_path": "/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+      "backdrop_path": "/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+      "vote_average": 6.9,
+      "vote_count": 176,
+      "original_language": "es",
       "genre_ids": [
-        27,
-        9648,
-        878
+        10749,
+        53
       ],
       "providers": {
         "flatrate": [
           {
-            "name": "SonyLIV",
-            "slug": "sonyliv",
-            "logo": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png"
+            "name": "Prime Video",
+            "slug": "prime-video",
+            "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          }
+        ],
+        "rent": [],
+        "buy": [],
+        "free": []
+      }
+    },
+    {
+      "key": "doing-life-2026",
+      "tmdb_id": 1458857,
+      "media": "movie",
+      "title": "Doing Life",
+      "original_title": "Doing Life",
+      "year": 2026,
+      "release_date": "2026-10-02",
+      "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
+      "poster_path": "/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+      "backdrop_path": "/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+      "vote_average": 7.1,
+      "vote_count": 54,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "providers": {
+        "flatrate": [
+          {
+            "name": "Netflix",
+            "slug": "netflix",
+            "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          }
+        ],
+        "rent": [],
+        "buy": [],
+        "free": []
+      }
+    },
+    {
+      "key": "avatar-aang-the-last-airbender-2026",
+      "tmdb_id": 980431,
+      "media": "movie",
+      "title": "Avatar Aang: The Last Airbender",
+      "original_title": "Avatar Aang: The Last Airbender",
+      "year": 2026,
+      "release_date": "2026-07-26",
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+      "vote_average": 9.1,
+      "vote_count": 1257,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        12,
+        14,
+        28
+      ],
+      "providers": {
+        "flatrate": [
+          {
+            "name": "Prime Video",
+            "slug": "prime-video",
+            "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
           }
         ],
         "rent": [],
@@ -188,8 +252,8 @@
       "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
       "poster_path": "/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
       "backdrop_path": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-      "vote_average": 5.9,
-      "vote_count": 59,
+      "vote_average": 5.6,
+      "vote_count": 90,
       "original_language": "fr",
       "genre_ids": [
         10749,
@@ -209,61 +273,30 @@
       }
     },
     {
-      "key": "the-runner-2026",
-      "tmdb_id": 1386315,
+      "key": "teenage-sex-and-death-at-camp-miasma-2026",
+      "tmdb_id": 1240889,
       "media": "movie",
-      "title": "The Runner",
-      "original_title": "The Runner",
+      "title": "Teenage Sex and Death at Camp Miasma",
+      "original_title": "Teenage Sex and Death at Camp Miasma",
       "year": 2026,
-      "release_date": "2026-09-03",
-      "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
-      "poster_path": "/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-      "backdrop_path": "/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
-      "vote_average": 6.8,
-      "vote_count": 594,
+      "release_date": "2026-10-02",
+      "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+      "poster_path": "/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
+      "backdrop_path": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+      "vote_average": 6.2,
+      "vote_count": 247,
       "original_language": "en",
       "genre_ids": [
-        53,
-        28
+        35,
+        27,
+        10749
       ],
       "providers": {
         "flatrate": [
           {
-            "name": "Prime Video",
-            "slug": "prime-video",
-            "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          }
-        ],
-        "rent": [],
-        "buy": [],
-        "free": []
-      }
-    },
-    {
-      "key": "facing-el-chapo-2026",
-      "tmdb_id": 1621552,
-      "media": "movie",
-      "title": "Facing El Chapo",
-      "original_title": "La captura",
-      "year": 2026,
-      "release_date": "2026-08-21",
-      "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
-      "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
-      "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-      "vote_average": 8.8,
-      "vote_count": 837,
-      "original_language": "es",
-      "genre_ids": [
-        80,
-        28,
-        53
-      ],
-      "providers": {
-        "flatrate": [
-          {
-            "name": "Netflix",
-            "slug": "netflix",
-            "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            "name": "MUBI",
+            "slug": "mubi",
+            "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
           }
         ],
         "rent": [],
@@ -282,8 +315,8 @@
       "overview": "When an American heir living in a luxurious Spanish villa decides to move in with his girlfriend, his departure triggers a family collapse as his brother uncovers the truth behind their mother's tragic death.",
       "poster_path": "/rsHEVjzxU8cxz1sm3vboj99daNv.jpg",
       "backdrop_path": "/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
-      "vote_average": 6.1,
-      "vote_count": 56,
+      "vote_average": 6,
+      "vote_count": 60,
       "original_language": "en",
       "genre_ids": [
         35,
@@ -315,6 +348,38 @@
       }
     },
     {
+      "key": "the-mandalorian-and-grogu-2026",
+      "tmdb_id": 1228710,
+      "media": "movie",
+      "title": "The Mandalorian and Grogu",
+      "original_title": "The Mandalorian and Grogu",
+      "year": 2026,
+      "release_date": "2026-05-22",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "poster_path": "/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
+      "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
+      "vote_average": 7.5,
+      "vote_count": 1788,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "providers": {
+        "flatrate": [
+          {
+            "name": "JioHotstar",
+            "slug": "jiohotstar",
+            "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+          }
+        ],
+        "rent": [],
+        "buy": [],
+        "free": []
+      }
+    },
+    {
       "key": "the-death-of-robin-hood-2026",
       "tmdb_id": 1284465,
       "media": "movie",
@@ -325,8 +390,8 @@
       "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
       "poster_path": "/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
       "backdrop_path": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
-      "vote_average": 6.6,
-      "vote_count": 439,
+      "vote_average": 6.7,
+      "vote_count": 495,
       "original_language": "en",
       "genre_ids": [
         12,
@@ -353,23 +418,21 @@
       }
     },
     {
-      "key": "avatar-aang-the-last-airbender-2026",
-      "tmdb_id": 980431,
+      "key": "the-runner-2026",
+      "tmdb_id": 1386315,
       "media": "movie",
-      "title": "Avatar Aang: The Last Airbender",
-      "original_title": "Avatar Aang: The Last Airbender",
+      "title": "The Runner",
+      "original_title": "The Runner",
       "year": 2026,
-      "release_date": "2026-07-29",
-      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-      "vote_average": 9.1,
-      "vote_count": 1205,
+      "release_date": "2026-09-03",
+      "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+      "poster_path": "/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+      "backdrop_path": "/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+      "vote_average": 6.8,
+      "vote_count": 623,
       "original_language": "en",
       "genre_ids": [
-        16,
-        12,
-        14,
+        53,
         28
       ],
       "providers": {
@@ -396,8 +459,8 @@
       "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
       "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "backdrop_path": "/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
-      "vote_average": 6.8,
-      "vote_count": 200,
+      "vote_average": 6.9,
+      "vote_count": 212,
       "original_language": "en",
       "genre_ids": [
         10749,
@@ -417,34 +480,30 @@
       }
     },
     {
-      "key": "mayday-2026",
-      "tmdb_id": 1137844,
+      "key": "facing-el-chapo-2026",
+      "tmdb_id": 1621552,
       "media": "movie",
-      "title": "Mayday",
-      "original_title": "Mayday",
+      "title": "Facing El Chapo",
+      "original_title": "La captura",
       "year": 2026,
-      "release_date": "2026-09-04",
-      "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-      "poster_path": "/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-      "backdrop_path": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-      "vote_average": 8,
-      "vote_count": 832,
-      "original_language": "en",
+      "release_date": "2026-08-21",
+      "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
+      "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+      "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+      "vote_average": 8.8,
+      "vote_count": 876,
+      "original_language": "es",
       "genre_ids": [
+        80,
         28,
-        35
+        53
       ],
       "providers": {
         "flatrate": [
           {
-            "name": "Apple TV",
-            "slug": "apple-tv",
-            "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
-          },
-          {
-            "name": "Apple TV on Prime",
-            "slug": "apple-tv-on-prime",
-            "logo": "/rerVCu9auZrgxTTiZu1criqrQzg.png"
+            "name": "Netflix",
+            "slug": "netflix",
+            "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
           }
         ],
         "rent": [],
@@ -453,30 +512,65 @@
       }
     },
     {
-      "key": "vishwanath-and-sons-2026",
-      "tmdb_id": 1408162,
+      "key": "scary-movie-2026",
+      "tmdb_id": 1273221,
       "media": "movie",
-      "title": "Vishwanath & Sons",
-      "original_title": "விஸ்வநாத் & சன்ஸ்",
+      "title": "Scary Movie",
+      "original_title": "Scary Movie",
       "year": 2026,
-      "release_date": "2026-08-14",
-      "overview": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
-      "poster_path": "/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
-      "backdrop_path": "/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
-      "vote_average": 7.3,
-      "vote_count": 29,
-      "original_language": "ta",
+      "release_date": "2026-06-03",
+      "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+      "poster_path": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+      "backdrop_path": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+      "vote_average": 6.4,
+      "vote_count": 1986,
+      "original_language": "en",
       "genre_ids": [
-        18,
-        10749,
         35
       ],
       "providers": {
         "flatrate": [
           {
-            "name": "Netflix",
-            "slug": "netflix",
-            "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            "name": "Prime Video",
+            "slug": "prime-video",
+            "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          }
+        ],
+        "rent": [
+          {
+            "name": "Prime Video",
+            "slug": "prime-video",
+            "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+          }
+        ],
+        "buy": [],
+        "free": []
+      }
+    },
+    {
+      "key": "strung-2026",
+      "tmdb_id": 880067,
+      "media": "movie",
+      "title": "Strung",
+      "original_title": "Strung",
+      "year": 2026,
+      "release_date": "2026-06-18",
+      "overview": "A talented violinist's prestigious new role as a music tutor for an enigmatic, elite family spirals into a psychological battle for her safety and sanity.",
+      "poster_path": "/exO0gvoZUXERxUaejyDchobOvjD.jpg",
+      "backdrop_path": "/3yQV8aUxMYeSCVF6R5Q6xcaMZsl.jpg",
+      "vote_average": 7.7,
+      "vote_count": 87,
+      "original_language": "en",
+      "genre_ids": [
+        9648,
+        53
+      ],
+      "providers": {
+        "flatrate": [
+          {
+            "name": "JioHotstar",
+            "slug": "jiohotstar",
+            "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
           }
         ],
         "rent": [],
@@ -496,7 +590,7 @@
       "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
       "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "vote_average": 8.2,
-      "vote_count": 3735,
+      "vote_count": 3770,
       "original_language": "en",
       "genre_ids": [
         10751,
@@ -536,42 +630,6 @@
       }
     },
     {
-      "key": "scary-movie-2026",
-      "tmdb_id": 1273221,
-      "media": "movie",
-      "title": "Scary Movie",
-      "original_title": "Scary Movie",
-      "year": 2026,
-      "release_date": "2026-06-03",
-      "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
-      "poster_path": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
-      "backdrop_path": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-      "vote_average": 6.4,
-      "vote_count": 1954,
-      "original_language": "en",
-      "genre_ids": [
-        35
-      ],
-      "providers": {
-        "flatrate": [
-          {
-            "name": "Prime Video",
-            "slug": "prime-video",
-            "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          }
-        ],
-        "rent": [
-          {
-            "name": "Prime Video",
-            "slug": "prime-video",
-            "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-          }
-        ],
-        "buy": [],
-        "free": []
-      }
-    },
-    {
       "key": "michael-2026",
       "tmdb_id": 936075,
       "media": "movie",
@@ -583,7 +641,7 @@
       "poster_path": "/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
       "backdrop_path": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
       "vote_average": 8.6,
-      "vote_count": 4425,
+      "vote_count": 4480,
       "original_language": "en",
       "genre_ids": [
         10402,
@@ -620,6 +678,70 @@
       }
     },
     {
+      "key": "the-wrecking-crew-2026",
+      "tmdb_id": 1168190,
+      "media": "movie",
+      "title": "The Wrecking Crew",
+      "original_title": "The Wrecking Crew",
+      "year": 2026,
+      "release_date": "2026-01-28",
+      "overview": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+      "poster_path": "/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+      "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+      "vote_average": 7.1,
+      "vote_count": 1299,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        35,
+        80,
+        9648
+      ],
+      "providers": {
+        "flatrate": [
+          {
+            "name": "Prime Video",
+            "slug": "prime-video",
+            "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          }
+        ],
+        "rent": [],
+        "buy": [],
+        "free": []
+      }
+    },
+    {
+      "key": "livestream-from-hell-2026",
+      "tmdb_id": 1437195,
+      "media": "movie",
+      "title": "Livestream from Hell",
+      "original_title": "Livestream from Hell",
+      "year": 2026,
+      "release_date": "2026-09-30",
+      "overview": "When Kevin Hart teams up with fellow comedian, Druski, and streamer, Kai Cenat for a record-breaking livestream at his tech-savvy mansion, things go hilariously off the rails, until the pranks turn to panic, and a real murder mystery unfolds on camera, trapping the trio and their celebrity guests in a high-stakes, horror-comedy whodunnit watched by millions.",
+      "poster_path": "/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
+      "backdrop_path": "/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
+      "vote_average": 5.7,
+      "vote_count": 25,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "providers": {
+        "flatrate": [
+          {
+            "name": "Prime Video",
+            "slug": "prime-video",
+            "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          }
+        ],
+        "rent": [],
+        "buy": [],
+        "free": []
+      }
+    },
+    {
       "key": "masters-of-the-universe-2026",
       "tmdb_id": 454639,
       "media": "movie",
@@ -631,7 +753,7 @@
       "poster_path": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
       "backdrop_path": "/5MUMB3aPEPEQPCIAaygXFUTWE9Y.jpg",
       "vote_average": 7.1,
-      "vote_count": 2178,
+      "vote_count": 2197,
       "original_language": "en",
       "genre_ids": [
         28,
@@ -652,23 +774,24 @@
       }
     },
     {
-      "key": "the-whisper-man-2026",
-      "tmdb_id": 860508,
+      "key": "swapped-2026",
+      "tmdb_id": 1007757,
       "media": "movie",
-      "title": "The Whisper Man",
-      "original_title": "The Whisper Man",
+      "title": "Swapped",
+      "original_title": "Swapped",
       "year": 2026,
-      "release_date": "2026-08-28",
-      "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-      "poster_path": "/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
-      "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
-      "vote_average": 6.9,
-      "vote_count": 818,
+      "release_date": "2026-05-01",
+      "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
+      "poster_path": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+      "backdrop_path": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+      "vote_average": 8.9,
+      "vote_count": 2224,
       "original_language": "en",
       "genre_ids": [
-        80,
-        18,
-        53
+        12,
+        16,
+        10751,
+        14
       ],
       "providers": {
         "flatrate": [
@@ -695,7 +818,7 @@
       "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
       "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "vote_average": 8.1,
-      "vote_count": 2376,
+      "vote_count": 2395,
       "original_language": "en",
       "genre_ids": [
         12,
@@ -703,69 +826,6 @@
         35,
         10751,
         878
-      ],
-      "providers": {
-        "flatrate": [
-          {
-            "name": "JioHotstar",
-            "slug": "jiohotstar",
-            "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
-          }
-        ],
-        "rent": [],
-        "buy": [],
-        "free": []
-      }
-    },
-    {
-      "key": "the-punisher-one-last-kill-2026",
-      "tmdb_id": 1439930,
-      "media": "movie",
-      "title": "The Punisher: One Last Kill",
-      "original_title": "The Punisher: One Last Kill",
-      "year": 2026,
-      "release_date": "2026-05-13",
-      "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
-      "poster_path": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
-      "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
-      "vote_average": 8.3,
-      "vote_count": 2273,
-      "original_language": "en",
-      "genre_ids": [
-        28,
-        18,
-        80
-      ],
-      "providers": {
-        "flatrate": [
-          {
-            "name": "JioHotstar",
-            "slug": "jiohotstar",
-            "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
-          }
-        ],
-        "rent": [],
-        "buy": [],
-        "free": []
-      }
-    },
-    {
-      "key": "the-devil-wears-prada-2-2026",
-      "tmdb_id": 1314481,
-      "media": "movie",
-      "title": "The Devil Wears Prada 2",
-      "original_title": "The Devil Wears Prada 2",
-      "year": 2026,
-      "release_date": "2026-05-01",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
-      "vote_average": 7,
-      "vote_count": 2372,
-      "original_language": "en",
-      "genre_ids": [
-        35,
-        18
       ],
       "providers": {
         "flatrate": [
@@ -792,7 +852,7 @@
       "poster_path": "/cv7DeQQ7TOozPoTCBdNJIvWKhU1.jpg",
       "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
       "vote_average": 7.8,
-      "vote_count": 1914,
+      "vote_count": 1939,
       "original_language": "en",
       "genre_ids": [
         28,
@@ -824,30 +884,29 @@
       }
     },
     {
-      "key": "war-machine-2026",
-      "tmdb_id": 1265609,
+      "key": "the-devil-wears-prada-2-2026",
+      "tmdb_id": 1314481,
       "media": "movie",
-      "title": "War Machine",
-      "original_title": "War Machine",
+      "title": "The Devil Wears Prada 2",
+      "original_title": "The Devil Wears Prada 2",
       "year": 2026,
-      "release_date": "2026-03-06",
-      "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-      "poster_path": "/ril8yx5SOmj0KjNlftsdfIp00fr.jpg",
-      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
-      "vote_average": 7.5,
-      "vote_count": 2523,
+      "release_date": "2026-05-01",
+      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "backdrop_path": "/dRoFlUbH1l51ACmx5oPCI3jfvZq.jpg",
+      "vote_average": 7,
+      "vote_count": 2397,
       "original_language": "en",
       "genre_ids": [
-        28,
-        878,
-        53
+        35,
+        18
       ],
       "providers": {
         "flatrate": [
           {
-            "name": "Netflix",
-            "slug": "netflix",
-            "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            "name": "JioHotstar",
+            "slug": "jiohotstar",
+            "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
           }
         ],
         "rent": [],
@@ -856,31 +915,66 @@
       }
     },
     {
-      "key": "swapped-2026",
-      "tmdb_id": 1007757,
+      "key": "mayday-2026",
+      "tmdb_id": 1137844,
       "media": "movie",
-      "title": "Swapped",
-      "original_title": "Swapped",
+      "title": "Mayday",
+      "original_title": "Mayday",
       "year": 2026,
-      "release_date": "2026-05-01",
-      "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
-      "poster_path": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-      "backdrop_path": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-      "vote_average": 8.9,
-      "vote_count": 2210,
+      "release_date": "2026-09-04",
+      "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+      "poster_path": "/sKIO6oO1GRCVt9Ag2iIBAdCjUj.jpg",
+      "backdrop_path": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+      "vote_average": 8,
+      "vote_count": 904,
       "original_language": "en",
       "genre_ids": [
-        12,
-        16,
-        10751,
-        14
+        28,
+        35
       ],
       "providers": {
         "flatrate": [
           {
-            "name": "Netflix",
-            "slug": "netflix",
-            "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            "name": "Apple TV",
+            "slug": "apple-tv",
+            "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+          },
+          {
+            "name": "Apple TV on Prime",
+            "slug": "apple-tv-on-prime",
+            "logo": "/rerVCu9auZrgxTTiZu1criqrQzg.png"
+          }
+        ],
+        "rent": [],
+        "buy": [],
+        "free": []
+      }
+    },
+    {
+      "key": "the-punisher-one-last-kill-2026",
+      "tmdb_id": 1439930,
+      "media": "movie",
+      "title": "The Punisher: One Last Kill",
+      "original_title": "The Punisher: One Last Kill",
+      "year": 2026,
+      "release_date": "2026-05-13",
+      "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+      "poster_path": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+      "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+      "vote_average": 8.3,
+      "vote_count": 2300,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        18,
+        80
+      ],
+      "providers": {
+        "flatrate": [
+          {
+            "name": "JioHotstar",
+            "slug": "jiohotstar",
+            "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
           }
         ],
         "rent": [],
@@ -900,7 +994,7 @@
       "poster_path": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
       "vote_average": 8.1,
-      "vote_count": 1100,
+      "vote_count": 1109,
       "original_language": "en",
       "genre_ids": [
         16,
@@ -938,52 +1032,23 @@
       }
     },
     {
-      "key": "in-the-grey-2026",
-      "tmdb_id": 1122573,
+      "key": "war-machine-2026",
+      "tmdb_id": 1265609,
       "media": "movie",
-      "title": "In the Grey",
-      "original_title": "In the Grey",
+      "title": "War Machine",
+      "original_title": "War Machine",
       "year": 2026,
-      "release_date": "2026-05-13",
-      "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
-      "poster_path": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
-      "backdrop_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
-      "vote_average": 7.6,
-      "vote_count": 1041,
+      "release_date": "2026-03-06",
+      "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+      "poster_path": "/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+      "vote_average": 7.5,
+      "vote_count": 2554,
       "original_language": "en",
       "genre_ids": [
         28,
+        878,
         53
-      ],
-      "providers": {
-        "flatrate": [
-          {
-            "name": "Prime Video",
-            "slug": "prime-video",
-            "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          }
-        ],
-        "rent": [],
-        "buy": [],
-        "free": []
-      }
-    },
-    {
-      "key": "best-of-the-best-2026",
-      "tmdb_id": 1514863,
-      "media": "movie",
-      "title": "Best of the Best",
-      "original_title": "Best of the Best",
-      "year": 2026,
-      "release_date": "2026-09-18",
-      "overview": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
-      "poster_path": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
-      "backdrop_path": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
-      "vote_average": 5.3,
-      "vote_count": 66,
-      "original_language": "en",
-      "genre_ids": [
-        35
       ],
       "providers": {
         "flatrate": [
@@ -999,94 +1064,30 @@
       }
     },
     {
-      "key": "the-sheep-detectives-2026",
-      "tmdb_id": 1301421,
+      "key": "the-whisper-man-2026",
+      "tmdb_id": 860508,
       "media": "movie",
-      "title": "The Sheep Detectives",
-      "original_title": "The Sheep Detectives",
+      "title": "The Whisper Man",
+      "original_title": "The Whisper Man",
       "year": 2026,
-      "release_date": "2026-05-08",
-      "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
-      "poster_path": "/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
-      "backdrop_path": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
-      "vote_average": 7.9,
-      "vote_count": 1726,
-      "original_language": "en",
-      "genre_ids": [
-        35,
-        10751,
-        9648
-      ],
-      "providers": {
-        "flatrate": [
-          {
-            "name": "Prime Video",
-            "slug": "prime-video",
-            "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          }
-        ],
-        "rent": [],
-        "buy": [],
-        "free": []
-      }
-    },
-    {
-      "key": "the-wrecking-crew-2026",
-      "tmdb_id": 1168190,
-      "media": "movie",
-      "title": "The Wrecking Crew",
-      "original_title": "The Wrecking Crew",
-      "year": 2026,
-      "release_date": "2026-01-28",
-      "overview": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
-      "poster_path": "/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
-      "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
-      "vote_average": 7.1,
-      "vote_count": 1290,
-      "original_language": "en",
-      "genre_ids": [
-        28,
-        35,
-        80,
-        9648
-      ],
-      "providers": {
-        "flatrate": [
-          {
-            "name": "Prime Video",
-            "slug": "prime-video",
-            "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          }
-        ],
-        "rent": [],
-        "buy": [],
-        "free": []
-      }
-    },
-    {
-      "key": "crime-101-2026",
-      "tmdb_id": 1171145,
-      "media": "movie",
-      "title": "Crime 101",
-      "original_title": "Crime 101",
-      "year": 2026,
-      "release_date": "2026-02-13",
-      "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
-      "poster_path": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
-      "backdrop_path": "/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
-      "vote_average": 7,
-      "vote_count": 1380,
+      "release_date": "2026-08-28",
+      "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+      "poster_path": "/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+      "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+      "vote_average": 6.9,
+      "vote_count": 854,
       "original_language": "en",
       "genre_ids": [
         80,
+        18,
         53
       ],
       "providers": {
         "flatrate": [
           {
-            "name": "Prime Video",
-            "slug": "prime-video",
-            "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            "name": "Netflix",
+            "slug": "netflix",
+            "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
           }
         ],
         "rent": [],
@@ -1095,72 +1096,18 @@
       }
     },
     {
-      "key": "greenland-2-migration-2026",
-      "tmdb_id": 840464,
+      "key": "in-the-grey-2026",
+      "tmdb_id": 1122573,
       "media": "movie",
-      "title": "Greenland 2: Migration",
-      "original_title": "Greenland 2: Migration",
+      "title": "In the Grey",
+      "original_title": "In the Grey",
       "year": 2026,
-      "release_date": "2026-01-09",
-      "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-      "poster_path": "/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
-      "backdrop_path": "/cLFbDVfhllIMybpo2fkGNzehiQG.jpg",
-      "vote_average": 6.4,
-      "vote_count": 1565,
-      "original_language": "en",
-      "genre_ids": [
-        12,
-        53,
-        878
-      ],
-      "providers": {
-        "flatrate": [
-          {
-            "name": "Lionsgate Play on Apple TV",
-            "slug": "lionsgate-play-on-apple-tv",
-            "logo": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png"
-          },
-          {
-            "name": "Lionsgate Play on Prime",
-            "slug": "lionsgate-play-on-prime",
-            "logo": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png"
-          }
-        ],
-        "rent": [
-          {
-            "name": "Apple TV Store",
-            "slug": "apple-tv-store",
-            "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-          },
-          {
-            "name": "Prime Video",
-            "slug": "prime-video",
-            "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-          }
-        ],
-        "buy": [
-          {
-            "name": "Apple TV Store",
-            "slug": "apple-tv-store",
-            "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-          }
-        ],
-        "free": []
-      }
-    },
-    {
-      "key": "tom-clancys-jack-ryan-ghost-war-2026",
-      "tmdb_id": 1380291,
-      "media": "movie",
-      "title": "Tom Clancy's Jack Ryan: Ghost War",
-      "original_title": "Tom Clancy's Jack Ryan: Ghost War",
-      "year": 2026,
-      "release_date": "2026-05-20",
-      "overview": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
-      "poster_path": "/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
-      "backdrop_path": "/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
-      "vote_average": 6.9,
-      "vote_count": 789,
+      "release_date": "2026-05-13",
+      "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+      "poster_path": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+      "backdrop_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+      "vote_average": 7.6,
+      "vote_count": 1080,
       "original_language": "en",
       "genre_ids": [
         28,
@@ -1191,7 +1138,7 @@
       "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
       "backdrop_path": "/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
       "vote_average": 6.2,
-      "vote_count": 1311,
+      "vote_count": 1326,
       "original_language": "en",
       "genre_ids": [
         27,
@@ -1229,90 +1176,81 @@
       }
     },
     {
-      "key": "apex-2026",
-      "tmdb_id": 1318447,
+      "key": "greenland-2-migration-2026",
+      "tmdb_id": 840464,
       "media": "movie",
-      "title": "Apex",
-      "original_title": "Apex",
+      "title": "Greenland 2: Migration",
+      "original_title": "Greenland 2: Migration",
       "year": 2026,
-      "release_date": "2026-04-24",
-      "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-      "poster_path": "/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
-      "backdrop_path": "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
-      "vote_average": 6.9,
-      "vote_count": 1951,
+      "release_date": "2026-01-09",
+      "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
+      "poster_path": "/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+      "backdrop_path": "/cLFbDVfhllIMybpo2fkGNzehiQG.jpg",
+      "vote_average": 6.4,
+      "vote_count": 1581,
       "original_language": "en",
       "genre_ids": [
-        28,
-        53
+        12,
+        53,
+        878
       ],
       "providers": {
         "flatrate": [
           {
-            "name": "Netflix",
-            "slug": "netflix",
-            "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            "name": "Lionsgate Play on Apple TV",
+            "slug": "lionsgate-play-on-apple-tv",
+            "logo": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png"
+          },
+          {
+            "name": "Lionsgate Play on Prime",
+            "slug": "lionsgate-play-on-prime",
+            "logo": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png"
           }
         ],
-        "rent": [],
-        "buy": [],
+        "rent": [
+          {
+            "name": "Apple TV Store",
+            "slug": "apple-tv-store",
+            "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+          },
+          {
+            "name": "Prime Video",
+            "slug": "prime-video",
+            "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+          }
+        ],
+        "buy": [
+          {
+            "name": "Apple TV Store",
+            "slug": "apple-tv-store",
+            "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+          }
+        ],
         "free": []
       }
     },
     {
-      "key": "send-help-2026",
-      "tmdb_id": 1198994,
+      "key": "vishwanath-and-sons-2026",
+      "tmdb_id": 1408162,
       "media": "movie",
-      "title": "Send Help",
-      "original_title": "Send Help",
+      "title": "Vishwanath & Sons",
+      "original_title": "விஸ்வநாத் & சன்ஸ்",
       "year": 2026,
-      "release_date": "2026-01-30",
-      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-      "poster_path": "/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
-      "backdrop_path": "/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg",
-      "vote_average": 7,
-      "vote_count": 2333,
-      "original_language": "en",
+      "release_date": "2026-08-14",
+      "overview": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
+      "poster_path": "/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
+      "backdrop_path": "/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
+      "vote_average": 7.1,
+      "vote_count": 32,
+      "original_language": "ta",
       "genre_ids": [
-        27,
-        53,
+        18,
+        10749,
         35
       ],
       "providers": {
         "flatrate": [
           {
-            "name": "JioHotstar",
-            "slug": "jiohotstar",
-            "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
-          }
-        ],
-        "rent": [],
-        "buy": [],
-        "free": []
-      }
-    },
-    {
-      "key": "irumudi-2026",
-      "tmdb_id": 1441228,
-      "media": "movie",
-      "title": "Irumudi",
-      "original_title": "ఇరుముడి",
-      "year": 2026,
-      "release_date": "2026-08-21",
-      "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
-      "poster_path": "/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
-      "backdrop_path": "/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
-      "vote_average": 6.6,
-      "vote_count": 23,
-      "original_language": "te",
-      "genre_ids": [
-        18,
-        10751,
-        28
-      ],
-      "providers": {
-        "flatrate": [
-          {
             "name": "Netflix",
             "slug": "netflix",
             "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
@@ -1324,22 +1262,85 @@
       }
     },
     {
-      "key": "the-desert-child-2026",
-      "tmdb_id": 1266800,
+      "key": "the-sheep-detectives-2026",
+      "tmdb_id": 1301421,
       "media": "movie",
-      "title": "The Desert Child",
-      "original_title": "L'enfant du désert",
+      "title": "The Sheep Detectives",
+      "original_title": "The Sheep Detectives",
       "year": 2026,
-      "release_date": "2026-04-08",
-      "overview": "14-year-old Sun has written and successfully published a story based on an incredible story told by her late grandfather about a wild child called Hadara, who is saved by a group of ostriches when he becomes separated from his family in a storm, and is then raised in the desert amid a host of wild animals, including his best friend, a desert fox. When Sun is invited to travel to the Sahara by a local community who has heard about her book, she meets Kharouba, a Nomad girl of her own age, and realizes there may be much more to Hadara than just a character in a bedtime story.",
-      "poster_path": "/8qPtHYpeRgRQUDVYk5M8X37Rkbb.jpg",
-      "backdrop_path": "/raTby3MY67GCHiF1S0VSwq01fds.jpg",
-      "vote_average": 7.6,
-      "vote_count": 29,
-      "original_language": "fr",
+      "release_date": "2026-05-08",
+      "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+      "poster_path": "/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
+      "backdrop_path": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+      "vote_average": 7.9,
+      "vote_count": 1752,
+      "original_language": "en",
       "genre_ids": [
-        12,
-        10751
+        35,
+        10751,
+        9648
+      ],
+      "providers": {
+        "flatrate": [
+          {
+            "name": "Prime Video",
+            "slug": "prime-video",
+            "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          }
+        ],
+        "rent": [],
+        "buy": [],
+        "free": []
+      }
+    },
+    {
+      "key": "crime-101-2026",
+      "tmdb_id": 1171145,
+      "media": "movie",
+      "title": "Crime 101",
+      "original_title": "Crime 101",
+      "year": 2026,
+      "release_date": "2026-02-13",
+      "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+      "poster_path": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+      "backdrop_path": "/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
+      "vote_average": 7,
+      "vote_count": 1400,
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        53
+      ],
+      "providers": {
+        "flatrate": [
+          {
+            "name": "Prime Video",
+            "slug": "prime-video",
+            "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          }
+        ],
+        "rent": [],
+        "buy": [],
+        "free": []
+      }
+    },
+    {
+      "key": "tom-clancys-jack-ryan-ghost-war-2026",
+      "tmdb_id": 1380291,
+      "media": "movie",
+      "title": "Tom Clancy's Jack Ryan: Ghost War",
+      "original_title": "Tom Clancy's Jack Ryan: Ghost War",
+      "year": 2026,
+      "release_date": "2026-05-20",
+      "overview": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
+      "poster_path": "/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
+      "backdrop_path": "/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
+      "vote_average": 6.9,
+      "vote_count": 798,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53
       ],
       "providers": {
         "flatrate": [
@@ -1366,7 +1367,7 @@
       "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
       "vote_average": 6.8,
-      "vote_count": 1412,
+      "vote_count": 1449,
       "original_language": "en",
       "genre_ids": [
         27,
@@ -1387,21 +1388,21 @@
       }
     },
     {
-      "key": "vengeance-2026",
-      "tmdb_id": 1613798,
+      "key": "the-devils-mouth-2026",
+      "tmdb_id": 1481343,
       "media": "movie",
-      "title": "Vengeance",
-      "original_title": "Venganza",
+      "title": "The Devil's Mouth",
+      "original_title": "The Devil's Mouth",
       "year": 2026,
-      "release_date": "2026-02-26",
-      "overview": "The brutal murder of the wife of “Toro,” a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
-      "poster_path": "/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
-      "backdrop_path": "/xyW8rJO3rwG2EGcTO6eaUEa8b9d.jpg",
-      "vote_average": 7.5,
-      "vote_count": 317,
-      "original_language": "es",
+      "release_date": "2026-07-29",
+      "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+      "poster_path": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+      "backdrop_path": "/pLyaH6k69OJHnONSmN3R7Peh6HE.jpg",
+      "vote_average": 6.5,
+      "vote_count": 808,
+      "original_language": "en",
       "genre_ids": [
-        28,
+        27,
         53
       ],
       "providers": {
@@ -1418,22 +1419,42 @@
       }
     },
     {
-      "key": "ready-or-not-here-i-come-2026",
-      "tmdb_id": 1266127,
+      "key": "send-help-2026",
+      "tmdb_id": 1198994,
       "media": "movie",
-      "title": "Ready or Not: Here I Come",
-      "original_title": "Ready or Not: Here I Come",
+      "title": "Send Help",
+      "original_title": "Send Help",
       "year": 2026,
-      "release_date": "2026-04-03",
-      "overview": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
-      "poster_path": "/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
-      "backdrop_path": "/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
-      "vote_average": 7.6,
-      "vote_count": 1674,
+      "release_date": "2026-01-30",
+      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+      "poster_path": "/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
+      "backdrop_path": "/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg",
+      "vote_average": 7,
+      "vote_count": 2367,
       "original_language": "en",
       "genre_ids": [
         27,
+        53,
         35
+      ]
+    },
+    {
+      "key": "apex-2026",
+      "tmdb_id": 1318447,
+      "media": "movie",
+      "title": "Apex",
+      "original_title": "Apex",
+      "year": 2026,
+      "release_date": "2026-04-24",
+      "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+      "poster_path": "/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+      "backdrop_path": "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+      "vote_average": 6.9,
+      "vote_count": 1971,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53
       ]
     },
     {
@@ -1448,7 +1469,7 @@
       "poster_path": "/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg",
       "backdrop_path": "/kwNIQW7egAmI66sb0zIugMbpCfU.jpg",
       "vote_average": 7.1,
-      "vote_count": 1946,
+      "vote_count": 1960,
       "original_language": "en",
       "genre_ids": [
         28,
@@ -1457,25 +1478,238 @@
       ]
     },
     {
-      "key": "lego-star-wars-the-mandalorian-2026",
-      "tmdb_id": 1731694,
+      "key": "seven-snipers-2026",
+      "tmdb_id": 1288341,
       "media": "movie",
-      "title": "LEGO Star Wars: The Mandalorian",
-      "original_title": "LEGO Star Wars: The Mandalorian",
+      "title": "Seven Snipers",
+      "original_title": "Seven Snipers",
       "year": 2026,
-      "release_date": "2026-09-02",
-      "overview": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adventures, a pirate threat looms.",
-      "poster_path": "/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
-      "backdrop_path": "/upecGaCuQOIbSpdz85mrJ395UMg.jpg",
-      "vote_average": 6.9,
-      "vote_count": 32,
+      "release_date": "2026-04-30",
+      "overview": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
+      "poster_path": "/qvcq0thb9oPwv6JG2nsTgr9LlLb.jpg",
+      "backdrop_path": "/g2aOpyCO1vEyUZURh3V5uaHu187.jpg",
+      "vote_average": 5.9,
+      "vote_count": 157,
       "original_language": "en",
       "genre_ids": [
-        16,
+        28,
+        53
+      ]
+    },
+    {
+      "key": "the-bride-2026",
+      "tmdb_id": 1159831,
+      "media": "movie",
+      "title": "The Bride!",
+      "original_title": "The Bride!",
+      "year": 2026,
+      "release_date": "2026-03-06",
+      "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
+      "poster_path": "/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+      "backdrop_path": "/uXgWbwxmCW6XZ3ylRThk9Sqhwwq.jpg",
+      "vote_average": 6.1,
+      "vote_count": 673,
+      "original_language": "en",
+      "genre_ids": [
         878,
+        27,
+        14
+      ]
+    },
+    {
+      "key": "28-years-later-the-bone-temple-2026",
+      "tmdb_id": 1272837,
+      "media": "movie",
+      "title": "28 Years Later: The Bone Temple",
+      "original_title": "28 Years Later: The Bone Temple",
+      "year": 2026,
+      "release_date": "2026-01-16",
+      "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
+      "poster_path": "/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+      "backdrop_path": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+      "vote_average": 7.1,
+      "vote_count": 1809,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        53,
+        878
+      ]
+    },
+    {
+      "key": "pretty-lethal-2026",
+      "tmdb_id": 1084187,
+      "media": "movie",
+      "title": "Pretty Lethal",
+      "original_title": "Pretty Lethal",
+      "year": 2026,
+      "release_date": "2026-03-13",
+      "overview": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.",
+      "poster_path": "/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
+      "backdrop_path": "/z3bzhmC0CPikWeerUkLO73YvGrC.jpg",
+      "vote_average": 6.8,
+      "vote_count": 529,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53,
+        27
+      ]
+    },
+    {
+      "key": "return-to-silent-hill-2026",
+      "tmdb_id": 680493,
+      "media": "movie",
+      "title": "Return to Silent Hill",
+      "original_title": "Return to Silent Hill",
+      "year": 2026,
+      "release_date": "2026-01-23",
+      "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
+      "poster_path": "/mdw7bSnE11WpwWf3ViXtnavuqiT.jpg",
+      "backdrop_path": "/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
+      "vote_average": 5.3,
+      "vote_count": 867,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        9648
+      ]
+    },
+    {
+      "key": "ready-or-not-here-i-come-2026",
+      "tmdb_id": 1266127,
+      "media": "movie",
+      "title": "Ready or Not: Here I Come",
+      "original_title": "Ready or Not: Here I Come",
+      "year": 2026,
+      "release_date": "2026-04-03",
+      "overview": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+      "poster_path": "/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
+      "backdrop_path": "/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
+      "vote_average": 7.5,
+      "vote_count": 1694,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        35
+      ]
+    },
+    {
+      "key": "the-desert-child-2026",
+      "tmdb_id": 1266800,
+      "media": "movie",
+      "title": "The Desert Child",
+      "original_title": "L'enfant du désert",
+      "year": 2026,
+      "release_date": "2026-04-08",
+      "overview": "14-year-old Sun has written and successfully published a story based on an incredible story told by her late grandfather about a wild child called Hadara, who is saved by a group of ostriches when he becomes separated from his family in a storm, and is then raised in the desert amid a host of wild animals, including his best friend, a desert fox. When Sun is invited to travel to the Sahara by a local community who has heard about her book, she meets Kharouba, a Nomad girl of her own age, and realizes there may be much more to Hadara than just a character in a bedtime story.",
+      "poster_path": "/8qPtHYpeRgRQUDVYk5M8X37Rkbb.jpg",
+      "backdrop_path": "/raTby3MY67GCHiF1S0VSwq01fds.jpg",
+      "vote_average": 7.4,
+      "vote_count": 30,
+      "original_language": "fr",
+      "genre_ids": [
         12,
+        10751
+      ]
+    },
+    {
+      "key": "wuthering-heights-2026",
+      "tmdb_id": 1316092,
+      "media": "movie",
+      "title": "“Wuthering Heights”",
+      "original_title": "“Wuthering Heights”",
+      "year": 2026,
+      "release_date": "2026-02-12",
+      "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+      "poster_path": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+      "backdrop_path": "/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg",
+      "vote_average": 6.6,
+      "vote_count": 1386,
+      "original_language": "en",
+      "genre_ids": [
+        10749,
+        18,
+        36
+      ]
+    },
+    {
+      "key": "normal-2026",
+      "tmdb_id": 1242332,
+      "media": "movie",
+      "title": "Normal",
+      "original_title": "Normal",
+      "year": 2026,
+      "release_date": "2026-04-17",
+      "overview": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+      "poster_path": "/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
+      "backdrop_path": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+      "vote_average": 7.2,
+      "vote_count": 649,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ]
+    },
+    {
+      "key": "vengeance-2026",
+      "tmdb_id": 1613798,
+      "media": "movie",
+      "title": "Vengeance",
+      "original_title": "Venganza",
+      "year": 2026,
+      "release_date": "2026-02-26",
+      "overview": "The brutal murder of the wife of “Toro,” a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
+      "poster_path": "/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
+      "backdrop_path": "/xyW8rJO3rwG2EGcTO6eaUEa8b9d.jpg",
+      "vote_average": 7.5,
+      "vote_count": 323,
+      "original_language": "es",
+      "genre_ids": [
+        28,
+        53
+      ]
+    },
+    {
+      "key": "undertone-2026",
+      "tmdb_id": 1480387,
+      "media": "movie",
+      "title": "undertone",
+      "original_title": "undertone",
+      "year": 2026,
+      "release_date": "2026-07-11",
+      "overview": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
+      "poster_path": "/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
+      "backdrop_path": "/4BSJVRQ3EsHMIVZSiKz1l58jDhg.jpg",
+      "vote_average": 6,
+      "vote_count": 686,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        9648
+      ]
+    },
+    {
+      "key": "descendants-wicked-wonderland-2026",
+      "tmdb_id": 1318621,
+      "media": "movie",
+      "title": "Descendants: Wicked Wonderland",
+      "original_title": "Descendants: Wicked Wonderland",
+      "year": 2026,
+      "release_date": "2026-07-17",
+      "overview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe… But little do they know that changing the past created a new villain — Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work alongside Red’s new sister Pink, Luisa Madrigal’s son Luis, and Maddox’s son Max to save her and Wonderland.",
+      "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
+      "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
+      "vote_average": 7.5,
+      "vote_count": 188,
+      "original_language": "en",
+      "genre_ids": [
+        14,
+        10770,
         10751,
-        28
+        12
       ]
     },
     {
@@ -1498,181 +1732,42 @@
       ]
     },
     {
-      "key": "pretty-lethal-2026",
-      "tmdb_id": 1084187,
+      "key": "jackass-best-and-last-2026",
+      "tmdb_id": 1612018,
       "media": "movie",
-      "title": "Pretty Lethal",
-      "original_title": "Pretty Lethal",
+      "title": "Jackass: Best and Last",
+      "original_title": "Jackass: Best and Last",
       "year": 2026,
-      "release_date": "2026-03-13",
-      "overview": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.",
-      "poster_path": "/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
-      "backdrop_path": "/z3bzhmC0CPikWeerUkLO73YvGrC.jpg",
-      "vote_average": 6.8,
-      "vote_count": 508,
+      "release_date": "2026-06-25",
+      "overview": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
+      "poster_path": "/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+      "backdrop_path": "/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
+      "vote_average": 7.4,
+      "vote_count": 264,
       "original_language": "en",
       "genre_ids": [
         28,
-        53,
-        27
+        35,
+        99
       ]
     },
     {
-      "key": "seven-snipers-2026",
-      "tmdb_id": 1288341,
+      "key": "the-breadwinner-2026",
+      "tmdb_id": 1440050,
       "media": "movie",
-      "title": "Seven Snipers",
-      "original_title": "Seven Snipers",
+      "title": "The Breadwinner",
+      "original_title": "The Breadwinner",
       "year": 2026,
-      "release_date": "2026-04-30",
-      "overview": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
-      "poster_path": "/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg",
-      "backdrop_path": "/g2aOpyCO1vEyUZURh3V5uaHu187.jpg",
-      "vote_average": 6,
-      "vote_count": 141,
-      "original_language": "en",
-      "genre_ids": [
-        28,
-        53
-      ]
-    },
-    {
-      "key": "28-years-later-the-bone-temple-2026",
-      "tmdb_id": 1272837,
-      "media": "movie",
-      "title": "28 Years Later: The Bone Temple",
-      "original_title": "28 Years Later: The Bone Temple",
-      "year": 2026,
-      "release_date": "2026-01-16",
-      "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
-      "poster_path": "/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
-      "backdrop_path": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+      "release_date": "2026-05-29",
+      "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
+      "poster_path": "/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
+      "backdrop_path": "/dgqBcgTzaUiSLvKJPDF9AbdFEMO.jpg",
       "vote_average": 7.1,
-      "vote_count": 1780,
+      "vote_count": 109,
       "original_language": "en",
       "genre_ids": [
-        27,
-        53,
-        878
-      ]
-    },
-    {
-      "key": "the-devils-mouth-2026",
-      "tmdb_id": 1481343,
-      "media": "movie",
-      "title": "The Devil's Mouth",
-      "original_title": "The Devil's Mouth",
-      "year": 2026,
-      "release_date": "2026-07-29",
-      "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
-      "poster_path": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-      "backdrop_path": "/pLyaH6k69OJHnONSmN3R7Peh6HE.jpg",
-      "vote_average": 6.5,
-      "vote_count": 802,
-      "original_language": "en",
-      "genre_ids": [
-        27,
-        53
-      ]
-    },
-    {
-      "key": "descendants-wicked-wonderland-2026",
-      "tmdb_id": 1318621,
-      "media": "movie",
-      "title": "Descendants: Wicked Wonderland",
-      "original_title": "Descendants: Wicked Wonderland",
-      "year": 2026,
-      "release_date": "2026-07-17",
-      "overview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe… But little do they know that changing the past created a new villain — Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work alongside Red’s new sister Pink, Luisa Madrigal’s son Luis, and Maddox’s son Max to save her and Wonderland.",
-      "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-      "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
-      "vote_average": 7.5,
-      "vote_count": 183,
-      "original_language": "en",
-      "genre_ids": [
-        14,
-        10770,
-        10751,
-        12
-      ]
-    },
-    {
-      "key": "elize-shadows-of-a-woman-2026",
-      "tmdb_id": 1487861,
-      "media": "movie",
-      "title": "Elize: Shadows of a Woman",
-      "original_title": "Elize: Sombras de uma Mulher",
-      "year": 2026,
-      "release_date": "2026-07-22",
-      "overview": "In this retelling of a real case, a former escort discovers her wealthy husband's infidelity and struggles to cope as betrayal poisons their marriage.",
-      "poster_path": "/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
-      "backdrop_path": "/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
-      "vote_average": 7.5,
-      "vote_count": 216,
-      "original_language": "pt",
-      "genre_ids": [
-        53,
-        80,
-        18
-      ]
-    },
-    {
-      "key": "wuthering-heights-2026",
-      "tmdb_id": 1316092,
-      "media": "movie",
-      "title": "“Wuthering Heights”",
-      "original_title": "“Wuthering Heights”",
-      "year": 2026,
-      "release_date": "2026-02-12",
-      "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
-      "poster_path": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
-      "backdrop_path": "/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg",
-      "vote_average": 6.6,
-      "vote_count": 1368,
-      "original_language": "en",
-      "genre_ids": [
-        10749,
-        18,
-        36
-      ]
-    },
-    {
-      "key": "return-to-silent-hill-2026",
-      "tmdb_id": 680493,
-      "media": "movie",
-      "title": "Return to Silent Hill",
-      "original_title": "Return to Silent Hill",
-      "year": 2026,
-      "release_date": "2026-01-23",
-      "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
-      "poster_path": "/mdw7bSnE11WpwWf3ViXtnavuqiT.jpg",
-      "backdrop_path": "/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
-      "vote_average": 5.3,
-      "vote_count": 854,
-      "original_language": "en",
-      "genre_ids": [
-        27,
-        9648
-      ]
-    },
-    {
-      "key": "the-bride-2026",
-      "tmdb_id": 1159831,
-      "media": "movie",
-      "title": "The Bride!",
-      "original_title": "The Bride!",
-      "year": 2026,
-      "release_date": "2026-03-06",
-      "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
-      "poster_path": "/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-      "backdrop_path": "/uXgWbwxmCW6XZ3ylRThk9Sqhwwq.jpg",
-      "vote_average": 6.1,
-      "vote_count": 665,
-      "original_language": "en",
-      "genre_ids": [
-        878,
-        27,
-        14
+        35,
+        10751
       ]
     },
     {
@@ -1687,7 +1782,7 @@
       "poster_path": "/x6dsUKxz8O5rD3lzayJgvFpW58s.jpg",
       "backdrop_path": "/5Af8qDOesFEspcnsjIRUDwQZaYQ.jpg",
       "vote_average": 6,
-      "vote_count": 92,
+      "vote_count": 96,
       "original_language": "en",
       "genre_ids": [
         27,
@@ -1695,431 +1790,27 @@
       ]
     },
     {
-      "key": "the-debt-collector-2026",
-      "tmdb_id": 1630409,
+      "key": "over-your-dead-body-2026",
+      "tmdb_id": 1390300,
       "media": "movie",
-      "title": "The Debt Collector",
-      "original_title": "คนเดือดทวงแค้น",
+      "title": "Over Your Dead Body",
+      "original_title": "Over Your Dead Body",
       "year": 2026,
-      "release_date": "2026-07-20",
-      "overview": "Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization.",
-      "poster_path": "/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg",
-      "backdrop_path": "/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
-      "vote_average": 7.9,
-      "vote_count": 140,
-      "original_language": "th",
-      "genre_ids": [
-        28,
-        53,
-        80
-      ]
-    },
-    {
-      "key": "snoopy-presents-theres-no-place-like-home-snoopy-2026",
-      "tmdb_id": 1698575,
-      "media": "movie",
-      "title": "Snoopy Presents: There's No Place Like Home, Snoopy",
-      "original_title": "Snoopy Presents: There's No Place Like Home, Snoopy",
-      "year": 2026,
-      "release_date": "2026-07-31",
-      "overview": "When Snoopy's beloved doghouse goes missing, he tries to track it down, and learns what makes a house feel like home.",
-      "poster_path": "/YbC4SlzE030BgxWdKDdlatMh5W.jpg",
-      "backdrop_path": "/kpq5o3WbnTos5fQwtyfyOHwSMdm.jpg",
-      "vote_average": 8.5,
-      "vote_count": 41,
-      "original_language": "en",
-      "genre_ids": [
-        16,
-        10751
-      ]
-    },
-    {
-      "key": "the-secret-woman-2026",
-      "tmdb_id": 1631807,
-      "media": "movie",
-      "title": "The Secret Woman",
-      "original_title": "Den hemmelige kvinde",
-      "year": 2026,
-      "release_date": "2026-08-28",
-      "overview": "After discovering she has a family and a shipping empire, a woman with amnesia returns to a wealthy and seemingly perfect past to uncover why she left.",
-      "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
-      "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
+      "release_date": "2026-03-14",
+      "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
+      "poster_path": "/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
+      "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
       "vote_average": 6.4,
-      "vote_count": 131,
-      "original_language": "da",
-      "genre_ids": [
-        18,
-        53,
-        9648
-      ]
-    },
-    {
-      "key": "bury-the-devil-2026",
-      "tmdb_id": 1432706,
-      "media": "movie",
-      "title": "Bury the Devil",
-      "original_title": "Bury the Devil",
-      "year": 2026,
-      "release_date": "2026-03-06",
-      "overview": "When a hospice nurse finds herself trapped with a dementia patient, she begins to suspect something else is wrong with the woman, something otherworldly, and must fight to survive the night.",
-      "poster_path": "/yQ3GeVsebrhOPIBhIdoSslbndEv.jpg",
-      "backdrop_path": "/lWVnUBYG7nIb84gxa3tSeP8CghA.jpg",
-      "vote_average": 5.7,
-      "vote_count": 23,
+      "vote_count": 630,
       "original_language": "en",
-      "genre_ids": [
-        27,
-        53
-      ]
-    },
-    {
-      "key": "voicemails-for-isabelle-2026",
-      "tmdb_id": 614945,
-      "media": "movie",
-      "title": "Voicemails for Isabelle",
-      "original_title": "Voicemails for Isabelle",
-      "year": 2026,
-      "release_date": "2026-06-19",
-      "overview": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
-      "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
-      "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
-      "vote_average": 8.3,
-      "vote_count": 940,
-      "original_language": "en",
-      "genre_ids": [
-        10749,
-        35,
-        18
-      ]
-    },
-    {
-      "key": "gandhari-2026",
-      "tmdb_id": 1355228,
-      "media": "movie",
-      "title": "Gandhari",
-      "original_title": "गांधारी",
-      "year": 2026,
-      "release_date": "2026-09-03",
-      "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
-      "poster_path": "/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
-      "backdrop_path": "/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
-      "vote_average": 7.4,
-      "vote_count": 27,
-      "original_language": "hi",
       "genre_ids": [
         28,
-        18,
+        35,
         53
       ]
     }
   ],
   "upcoming": [
-    {
-      "key": "baththa-2026",
-      "tmdb_id": 1515692,
-      "media": "movie",
-      "title": "Baththa",
-      "original_title": "பத்தா",
-      "year": 2026,
-      "release_date": "2026-10-01",
-      "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
-      "poster_path": "/bsFSlIwsH0Lrqo9TtGv4KwvgKS1.jpg",
-      "backdrop_path": "/lWHobZZO6S6pn7SUMAzzjgMncBI.jpg",
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "ta",
-      "genre_ids": [
-        53,
-        18
-      ]
-    },
-    {
-      "key": "yezhu-kadal-yezhu-malai-2026",
-      "tmdb_id": 954445,
-      "media": "movie",
-      "title": "Yezhu Kadal Yezhu Malai",
-      "original_title": "ஏழு கடல் ஏழு மலை",
-      "year": 2026,
-      "release_date": "2026-10-01",
-      "overview": "Caught between family duty and romantic love, a young man faces an impossible choice.",
-      "poster_path": "/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg",
-      "backdrop_path": "/iipz8h0FT6pKI29A6DfRunYuLok.jpg",
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "ta",
-      "genre_ids": [
-        18,
-        10749,
-        14
-      ]
-    },
-    {
-      "key": "dont-trouble-the-trouble-2026",
-      "tmdb_id": 1261763,
-      "media": "movie",
-      "title": "Don't Trouble The Trouble",
-      "original_title": "Don't Trouble The Trouble",
-      "year": 2026,
-      "release_date": "2026-10-01",
-      "overview": "Suri, a magician, accidentally makes a young girl vanish with a spell. The girl, revealed to be a genie who grants wishes, explores the city and unleashes her powers when angered.",
-      "poster_path": "/uuEfTZeDNuzJaXIrpHdryuwwGB5.jpg",
-      "backdrop_path": "/iWVgNbAB4fCqzOPJXNLOZP4zfbK.jpg",
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "te",
-      "genre_ids": [
-        14,
-        18,
-        28
-      ]
-    },
-    {
-      "key": "maaruvesham-2026",
-      "tmdb_id": 1732327,
-      "media": "movie",
-      "title": "Maaruvesham",
-      "original_title": "மாறுவேசம்",
-      "year": 2026,
-      "release_date": "2026-10-01",
-      "overview": "",
-      "poster_path": "/wKnOugdY4gNAmAjUa605zpNR5px.jpg",
-      "backdrop_path": "/opqmW90PRZo28tWFLqW8a59fqUT.jpg",
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "ta",
-      "genre_ids": [
-        53,
-        18,
-        9648
-      ]
-    },
-    {
-      "key": "mr-bhaarath-2026",
-      "tmdb_id": 1404362,
-      "media": "movie",
-      "title": "Mr. Bhaarath",
-      "original_title": "மிஸ்டர் பாரத்",
-      "year": 2026,
-      "release_date": "2026-10-01",
-      "overview": "Two siblings share a unique bond where, according to their zodiac signs, any good fortune experienced by one is believed to be reflected in the other's life. Believing in this connection, they decide to get married at the same time. However, their plans take an unexpected turn when one sibling's childish behavior creates a series of complications, leading to emotional and family conflicts that put both weddings at risk.",
-      "poster_path": "/dtCv7ukIeiein6GKpIVjSzn6qA5.jpg",
-      "backdrop_path": null,
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "ta",
-      "genre_ids": [
-        10749,
-        35
-      ]
-    },
-    {
-      "key": "digger-2026",
-      "tmdb_id": 1248832,
-      "media": "movie",
-      "title": "Digger",
-      "original_title": "Digger",
-      "year": 2026,
-      "release_date": "2026-10-02",
-      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-      "poster_path": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop_path": "/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
-      "vote_average": 8.1,
-      "vote_count": 7,
-      "original_language": "en",
-      "genre_ids": [
-        35
-      ]
-    },
-    {
-      "key": "drishyam-the-conclusion-2026",
-      "tmdb_id": 1269325,
-      "media": "movie",
-      "title": "Drishyam: The Conclusion",
-      "original_title": "दृश्यम्: द कन्क्लूजन",
-      "year": 2026,
-      "release_date": "2026-10-02",
-      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
-      "poster_path": "/7T62GSduOWDMB0gGDBs9pmtLTSB.jpg",
-      "backdrop_path": "/nq73eRdEooripf3k0XHLtX14zyC.jpg",
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "hi",
-      "genre_ids": [
-        53,
-        18,
-        9648
-      ]
-    },
-    {
-      "key": "prem-keetanu-2026",
-      "tmdb_id": 1640396,
-      "media": "movie",
-      "title": "Prem Keetanu",
-      "original_title": "Prem Keetanu",
-      "year": 2026,
-      "release_date": "2026-10-02",
-      "overview": "A group of young men and their turbulent college life, where bad grades and hopelessness remain in the driver's seat. Even as they pursue love, friendship and aspirations, the film promises to capture the current generation's struggles and dreams in a light-hearted yet heartfelt manner.",
-      "poster_path": "/plgzRPjD2OsmMV4xXdMSykXfmrB.jpg",
-      "backdrop_path": "/kFLbvQ7ZmBo4eZHk4FmA9PEWuk8.jpg",
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "hi",
-      "genre_ids": [
-        35,
-        10749
-      ]
-    },
-    {
-      "key": "bail-2026",
-      "tmdb_id": 1703067,
-      "media": "movie",
-      "title": "Bail",
-      "original_title": "ಬೇಲ್",
-      "year": 2026,
-      "release_date": "2026-10-02",
-      "overview": "Bail is an upcoming Kannada action drama film directed by Pavan Wadeyar.",
-      "poster_path": "/i25WZe55h5TB0tNoXM3x0O7SFIw.jpg",
-      "backdrop_path": null,
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "kn",
-      "genre_ids": [
-        28,
-        18
-      ]
-    },
-    {
-      "key": "sigma-2026",
-      "tmdb_id": 1395215,
-      "media": "movie",
-      "title": "Sigma",
-      "original_title": "சிக்மா",
-      "year": 2026,
-      "release_date": "2026-10-02",
-      "overview": "",
-      "poster_path": "/18Lhkc3nf92bY1cacQomXIqihhN.jpg",
-      "backdrop_path": null,
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "ta",
-      "genre_ids": [
-        28,
-        80,
-        18
-      ]
-    },
-    {
-      "key": "avaraachan-and-sons-2026",
-      "tmdb_id": 1290035,
-      "media": "movie",
-      "title": "Avaraachan &  Sons",
-      "original_title": "അവറാച്ചൻ & Sons",
-      "year": 2026,
-      "release_date": "2026-10-02",
-      "overview": "",
-      "poster_path": "/gLmhfy33YLI8kqnkUjIMPKzS20L.jpg",
-      "backdrop_path": "/cn5RbvKzrYskQhDkofDaJYjcv1D.jpg",
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "ml",
-      "genre_ids": [
-        18
-      ]
-    },
-    {
-      "key": "anbil-avan-2026",
-      "tmdb_id": 1431738,
-      "media": "movie",
-      "title": "Anbil Avan",
-      "original_title": "அன்பில் அவன்",
-      "year": 2026,
-      "release_date": "2026-10-02",
-      "overview": "A married couple attempts to start a good life together, but unexpected trouble traps them in an unsettling situation that forces them to fight back for their survival.",
-      "poster_path": "/7DVimX44266Vo88y7n7YrpTSMdg.jpg",
-      "backdrop_path": null,
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "ta",
-      "genre_ids": [
-        10749,
-        53
-      ]
-    },
-    {
-      "key": "kitti-2026",
-      "tmdb_id": 1752883,
-      "media": "movie",
-      "title": "Kitti",
-      "original_title": "கிட்டி",
-      "year": 2026,
-      "release_date": "2026-10-02",
-      "overview": "A psychological thriller that explores the fragile boundaries between reality, fear, and the human mind. When an unexpected incident disrupts a seemingly ordinary life, the protagonist is drawn into a disturbing chain of events where nothing is what it appears to be. As reality begins to blur, hidden truths slowly emerge, forcing him to confront his deepest fears and question his own perception of what is real.",
-      "poster_path": "/9TOunLTr9xm3ZjSfdM7pWdxpdcJ.jpg",
-      "backdrop_path": "/2o1ViPlWJfx33tWXbs7ng9EBOmd.jpg",
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "ta",
-      "genre_ids": [
-        53,
-        9648
-      ]
-    },
-    {
-      "key": "shabara-2026",
-      "tmdb_id": 1628882,
-      "media": "movie",
-      "title": "Shabara",
-      "original_title": "Shabara",
-      "year": 2026,
-      "release_date": "2026-10-02",
-      "overview": "An adventure written in the stars and across time.",
-      "poster_path": "/7jTgFnZi7dlsVTvFH5LffUPXPZq.jpg",
-      "backdrop_path": null,
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "te",
-      "genre_ids": [
-        12
-      ]
-    },
-    {
-      "key": "the-third-murder-2026",
-      "tmdb_id": 922673,
-      "media": "movie",
-      "title": "The Third Murder",
-      "original_title": "ദ തേര്‍ഡ് മര്‍ഡര്‍",
-      "year": 2026,
-      "release_date": "2026-10-02",
-      "overview": "",
-      "poster_path": "/jNKwDvLdx81UqY4KVl0KybtSTqo.jpg",
-      "backdrop_path": null,
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "ml",
-      "genre_ids": [
-        80,
-        53,
-        9648
-      ]
-    },
-    {
-      "key": "udta-teer-2026",
-      "tmdb_id": 1375156,
-      "media": "movie",
-      "title": "Udta Teer",
-      "original_title": "उड़ता तीर",
-      "year": 2026,
-      "release_date": "2026-10-09",
-      "overview": "An amnesiac Pakistani spy wakes up believing he is a patriotic Indian counter-terrorism officer.",
-      "poster_path": "/tvICKypVlW7Iio4KVs7NousbSKi.jpg",
-      "backdrop_path": "/gKXglEalCq75kWjlASXhUeRJocP.jpg",
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "hi",
-      "genre_ids": [
-        35
-      ]
-    },
     {
       "key": "bokshi-2026",
       "tmdb_id": 718833,
@@ -2140,23 +1831,22 @@
       ]
     },
     {
-      "key": "aadarsha-kutumbam-2026",
-      "tmdb_id": 1496785,
+      "key": "kitti-2026",
+      "tmdb_id": 1752883,
       "media": "movie",
-      "title": "Aadarsha Kutumbam",
-      "original_title": "ఆదర్శ కుటుంబం",
+      "title": "Kitti",
+      "original_title": "கிட்டி",
       "year": 2026,
       "release_date": "2026-10-09",
-      "overview": "A seemingly flawless family at House No. 47 unravels after an incident reveals hidden tensions.",
-      "poster_path": "/4xyzmQj2SrocgWVlV1aCxeyCDsz.jpg",
-      "backdrop_path": "/rzeJe8pONgRyalcTDM3gqXssqeM.jpg",
+      "overview": "A psychological thriller that explores the fragile boundaries between reality, fear, and the human mind. When an unexpected incident disrupts a seemingly ordinary life, the protagonist is drawn into a disturbing chain of events where nothing is what it appears to be. As reality begins to blur, hidden truths slowly emerge, forcing him to confront his deepest fears and question his own perception of what is real.",
+      "poster_path": "/9TOunLTr9xm3ZjSfdM7pWdxpdcJ.jpg",
+      "backdrop_path": "/2o1ViPlWJfx33tWXbs7ng9EBOmd.jpg",
       "vote_average": null,
       "vote_count": 0,
-      "original_language": "te",
+      "original_language": "ta",
       "genre_ids": [
-        10751,
-        28,
-        35
+        53,
+        9648
       ]
     },
     {
@@ -2174,6 +1864,64 @@
       "vote_count": 0,
       "original_language": "hi",
       "genre_ids": []
+    },
+    {
+      "key": "comrade-kalyan-2026",
+      "tmdb_id": 1428295,
+      "media": "movie",
+      "title": "Comrade Kalyan",
+      "original_title": "కమ్రేడ్ కళ్యాణ్",
+      "year": 2026,
+      "release_date": "2026-10-09",
+      "overview": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
+      "poster_path": "/pvRJWA4WnaoPeQ7Fs7G9P7EKu6h.jpg",
+      "backdrop_path": null,
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "te",
+      "genre_ids": [
+        10749,
+        28,
+        18
+      ]
+    },
+    {
+      "key": "chiram-2026",
+      "tmdb_id": 1778302,
+      "media": "movie",
+      "title": "Chiram",
+      "original_title": "ചിരം",
+      "year": 2026,
+      "release_date": "2026-10-09",
+      "overview": "Seetha, a young Malayali research student who travels to Visva-Bharati University in Kolkata to study traditional Baul music and culture.",
+      "poster_path": "/mWP6moi2CHAqWmWtey4OmFd8Ayc.jpg",
+      "backdrop_path": "/cXNy55W41ZKw9EZWuZGZlCyGzui.jpg",
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "ml",
+      "genre_ids": [
+        10749,
+        18
+      ]
+    },
+    {
+      "key": "eh-din-roz-ni-aune-2026",
+      "tmdb_id": 1651316,
+      "media": "movie",
+      "title": "Eh Din Roz Ni Aune",
+      "original_title": "Eh Din Roz Ni Aune",
+      "year": 2026,
+      "release_date": "2026-10-09",
+      "overview": "Carefree 25-year-old Prabh meets Aavraj, a practical, successful 55-year-old businessman. Prabh's mistakes and carefree nature challenge Aavraj's rigid personality, while secretary Rajdeep becomes the bridge between them. As Prabh learns practicality from Aavraj, Rajdeep discovers joy and emotional freedom through Prabh. With Rajdeep's help, Prabh creates a fictional world to heal the misunderstanding between Aavraj and his estranged daughter. Their reunion restores Aavraj's happiness and brings him emotionally closer to Prabh. Touched by Prabh's spirit, Aavraj finally supports his startup dream, completing their transformative journey.",
+      "poster_path": "/6Xb3U9L59uZ0eoiSXA81FjesfDT.jpg",
+      "backdrop_path": null,
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "pa",
+      "genre_ids": [
+        18,
+        35
+      ]
     },
     {
       "key": "ah-2026",
@@ -2195,41 +1943,21 @@
       ]
     },
     {
-      "key": "eh-din-roz-ni-aune-2026",
-      "tmdb_id": 1651316,
+      "key": "all-pass-2026",
+      "tmdb_id": 1786905,
       "media": "movie",
-      "title": "Eh Din Roz Ni Aune",
-      "original_title": "Eh Din Roz Ni Aune",
+      "title": "All Pass",
+      "original_title": "All Pass",
       "year": 2026,
       "release_date": "2026-10-09",
-      "overview": "In a fortunate encounter, carefree 25-year-old Prabh meets Aavraj, a practical, successful 55-year-old businessman. Their contrasting ideologies create a fun-filled office-family drama. Prabh's mistakes and carefree nature challenge Aavraj's rigid personality, while secretary Rajdeep becomes the bridge between them. As Prabh learns practicality from Aavraj, Rajdeep discovers joy and emotional freedom through Prabh. With Rajdeep's help, Prabh creates a fictional world to heal the misunderstanding between Aavraj and his estranged daughter. Their reunion restores Aavraj's happiness and brings him emotionally closer to Prabh. Touched by Prabh's spirit, Aavraj finally supports his startup dream, completing their transformative journey.",
-      "poster_path": "/6Xb3U9L59uZ0eoiSXA81FjesfDT.jpg",
-      "backdrop_path": null,
+      "overview": "Three families from different parts of North Chennai come together through circumstances and, despite financial struggles, decide to live under one roof in Sathya Nagar. Their friendship grows into a close-knit bond, with the three families living like one. But when a conflict threatens this unity and puts their relationships at risk, they must face its consequences and decide whether their bond can survive.",
+      "poster_path": "/ruF5Y282FaN6VN9ujpYIP9CJe2V.jpg",
+      "backdrop_path": "/tKRDOQrGawdeVws7GT3kiJDsl63.jpg",
       "vote_average": null,
       "vote_count": 0,
-      "original_language": "pa",
+      "original_language": "ta",
       "genre_ids": [
-        18,
-        35
-      ]
-    },
-    {
-      "key": "comrade-kalyan-2026",
-      "tmdb_id": 1428295,
-      "media": "movie",
-      "title": "Comrade Kalyan",
-      "original_title": "కమ్రేడ్ కళ్యాణ్",
-      "year": 2026,
-      "release_date": "2026-10-09",
-      "overview": "",
-      "poster_path": "/pvRJWA4WnaoPeQ7Fs7G9P7EKu6h.jpg",
-      "backdrop_path": null,
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "te",
-      "genre_ids": [
-        10749,
-        28,
+        10751,
         18
       ]
     },
@@ -2253,6 +1981,25 @@
       ]
     },
     {
+      "key": "afreet-a-never-ending-night-2026",
+      "tmdb_id": 1710034,
+      "media": "movie",
+      "title": "Afreet - A Never Ending Night",
+      "original_title": "Afreet - A Never Ending Night",
+      "year": 2026,
+      "release_date": "2026-10-14",
+      "overview": "Three friends gather for what should have been an ordinary evening, but a seemingly harmless challenge unleashes something far older and more dangerous than they could have imagined. As strange events begin to blur the line between reality and the unknown, they find themselves trapped in a night where every choice carries a consequence.  Afreet is a supernatural horror film that explores friendship, fear, and the hidden forces that emerge when curiosity goes too far.",
+      "poster_path": "/fSuE1x1kPh10Wyyx1p3zAyDDl2e.jpg",
+      "backdrop_path": "/rbjC0UFNXP4AW0XrVrUWQVPNFGZ.jpg",
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "hi",
+      "genre_ids": [
+        27,
+        35
+      ]
+    },
+    {
       "key": "jailer-2-2026",
       "tmdb_id": 1234139,
       "media": "movie",
@@ -2260,7 +2007,7 @@
       "original_title": "ஜெயிலர் 2",
       "year": 2026,
       "release_date": "2026-10-15",
-      "overview": "Following the events of \"Jailer\",  former ruthless police officer Muthuvel Pandian must come face-to-face with an even larger threat.",
+      "overview": "Following the events of \"Jailer\",  former ruthless police officer Muthuvel Pandian must come face-to-face with the consequences of his actions against the antique mafia.",
       "poster_path": "/9tTHcPNt6OgkTVzGu4gwVQDFRWr.jpg",
       "backdrop_path": "/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
       "vote_average": null,
@@ -2335,74 +2082,14 @@
       "year": 2026,
       "release_date": "2026-10-16",
       "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "poster_path": "/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-      "backdrop_path": "/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
+      "poster_path": "/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg",
+      "backdrop_path": "/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
       "vote_average": null,
       "vote_count": 0,
       "original_language": "en",
       "genre_ids": [
         28,
         14
-      ]
-    },
-    {
-      "key": "ranabaali-2026",
-      "tmdb_id": 1389379,
-      "media": "movie",
-      "title": "Ranabaali",
-      "original_title": "రణబాలి",
-      "year": 2026,
-      "release_date": "2026-10-16",
-      "overview": "",
-      "poster_path": "/aVws0hfgeax7Sx32ZA8z0gAPwZ8.jpg",
-      "backdrop_path": "/diWGrCrTUPCRF5xQQrndDf2JT1e.jpg",
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "te",
-      "genre_ids": [
-        36,
-        28,
-        18,
-        10752
-      ]
-    },
-    {
-      "key": "desu7-2026",
-      "tmdb_id": 1608666,
-      "media": "movie",
-      "title": "DeSu7",
-      "original_title": "DeSu7",
-      "year": 2026,
-      "release_date": "2026-10-16",
-      "overview": "",
-      "poster_path": "/t6ZwnDxwfNq51dHv8gONXJ48Axf.jpg",
-      "backdrop_path": "/xU5MzzYZAer8HkX0eqq9hvuUS8F.jpg",
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "bn",
-      "genre_ids": [
-        28,
-        18,
-        10749
-      ]
-    },
-    {
-      "key": "seyon-2026",
-      "tmdb_id": 1626806,
-      "media": "movie",
-      "title": "Seyon",
-      "original_title": "சேயோன்",
-      "year": 2026,
-      "release_date": "2026-10-16",
-      "overview": "",
-      "poster_path": "/kF7zByEOT2zwrmIyfpxcn5byowY.jpg",
-      "backdrop_path": "/mMB3hT8i8bJNbP3ojWauAYuWWeX.jpg",
-      "vote_average": null,
-      "vote_count": 0,
-      "original_language": "ta",
-      "genre_ids": [
-        14,
-        18
       ]
     },
     {
@@ -2414,7 +2101,7 @@
       "year": 2026,
       "release_date": "2026-10-16",
       "overview": "A new bride's arrival turns a turbulent household in Meerut into a picture of domestic harmony, until her brother-in-law grows convinced that his seemingly perfect sister-in-law is secretly a witch.",
-      "poster_path": "/jJgbGKJFhJl1PnJWp8UV2Fx2Zh9.jpg",
+      "poster_path": "/aZEKuzGt7ObqoKjTM4kcMd0klYy.jpg",
       "backdrop_path": null,
       "vote_average": null,
       "vote_count": 0,
@@ -2423,6 +2110,45 @@
         12,
         14,
         35,
+        18
+      ]
+    },
+    {
+      "key": "ranabaali-2026",
+      "tmdb_id": 1389379,
+      "media": "movie",
+      "title": "Ranabaali",
+      "original_title": "రణబాలి",
+      "year": 2026,
+      "release_date": "2026-10-16",
+      "overview": "Set in 19th-century British India, a fierce leader rises from a drought-stricken land to fight colonial oppression and atrocities.",
+      "poster_path": "/rMg3BFUKs8IaekSJgMT1IYmypk.jpg",
+      "backdrop_path": "/diWGrCrTUPCRF5xQQrndDf2JT1e.jpg",
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "te",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ]
+    },
+    {
+      "key": "prahaar-the-untold-story-of-ujjwal-nikam-2026",
+      "tmdb_id": 1081010,
+      "media": "movie",
+      "title": "Prahaar - The Untold Story of Ujjwal Nikam",
+      "original_title": "प्रहार",
+      "year": 2026,
+      "release_date": "2026-10-16",
+      "overview": "Public prosecutor Ujjwal Nikam takes on one of the most high-profile criminal cases in India’s history, leading the prosecution in the trial of Ajmal Kasab following the 26/11 Mumbai terror attacks. As he battles to uncover the truth and secure justice, Nikam must confront the immense personal and professional burden of a case that will define his legacy.",
+      "poster_path": "/g2bZzjWzdPZ5GXrN8dQ8sixant3.jpg",
+      "backdrop_path": "/8S2DXdKY23wfYq4v0awYXov4c8g.jpg",
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "hi",
+      "genre_ids": [
+        80,
         18
       ]
     },
@@ -2447,21 +2173,23 @@
       ]
     },
     {
-      "key": "prahaar-2026",
-      "tmdb_id": 1081010,
+      "key": "desu7-2026",
+      "tmdb_id": 1608666,
       "media": "movie",
-      "title": "Prahaar",
-      "original_title": "प्रहार",
+      "title": "DeSu7",
+      "original_title": "DeSu7",
       "year": 2026,
       "release_date": "2026-10-16",
-      "overview": "Ujjwal Nikam is an Indian special public prosecutor who has worked on prominent murder and terrorism cases such as the 1993 Bombay bombings, the Gulshan Kumar murder case, the Pramod Mahajan murder case, and the 2008 Mumbai attacks.",
-      "poster_path": "/g2bZzjWzdPZ5GXrN8dQ8sixant3.jpg",
-      "backdrop_path": "/8S2DXdKY23wfYq4v0awYXov4c8g.jpg",
+      "overview": "",
+      "poster_path": "/t6ZwnDxwfNq51dHv8gONXJ48Axf.jpg",
+      "backdrop_path": "/xU5MzzYZAer8HkX0eqq9hvuUS8F.jpg",
       "vote_average": null,
       "vote_count": 0,
-      "original_language": "hi",
+      "original_language": "bn",
       "genre_ids": [
-        18
+        28,
+        18,
+        10749
       ]
     },
     {
@@ -2503,6 +2231,47 @@
       ]
     },
     {
+      "key": "vayuputra-2026",
+      "tmdb_id": 1544325,
+      "media": "movie",
+      "title": "Vayuputra",
+      "original_title": "వాయుపుత్ర",
+      "year": 2026,
+      "release_date": "2026-10-16",
+      "overview": "",
+      "poster_path": "/8uCuTRuvN619sl00NTkLPOthN6T.jpg",
+      "backdrop_path": null,
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "te",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        18,
+        14
+      ]
+    },
+    {
+      "key": "visa-vintara-saradaga-2026",
+      "tmdb_id": 1403738,
+      "media": "movie",
+      "title": "VISA - Vintara Saradaga",
+      "original_title": "వీసా - వింటారా సరదాగా",
+      "year": 2026,
+      "release_date": "2026-10-17",
+      "overview": "",
+      "poster_path": "/xFtZJlvvdYn4sU7YyoxQNpLdpua.jpg",
+      "backdrop_path": null,
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "te",
+      "genre_ids": [
+        10749,
+        18
+      ]
+    },
+    {
       "key": "udumbanchola-vision-2026",
       "tmdb_id": 1244547,
       "media": "movie",
@@ -2518,6 +2287,220 @@
       "original_language": "ml",
       "genre_ids": [
         28,
+        18
+      ]
+    },
+    {
+      "key": "clayface-2026",
+      "tmdb_id": 1400940,
+      "media": "movie",
+      "title": "Clayface",
+      "original_title": "Clayface",
+      "year": 2026,
+      "release_date": "2026-10-23",
+      "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+      "poster_path": "/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+      "backdrop_path": "/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        53,
+        878
+      ]
+    },
+    {
+      "key": "udta-teer-2026",
+      "tmdb_id": 1375156,
+      "media": "movie",
+      "title": "Udta Teer",
+      "original_title": "उड़ता तीर",
+      "year": 2026,
+      "release_date": "2026-10-23",
+      "overview": "An amnesiac Pakistani spy wakes up believing he is a patriotic Indian counter-terrorism officer.",
+      "poster_path": "/tvICKypVlW7Iio4KVs7NousbSKi.jpg",
+      "backdrop_path": "/ncVecUcDZe1EOWtHaU2f8BFvbx4.jpg",
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "hi",
+      "genre_ids": [
+        35
+      ]
+    },
+    {
+      "key": "border-diaries-2026",
+      "tmdb_id": 1770836,
+      "media": "movie",
+      "title": "Border Diaries",
+      "original_title": "Border Diaries",
+      "year": 2026,
+      "release_date": "2026-10-23",
+      "overview": "Set in an industrial area on the Karnataka-Tamil Nadu border, the story explores the lives of people working there and focuses on emotional borders, love, morality, and survival.",
+      "poster_path": "/8yKOR3VBChqhEEhyhxfFjG0Fz6Y.jpg",
+      "backdrop_path": null,
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "kn",
+      "genre_ids": [
+        18,
+        10749,
+        80
+      ]
+    },
+    {
+      "key": "pehla-pyaar-doosri-baar-2026",
+      "tmdb_id": 1772549,
+      "media": "movie",
+      "title": "Pehla Pyaar Doosri Baar",
+      "original_title": "पहला प्यार दूसरी बार",
+      "year": 2026,
+      "release_date": "2026-10-23",
+      "overview": "Three friends attend their school reunion and enter into different relationships, discovering the trials, tribulations, allure, and absurdities of love.",
+      "poster_path": "/fKIXeluFkRjF9JI68OM7zvVda9O.jpg",
+      "backdrop_path": null,
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "hi",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ]
+    },
+    {
+      "key": "delivery-boy-2026",
+      "tmdb_id": 1728047,
+      "media": "movie",
+      "title": "Delivery Boy",
+      "original_title": "Delivery Boy",
+      "year": 2026,
+      "release_date": "2026-10-23",
+      "overview": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically injured mother. Months later, when he discovers that the same man has been falsely accused of murder, he risks everything to save the life he once unknowingly changed forever.",
+      "poster_path": "/5JykVg5yWm5QiFyeEBq3diDmI5.jpg",
+      "backdrop_path": "/simwM18UKG0DSZXvzdKYM6ihUch.jpg",
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "ta",
+      "genre_ids": [
+        28,
+        18
+      ]
+    },
+    {
+      "key": "magazine-2026",
+      "tmdb_id": 1728425,
+      "media": "movie",
+      "title": "Magazine",
+      "original_title": "Magazine",
+      "year": 2026,
+      "release_date": "2026-10-23",
+      "overview": "Bored, privileged, and convinced his life has zero plot, a drama-hungry Gen Z cinephile leaves the city for his ancestral village in search of some main-character energy, hoping life will finally give him something worth talking about, but an unlikely friendship, a new world, and one unexpected twist soon turn his own life into the story he's been waiting for.",
+      "poster_path": "/6mnMUA5Rkxvj3mftE43jx1inFyz.jpg",
+      "backdrop_path": "/9JFe6r2f7y47L1mf7Njz41pSBxT.jpg",
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "mr",
+      "genre_ids": [
+        18,
+        12,
+        10751
+      ]
+    },
+    {
+      "key": "little-thomas-2026",
+      "tmdb_id": 1416312,
+      "media": "movie",
+      "title": "Little Thomas",
+      "original_title": "Little Thomas",
+      "year": 2026,
+      "release_date": "2026-10-23",
+      "overview": "In early 1990s Goa, seven year old Thomas and his family navigate thr ups and downs in their lives.",
+      "poster_path": "/6cByO46CKFlvQ9cgpv4RBQE6TnB.jpg",
+      "backdrop_path": null,
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "hi",
+      "genre_ids": [
+        18,
+        35
+      ]
+    },
+    {
+      "key": "titans-2026",
+      "tmdb_id": 869152,
+      "media": "movie",
+      "title": "Titans",
+      "original_title": "ടൈറ്റൻസ്",
+      "year": 2026,
+      "release_date": "2026-10-23",
+      "overview": "",
+      "poster_path": "/sjVZFosphZzsiTHjMaUM5aR9Lrt.jpg",
+      "backdrop_path": null,
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "ml",
+      "genre_ids": [
+        14,
+        35
+      ]
+    },
+    {
+      "key": "kollam-kotta-company-2026",
+      "tmdb_id": 1538346,
+      "media": "movie",
+      "title": "Kollam Kotta Company",
+      "original_title": "കൊല്ലം കോട്ട കമ്പനി",
+      "year": 2026,
+      "release_date": "2026-10-23",
+      "overview": "",
+      "poster_path": "/7UzbgEYNTLeGHvKyvhNsJJpD6f.jpg",
+      "backdrop_path": null,
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "ml",
+      "genre_ids": [
+        28,
+        53
+      ]
+    },
+    {
+      "key": "irandu-vaanam-2026",
+      "tmdb_id": 1318314,
+      "media": "movie",
+      "title": "Irandu Vaanam",
+      "original_title": "இரண்டு வானம்",
+      "year": 2026,
+      "release_date": "2026-10-23",
+      "overview": "",
+      "poster_path": "/krpKed84YWgXLOUDtvwPnbqIPhB.jpg",
+      "backdrop_path": "/nk8aBmkVxE4ALlmM7uvh7GjNMAb.jpg",
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "ta",
+      "genre_ids": [
+        10749,
+        14,
+        878
+      ]
+    },
+    {
+      "key": "haiku-2026",
+      "tmdb_id": 1593350,
+      "media": "movie",
+      "title": "Haiku",
+      "original_title": "ஹைக்கூ",
+      "year": 2026,
+      "release_date": "2026-10-23",
+      "overview": "",
+      "poster_path": "/thZGedKvZnnvuLpNWEA1nmalM7K.jpg",
+      "backdrop_path": null,
+      "vote_average": null,
+      "vote_count": 0,
+      "original_language": "ta",
+      "genre_ids": [
+        10749,
+        35,
         18
       ]
     }

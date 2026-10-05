@@ -16,7 +16,6 @@
   "overview": "Four stagnant high school teachers decide to test out a theory that maintaining a constant level of intoxication will improve their overall lives.",
   "tagline": "What is youth? A dream. What is love? The content of the dream.",
   "genres": [
-    "Comedy",
     "Drama"
   ],
   "original_language": "da",
@@ -24,8 +23,8 @@
     "DK"
   ],
   "vote_average": 7.6,
-  "vote_count": 3940,
-  "popularity": 8.477,
+  "vote_count": 3954,
+  "popularity": 10.0868,
   "poster_path": "/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
   "backdrop_path": "/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
   "trailer_key": "xlwAgvn1e5E",
@@ -35,7 +34,7 @@
     "imdb_votes": 223771,
     "rt": 93,
     "metacritic": 79,
-    "refreshed_at": "2026-09-28T09:46:52.401Z"
+    "refreshed_at": "2026-10-05T10:26:33.525Z"
   },
   "providers": {
     "flatrate": [
@@ -54,5 +53,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-28T09:46:52.401Z"
+  "providers_refreshed_at": "2026-10-05T10:26:33.525Z"
 }

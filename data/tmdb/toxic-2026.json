@@ -11,20 +11,22 @@
   "title": "Toxic",
   "original_title": "Toxic",
   "year": 2026,
-  "release_date": "2026-10-16",
+  "release_date": "2026-10-04",
   "runtime": null,
   "seasons": 1,
   "overview": "",
   "tagline": "",
-  "genres": [],
+  "genres": [
+    "Drama"
+  ],
   "original_language": "fr",
   "origin_country": [
     "CH"
   ],
   "vote_average": null,
   "vote_count": 0,
-  "popularity": 3.3688,
-  "poster_path": null,
+  "popularity": 3.1106,
+  "poster_path": "/8DC1DkNIv3CeXinglgjMug5eR1w.jpg",
   "backdrop_path": null,
   "trailer_key": null,
   "imdb_id": null,
@@ -35,5 +37,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-28T09:46:54.748Z"
+  "providers_refreshed_at": "2026-10-05T10:26:36.154Z"
 }

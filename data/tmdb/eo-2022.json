@@ -24,18 +24,18 @@
     "PL"
   ],
   "vote_average": 6.5,
-  "vote_count": 445,
-  "popularity": 5.4673,
+  "vote_count": 446,
+  "popularity": 4.9475,
   "poster_path": "/1MK86Vr2nf1GSYOtRd8pFvA5RM8.jpg",
   "backdrop_path": "/bdncpEiiH3C7OjzvIu07zl2zcTd.jpg",
   "trailer_key": "ii0gjj963ZY",
   "imdb_id": "tt19652910",
   "ratings": {
     "imdb": 6.7,
-    "imdb_votes": 16339,
+    "imdb_votes": 17415,
     "rt": 96,
     "metacritic": 85,
-    "refreshed_at": "2026-09-28T09:46:49.561Z"
+    "refreshed_at": "2026-10-05T10:26:31.059Z"
   },
   "providers": {
     "flatrate": [
@@ -49,5 +49,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-28T09:46:49.561Z"
+  "providers_refreshed_at": "2026-10-05T10:26:31.059Z"
 }

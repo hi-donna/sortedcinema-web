@@ -24,8 +24,8 @@
     "GB"
   ],
   "vote_average": 6.8,
-  "vote_count": 4902,
-  "popularity": 11.5721,
+  "vote_count": 4913,
+  "popularity": 12.1807,
   "poster_path": "/6K0wjP8kPCiPYy9PtXBGuypyt5I.jpg",
   "backdrop_path": "/2pOd80PQSJ9cUbli7PDeX59q3vQ.jpg",
   "trailer_key": "BNxsaFCzqxc",
@@ -35,13 +35,13 @@
     "imdb_votes": 160099,
     "rt": 86,
     "metacritic": 65,
-    "refreshed_at": "2026-09-28T09:46:38.516Z"
+    "refreshed_at": "2026-10-05T10:26:21.964Z"
   },
   "providers": {
     "flatrate": [
       {
-        "name": "Lionsgate+ Amazon Channels",
-        "slug": "lionsgate-amazon-channels",
+        "name": "Lionsgate+ on Prime",
+        "slug": "lionsgate-on-prime",
         "logo": "/1356slxu4QrHOMrEVDKHJXRo5sW.png"
       }
     ],
@@ -49,5 +49,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-28T09:46:38.516Z"
+  "providers_refreshed_at": "2026-10-05T10:26:21.964Z"
 }

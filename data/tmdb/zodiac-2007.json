@@ -13,7 +13,7 @@
   "year": 2007,
   "release_date": "2007-03-02",
   "runtime": 157,
-  "overview": "The story follows the manhunt for the Zodiac Killer, a serial killer who terrorized the San Francisco Bay Area during the late 1960s and early 1970s, taunting police with letters, bloodstained clothing, and ciphers mailed to newspapers.",
+  "overview": "Police conduct a manhunt for the Zodiac Killer, a serial killer who terrorized the San Francisco Bay Area during the late 1960s and early 1970s, taunting police with letters, bloodstained clothing, and ciphers mailed to newspapers.",
   "tagline": "There's more than one way to lose your life to a killer.",
   "genres": [
     "Crime",
@@ -25,8 +25,8 @@
     "US"
   ],
   "vote_average": 7.5,
-  "vote_count": 11939,
-  "popularity": 17.4347,
+  "vote_count": 11962,
+  "popularity": 16.2587,
   "poster_path": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
   "backdrop_path": "/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
   "trailer_key": "yNncHPl1UXg",
@@ -36,7 +36,7 @@
     "imdb_votes": 671729,
     "rt": 90,
     "metacritic": 79,
-    "refreshed_at": "2026-09-28T09:46:37.238Z"
+    "refreshed_at": "2026-10-05T10:26:20.479Z"
   },
   "providers": {
     "flatrate": [
@@ -67,5 +67,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-28T09:46:37.238Z"
+  "providers_refreshed_at": "2026-10-05T10:26:20.479Z"
 }

@@ -25,8 +25,8 @@
     "AR"
   ],
   "vote_average": 7.9,
-  "vote_count": 3887,
-  "popularity": 10.7577,
+  "vote_count": 3898,
+  "popularity": 12.7472,
   "poster_path": "/vmeCDuWJ6B2cqi9f3QFyIwRKqFV.jpg",
   "backdrop_path": "/dHnki2Dh6lbOtfksrh8H5lg08f5.jpg",
   "trailer_key": "Utq0aDEp084",
@@ -36,7 +36,7 @@
     "imdb_votes": 236451,
     "rt": 94,
     "metacritic": 77,
-    "refreshed_at": "2026-09-28T09:46:52.058Z"
+    "refreshed_at": "2026-10-05T10:26:32.774Z"
   },
   "providers": {
     "flatrate": [],
@@ -66,5 +66,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-28T09:46:52.058Z"
+  "providers_refreshed_at": "2026-10-05T10:26:32.774Z"
 }

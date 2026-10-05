@@ -24,8 +24,8 @@
     "RU"
   ],
   "vote_average": 7.4,
-  "vote_count": 1002,
-  "popularity": 4.2195,
+  "vote_count": 1006,
+  "popularity": 3.7698,
   "poster_path": "/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg",
   "backdrop_path": "/ycOp8gMtlfW7pDPL1YiejU1DVn4.jpg",
   "trailer_key": "2oo7H25kirk",
@@ -35,7 +35,7 @@
     "imdb_votes": 59296,
     "rt": 97,
     "metacritic": 92,
-    "refreshed_at": "2026-09-28T09:46:48.900Z"
+    "refreshed_at": "2026-10-05T10:26:30.414Z"
   },
   "providers": {
     "flatrate": [],
@@ -43,5 +43,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-28T09:46:48.900Z"
+  "providers_refreshed_at": "2026-10-05T10:26:30.414Z"
 }

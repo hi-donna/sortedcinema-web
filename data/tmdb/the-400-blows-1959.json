@@ -23,8 +23,8 @@
     "FR"
   ],
   "vote_average": 8,
-  "vote_count": 2393,
-  "popularity": 10.3368,
+  "vote_count": 2398,
+  "popularity": 11.2895,
   "poster_path": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
   "backdrop_path": "/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
   "trailer_key": "ICGZfU-9Yl0",
@@ -34,13 +34,24 @@
     "imdb_votes": 134367,
     "rt": 99,
     "metacritic": null,
-    "refreshed_at": "2026-09-28T09:46:49.204Z"
+    "refreshed_at": "2026-10-05T10:26:30.654Z"
   },
   "providers": {
-    "flatrate": [],
+    "flatrate": [
+      {
+        "name": "MUBI",
+        "slug": "mubi",
+        "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+      },
+      {
+        "name": "MUBI on Prime",
+        "slug": "mubi-on-prime",
+        "logo": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+      }
+    ],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-28T09:46:49.204Z"
+  "providers_refreshed_at": "2026-10-05T10:26:30.654Z"
 }

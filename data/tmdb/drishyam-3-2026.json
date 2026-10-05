@@ -11,7 +11,7 @@
   "title": "Drishyam 3",
   "original_title": "ദൃശ്യം 3",
   "year": 2026,
-  "release_date": "2026-05-21",
+  "release_date": "2026-05-20",
   "runtime": 157,
   "overview": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
   "tagline": "The past never stays silent",
@@ -24,9 +24,9 @@
   "origin_country": [
     "IN"
   ],
-  "vote_average": 6.6,
-  "vote_count": 21,
-  "popularity": 4.4097,
+  "vote_average": 6.5,
+  "vote_count": 23,
+  "popularity": 17.3891,
   "poster_path": "/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
   "backdrop_path": "/enwc2Acl38mvX33QffmTzDSV89D.jpg",
   "trailer_key": null,
@@ -36,7 +36,7 @@
     "imdb_votes": null,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-09-28T09:46:55.398Z"
+    "refreshed_at": "2026-10-05T10:26:36.468Z"
   },
   "providers": {
     "flatrate": [
@@ -56,5 +56,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-28T09:46:55.398Z"
+  "providers_refreshed_at": "2026-10-05T10:26:36.468Z"
 }

@@ -25,8 +25,8 @@
     "CA"
   ],
   "vote_average": 6.5,
-  "vote_count": 731,
-  "popularity": 3.3448,
+  "vote_count": 734,
+  "popularity": 2.9143,
   "poster_path": "/4wWMvurzg1AoArX57pqsPWwhps2.jpg",
   "backdrop_path": "/2VMuMLAThKwQoY09UVcXPz005js.jpg",
   "trailer_key": "0W6y6pncMJQ",
@@ -36,7 +36,7 @@
     "imdb_votes": 37926,
     "rt": 83,
     "metacritic": 54,
-    "refreshed_at": "2026-09-28T09:46:38.376Z"
+    "refreshed_at": "2026-10-05T10:26:21.844Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-28T09:46:38.376Z"
+  "providers_refreshed_at": "2026-10-05T10:26:21.844Z"
 }

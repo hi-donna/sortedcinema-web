@@ -23,24 +23,30 @@
     "TR"
   ],
   "vote_average": 8.3,
-  "vote_count": 4602,
-  "popularity": 7.2744,
+  "vote_count": 4605,
+  "popularity": 7.4659,
   "poster_path": "/bOth4QmNyEkalwahfPCfiXjNh1r.jpg",
   "backdrop_path": "/inEy3A5OPgeYW4rjRiGycfEeQzA.jpg",
   "trailer_key": "bDAkHkR6fwA",
   "imdb_id": "tt10431500",
   "ratings": {
     "imdb": 8.2,
-    "imdb_votes": 60531,
+    "imdb_votes": 64402,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-09-28T09:46:53.375Z"
+    "refreshed_at": "2026-10-05T10:26:34.883Z"
   },
   "providers": {
-    "flatrate": [],
+    "flatrate": [
+      {
+        "name": "Netflix",
+        "slug": "netflix",
+        "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+      }
+    ],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-28T09:46:53.375Z"
+  "providers_refreshed_at": "2026-10-05T10:26:34.883Z"
 }

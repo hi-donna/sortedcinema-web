@@ -11,13 +11,13 @@
   "title": "Ramayana",
   "original_title": "रामायण",
   "year": 2026,
-  "release_date": "2026-11-05",
+  "release_date": "2026-11-04",
   "runtime": null,
   "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
   "tagline": "Our truth. Our history.",
   "genres": [
-    "Drama",
     "Fantasy",
+    "Drama",
     "Action"
   ],
   "original_language": "hi",
@@ -26,8 +26,8 @@
   ],
   "vote_average": null,
   "vote_count": 0,
-  "popularity": 8.9017,
-  "poster_path": "/lS17squIY8OpyFJz3cOCFzYxNUA.jpg",
+  "popularity": 9.9659,
+  "poster_path": "/f3yZZw7zIsWo6m9xJStfjDauIZX.jpg",
   "backdrop_path": "/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
   "trailer_key": "74nF-FWAS6M",
   "imdb_id": "tt27988879",
@@ -36,7 +36,7 @@
     "imdb_votes": null,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-09-28T09:46:54.946Z"
+    "refreshed_at": "2026-10-05T10:26:36.477Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-28T09:46:54.946Z"
+  "providers_refreshed_at": "2026-10-05T10:26:36.477Z"
 }

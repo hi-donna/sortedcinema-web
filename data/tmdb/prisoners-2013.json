@@ -25,8 +25,8 @@
     "US"
   ],
   "vote_average": 8.1,
-  "vote_count": 13543,
-  "popularity": 21.2064,
+  "vote_count": 13569,
+  "popularity": 18.5474,
   "poster_path": "/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
   "backdrop_path": "/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
   "trailer_key": "yszyHq-S9W8",
@@ -36,7 +36,7 @@
     "imdb_votes": 922474,
     "rt": 81,
     "metacritic": 70,
-    "refreshed_at": "2026-09-28T09:46:35.415Z"
+    "refreshed_at": "2026-10-05T10:26:19.410Z"
   },
   "providers": {
     "flatrate": [
@@ -46,13 +46,8 @@
         "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
       },
       {
-        "name": "FilmBox+",
-        "slug": "filmbox",
-        "logo": "/hfooLkJnxKlZRzY1yNK8ryKiijf.png"
-      },
-      {
-        "name": "Lionsgate+ Amazon Channels",
-        "slug": "lionsgate-amazon-channels",
+        "name": "Lionsgate+ on Prime",
+        "slug": "lionsgate-on-prime",
         "logo": "/1356slxu4QrHOMrEVDKHJXRo5sW.png"
       }
     ],
@@ -77,5 +72,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-09-28T09:46:35.415Z"
+  "providers_refreshed_at": "2026-10-05T10:26:19.411Z"
 }
