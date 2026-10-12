@@ -24,18 +24,18 @@
     "MX"
   ],
   "vote_average": 7.6,
-  "vote_count": 3020,
-  "popularity": 15.4913,
+  "vote_count": 3030,
+  "popularity": 16.0236,
   "poster_path": "/1lX74fPZsBoOyyE5fWL5xT7k9sV.jpg",
   "backdrop_path": "/iTkxwBriD9YKg4Q35qWEIlLXd6e.jpg",
   "trailer_key": "_P29GF_NbDc",
   "imdb_id": "tt0245712",
   "ratings": {
     "imdb": 8,
-    "imdb_votes": 271447,
+    "imdb_votes": 273412,
     "rt": 93,
     "metacritic": 83,
-    "refreshed_at": "2026-10-05T10:26:32.847Z"
+    "refreshed_at": "2026-10-12T10:49:18.468Z"
   },
   "providers": {
     "flatrate": [
@@ -60,5 +60,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:32.847Z"
+  "providers_refreshed_at": "2026-10-12T10:49:18.468Z"
 }

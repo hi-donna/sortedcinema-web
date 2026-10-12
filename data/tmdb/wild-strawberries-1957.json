@@ -13,7 +13,7 @@
   "year": 1957,
   "release_date": "1957-08-28",
   "runtime": 91,
-  "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
+  "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
   "tagline": "",
   "genres": [
     "Drama"
@@ -23,8 +23,8 @@
     "SE"
   ],
   "vote_average": 8.1,
-  "vote_count": 1867,
-  "popularity": 6.0831,
+  "vote_count": 1871,
+  "popularity": 5.6426,
   "poster_path": "/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
   "backdrop_path": "/BBVAUchYvkmPThVIqipgAfabfl.jpg",
   "trailer_key": "EwMgTyVbCS0",
@@ -34,7 +34,7 @@
     "imdb_votes": 126005,
     "rt": 94,
     "metacritic": 88,
-    "refreshed_at": "2026-10-05T10:26:33.776Z"
+    "refreshed_at": "2026-10-12T10:49:19.261Z"
   },
   "providers": {
     "flatrate": [],
@@ -42,5 +42,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:33.776Z"
+  "providers_refreshed_at": "2026-10-12T10:49:19.261Z"
 }

@@ -18,26 +18,25 @@
   "genres": [
     "Horror",
     "Mystery",
-    "Crime",
-    "Thriller"
+    "Crime"
   ],
   "original_language": "ja",
   "origin_country": [
     "JP"
   ],
   "vote_average": 7.6,
-  "vote_count": 892,
-  "popularity": 9.1038,
+  "vote_count": 904,
+  "popularity": 9.0651,
   "poster_path": "/xNVJr9q6AtSbjosS6Ed9YirOkSo.jpg",
   "backdrop_path": "/xxIRKSd9LmHojUD5grvMuGypwVC.jpg",
   "trailer_key": "pv91E5L6_Tw",
   "imdb_id": "tt0123948",
   "ratings": {
     "imdb": 7.5,
-    "imdb_votes": 36727,
+    "imdb_votes": 41702,
     "rt": 94,
-    "metacritic": 70,
-    "refreshed_at": "2026-10-05T10:26:27.083Z"
+    "metacritic": 71,
+    "refreshed_at": "2026-10-12T10:49:12.232Z"
   },
   "providers": {
     "flatrate": [],
@@ -45,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:27.083Z"
+  "providers_refreshed_at": "2026-10-12T10:49:12.232Z"
 }

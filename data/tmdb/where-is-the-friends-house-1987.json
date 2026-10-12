@@ -24,18 +24,18 @@
     "IR"
   ],
   "vote_average": 7.9,
-  "vote_count": 457,
-  "popularity": 5.6332,
+  "vote_count": 459,
+  "popularity": 4.1831,
   "poster_path": "/lrrtMVv2X8PNO7UA0Ce0gTtfuC8.jpg",
   "backdrop_path": "/ylBiGZhgBsly0frseG2PvqoYM4o.jpg",
   "trailer_key": "run-u_2zAdA",
   "imdb_id": "tt0093342",
   "ratings": {
     "imdb": 8.1,
-    "imdb_votes": 21956,
+    "imdb_votes": 23795,
     "rt": 100,
     "metacritic": null,
-    "refreshed_at": "2026-10-05T10:26:31.974Z"
+    "refreshed_at": "2026-10-12T10:49:17.105Z"
   },
   "providers": {
     "flatrate": [],
@@ -43,5 +43,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:31.974Z"
+  "providers_refreshed_at": "2026-10-12T10:49:17.105Z"
 }

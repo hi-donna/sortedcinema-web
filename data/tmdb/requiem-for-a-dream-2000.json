@@ -14,7 +14,7 @@
   "release_date": "2000-10-06",
   "runtime": 102,
   "overview": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
-  "tagline": "",
+  "tagline": "A look into addiction and how it overcomes the mind and body.",
   "genres": [
     "Crime",
     "Drama"
@@ -24,18 +24,18 @@
     "US"
   ],
   "vote_average": 8,
-  "vote_count": 11353,
-  "popularity": 10.0423,
+  "vote_count": 11374,
+  "popularity": 10.0549,
   "poster_path": "/9BTwsLaMVHOGFlmsSlx5QYCaXb.jpg",
   "backdrop_path": "/fAGYRJCujRBMw7TCuTp893eSG8e.jpg",
   "trailer_key": "NEKjZSTo0Uk",
   "imdb_id": "tt0180093",
   "ratings": {
     "imdb": 8.3,
-    "imdb_votes": 966708,
+    "imdb_votes": 986851,
     "rt": 80,
     "metacritic": 71,
-    "refreshed_at": "2026-10-05T10:26:20.537Z"
+    "refreshed_at": "2026-10-12T10:49:04.730Z"
   },
   "providers": {
     "flatrate": [
@@ -61,5 +61,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:20.537Z"
+  "providers_refreshed_at": "2026-10-12T10:49:04.730Z"
 }

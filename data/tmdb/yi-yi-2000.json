@@ -22,19 +22,19 @@
   "origin_country": [
     "TW"
   ],
-  "vote_average": 7.9,
-  "vote_count": 712,
-  "popularity": 7.4843,
+  "vote_average": 8,
+  "vote_count": 714,
+  "popularity": 6.2355,
   "poster_path": "/mR8dSQZI8X6Z1NClJhFrtJp636z.jpg",
   "backdrop_path": "/x903dx8Km6XNLFEmvbXc98vePSV.jpg",
   "trailer_key": "PxgrzNFwyqY",
   "imdb_id": "tt0244316",
   "ratings": {
     "imdb": 8.1,
-    "imdb_votes": 33452,
+    "imdb_votes": 35202,
     "rt": null,
     "metacritic": 94,
-    "refreshed_at": "2026-10-05T10:26:30.179Z"
+    "refreshed_at": "2026-10-12T10:49:15.533Z"
   },
   "providers": {
     "flatrate": [],
@@ -42,5 +42,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:30.179Z"
+  "providers_refreshed_at": "2026-10-12T10:49:15.533Z"
 }

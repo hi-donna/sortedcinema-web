@@ -24,18 +24,18 @@
     "FR"
   ],
   "vote_average": 7.9,
-  "vote_count": 12703,
-  "popularity": 22.0829,
+  "vote_count": 12722,
+  "popularity": 18.9224,
   "poster_path": "/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
   "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
   "trailer_key": "555A7T_kmIc",
   "imdb_id": "tt0211915",
   "ratings": {
-    "imdb": 8.3,
-    "imdb_votes": 839094,
+    "imdb": 8.2,
+    "imdb_votes": 848391,
     "rt": 90,
     "metacritic": 70,
-    "refreshed_at": "2026-10-05T10:26:18.667Z"
+    "refreshed_at": "2026-10-12T10:49:02.743Z"
   },
   "providers": {
     "flatrate": [],
@@ -43,5 +43,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:18.667Z"
+  "providers_refreshed_at": "2026-10-12T10:49:02.743Z"
 }

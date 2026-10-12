@@ -14,7 +14,7 @@
   "release_date": "2010-12-03",
   "runtime": 108,
   "overview": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's \"Swan Lake.\"",
-  "tagline": "\"I just want to be perfect.\"",
+  "tagline": "I just want to be perfect.",
   "genres": [
     "Drama",
     "Thriller",
@@ -25,18 +25,18 @@
     "US"
   ],
   "vote_average": 7.7,
-  "vote_count": 15935,
-  "popularity": 23.3721,
+  "vote_count": 15962,
+  "popularity": 25.4021,
   "poster_path": "/viWheBd44bouiLCHgNMvahLThqx.jpg",
   "backdrop_path": "/eDLp4uFdqP1gpy9oMrutwH6Q64I.jpg",
   "trailer_key": "2Pxc_5f27Kg",
   "imdb_id": "tt0947798",
   "ratings": {
     "imdb": 8,
-    "imdb_votes": 882921,
+    "imdb_votes": 899056,
     "rt": 85,
     "metacritic": 79,
-    "refreshed_at": "2026-10-05T10:26:24.558Z"
+    "refreshed_at": "2026-10-12T10:49:09.469Z"
   },
   "providers": {
     "flatrate": [],
@@ -66,5 +66,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:24.558Z"
+  "providers_refreshed_at": "2026-10-12T10:49:09.469Z"
 }

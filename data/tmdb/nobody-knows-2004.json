@@ -23,18 +23,18 @@
     "JP"
   ],
   "vote_average": 8,
-  "vote_count": 690,
-  "popularity": 8.8742,
+  "vote_count": 691,
+  "popularity": 10.0213,
   "poster_path": "/kDUUdWrbBBVqzSmm27pHFJcTvCU.jpg",
   "backdrop_path": "/gCD0eMZW1pUitLzH93WYWJYQgGk.jpg",
   "trailer_key": "ThksKmIMGAM",
   "imdb_id": "tt0408664",
   "ratings": {
     "imdb": 8,
-    "imdb_votes": 35056,
+    "imdb_votes": 36143,
     "rt": 92,
     "metacritic": 88,
-    "refreshed_at": "2026-10-05T10:26:32.707Z"
+    "refreshed_at": "2026-10-12T10:49:18.137Z"
   },
   "providers": {
     "flatrate": [],
@@ -42,5 +42,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:32.707Z"
+  "providers_refreshed_at": "2026-10-12T10:49:18.137Z"
 }

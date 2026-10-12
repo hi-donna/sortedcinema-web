@@ -14,7 +14,7 @@
   "release_date": "2026-05-20",
   "runtime": 157,
   "overview": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
-  "tagline": "The past never stays silent",
+  "tagline": "The past never stays silent.",
   "genres": [
     "Crime",
     "Drama",
@@ -24,9 +24,9 @@
   "origin_country": [
     "IN"
   ],
-  "vote_average": 6.5,
-  "vote_count": 23,
-  "popularity": 17.3891,
+  "vote_average": 6.4,
+  "vote_count": 24,
+  "popularity": 11.182,
   "poster_path": "/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
   "backdrop_path": "/enwc2Acl38mvX33QffmTzDSV89D.jpg",
   "trailer_key": null,
@@ -34,9 +34,9 @@
   "ratings": {
     "imdb": null,
     "imdb_votes": null,
-    "rt": null,
+    "rt": 100,
     "metacritic": null,
-    "refreshed_at": "2026-10-05T10:26:36.468Z"
+    "refreshed_at": "2026-10-12T10:49:21.644Z"
   },
   "providers": {
     "flatrate": [
@@ -56,5 +56,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:36.468Z"
+  "providers_refreshed_at": "2026-10-12T10:49:21.644Z"
 }

@@ -25,18 +25,18 @@
     "US"
   ],
   "vote_average": 7.6,
-  "vote_count": 19418,
-  "popularity": 31.8732,
+  "vote_count": 19461,
+  "popularity": 29.4781,
   "poster_path": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
   "backdrop_path": "/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg",
   "trailer_key": "gsB70ZRY-hI",
   "imdb_id": "tt5052448",
   "ratings": {
     "imdb": 7.8,
-    "imdb_votes": 814293,
+    "imdb_votes": 840575,
     "rt": 98,
     "metacritic": 85,
-    "refreshed_at": "2026-10-05T10:26:23.312Z"
+    "refreshed_at": "2026-10-12T10:49:07.655Z"
   },
   "providers": {
     "flatrate": [
@@ -61,5 +61,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:23.312Z"
+  "providers_refreshed_at": "2026-10-12T10:49:07.655Z"
 }

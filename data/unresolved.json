@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T10:26:36.897Z",
+  "generated_at": "2026-10-12T10:49:21.751Z",
   "count": 4,
   "items": [
     {
@@ -24,6 +24,14 @@
           "score": 6
         },
         {
+          "tmdb_id": 119790,
+          "media": "tv",
+          "title": "Society of Virtue",
+          "original_title": "Society of Virtue",
+          "year": 2017,
+          "score": 0
+        },
+        {
           "tmdb_id": 78276,
           "media": "tv",
           "title": "Society Game",
@@ -38,14 +46,6 @@
           "original_title": "Secret Society",
           "year": 1987,
           "score": 0
-        },
-        {
-          "tmdb_id": 84647,
-          "media": "tv",
-          "title": "The Society",
-          "original_title": "The Society",
-          "year": 2019,
-          "score": -3.9
         }
       ]
     },

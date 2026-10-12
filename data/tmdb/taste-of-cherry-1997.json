@@ -11,10 +11,10 @@
   "title": "Taste of Cherry",
   "original_title": "طعم گيلاس",
   "year": 1997,
-  "release_date": "1997-09-28",
+  "release_date": "1997-10-10",
   "runtime": 99,
   "overview": "A middle-aged Tehranian man, Mr. Badii is intent on killing himself and seeks someone to bury him after his demise. Driving around the city, the seemingly well-to-do Badii meets with numerous people, including a Muslim student, asking them to take on the job, but initially he has little luck. Eventually, Badii finds a man who is up for the task because he needs the money, but his new associate soon tries to talk him out of committing suicide.",
-  "tagline": "",
+  "tagline": "Do you want to give up the taste of cherries?",
   "genres": [
     "Drama"
   ],
@@ -23,8 +23,8 @@
     "IR"
   ],
   "vote_average": 7.7,
-  "vote_count": 741,
-  "popularity": 5.1739,
+  "vote_count": 742,
+  "popularity": 4.8745,
   "poster_path": "/vgPwjgbSdbYWrS1ty8TIZtmi6Tn.jpg",
   "backdrop_path": "/44SNTCSZTdbF5bzgUy4IfPV3DUq.jpg",
   "trailer_key": "ukmYdGwVqPg",
@@ -34,7 +34,7 @@
     "imdb_votes": 45325,
     "rt": 82,
     "metacritic": 80,
-    "refreshed_at": "2026-10-05T10:26:32.009Z"
+    "refreshed_at": "2026-10-12T10:49:17.125Z"
   },
   "providers": {
     "flatrate": [],
@@ -42,5 +42,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:32.009Z"
+  "providers_refreshed_at": "2026-10-12T10:49:17.125Z"
 }

@@ -14,7 +14,7 @@
   "release_date": "2001-07-20",
   "runtime": 125,
   "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
-  "tagline": "Beyond the tunnel was a mysterious town.",
+  "tagline": "Prepare to be spirited away.",
   "genres": [
     "Animation",
     "Family",
@@ -25,18 +25,18 @@
     "JP"
   ],
   "vote_average": 8.5,
-  "vote_count": 18988,
-  "popularity": 42.267,
-  "poster_path": "/jUo8cNmU400WtZiJss45HNXlQ2e.jpg",
-  "backdrop_path": "/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+  "vote_count": 19030,
+  "popularity": 44.0622,
+  "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+  "backdrop_path": "/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
   "trailer_key": "GAp2_0JJskk",
   "imdb_id": "tt0245429",
   "ratings": {
     "imdb": 8.6,
-    "imdb_votes": 964088,
+    "imdb_votes": 988028,
     "rt": 96,
     "metacritic": 96,
-    "refreshed_at": "2026-10-05T10:26:32.470Z"
+    "refreshed_at": "2026-10-12T10:49:17.599Z"
   },
   "providers": {
     "flatrate": [
@@ -50,5 +50,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:32.470Z"
+  "providers_refreshed_at": "2026-10-12T10:49:17.599Z"
 }

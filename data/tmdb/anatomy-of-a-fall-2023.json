@@ -25,18 +25,18 @@
     "FR"
   ],
   "vote_average": 7.5,
-  "vote_count": 3508,
-  "popularity": 20.6257,
+  "vote_count": 3517,
+  "popularity": 21.9453,
   "poster_path": "/1ho0d4LNZw3Y0voeKmSvPSgJOJ2.jpg",
   "backdrop_path": "/lDVl2jf6VB8ODl1olZ6FLvOV1gX.jpg",
   "trailer_key": "_MdTMA0PetA",
   "imdb_id": "tt17009710",
   "ratings": {
     "imdb": 7.6,
-    "imdb_votes": 209320,
+    "imdb_votes": 238729,
     "rt": 96,
     "metacritic": 86,
-    "refreshed_at": "2026-10-05T10:26:18.668Z"
+    "refreshed_at": "2026-10-12T10:49:02.773Z"
   },
   "providers": {
     "flatrate": [
@@ -55,5 +55,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:18.668Z"
+  "providers_refreshed_at": "2026-10-12T10:49:02.773Z"
 }

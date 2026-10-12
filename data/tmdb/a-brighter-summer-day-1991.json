@@ -25,18 +25,18 @@
     "TW"
   ],
   "vote_average": 8.2,
-  "vote_count": 409,
-  "popularity": 5.4421,
+  "vote_count": 412,
+  "popularity": 5.6576,
   "poster_path": "/3l8fOAwiN3N5n3hHnZ51eog7Zu2.jpg",
   "backdrop_path": "/hypv7bDxzqdhJfEpjRKf1aQbdc.jpg",
   "trailer_key": "nsiqbT5adO0",
   "imdb_id": "tt0101985",
   "ratings": {
     "imdb": 8.2,
-    "imdb_votes": 14580,
+    "imdb_votes": 15476,
     "rt": 100,
     "metacritic": 91,
-    "refreshed_at": "2026-10-05T10:26:30.188Z"
+    "refreshed_at": "2026-10-12T10:49:15.584Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:30.188Z"
+  "providers_refreshed_at": "2026-10-12T10:49:15.584Z"
 }

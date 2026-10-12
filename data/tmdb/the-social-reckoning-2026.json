@@ -17,16 +17,17 @@
   "tagline": "We're way past making friends.",
   "genres": [
     "Drama",
+    "History",
     "Thriller"
   ],
   "original_language": "en",
   "origin_country": [
     "US"
   ],
-  "vote_average": null,
-  "vote_count": 0,
-  "popularity": 18.28,
-  "poster_path": "/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
+  "vote_average": 7.3,
+  "vote_count": 67,
+  "popularity": 62.7598,
+  "poster_path": "/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
   "backdrop_path": "/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
   "trailer_key": "R8ANzYpaZaY",
   "imdb_id": "tt37510326",
@@ -35,7 +36,7 @@
     "imdb_votes": null,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-10-05T10:26:35.736Z"
+    "refreshed_at": "2026-10-12T10:49:21.230Z"
   },
   "providers": {
     "flatrate": [],
@@ -43,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:35.737Z"
+  "providers_refreshed_at": "2026-10-12T10:49:21.230Z"
 }

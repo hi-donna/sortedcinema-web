@@ -14,29 +14,29 @@
   "release_date": "2024-02-15",
   "runtime": 139,
   "overview": "A folk singer in 17th-century Kerala discovers a mansion. Inside, he encounters an enigmatic cook and a powerful master, setting in motion a chain of events that changes his life.",
-  "tagline": "The Age of Madness",
+  "tagline": "The Age of Madness.",
   "genres": [
+    "Drama",
     "Horror",
-    "Thriller",
-    "Drama"
+    "Thriller"
   ],
   "original_language": "ml",
   "origin_country": [
     "IN"
   ],
-  "vote_average": 7.6,
-  "vote_count": 95,
-  "popularity": 3.8996,
+  "vote_average": 7.7,
+  "vote_count": 98,
+  "popularity": 4.2067,
   "poster_path": "/snQLwRrfQAl5YFKVefZq9Lbscki.jpg",
   "backdrop_path": "/3Y5pOfxMrG8SqbIcGhYy497eOXc.jpg",
   "trailer_key": "7FLxInubR5Q",
   "imdb_id": "tt27431598",
   "ratings": {
     "imdb": 7.7,
-    "imdb_votes": 17289,
+    "imdb_votes": 18838,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-10-05T10:26:23.509Z"
+    "refreshed_at": "2026-10-12T10:49:07.770Z"
   },
   "providers": {
     "flatrate": [
@@ -55,5 +55,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-05T10:26:23.509Z"
+  "providers_refreshed_at": "2026-10-12T10:49:07.771Z"
 }
