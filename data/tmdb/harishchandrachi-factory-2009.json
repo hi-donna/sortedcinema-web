@@ -26,7 +26,7 @@
   ],
   "vote_average": 6.5,
   "vote_count": 24,
-  "popularity": 1.3021,
+  "popularity": 1.3153,
   "poster_path": "/uRC3yCRlsETdnCvZiyXilLtMrdE.jpg",
   "backdrop_path": "/xKsE9Z3AiGxo6gCc8FqAZlYrC0Y.jpg",
   "trailer_key": null,
@@ -36,7 +36,7 @@
     "imdb_votes": 2716,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-10-12T10:49:14.191Z"
+    "refreshed_at": "2026-10-26T08:55:09.169Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:14.191Z"
+  "providers_refreshed_at": "2026-10-26T08:55:09.169Z"
 }

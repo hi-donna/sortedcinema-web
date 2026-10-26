@@ -26,8 +26,8 @@
     "US"
   ],
   "vote_average": 8.3,
-  "vote_count": 2577,
-  "popularity": 165.0943,
+  "vote_count": 2713,
+  "popularity": 114.3153,
   "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
   "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
   "trailer_key": "QftAW9TTmuQ",
@@ -35,15 +35,21 @@
   "ratings": {
     "imdb": 7.4,
     "imdb_votes": 81658,
-    "rt": 93,
+    "rt": 92,
     "metacritic": 73,
-    "refreshed_at": "2026-10-12T10:49:20.978Z"
+    "refreshed_at": "2026-10-26T08:55:17.041Z"
   },
   "providers": {
-    "flatrate": [],
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:20.978Z"
+  "providers_refreshed_at": "2026-10-26T08:55:17.041Z"
 }

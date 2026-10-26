@@ -23,9 +23,9 @@
   "origin_country": [
     "US"
   ],
-  "vote_average": 8.4,
-  "vote_count": 14867,
-  "popularity": 26.6753,
+  "vote_average": 8.5,
+  "vote_count": 14947,
+  "popularity": 29.0303,
   "poster_path": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
   "backdrop_path": "/gILte6Zd7m1YneIr6MVhh30S9pr.jpg",
   "trailer_key": "PTBRNXGQR9Q",
@@ -35,7 +35,7 @@
     "imdb_votes": 1417364,
     "rt": 93,
     "metacritic": 92,
-    "refreshed_at": "2026-10-12T10:49:06.477Z"
+    "refreshed_at": "2026-10-26T08:55:01.511Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,11 +44,6 @@
         "name": "Apple TV Store",
         "slug": "apple-tv-store",
         "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-      },
-      {
-        "name": "Google Play",
-        "slug": "google-play",
-        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
       },
       {
         "name": "YouTube",
@@ -68,11 +63,6 @@
         "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
       },
       {
-        "name": "Google Play",
-        "slug": "google-play",
-        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
-      },
-      {
         "name": "YouTube",
         "slug": "youtube",
         "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
@@ -80,5 +70,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:06.477Z"
+  "providers_refreshed_at": "2026-10-26T08:55:01.511Z"
 }

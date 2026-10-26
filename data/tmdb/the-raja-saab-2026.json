@@ -16,18 +16,17 @@
   "overview": "Seeking his lost grandfather, a young man enters a haunted mansion and awakens a family curse powerful enough to upend both his life and reality.",
   "tagline": "",
   "genres": [
-    "Comedy",
-    "Horror",
     "Fantasy",
-    "Action"
+    "Horror",
+    "Comedy"
   ],
   "original_language": "te",
   "origin_country": [
     "IN"
   ],
   "vote_average": 4.8,
-  "vote_count": 36,
-  "popularity": 4.4764,
+  "vote_count": 37,
+  "popularity": 3.744,
   "poster_path": "/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg",
   "backdrop_path": "/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
   "trailer_key": "YFZMBqyXkqQ",
@@ -37,7 +36,7 @@
     "imdb_votes": 12168,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-10-12T10:49:21.489Z"
+    "refreshed_at": "2026-10-26T08:55:17.695Z"
   },
   "providers": {
     "flatrate": [
@@ -51,5 +50,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:21.489Z"
+  "providers_refreshed_at": "2026-10-26T08:55:17.695Z"
 }

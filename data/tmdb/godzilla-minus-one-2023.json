@@ -14,7 +14,7 @@
   "release_date": "2023-11-03",
   "runtime": 125,
   "overview": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-  "tagline": "Live and Fight. Survive and Resist.",
+  "tagline": "戦後、日本。無（ゼロ）から負（マイナス）へ。",
   "genres": [
     "Science Fiction",
     "Horror",
@@ -25,8 +25,8 @@
     "JP"
   ],
   "vote_average": 7.6,
-  "vote_count": 3494,
-  "popularity": 25.6308,
+  "vote_count": 3543,
+  "popularity": 23.8836,
   "poster_path": "/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
   "backdrop_path": "/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
   "trailer_key": "MSp68m8OJus",
@@ -36,7 +36,7 @@
     "imdb_votes": 232174,
     "rt": 99,
     "metacritic": 81,
-    "refreshed_at": "2026-10-12T10:49:18.324Z"
+    "refreshed_at": "2026-10-26T08:55:13.847Z"
   },
   "providers": {
     "flatrate": [
@@ -50,5 +50,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:18.324Z"
+  "providers_refreshed_at": "2026-10-26T08:55:13.847Z"
 }

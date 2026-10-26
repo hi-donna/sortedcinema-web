@@ -25,8 +25,8 @@
     "US"
   ],
   "vote_average": 7.4,
-  "vote_count": 17727,
-  "popularity": 36.46,
+  "vote_count": 17805,
+  "popularity": 30.0485,
   "poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
   "backdrop_path": "/wqBW5ltBJu0gs26yCc8shQQV82d.jpg",
   "trailer_key": "LFoz8ZJWmPs",
@@ -36,7 +36,7 @@
     "imdb_votes": 679031,
     "rt": 91,
     "metacritic": 69,
-    "refreshed_at": "2026-10-12T10:49:11.505Z"
+    "refreshed_at": "2026-10-26T08:55:06.516Z"
   },
   "providers": {
     "flatrate": [
@@ -69,6 +69,11 @@
         "name": "Sony Pictures on Prime",
         "slug": "sony-pictures-on-prime",
         "logo": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png"
+      },
+      {
+        "name": "Sonyliv on Prime",
+        "slug": "sonyliv-on-prime",
+        "logo": "/944iNBWJZwKT1lfO3y2oEqquQjG.png"
       }
     ],
     "rent": [
@@ -81,11 +86,6 @@
         "name": "ZEE5",
         "slug": "zee5",
         "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
-      },
-      {
-        "name": "Google Play",
-        "slug": "google-play",
-        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
       },
       {
         "name": "YouTube",
@@ -105,11 +105,6 @@
         "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
       },
       {
-        "name": "Google Play",
-        "slug": "google-play",
-        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
-      },
-      {
         "name": "YouTube",
         "slug": "youtube",
         "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
@@ -117,5 +112,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:11.505Z"
+  "providers_refreshed_at": "2026-10-26T08:55:06.516Z"
 }

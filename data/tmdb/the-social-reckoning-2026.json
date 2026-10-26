@@ -12,21 +12,20 @@
   "original_title": "The Social Reckoning",
   "year": 2026,
   "release_date": "2026-10-07",
-  "runtime": 112,
+  "runtime": 113,
   "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
   "tagline": "We're way past making friends.",
   "genres": [
     "Drama",
-    "History",
     "Thriller"
   ],
   "original_language": "en",
   "origin_country": [
     "US"
   ],
-  "vote_average": 7.3,
-  "vote_count": 67,
-  "popularity": 62.7598,
+  "vote_average": 7,
+  "vote_count": 130,
+  "popularity": 98.5232,
   "poster_path": "/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
   "backdrop_path": "/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
   "trailer_key": "R8ANzYpaZaY",
@@ -34,9 +33,9 @@
   "ratings": {
     "imdb": null,
     "imdb_votes": null,
-    "rt": null,
+    "rt": 54,
     "metacritic": null,
-    "refreshed_at": "2026-10-12T10:49:21.230Z"
+    "refreshed_at": "2026-10-26T08:55:17.283Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +43,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:21.230Z"
+  "providers_refreshed_at": "2026-10-26T08:55:17.283Z"
 }

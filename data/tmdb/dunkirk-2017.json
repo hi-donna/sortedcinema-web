@@ -18,15 +18,15 @@
   "genres": [
     "War",
     "Action",
-    "Drama"
+    "History"
   ],
   "original_language": "en",
   "origin_country": [
     "US"
   ],
-  "vote_average": 7.4,
-  "vote_count": 18087,
-  "popularity": 17.0815,
+  "vote_average": 7.5,
+  "vote_count": 18152,
+  "popularity": 19.1223,
   "poster_path": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
   "backdrop_path": "/pTwF9hLkqAtuOqXMdOyPwz4AgnI.jpg",
   "trailer_key": "T7O7BtBnsG4",
@@ -36,7 +36,7 @@
     "imdb_votes": 829382,
     "rt": 92,
     "metacritic": 94,
-    "refreshed_at": "2026-10-12T10:49:08.565Z"
+    "refreshed_at": "2026-10-26T08:55:04.029Z"
   },
   "providers": {
     "flatrate": [
@@ -58,11 +58,6 @@
         "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
       },
       {
-        "name": "Google Play",
-        "slug": "google-play",
-        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
-      },
-      {
         "name": "YouTube",
         "slug": "youtube",
         "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
@@ -80,11 +75,6 @@
         "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
       },
       {
-        "name": "Google Play",
-        "slug": "google-play",
-        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
-      },
-      {
         "name": "YouTube",
         "slug": "youtube",
         "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
@@ -92,5 +82,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:08.565Z"
+  "providers_refreshed_at": "2026-10-26T08:55:04.029Z"
 }

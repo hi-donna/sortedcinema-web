@@ -24,8 +24,8 @@
     "US"
   ],
   "vote_average": 7.4,
-  "vote_count": 3636,
-  "popularity": 90.1582,
+  "vote_count": 3860,
+  "popularity": 107.5182,
   "poster_path": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
   "backdrop_path": "/1e0KDRYKRPHiVNj8yQKYuU2jVyQ.jpg",
   "trailer_key": "icDuEHSxE-w",
@@ -35,10 +35,16 @@
     "imdb_votes": 164418,
     "rt": 79,
     "metacritic": 74,
-    "refreshed_at": "2026-10-12T10:49:20.973Z"
+    "refreshed_at": "2026-10-26T08:55:17.497Z"
   },
   "providers": {
-    "flatrate": [],
+    "flatrate": [
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
+      }
+    ],
     "rent": [
       {
         "name": "Apple TV Store",
@@ -60,5 +66,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:20.974Z"
+  "providers_refreshed_at": "2026-10-26T08:55:17.497Z"
 }

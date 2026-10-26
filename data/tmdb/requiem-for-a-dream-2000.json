@@ -16,7 +16,6 @@
   "overview": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
   "tagline": "A look into addiction and how it overcomes the mind and body.",
   "genres": [
-    "Crime",
     "Drama"
   ],
   "original_language": "en",
@@ -24,8 +23,8 @@
     "US"
   ],
   "vote_average": 8,
-  "vote_count": 11374,
-  "popularity": 10.0549,
+  "vote_count": 11431,
+  "popularity": 8.0885,
   "poster_path": "/9BTwsLaMVHOGFlmsSlx5QYCaXb.jpg",
   "backdrop_path": "/fAGYRJCujRBMw7TCuTp893eSG8e.jpg",
   "trailer_key": "NEKjZSTo0Uk",
@@ -35,7 +34,7 @@
     "imdb_votes": 986851,
     "rt": 80,
     "metacritic": 71,
-    "refreshed_at": "2026-10-12T10:49:04.730Z"
+    "refreshed_at": "2026-10-26T08:54:59.890Z"
   },
   "providers": {
     "flatrate": [
@@ -61,5 +60,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:04.730Z"
+  "providers_refreshed_at": "2026-10-26T08:54:59.890Z"
 }

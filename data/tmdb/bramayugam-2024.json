@@ -25,10 +25,10 @@
     "IN"
   ],
   "vote_average": 7.7,
-  "vote_count": 98,
-  "popularity": 4.2067,
+  "vote_count": 100,
+  "popularity": 3.0031,
   "poster_path": "/snQLwRrfQAl5YFKVefZq9Lbscki.jpg",
-  "backdrop_path": "/3Y5pOfxMrG8SqbIcGhYy497eOXc.jpg",
+  "backdrop_path": "/40UyKmlHffRjBDBk7XuI1GwDIwJ.jpg",
   "trailer_key": "7FLxInubR5Q",
   "imdb_id": "tt27431598",
   "ratings": {
@@ -36,7 +36,7 @@
     "imdb_votes": 18838,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-10-12T10:49:07.770Z"
+    "refreshed_at": "2026-10-26T08:55:02.910Z"
   },
   "providers": {
     "flatrate": [
@@ -49,11 +49,16 @@
         "name": "VI movies and tv",
         "slug": "vi-movies-and-tv",
         "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      },
+      {
+        "name": "Sonyliv on Prime",
+        "slug": "sonyliv-on-prime",
+        "logo": "/944iNBWJZwKT1lfO3y2oEqquQjG.png"
       }
     ],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:07.771Z"
+  "providers_refreshed_at": "2026-10-26T08:55:02.910Z"
 }

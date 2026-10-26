@@ -14,18 +14,19 @@
   "release_date": "2018-10-12",
   "runtime": 113,
   "overview": "India, 1918. On the outskirts of Tumbbad, a cursed village where it always rains, Vinayak, along with his mother and his brother, care of a mysterious old woman who keeps the secret of an ancestral treasure that Vinayak gets obsessed with.",
-  "tagline": "A Tale of Greed Beyond Fear.",
+  "tagline": "A tale of greed beyond fear.",
   "genres": [
     "Fantasy",
     "Horror"
   ],
   "original_language": "hi",
   "origin_country": [
-    "IN"
+    "IN",
+    "SE"
   ],
   "vote_average": 7.6,
-  "vote_count": 367,
-  "popularity": 4.6943,
+  "vote_count": 371,
+  "popularity": 3.7286,
   "poster_path": "/z1xOCxw780WFJC5uCTMfCkQ4Agi.jpg",
   "backdrop_path": "/l0YKBu3LaehIFzBNjseLjx7MbaN.jpg",
   "trailer_key": "ZjuhALyNgss",
@@ -35,7 +36,7 @@
     "imdb_votes": 77810,
     "rt": 87,
     "metacritic": null,
-    "refreshed_at": "2026-10-12T10:49:13.288Z"
+    "refreshed_at": "2026-10-26T08:55:08.345Z"
   },
   "providers": {
     "flatrate": [
@@ -55,5 +56,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:13.289Z"
+  "providers_refreshed_at": "2026-10-26T08:55:08.345Z"
 }

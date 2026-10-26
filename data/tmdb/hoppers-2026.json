@@ -16,8 +16,8 @@
   "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
   "tagline": "Act natural.",
   "genres": [
-    "Adventure",
     "Animation",
+    "Adventure",
     "Comedy",
     "Family",
     "Science Fiction"
@@ -27,8 +27,8 @@
     "US"
   ],
   "vote_average": 8.1,
-  "vote_count": 2421,
-  "popularity": 45.7707,
+  "vote_count": 2481,
+  "popularity": 51.3725,
   "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
   "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
   "trailer_key": "PypDSyIRRSs",
@@ -38,7 +38,7 @@
     "imdb_votes": 87615,
     "rt": 94,
     "metacritic": 73,
-    "refreshed_at": "2026-10-12T10:49:20.652Z"
+    "refreshed_at": "2026-10-26T08:55:16.617Z"
   },
   "providers": {
     "flatrate": [
@@ -52,5 +52,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:20.652Z"
+  "providers_refreshed_at": "2026-10-26T08:55:16.617Z"
 }

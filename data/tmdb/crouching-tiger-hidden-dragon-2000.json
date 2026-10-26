@@ -16,7 +16,7 @@
   "overview": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
   "tagline": "A timeless story of strength, secrets and two warriors who would never surrender.",
   "genres": [
-    "Adventure",
+    "Romance",
     "Drama",
     "Action"
   ],
@@ -26,8 +26,8 @@
     "TW"
   ],
   "vote_average": 7.4,
-  "vote_count": 3741,
-  "popularity": 16.586,
+  "vote_count": 3761,
+  "popularity": 15.7185,
   "poster_path": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
   "backdrop_path": "/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
   "trailer_key": "q-HrIQLdaNE",
@@ -37,7 +37,7 @@
     "imdb_votes": 298065,
     "rt": 96,
     "metacritic": 94,
-    "refreshed_at": "2026-10-12T10:49:15.373Z"
+    "refreshed_at": "2026-10-26T08:55:10.883Z"
   },
   "providers": {
     "flatrate": [
@@ -55,6 +55,11 @@
         "name": "Sony Pictures on Prime",
         "slug": "sony-pictures-on-prime",
         "logo": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png"
+      },
+      {
+        "name": "Sonyliv on Prime",
+        "slug": "sonyliv-on-prime",
+        "logo": "/944iNBWJZwKT1lfO3y2oEqquQjG.png"
       }
     ],
     "rent": [
@@ -67,11 +72,6 @@
         "name": "ZEE5",
         "slug": "zee5",
         "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
-      },
-      {
-        "name": "Google Play",
-        "slug": "google-play",
-        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
       },
       {
         "name": "YouTube",
@@ -91,11 +91,6 @@
         "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
       },
       {
-        "name": "Google Play",
-        "slug": "google-play",
-        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
-      },
-      {
         "name": "YouTube",
         "slug": "youtube",
         "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
@@ -103,5 +98,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:15.373Z"
+  "providers_refreshed_at": "2026-10-26T08:55:10.884Z"
 }

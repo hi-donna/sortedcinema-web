@@ -14,7 +14,7 @@
   "release_date": "2010-12-03",
   "runtime": 108,
   "overview": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's \"Swan Lake.\"",
-  "tagline": "I just want to be perfect.",
+  "tagline": "Perfection is not what it seems.",
   "genres": [
     "Drama",
     "Thriller",
@@ -25,8 +25,8 @@
     "US"
   ],
   "vote_average": 7.7,
-  "vote_count": 15962,
-  "popularity": 25.4021,
+  "vote_count": 16011,
+  "popularity": 18.8978,
   "poster_path": "/viWheBd44bouiLCHgNMvahLThqx.jpg",
   "backdrop_path": "/eDLp4uFdqP1gpy9oMrutwH6Q64I.jpg",
   "trailer_key": "2Pxc_5f27Kg",
@@ -36,16 +36,11 @@
     "imdb_votes": 899056,
     "rt": 85,
     "metacritic": 79,
-    "refreshed_at": "2026-10-12T10:49:09.469Z"
+    "refreshed_at": "2026-10-26T08:55:04.443Z"
   },
   "providers": {
     "flatrate": [],
     "rent": [
-      {
-        "name": "Google Play",
-        "slug": "google-play",
-        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
-      },
       {
         "name": "YouTube",
         "slug": "youtube",
@@ -54,11 +49,6 @@
     ],
     "buy": [
       {
-        "name": "Google Play",
-        "slug": "google-play",
-        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
-      },
-      {
         "name": "YouTube",
         "slug": "youtube",
         "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
@@ -66,5 +56,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:09.469Z"
+  "providers_refreshed_at": "2026-10-26T08:55:04.444Z"
 }

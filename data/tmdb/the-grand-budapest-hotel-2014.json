@@ -11,7 +11,7 @@
   "title": "The Grand Budapest Hotel",
   "original_title": "The Grand Budapest Hotel",
   "year": 2014,
-  "release_date": "2014-02-26",
+  "release_date": "2014-02-08",
   "runtime": 100,
   "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
   "tagline": "A murder case of Madam D. with enormous wealth and the most outrageous events surrounding her sudden death!",
@@ -24,8 +24,8 @@
     "US"
   ],
   "vote_average": 8,
-  "vote_count": 16598,
-  "popularity": 25.4792,
+  "vote_count": 16671,
+  "popularity": 27.9334,
   "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
   "backdrop_path": "/jK65srQczOKTpW62wPxwwKztGgE.jpg",
   "trailer_key": "G1jG8HUY4zI",
@@ -35,7 +35,7 @@
     "imdb_votes": 988783,
     "rt": 92,
     "metacritic": 88,
-    "refreshed_at": "2026-10-12T10:49:02.610Z"
+    "refreshed_at": "2026-10-26T08:54:57.433Z"
   },
   "providers": {
     "flatrate": [
@@ -47,22 +47,12 @@
     ],
     "rent": [
       {
-        "name": "Google Play",
-        "slug": "google-play",
-        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
-      },
-      {
         "name": "YouTube",
         "slug": "youtube",
         "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
       }
     ],
     "buy": [
-      {
-        "name": "Google Play",
-        "slug": "google-play",
-        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
-      },
       {
         "name": "YouTube",
         "slug": "youtube",
@@ -71,5 +61,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:02.610Z"
+  "providers_refreshed_at": "2026-10-26T08:54:57.433Z"
 }

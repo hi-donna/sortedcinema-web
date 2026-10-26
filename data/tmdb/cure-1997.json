@@ -25,9 +25,9 @@
     "JP"
   ],
   "vote_average": 7.6,
-  "vote_count": 904,
-  "popularity": 9.0651,
-  "poster_path": "/xNVJr9q6AtSbjosS6Ed9YirOkSo.jpg",
+  "vote_count": 925,
+  "popularity": 8.9765,
+  "poster_path": "/6hL8VFE4r0lX7fQKBBNqLNBKhcK.jpg",
   "backdrop_path": "/xxIRKSd9LmHojUD5grvMuGypwVC.jpg",
   "trailer_key": "pv91E5L6_Tw",
   "imdb_id": "tt0123948",
@@ -36,7 +36,7 @@
     "imdb_votes": 41702,
     "rt": 94,
     "metacritic": 71,
-    "refreshed_at": "2026-10-12T10:49:12.232Z"
+    "refreshed_at": "2026-10-26T08:55:06.929Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:12.232Z"
+  "providers_refreshed_at": "2026-10-26T08:55:06.930Z"
 }

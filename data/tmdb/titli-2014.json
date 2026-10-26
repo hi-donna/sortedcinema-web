@@ -26,7 +26,7 @@
   ],
   "vote_average": 6.7,
   "vote_count": 43,
-  "popularity": 1.0028,
+  "popularity": 1.0251,
   "poster_path": "/wY97sQ22x5k9zGwhWPFNuDsD9Sf.jpg",
   "backdrop_path": "/pQwVIELTvYNzm2NRL9VwTk7HWsT.jpg",
   "trailer_key": null,
@@ -36,7 +36,7 @@
     "imdb_votes": 5327,
     "rt": 93,
     "metacritic": null,
-    "refreshed_at": "2026-10-12T10:49:13.468Z"
+    "refreshed_at": "2026-10-26T08:55:08.603Z"
   },
   "providers": {
     "flatrate": [
@@ -58,11 +58,6 @@
         "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
       },
       {
-        "name": "Google Play",
-        "slug": "google-play",
-        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
-      },
-      {
         "name": "YouTube",
         "slug": "youtube",
         "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
@@ -75,11 +70,6 @@
         "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
       },
       {
-        "name": "Google Play",
-        "slug": "google-play",
-        "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
-      },
-      {
         "name": "YouTube",
         "slug": "youtube",
         "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
@@ -87,5 +77,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-12T10:49:13.468Z"
+  "providers_refreshed_at": "2026-10-26T08:55:08.603Z"
 }
