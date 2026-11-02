@@ -11,7 +11,7 @@
   "title": "Raise the Red Lantern",
   "original_title": "大红灯笼高高挂",
   "year": 1991,
-  "release_date": "1991-12-18",
+  "release_date": "1991-10-10",
   "runtime": 125,
   "overview": "In 1920s China, 19-year-old Songlian becomes a concubine of a powerful lord and is forced to compete with his three wives for the privileges gained.",
   "tagline": "China, 1920. One master, four wives.",
@@ -23,8 +23,8 @@
     "CN"
   ],
   "vote_average": 8,
-  "vote_count": 846,
-  "popularity": 6.7677,
+  "vote_count": 866,
+  "popularity": 7.6955,
   "poster_path": "/j6MGZpg55cTqlHHwahBtzI2qQg1.jpg",
   "backdrop_path": "/9UCHfC9tYojD4mMVBm0boyzYEQq.jpg",
   "trailer_key": "tLYJzEtmavg",
@@ -34,7 +34,7 @@
     "imdb_votes": 38549,
     "rt": 97,
     "metacritic": 81,
-    "refreshed_at": "2026-10-26T08:55:10.946Z"
+    "refreshed_at": "2026-11-02T11:06:24.753Z"
   },
   "providers": {
     "flatrate": [],
@@ -42,5 +42,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:55:10.946Z"
+  "providers_refreshed_at": "2026-11-02T11:06:24.753Z"
 }

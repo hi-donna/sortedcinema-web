@@ -23,8 +23,8 @@
     "US"
   ],
   "vote_average": 7.6,
-  "vote_count": 2578,
-  "popularity": 15.9338,
+  "vote_count": 2581,
+  "popularity": 7.9269,
   "poster_path": "/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg",
   "backdrop_path": "/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg",
   "trailer_key": "TuDnCnr504A",
@@ -34,10 +34,15 @@
     "imdb_votes": 168553,
     "rt": 90,
     "metacritic": 77,
-    "refreshed_at": "2026-10-26T08:55:03.407Z"
+    "refreshed_at": "2026-11-02T11:06:18.831Z"
   },
   "providers": {
     "flatrate": [
+      {
+        "name": "SonyLIV",
+        "slug": "sonyliv",
+        "logo": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png"
+      },
       {
         "name": "Sony Pictures on Prime",
         "slug": "sony-pictures-on-prime",
@@ -70,5 +75,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:55:03.408Z"
+  "providers_refreshed_at": "2026-11-02T11:06:18.831Z"
 }

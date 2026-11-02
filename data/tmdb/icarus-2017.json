@@ -11,9 +11,9 @@
   "title": "Icarus",
   "original_title": "Icarus",
   "year": 2017,
-  "release_date": "2017-06-03",
-  "runtime": 121,
-  "overview": "While investigating the furtive world of illegal doping in sports, director Bryan Fogel connects with renegade Russian scientist Dr. Grigory Rodchenkov—a pillar of his country’s “anti-doping” program. Over dozens of Skype calls, urine samples, and badly administered hormone injections, Fogel and Rodchenkov grow closer despite shocking allegations that place Rodchenkov at the center of Russia’s state-sponsored Olympic doping program.",
+  "release_date": "2017-01-20",
+  "runtime": 122,
+  "overview": "While investigating the furtive world of illegal doping in sports, director Bryan Fogel connects with renegade Russian scientist Dr. Grigory Rodchenkov—a pillar of his country's \"anti-doping\" program. Over dozens of Skype calls, urine samples, and badly administered hormone injections, Fogel and Rodchenkov grow closer despite shocking allegations that place Rodchenkov at the center of Russia's state-sponsored Olympic doping program.",
   "tagline": "Truth is the new banned substance.",
   "genres": [
     "Documentary"
@@ -23,8 +23,8 @@
     "US"
   ],
   "vote_average": 7.6,
-  "vote_count": 870,
-  "popularity": 2.4655,
+  "vote_count": 873,
+  "popularity": 2.5001,
   "poster_path": "/x5azMi1KvZWbBbfjmGqpHNGqjH.jpg",
   "backdrop_path": "/ambKXAJYrDPJK9wBJlIVVWbQbar.jpg",
   "trailer_key": "qXoRdSTrR-4",
@@ -34,7 +34,7 @@
     "imdb_votes": 58711,
     "rt": 92,
     "metacritic": 68,
-    "refreshed_at": "2026-10-26T08:54:56.387Z"
+    "refreshed_at": "2026-11-02T11:06:13.261Z"
   },
   "providers": {
     "flatrate": [
@@ -48,5 +48,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:54:56.388Z"
+  "providers_refreshed_at": "2026-11-02T11:06:13.261Z"
 }

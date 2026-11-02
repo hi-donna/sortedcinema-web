@@ -14,7 +14,7 @@
   "release_date": "2026-12-16",
   "runtime": 165,
   "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-  "tagline": "",
+  "tagline": "Meet your doom.",
   "genres": [
     "Science Fiction",
     "Action",
@@ -26,9 +26,9 @@
   ],
   "vote_average": null,
   "vote_count": 0,
-  "popularity": 417.6091,
+  "popularity": 117.9732,
   "poster_path": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-  "backdrop_path": "/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+  "backdrop_path": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
   "trailer_key": "X1aFkAkFASk",
   "imdb_id": "tt21357150",
   "ratings": {
@@ -36,7 +36,7 @@
     "imdb_votes": null,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-10-26T08:55:17.366Z"
+    "refreshed_at": "2026-11-02T11:06:29.419Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:55:17.366Z"
+  "providers_refreshed_at": "2026-11-02T11:06:29.419Z"
 }

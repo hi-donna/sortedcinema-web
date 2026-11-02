@@ -25,8 +25,8 @@
     "HK"
   ],
   "vote_average": 8,
-  "vote_count": 2328,
-  "popularity": 12.1457,
+  "vote_count": 2333,
+  "popularity": 11.6557,
   "poster_path": "/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
   "backdrop_path": "/8e6avmXiqurj5LHkmdHBq6rc5jm.jpg",
   "trailer_key": "P9Mxf_6pVA0",
@@ -36,7 +36,7 @@
     "imdb_votes": 114344,
     "rt": 89,
     "metacritic": 78,
-    "refreshed_at": "2026-10-26T08:55:10.744Z"
+    "refreshed_at": "2026-11-02T11:06:24.630Z"
   },
   "providers": {
     "flatrate": [
@@ -55,5 +55,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:55:10.744Z"
+  "providers_refreshed_at": "2026-11-02T11:06:24.631Z"
 }

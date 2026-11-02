@@ -25,8 +25,8 @@
     "IN"
   ],
   "vote_average": 7.8,
-  "vote_count": 118,
-  "popularity": 2.3504,
+  "vote_count": 119,
+  "popularity": 2.2498,
   "poster_path": "/12TfMF60mrh9Uo5MD98zKUkSQ9t.jpg",
   "backdrop_path": "/a2VB68TZft81Vvgs3eLPIiXSBjb.jpg",
   "trailer_key": null,
@@ -36,15 +36,10 @@
     "imdb_votes": 24908,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-10-26T08:55:09.995Z"
+    "refreshed_at": "2026-11-02T11:06:23.920Z"
   },
   "providers": {
     "flatrate": [
-      {
-        "name": "JioHotstar",
-        "slug": "jiohotstar",
-        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
-      },
       {
         "name": "VI movies and tv",
         "slug": "vi-movies-and-tv",
@@ -54,11 +49,16 @@
         "name": "Goldmines Play on Prime",
         "slug": "goldmines-play-on-prime",
         "logo": "/8uXd8H7oaWlLBszABEvF9jIQCYx.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
       }
     ],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:55:09.995Z"
+  "providers_refreshed_at": "2026-11-02T11:06:23.920Z"
 }

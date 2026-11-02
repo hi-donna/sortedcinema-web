@@ -12,7 +12,7 @@
   "original_title": "Dune: Part Three",
   "year": 2026,
   "release_date": "2026-12-15",
-  "runtime": 140,
+  "runtime": 150,
   "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
   "tagline": "The epic conclusion.",
   "genres": [
@@ -25,17 +25,17 @@
   ],
   "vote_average": null,
   "vote_count": 0,
-  "popularity": 92.6171,
-  "poster_path": "/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+  "popularity": 45.0757,
+  "poster_path": "/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
   "backdrop_path": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-  "trailer_key": "NdvqHc56lE0",
+  "trailer_key": "uJqaGLmZpGo",
   "imdb_id": "tt31378509",
   "ratings": {
     "imdb": null,
     "imdb_votes": null,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-10-26T08:55:17.454Z"
+    "refreshed_at": "2026-11-02T11:06:29.437Z"
   },
   "providers": {
     "flatrate": [],
@@ -43,5 +43,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:55:17.454Z"
+  "providers_refreshed_at": "2026-11-02T11:06:29.437Z"
 }

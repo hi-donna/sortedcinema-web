@@ -9,7 +9,7 @@
   "tmdb_id": 656908,
   "media": "movie",
   "title": "Ramayana: Rise of a Legend",
-  "original_title": "रामायणम",
+  "original_title": "रामायणम्",
   "year": 2026,
   "release_date": "2026-11-04",
   "runtime": 195,
@@ -24,11 +24,11 @@
   "origin_country": [
     "IN"
   ],
-  "vote_average": null,
-  "vote_count": 0,
-  "popularity": 24.6596,
+  "vote_average": 10,
+  "vote_count": 1,
+  "popularity": 27.5598,
   "poster_path": "/cK6xaYrb498y2rmMRSZmRKaCXKL.jpg",
-  "backdrop_path": "/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg",
+  "backdrop_path": "/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
   "trailer_key": "AYkPRN874m8",
   "imdb_id": "tt27988879",
   "ratings": {
@@ -36,7 +36,7 @@
     "imdb_votes": null,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-10-26T08:55:17.920Z"
+    "refreshed_at": "2026-11-02T11:06:29.745Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:55:17.920Z"
+  "providers_refreshed_at": "2026-11-02T11:06:29.745Z"
 }

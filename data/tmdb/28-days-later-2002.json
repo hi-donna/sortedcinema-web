@@ -25,8 +25,8 @@
     "GB"
   ],
   "vote_average": 7.2,
-  "vote_count": 9019,
-  "popularity": 21.4075,
+  "vote_count": 9036,
+  "popularity": 16.2777,
   "poster_path": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
   "backdrop_path": "/aJFwk1clMal1prxAvKAgHxKPAf.jpg",
   "trailer_key": "mWEhfF27O0c",
@@ -36,7 +36,7 @@
     "imdb_votes": 557320,
     "rt": 87,
     "metacritic": 73,
-    "refreshed_at": "2026-10-26T08:55:06.728Z"
+    "refreshed_at": "2026-11-02T11:06:21.707Z"
   },
   "providers": {
     "flatrate": [
@@ -44,6 +44,11 @@
         "name": "Prime Video",
         "slug": "prime-video",
         "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "SonyLIV",
+        "slug": "sonyliv",
+        "logo": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png"
       }
     ],
     "rent": [
@@ -77,5 +82,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:55:06.728Z"
+  "providers_refreshed_at": "2026-11-02T11:06:21.707Z"
 }

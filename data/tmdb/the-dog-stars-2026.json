@@ -16,19 +16,19 @@
   "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
   "tagline": "At the end of the world, no one survives alone.",
   "genres": [
-    "Drama",
+    "Action",
     "Thriller",
-    "Adventure"
+    "Science Fiction"
   ],
   "original_language": "en",
   "origin_country": [
     "US"
   ],
-  "vote_average": 6.6,
-  "vote_count": 314,
-  "popularity": 18.3686,
+  "vote_average": 7.2,
+  "vote_count": 782,
+  "popularity": 189.6676,
   "poster_path": "/5O616X9vmRzQdB68PHzBewPittd.jpg",
-  "backdrop_path": "/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
+  "backdrop_path": "/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
   "trailer_key": "-xSxaE1ClEE",
   "imdb_id": "tt21285562",
   "ratings": {
@@ -36,7 +36,7 @@
     "imdb_votes": 13521,
     "rt": 41,
     "metacritic": 49,
-    "refreshed_at": "2026-10-26T08:55:16.809Z"
+    "refreshed_at": "2026-11-02T11:06:29.501Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:55:16.809Z"
+  "providers_refreshed_at": "2026-11-02T11:06:29.501Z"
 }

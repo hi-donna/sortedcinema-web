@@ -24,8 +24,8 @@
     "AU"
   ],
   "vote_average": 7.3,
-  "vote_count": 3410,
-  "popularity": 11.6453,
+  "vote_count": 3417,
+  "popularity": 9.4795,
   "poster_path": "/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
   "backdrop_path": "/sWi4SSeVPii4NU365Df9vzX1yOX.jpg",
   "trailer_key": "30mmoegSQCs",
@@ -35,7 +35,7 @@
     "imdb_votes": 228979,
     "rt": null,
     "metacritic": 66,
-    "refreshed_at": "2026-10-26T08:55:05.349Z"
+    "refreshed_at": "2026-11-02T11:06:20.544Z"
   },
   "providers": {
     "flatrate": [],
@@ -43,5 +43,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:55:05.349Z"
+  "providers_refreshed_at": "2026-11-02T11:06:20.544Z"
 }

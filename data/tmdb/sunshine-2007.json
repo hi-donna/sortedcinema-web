@@ -17,16 +17,15 @@
   "tagline": "If it dies, so do we.",
   "genres": [
     "Thriller",
-    "Science Fiction",
-    "Horror"
+    "Science Fiction"
   ],
   "original_language": "en",
   "origin_country": [
     "GB"
   ],
   "vote_average": 7,
-  "vote_count": 4492,
-  "popularity": 8.5178,
+  "vote_count": 4499,
+  "popularity": 7.8848,
   "poster_path": "/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg",
   "backdrop_path": "/5AIAnucJKZ3sHpm7r1ykFVIoUHK.jpg",
   "trailer_key": "Ig1BU6PUt0A",
@@ -36,7 +35,7 @@
     "imdb_votes": 291087,
     "rt": 77,
     "metacritic": 64,
-    "refreshed_at": "2026-10-26T08:55:02.244Z"
+    "refreshed_at": "2026-11-02T11:06:17.950Z"
   },
   "providers": {
     "flatrate": [],
@@ -56,5 +55,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:55:02.244Z"
+  "providers_refreshed_at": "2026-11-02T11:06:17.950Z"
 }

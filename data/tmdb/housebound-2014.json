@@ -26,8 +26,8 @@
     "NZ"
   ],
   "vote_average": 6.6,
-  "vote_count": 951,
-  "popularity": 3.1782,
+  "vote_count": 953,
+  "popularity": 3.8702,
   "poster_path": "/jPKEeHmUuoDnIaRs6VUqSr4qRGR.jpg",
   "backdrop_path": "/3haw0ndhE0MihQHvyIbU9etWpoN.jpg",
   "trailer_key": "Ysde4KaFirk",
@@ -37,7 +37,7 @@
     "imdb_votes": 40325,
     "rt": 95,
     "metacritic": 76,
-    "refreshed_at": "2026-10-26T08:55:00.854Z"
+    "refreshed_at": "2026-11-02T11:06:16.962Z"
   },
   "providers": {
     "flatrate": [
@@ -51,5 +51,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:55:00.854Z"
+  "providers_refreshed_at": "2026-11-02T11:06:16.963Z"
 }

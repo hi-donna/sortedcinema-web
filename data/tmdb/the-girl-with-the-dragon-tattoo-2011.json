@@ -25,8 +25,8 @@
     "US"
   ],
   "vote_average": 7.4,
-  "vote_count": 7882,
-  "popularity": 12.1412,
+  "vote_count": 7894,
+  "popularity": 13.4528,
   "poster_path": "/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
   "backdrop_path": "/dNFbrnF0mIBm0rClbfEFWTtsgMP.jpg",
   "trailer_key": "svucpVzRBD4",
@@ -36,14 +36,14 @@
     "imdb_votes": 534633,
     "rt": 86,
     "metacritic": 71,
-    "refreshed_at": "2026-10-26T08:55:04.654Z"
+    "refreshed_at": "2026-11-02T11:06:20.187Z"
   },
   "providers": {
     "flatrate": [
       {
-        "name": "MGM Plus on Prime",
-        "slug": "mgm-plus-on-prime",
-        "logo": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png"
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
       }
     ],
     "rent": [
@@ -82,5 +82,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:55:04.654Z"
+  "providers_refreshed_at": "2026-11-02T11:06:20.187Z"
 }

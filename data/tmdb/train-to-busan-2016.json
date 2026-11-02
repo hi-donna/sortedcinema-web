@@ -14,7 +14,7 @@
   "release_date": "2016-07-20",
   "runtime": 118,
   "overview": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
-  "tagline": "Life-or-death survival begins.",
+  "tagline": "Get on board to stay alive",
   "genres": [
     "Action",
     "Horror",
@@ -26,8 +26,8 @@
     "KR"
   ],
   "vote_average": 7.8,
-  "vote_count": 8878,
-  "popularity": 21.7561,
+  "vote_count": 8896,
+  "popularity": 21.1611,
   "poster_path": "/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
   "backdrop_path": "/brnfCYyz8EMbBrHgmh8sCwBi5i1.jpg",
   "trailer_key": "4qm59Rcq1Fw",
@@ -37,7 +37,7 @@
     "imdb_votes": 316305,
     "rt": 95,
     "metacritic": 73,
-    "refreshed_at": "2026-10-26T08:55:15.125Z"
+    "refreshed_at": "2026-11-02T11:06:27.831Z"
   },
   "providers": {
     "flatrate": [
@@ -108,5 +108,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:55:15.125Z"
+  "providers_refreshed_at": "2026-11-02T11:06:27.831Z"
 }

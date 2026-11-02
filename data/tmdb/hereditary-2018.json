@@ -13,7 +13,7 @@
   "year": 2018,
   "release_date": "2018-06-07",
   "runtime": 128,
-  "overview": "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
+  "overview": "When the matriarch of the Graham family passes away, her daughter begins to unravel cryptic and increasingly terrifying secrets about her ancestry.",
   "tagline": "Every family tree hides a secret.",
   "genres": [
     "Horror",
@@ -25,8 +25,8 @@
     "US"
   ],
   "vote_average": 7.3,
-  "vote_count": 9040,
-  "popularity": 22.756,
+  "vote_count": 9063,
+  "popularity": 23.0082,
   "poster_path": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
   "backdrop_path": "/pS9Aub8MPyQbENblGD8mHeaqMuv.jpg",
   "trailer_key": "MJNR58zaStE",
@@ -36,7 +36,7 @@
     "imdb_votes": 471936,
     "rt": 90,
     "metacritic": 87,
-    "refreshed_at": "2026-10-26T08:54:58.869Z"
+    "refreshed_at": "2026-11-02T11:06:15.239Z"
   },
   "providers": {
     "flatrate": [
@@ -67,5 +67,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:54:58.869Z"
+  "providers_refreshed_at": "2026-11-02T11:06:15.239Z"
 }

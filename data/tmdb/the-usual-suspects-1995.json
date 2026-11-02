@@ -13,7 +13,7 @@
   "year": 1995,
   "release_date": "1995-07-19",
   "runtime": 106,
-  "overview": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+  "overview": "The lone survivor of an explosive heist gone wrong recounts for interrogators the events that began with five disparate criminals assembled for a police lineup - with alleged criminal mastermind Keyser Soze at the center of it all.",
   "tagline": "Five criminals. One line up. No coincidence.",
   "genres": [
     "Drama",
@@ -25,8 +25,8 @@
     "US"
   ],
   "vote_average": 8.2,
-  "vote_count": 11896,
-  "popularity": 26.545,
+  "vote_count": 11916,
+  "popularity": 17.6177,
   "poster_path": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
   "backdrop_path": "/hy0Hx9fMPk2fmw26Li60z1S2giU.jpg",
   "trailer_key": "jM3jrHGAsIE",
@@ -36,7 +36,7 @@
     "imdb_votes": 1257343,
     "rt": 87,
     "metacritic": 76,
-    "refreshed_at": "2026-10-26T08:55:01.819Z"
+    "refreshed_at": "2026-11-02T11:06:17.734Z"
   },
   "providers": {
     "flatrate": [],
@@ -50,5 +50,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-10-26T08:55:01.819Z"
+  "providers_refreshed_at": "2026-11-02T11:06:17.734Z"
 }
