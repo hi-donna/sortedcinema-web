@@ -11,8 +11,8 @@
   "title": "Ramayana: Rise of a Legend",
   "original_title": "रामायणम्",
   "year": 2026,
-  "release_date": "2026-11-04",
-  "runtime": 195,
+  "release_date": "2026-11-05",
+  "runtime": 201,
   "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
   "tagline": "Our truth. Our history",
   "genres": [
@@ -24,11 +24,11 @@
   "origin_country": [
     "IN"
   ],
-  "vote_average": 10,
-  "vote_count": 1,
-  "popularity": 27.5598,
-  "poster_path": "/cK6xaYrb498y2rmMRSZmRKaCXKL.jpg",
-  "backdrop_path": "/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
+  "vote_average": 7.5,
+  "vote_count": 22,
+  "popularity": 153.5361,
+  "poster_path": "/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
+  "backdrop_path": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
   "trailer_key": "AYkPRN874m8",
   "imdb_id": "tt27988879",
   "ratings": {
@@ -36,7 +36,7 @@
     "imdb_votes": null,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-11-02T11:06:29.745Z"
+    "refreshed_at": "2026-11-09T11:30:47.637Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-02T11:06:29.745Z"
+  "providers_refreshed_at": "2026-11-09T11:30:47.637Z"
 }

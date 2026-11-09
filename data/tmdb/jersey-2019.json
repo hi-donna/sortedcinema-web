@@ -24,7 +24,7 @@
   ],
   "vote_average": 8.1,
   "vote_count": 88,
-  "popularity": 1.573,
+  "popularity": 0.7056,
   "poster_path": "/bU9q9yVtxeBiC0Do27CekHXNE6D.jpg",
   "backdrop_path": "/53CsGhbXKhmzcOQntz7Qs0whQ6g.jpg",
   "trailer_key": null,
@@ -34,10 +34,15 @@
     "imdb_votes": 30381,
     "rt": 71,
     "metacritic": null,
-    "refreshed_at": "2026-11-02T11:06:24.269Z"
+    "refreshed_at": "2026-11-09T11:30:41.361Z"
   },
   "providers": {
     "flatrate": [
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      },
       {
         "name": "Sun NXT",
         "slug": "sun-nxt",
@@ -52,16 +57,11 @@
         "name": "JioHotstar",
         "slug": "jiohotstar",
         "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
-      },
-      {
-        "name": "ZEE5",
-        "slug": "zee5",
-        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
       }
     ],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-02T11:06:24.269Z"
+  "providers_refreshed_at": "2026-11-09T11:30:41.361Z"
 }

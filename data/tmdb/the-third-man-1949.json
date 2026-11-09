@@ -24,8 +24,8 @@
     "GB"
   ],
   "vote_average": 7.9,
-  "vote_count": 2213,
-  "popularity": 7.3737,
+  "vote_count": 2222,
+  "popularity": 4.9257,
   "poster_path": "/vqnFHTx1phgTAsLfxZoejSbMVHA.jpg",
   "backdrop_path": "/rLLhOCgAjuvlKmjUqVb7P1UAbUI.jpg",
   "trailer_key": "Y7nwySBGqCo",
@@ -35,7 +35,7 @@
     "imdb_votes": 197687,
     "rt": 99,
     "metacritic": 97,
-    "refreshed_at": "2026-11-02T11:06:22.754Z"
+    "refreshed_at": "2026-11-09T11:30:38.683Z"
   },
   "providers": {
     "flatrate": [
@@ -48,11 +48,6 @@
         "name": "Plex",
         "slug": "plex",
         "logo": "/blAEhvx3XX8sV0fFVFk88FFjubs.png"
-      },
-      {
-        "name": "Plex Channel",
-        "slug": "plex-channel",
-        "logo": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png"
       }
     ],
     "rent": [
@@ -65,5 +60,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-02T11:06:22.754Z"
+  "providers_refreshed_at": "2026-11-09T11:30:38.683Z"
 }

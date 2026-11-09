@@ -25,8 +25,8 @@
     "US"
   ],
   "vote_average": 7.3,
-  "vote_count": 9063,
-  "popularity": 23.0082,
+  "vote_count": 9086,
+  "popularity": 14.4818,
   "poster_path": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
   "backdrop_path": "/pS9Aub8MPyQbENblGD8mHeaqMuv.jpg",
   "trailer_key": "MJNR58zaStE",
@@ -36,7 +36,7 @@
     "imdb_votes": 471936,
     "rt": 90,
     "metacritic": 87,
-    "refreshed_at": "2026-11-02T11:06:15.239Z"
+    "refreshed_at": "2026-11-09T11:30:31.607Z"
   },
   "providers": {
     "flatrate": [
@@ -44,6 +44,11 @@
         "name": "Prime Video",
         "slug": "prime-video",
         "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
       }
     ],
     "rent": [
@@ -67,5 +72,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-02T11:06:15.239Z"
+  "providers_refreshed_at": "2026-11-09T11:30:31.607Z"
 }

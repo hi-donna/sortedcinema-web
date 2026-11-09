@@ -26,8 +26,8 @@
     "SU"
   ],
   "vote_average": 8.2,
-  "vote_count": 2013,
-  "popularity": 10.5823,
+  "vote_count": 2018,
+  "popularity": 7.3531,
   "poster_path": "/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
   "backdrop_path": "/3Na31ta8vDuKOgQuPLdSZLs8bCB.jpg",
   "trailer_key": "UHaSQU-4wss",
@@ -37,7 +37,7 @@
     "imdb_votes": 127084,
     "rt": 90,
     "metacritic": null,
-    "refreshed_at": "2026-11-02T11:06:17.592Z"
+    "refreshed_at": "2026-11-09T11:30:33.641Z"
   },
   "providers": {
     "flatrate": [],
@@ -45,5 +45,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-02T11:06:17.592Z"
+  "providers_refreshed_at": "2026-11-09T11:30:33.641Z"
 }

@@ -24,7 +24,7 @@
   ],
   "vote_average": 7.3,
   "vote_count": 6,
-  "popularity": 1.5149,
+  "popularity": 0.4289,
   "poster_path": "/zaCXIQ3Q68ik9qTSCVq3LJNHKp3.jpg",
   "backdrop_path": "/baGPNDPBMcj1j7YJwD30LZJ78M9.jpg",
   "trailer_key": "6ajhEq4HqHo",
@@ -34,19 +34,19 @@
     "imdb_votes": 1148,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-11-02T11:06:23.697Z"
+    "refreshed_at": "2026-11-09T11:30:40.395Z"
   },
   "providers": {
     "flatrate": [
       {
-        "name": "VI movies and tv",
-        "slug": "vi-movies-and-tv",
-        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
-      },
-      {
         "name": "ZEE5",
         "slug": "zee5",
         "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      },
+      {
+        "name": "VI movies and tv",
+        "slug": "vi-movies-and-tv",
+        "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
       }
     ],
     "rent": [
@@ -59,5 +59,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-02T11:06:23.697Z"
+  "providers_refreshed_at": "2026-11-09T11:30:40.395Z"
 }

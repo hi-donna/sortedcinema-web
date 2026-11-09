@@ -25,8 +25,8 @@
     "US"
   ],
   "vote_average": 8.1,
-  "vote_count": 13709,
-  "popularity": 18.9747,
+  "vote_count": 13738,
+  "popularity": 15.7576,
   "poster_path": "/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
   "backdrop_path": "/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
   "trailer_key": "yszyHq-S9W8",
@@ -36,7 +36,7 @@
     "imdb_votes": 962336,
     "rt": 81,
     "metacritic": 70,
-    "refreshed_at": "2026-11-02T11:06:14.781Z"
+    "refreshed_at": "2026-11-09T11:30:31.218Z"
   },
   "providers": {
     "flatrate": [
@@ -44,11 +44,6 @@
         "name": "Prime Video",
         "slug": "prime-video",
         "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-      },
-      {
-        "name": "Lionsgate+ on Prime",
-        "slug": "lionsgate-on-prime",
-        "logo": "/1356slxu4QrHOMrEVDKHJXRo5sW.png"
       },
       {
         "name": "Movie Sphere+",
@@ -77,5 +72,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-02T11:06:14.781Z"
+  "providers_refreshed_at": "2026-11-09T11:30:31.218Z"
 }

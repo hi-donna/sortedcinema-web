@@ -17,16 +17,15 @@
   "tagline": "Seeing is believing.",
   "genres": [
     "Horror",
-    "Drama",
-    "Thriller"
+    "Mystery"
   ],
   "original_language": "en",
   "origin_country": [
     "US"
   ],
   "vote_average": 6.9,
-  "vote_count": 7313,
-  "popularity": 8.6243,
+  "vote_count": 7327,
+  "popularity": 6.4117,
   "poster_path": "/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
   "backdrop_path": "/2wS8pMZgvzq7kaZb5LHX54poQnA.jpg",
   "trailer_key": "I26TtPhtqqY",
@@ -36,7 +35,7 @@
     "imdb_votes": 271288,
     "rt": 68,
     "metacritic": 76,
-    "refreshed_at": "2026-11-02T11:06:18.200Z"
+    "refreshed_at": "2026-11-09T11:30:34.485Z"
   },
   "providers": {
     "flatrate": [],
@@ -71,5 +70,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-02T11:06:18.200Z"
+  "providers_refreshed_at": "2026-11-09T11:30:34.485Z"
 }

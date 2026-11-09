@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:06:30.067Z",
+  "generated_at": "2026-11-09T11:30:47.751Z",
   "count": 4,
   "items": [
     {
@@ -40,12 +40,12 @@
           "score": 0
         },
         {
-          "tmdb_id": 64580,
+          "tmdb_id": 84647,
           "media": "tv",
-          "title": "Secret Society",
-          "original_title": "Secret Society",
-          "year": 1987,
-          "score": 0
+          "title": "The Society",
+          "original_title": "The Society",
+          "year": 2019,
+          "score": -3.9
         }
       ]
     },

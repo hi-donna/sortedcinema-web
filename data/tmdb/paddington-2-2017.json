@@ -25,8 +25,8 @@
     "GB"
   ],
   "vote_average": 7.5,
-  "vote_count": 2959,
-  "popularity": 10.682,
+  "vote_count": 2973,
+  "popularity": 7.5042,
   "poster_path": "/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
   "backdrop_path": "/iJgNOTSBNrC90U2xyYq9ln0b35o.jpg",
   "trailer_key": "07Um1PY_P4o",
@@ -36,10 +36,16 @@
     "imdb_votes": 116698,
     "rt": 99,
     "metacritic": 88,
-    "refreshed_at": "2026-11-02T11:06:13.755Z"
+    "refreshed_at": "2026-11-09T11:30:30.289Z"
   },
   "providers": {
-    "flatrate": [],
+    "flatrate": [
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      }
+    ],
     "rent": [
       {
         "name": "Apple TV Store",
@@ -61,5 +67,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-02T11:06:13.755Z"
+  "providers_refreshed_at": "2026-11-09T11:30:30.289Z"
 }

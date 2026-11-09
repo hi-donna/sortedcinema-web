@@ -24,8 +24,8 @@
     "IN"
   ],
   "vote_average": 7.8,
-  "vote_count": 519,
-  "popularity": 3.2356,
+  "vote_count": 520,
+  "popularity": 2.0816,
   "poster_path": "/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
   "backdrop_path": "/wadoNHCMPElgYuOqLxqDQqXpTMx.jpg",
   "trailer_key": "mgv68E_o6VM",
@@ -35,7 +35,7 @@
     "imdb_votes": 42303,
     "rt": 98,
     "metacritic": null,
-    "refreshed_at": "2026-11-02T11:06:22.362Z"
+    "refreshed_at": "2026-11-09T11:30:38.915Z"
   },
   "providers": {
     "flatrate": [
@@ -50,19 +50,19 @@
         "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
       },
       {
+        "name": "Eros Now Select on Apple TV",
+        "slug": "eros-now-select-on-apple-tv",
+        "logo": "/cPCFd2O8QYgEkYYZuhfkyFyv6Gn.png"
+      },
+      {
         "name": "Plex",
         "slug": "plex",
         "logo": "/blAEhvx3XX8sV0fFVFk88FFjubs.png"
-      },
-      {
-        "name": "Plex Channel",
-        "slug": "plex-channel",
-        "logo": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png"
       }
     ],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-02T11:06:22.362Z"
+  "providers_refreshed_at": "2026-11-09T11:30:38.915Z"
 }
