@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-11-09T11:30:47.751Z",
+  "generated_at": "2026-11-16T11:16:44.757Z",
   "count": 4,
   "items": [
+    {
+      "key": "the-invitation-2015",
+      "title": "The Invitation",
+      "year": 2015,
+      "candidates": [
+        {
+          "tmdb_id": 487720,
+          "media": "movie",
+          "title": "Eddie Bravo Invitational 5: The Lightweights (155 Pounds)",
+          "original_title": "Eddie Bravo Invitational 5: The Lightweights (155 Pounds)",
+          "year": 2015,
+          "score": 6
+        }
+      ]
+    },
+    {
+      "key": "the-tale-of-princess-kaguya-2013",
+      "title": "The Tale of Princess Kaguya",
+      "year": 2013,
+      "candidates": [
+        {
+          "tmdb_id": 149871,
+          "media": "movie",
+          "title": "The Tale of The Princess Kaguya",
+          "original_title": "かぐや姫の物語",
+          "year": 2013,
+          "score": 6.4
+        }
+      ]
+    },
     {
       "key": "society-1989",
       "title": "Society",
@@ -40,42 +70,12 @@
           "score": 0
         },
         {
-          "tmdb_id": 84647,
+          "tmdb_id": 64580,
           "media": "tv",
-          "title": "The Society",
-          "original_title": "The Society",
-          "year": 2019,
-          "score": -3.9
-        }
-      ]
-    },
-    {
-      "key": "the-invitation-2015",
-      "title": "The Invitation",
-      "year": 2015,
-      "candidates": [
-        {
-          "tmdb_id": 487720,
-          "media": "movie",
-          "title": "Eddie Bravo Invitational 5: The Lightweights (155 Pounds)",
-          "original_title": "Eddie Bravo Invitational 5: The Lightweights (155 Pounds)",
-          "year": 2015,
-          "score": 6
-        }
-      ]
-    },
-    {
-      "key": "the-tale-of-princess-kaguya-2013",
-      "title": "The Tale of Princess Kaguya",
-      "year": 2013,
-      "candidates": [
-        {
-          "tmdb_id": 149871,
-          "media": "movie",
-          "title": "The Tale of The Princess Kaguya",
-          "original_title": "かぐや姫の物語",
-          "year": 2013,
-          "score": 6.4
+          "title": "Secret Society",
+          "original_title": "Secret Society",
+          "year": 1987,
+          "score": 0
         }
       ]
     },
