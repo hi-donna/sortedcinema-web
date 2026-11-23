@@ -26,8 +26,8 @@
     "TW"
   ],
   "vote_average": 7.4,
-  "vote_count": 3786,
-  "popularity": 12.4353,
+  "vote_count": 3802,
+  "popularity": 14.1707,
   "poster_path": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
   "backdrop_path": "/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
   "trailer_key": "q-HrIQLdaNE",
@@ -35,9 +35,9 @@
   "ratings": {
     "imdb": 7.8,
     "imdb_votes": 298065,
-    "rt": 96,
+    "rt": null,
     "metacritic": 94,
-    "refreshed_at": "2026-11-09T11:30:41.832Z"
+    "refreshed_at": "2026-11-23T12:39:14.932Z"
   },
   "providers": {
     "flatrate": [
@@ -98,5 +98,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:41.832Z"
+  "providers_refreshed_at": "2026-11-23T12:39:14.932Z"
 }

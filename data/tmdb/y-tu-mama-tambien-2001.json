@@ -24,8 +24,8 @@
     "MX"
   ],
   "vote_average": 7.4,
-  "vote_count": 1869,
-  "popularity": 6.8788,
+  "vote_count": 1876,
+  "popularity": 7.6898,
   "poster_path": "/aj3rqjab8jfc2fWmcS3H3c5qbur.jpg",
   "backdrop_path": "/orIxqUMEcU3DT7qCs16Si8KWjBO.jpg",
   "trailer_key": "inc0vS58ZKg",
@@ -33,9 +33,9 @@
   "ratings": {
     "imdb": 7.7,
     "imdb_votes": 143272,
-    "rt": 90,
+    "rt": null,
     "metacritic": 89,
-    "refreshed_at": "2026-11-09T11:30:44.804Z"
+    "refreshed_at": "2026-11-23T12:39:17.562Z"
   },
   "providers": {
     "flatrate": [],
@@ -43,5 +43,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:44.804Z"
+  "providers_refreshed_at": "2026-11-23T12:39:17.562Z"
 }

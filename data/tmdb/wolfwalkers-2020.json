@@ -28,8 +28,8 @@
     "US"
   ],
   "vote_average": 8.2,
-  "vote_count": 1487,
-  "popularity": 6.5086,
+  "vote_count": 1500,
+  "popularity": 6.3343,
   "poster_path": "/vqGiNbdc2sDwsnivMMYzwAoSSu6.jpg",
   "backdrop_path": "/3zTbERSBLh7waK9811RTKGAcG86.jpg",
   "trailer_key": "d_Z_tybgPgg",
@@ -37,26 +37,26 @@
   "ratings": {
     "imdb": 8,
     "imdb_votes": 46364,
-    "rt": 99,
+    "rt": null,
     "metacritic": 87,
-    "refreshed_at": "2026-11-09T11:30:36.569Z"
+    "refreshed_at": "2026-11-23T12:39:10.440Z"
   },
   "providers": {
     "flatrate": [
       {
         "name": "Apple TV",
         "slug": "apple-tv",
-        "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+        "logo": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png"
       },
       {
         "name": "Apple TV on Prime",
         "slug": "apple-tv-on-prime",
-        "logo": "/rerVCu9auZrgxTTiZu1criqrQzg.png"
+        "logo": "/giKLP7saeUA0WykEPRyZUcOVv92.png"
       }
     ],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:36.569Z"
+  "providers_refreshed_at": "2026-11-23T12:39:10.440Z"
 }

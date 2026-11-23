@@ -20,10 +20,13 @@
     "Horror"
   ],
   "original_language": "hi",
-  "origin_country": [],
+  "origin_country": [
+    "IN",
+    "SE"
+  ],
   "vote_average": 7.6,
-  "vote_count": 375,
-  "popularity": 3.0256,
+  "vote_count": 380,
+  "popularity": 2.9136,
   "poster_path": "/z1xOCxw780WFJC5uCTMfCkQ4Agi.jpg",
   "backdrop_path": "/l0YKBu3LaehIFzBNjseLjx7MbaN.jpg",
   "trailer_key": "ZjuhALyNgss",
@@ -33,7 +36,7 @@
     "imdb_votes": 77810,
     "rt": 87,
     "metacritic": null,
-    "refreshed_at": "2026-11-09T11:30:39.812Z"
+    "refreshed_at": "2026-11-23T12:39:13.153Z"
   },
   "providers": {
     "flatrate": [
@@ -53,5 +56,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:39.813Z"
+  "providers_refreshed_at": "2026-11-23T12:39:13.153Z"
 }

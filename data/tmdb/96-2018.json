@@ -23,8 +23,8 @@
     "IN"
   ],
   "vote_average": 7.7,
-  "vote_count": 171,
-  "popularity": 1.3585,
+  "vote_count": 172,
+  "popularity": 1.4817,
   "poster_path": "/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg",
   "backdrop_path": "/qzu94AvnZ1az30sTUuibx2bXpfs.jpg",
   "trailer_key": "r0synl-lI4I",
@@ -34,7 +34,7 @@
     "imdb_votes": 46668,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-11-09T11:30:40.481Z"
+    "refreshed_at": "2026-11-23T12:39:13.853Z"
   },
   "providers": {
     "flatrate": [
@@ -52,11 +52,6 @@
         "name": "ManoramaMAX",
         "slug": "manoramamax",
         "logo": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png"
-      },
-      {
-        "name": "aha",
-        "slug": "aha",
-        "logo": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png"
       },
       {
         "name": "ManoramaMAX on Prime",
@@ -90,5 +85,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:40.481Z"
+  "providers_refreshed_at": "2026-11-23T12:39:13.853Z"
 }

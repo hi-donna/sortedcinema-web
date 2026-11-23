@@ -27,7 +27,7 @@
   ],
   "vote_average": 7.7,
   "vote_count": 149,
-  "popularity": 1.6766,
+  "popularity": 1.4419,
   "poster_path": "/rTsYDdFWyw87CTk4YgJO6nYmVcJ.jpg",
   "backdrop_path": "/n1KIiBJf3M8zvKj2WEMKapUlrRe.jpg",
   "trailer_key": "DWwvAmVbuEI",
@@ -35,18 +35,12 @@
   "ratings": {
     "imdb": 8.2,
     "imdb_votes": 20398,
-    "rt": 83,
+    "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-11-09T11:30:41.166Z"
+    "refreshed_at": "2026-11-23T12:39:14.812Z"
   },
   "providers": {
-    "flatrate": [
-      {
-        "name": "aha",
-        "slug": "aha",
-        "logo": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png"
-      }
-    ],
+    "flatrate": [],
     "rent": [
       {
         "name": "Apple TV Store",
@@ -63,5 +57,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:41.166Z"
+  "providers_refreshed_at": "2026-11-23T12:39:14.812Z"
 }

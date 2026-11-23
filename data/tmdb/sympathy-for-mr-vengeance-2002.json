@@ -25,8 +25,8 @@
     "KR"
   ],
   "vote_average": 7.5,
-  "vote_count": 1818,
-  "popularity": 3.897,
+  "vote_count": 1828,
+  "popularity": 5.0942,
   "poster_path": "/uj42ubGbgVL65T10SvPVr0p9mJc.jpg",
   "backdrop_path": "/b6elu2cz2Be9PqgX0MzggMCH4fk.jpg",
   "trailer_key": "6D0cjs2NW9w",
@@ -34,9 +34,9 @@
   "ratings": {
     "imdb": 7.5,
     "imdb_votes": 82977,
-    "rt": 53,
+    "rt": null,
     "metacritic": 59,
-    "refreshed_at": "2026-11-09T11:30:32.222Z"
+    "refreshed_at": "2026-11-23T12:39:05.503Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:32.222Z"
+  "providers_refreshed_at": "2026-11-23T12:39:05.503Z"
 }

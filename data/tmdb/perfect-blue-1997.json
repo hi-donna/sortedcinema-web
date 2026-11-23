@@ -12,7 +12,7 @@
   "original_title": "PERFECT BLUE",
   "year": 1998,
   "release_date": "1998-02-28",
-  "runtime": 81,
+  "runtime": 82,
   "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.",
   "tagline": "\"excuse me... who are you?\"",
   "genres": [
@@ -24,8 +24,8 @@
     "JP"
   ],
   "vote_average": 8.3,
-  "vote_count": 3434,
-  "popularity": 15.3869,
+  "vote_count": 3456,
+  "popularity": 12.8199,
   "poster_path": "/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
   "backdrop_path": "/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
   "trailer_key": "RrWausp8zDQ",
@@ -33,9 +33,9 @@
   "ratings": {
     "imdb": 8,
     "imdb_votes": 127828,
-    "rt": 85,
+    "rt": null,
     "metacritic": 67,
-    "refreshed_at": "2026-11-09T11:30:36.643Z"
+    "refreshed_at": "2026-11-23T12:39:10.501Z"
   },
   "providers": {
     "flatrate": [],
@@ -43,5 +43,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:36.643Z"
+  "providers_refreshed_at": "2026-11-23T12:39:10.501Z"
 }

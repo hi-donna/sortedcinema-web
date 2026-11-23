@@ -24,8 +24,8 @@
     "KR"
   ],
   "vote_average": 8.2,
-  "vote_count": 10396,
-  "popularity": 14.1165,
+  "vote_count": 10453,
+  "popularity": 19.5995,
   "poster_path": "/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
   "backdrop_path": "/rwf5SUTiEsmfkXAgy15R0UtJUtv.jpg",
   "trailer_key": "tAaBkFChaRg",
@@ -33,9 +33,9 @@
   "ratings": {
     "imdb": 8.3,
     "imdb_votes": 734705,
-    "rt": 82,
+    "rt": null,
     "metacritic": 78,
-    "refreshed_at": "2026-11-09T11:30:31.385Z"
+    "refreshed_at": "2026-11-23T12:39:04.651Z"
   },
   "providers": {
     "flatrate": [
@@ -48,11 +48,16 @@
         "name": "VI movies and tv",
         "slug": "vi-movies-and-tv",
         "logo": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png"
+      },
+      {
+        "name": "JioHotstar",
+        "slug": "jiohotstar",
+        "logo": "/ledoS6EgdjTNq8F1e6wubUQer18.png"
       }
     ],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:31.385Z"
+  "providers_refreshed_at": "2026-11-23T12:39:04.651Z"
 }

@@ -12,7 +12,7 @@
   "original_title": "অপুর সংসার",
   "year": 1959,
   "release_date": "1959-05-01",
-  "runtime": 105,
+  "runtime": 107,
   "overview": "Apu, now a jobless ex-student dreaming vaguely of a future as a writer, is invited to join an old college friend on a trip up-country to a village wedding.",
   "tagline": "",
   "genres": [
@@ -23,8 +23,8 @@
     "IN"
   ],
   "vote_average": 8.1,
-  "vote_count": 299,
-  "popularity": 1.3878,
+  "vote_count": 300,
+  "popularity": 1.6263,
   "poster_path": "/6Tz1Q69o2n3Zwb0ZffzPL0nFt2T.jpg",
   "backdrop_path": "/d3RW7jRsBCHfC9QZaUF9FpzJrh8.jpg",
   "trailer_key": "mgv68E_o6VM",
@@ -32,9 +32,9 @@
   "ratings": {
     "imdb": 8.4,
     "imdb_votes": 20764,
-    "rt": 97,
+    "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-11-09T11:30:38.914Z"
+    "refreshed_at": "2026-11-23T12:39:12.662Z"
   },
   "providers": {
     "flatrate": [],
@@ -42,5 +42,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:38.914Z"
+  "providers_refreshed_at": "2026-11-23T12:39:12.662Z"
 }

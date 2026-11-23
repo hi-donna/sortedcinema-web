@@ -25,7 +25,7 @@
   ],
   "vote_average": 7.2,
   "vote_count": 24,
-  "popularity": 0.297,
+  "popularity": 0.3524,
   "poster_path": "/iVB17J0jzkLi86eHLugQdMjseC6.jpg",
   "backdrop_path": "/yu0m6V2M9B67MdKT2AO2lEHvmLB.jpg",
   "trailer_key": "t3B_WzebSHM",
@@ -35,19 +35,13 @@
     "imdb_votes": 1892,
     "rt": 100,
     "metacritic": null,
-    "refreshed_at": "2026-11-09T11:30:40.259Z"
+    "refreshed_at": "2026-11-23T12:39:13.652Z"
   },
   "providers": {
-    "flatrate": [
-      {
-        "name": "ZEE5",
-        "slug": "zee5",
-        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
-      }
-    ],
+    "flatrate": [],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:40.259Z"
+  "providers_refreshed_at": "2026-11-23T12:39:13.652Z"
 }

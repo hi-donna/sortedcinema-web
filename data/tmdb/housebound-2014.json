@@ -26,18 +26,18 @@
     "NZ"
   ],
   "vote_average": 6.6,
-  "vote_count": 956,
-  "popularity": 1.6294,
+  "vote_count": 961,
+  "popularity": 1.9734,
   "poster_path": "/jPKEeHmUuoDnIaRs6VUqSr4qRGR.jpg",
-  "backdrop_path": "/3haw0ndhE0MihQHvyIbU9etWpoN.jpg",
+  "backdrop_path": "/amRHDDVQ4Y2kAUnCQREKP6zIJi1.jpg",
   "trailer_key": "Ysde4KaFirk",
   "imdb_id": "tt3504048",
   "ratings": {
     "imdb": 6.7,
     "imdb_votes": 40325,
-    "rt": 95,
+    "rt": null,
     "metacritic": 76,
-    "refreshed_at": "2026-11-09T11:30:33.148Z"
+    "refreshed_at": "2026-11-23T12:39:06.484Z"
   },
   "providers": {
     "flatrate": [
@@ -51,5 +51,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:33.148Z"
+  "providers_refreshed_at": "2026-11-23T12:39:06.484Z"
 }

@@ -26,8 +26,8 @@
     "GB"
   ],
   "vote_average": 8.4,
-  "vote_count": 40689,
-  "popularity": 45.2889,
+  "vote_count": 40808,
+  "popularity": 52.8317,
   "poster_path": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
   "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
   "trailer_key": "JE9z-gy4De4",
@@ -35,9 +35,9 @@
   "ratings": {
     "imdb": 8.8,
     "imdb_votes": 2877173,
-    "rt": 86,
+    "rt": null,
     "metacritic": 74,
-    "refreshed_at": "2026-11-09T11:30:36.179Z"
+    "refreshed_at": "2026-11-23T12:39:10.034Z"
   },
   "providers": {
     "flatrate": [
@@ -88,5 +88,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:36.179Z"
+  "providers_refreshed_at": "2026-11-23T12:39:10.034Z"
 }

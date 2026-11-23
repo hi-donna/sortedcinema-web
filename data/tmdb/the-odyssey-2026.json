@@ -26,10 +26,10 @@
     "US"
   ],
   "vote_average": 8,
-  "vote_count": 4472,
-  "popularity": 418.3764,
+  "vote_count": 5389,
+  "popularity": 499.7136,
   "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-  "backdrop_path": "/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
+  "backdrop_path": "/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
   "trailer_key": "AyIZ9tiiN8I",
   "imdb_id": "tt33764258",
   "ratings": {
@@ -37,13 +37,35 @@
     "imdb_votes": 544815,
     "rt": null,
     "metacritic": 88,
-    "refreshed_at": "2026-11-09T11:30:47.210Z"
+    "refreshed_at": "2026-11-23T12:39:19.820Z"
   },
   "providers": {
     "flatrate": [],
-    "rent": [],
-    "buy": [],
+    "rent": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      },
+      {
+        "name": "ZEE5",
+        "slug": "zee5",
+        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+      },
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+      }
+    ],
+    "buy": [
+      {
+        "name": "Apple TV Store",
+        "slug": "apple-tv-store",
+        "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+      }
+    ],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:47.210Z"
+  "providers_refreshed_at": "2026-11-23T12:39:19.820Z"
 }

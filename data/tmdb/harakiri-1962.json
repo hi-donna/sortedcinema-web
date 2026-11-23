@@ -11,7 +11,7 @@
   "title": "Harakiri",
   "original_title": "切腹",
   "year": 1962,
-  "release_date": "1962-09-15",
+  "release_date": "1962-09-16",
   "runtime": 135,
   "overview": "Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku—and a worthy second to deliver the coup de grâce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin’s resolve and integrity, suspecting Hanshirō of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code.",
   "tagline": "What befalls others today, may be your own fate tomorrow.",
@@ -25,8 +25,8 @@
     "JP"
   ],
   "vote_average": 8.5,
-  "vote_count": 1321,
-  "popularity": 9.501,
+  "vote_count": 1334,
+  "popularity": 10.8599,
   "poster_path": "/5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
   "backdrop_path": "/5UOJ8wYxblPNE9KIdzbGCUC7gti.jpg",
   "trailer_key": "gfABwM-Ppng",
@@ -34,9 +34,9 @@
   "ratings": {
     "imdb": 8.6,
     "imdb_votes": 94706,
-    "rt": 100,
+    "rt": null,
     "metacritic": 85,
-    "refreshed_at": "2026-11-09T11:30:44.401Z"
+    "refreshed_at": "2026-11-23T12:39:17.404Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:44.401Z"
+  "providers_refreshed_at": "2026-11-23T12:39:17.404Z"
 }

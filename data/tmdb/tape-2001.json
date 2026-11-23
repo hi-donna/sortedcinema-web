@@ -13,7 +13,7 @@
   "year": 2001,
   "release_date": "2001-11-02",
   "runtime": 87,
-  "overview": "Jon, a first-time filmmaker, finds himself in Lansing, Michigan to present his film at a local film festival. Vince, his high school friend who is now a volunteer fireman and small-time drug dealer, also visits the town to support Jon on his big day, or so it seems. After a raucous hello and much backslapping, it appears that there is an undercurrent of tension in the air.",
+  "overview": "Three old high school friends meet in a Michigan motel room to dissect painful memories from their past.",
   "tagline": "Some things can't be erased.",
   "genres": [
     "Drama"
@@ -24,7 +24,7 @@
   ],
   "vote_average": 6.9,
   "vote_count": 260,
-  "popularity": 0.9776,
+  "popularity": 1.5033,
   "poster_path": "/4Flz17KOjGdGqJ2dFRhKnB7eg5.jpg",
   "backdrop_path": "/o6PsWbkPva254PkEaVAnB87wpFH.jpg",
   "trailer_key": "JVSUQLGoYZ0",
@@ -34,7 +34,7 @@
     "imdb_votes": 22455,
     "rt": 77,
     "metacritic": 71,
-    "refreshed_at": "2026-11-09T11:30:37.777Z"
+    "refreshed_at": "2026-11-23T12:39:11.484Z"
   },
   "providers": {
     "flatrate": [],
@@ -42,5 +42,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:37.777Z"
+  "providers_refreshed_at": "2026-11-23T12:39:11.485Z"
 }

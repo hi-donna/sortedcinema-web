@@ -23,8 +23,8 @@
     "RO"
   ],
   "vote_average": 7.5,
-  "vote_count": 868,
-  "popularity": 2.8485,
+  "vote_count": 875,
+  "popularity": 3.4977,
   "poster_path": "/acEtvzFPeOQwbzRWncjRLenhnKV.jpg",
   "backdrop_path": "/phYwx0HKSdcQyOuK5bMMO8woETT.jpg",
   "trailer_key": "UjS7v4AEYco",
@@ -32,9 +32,9 @@
   "ratings": {
     "imdb": 7.9,
     "imdb_votes": 66643,
-    "rt": 96,
+    "rt": null,
     "metacritic": 97,
-    "refreshed_at": "2026-11-09T11:30:42.104Z"
+    "refreshed_at": "2026-11-23T12:39:15.244Z"
   },
   "providers": {
     "flatrate": [],
@@ -42,5 +42,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:42.104Z"
+  "providers_refreshed_at": "2026-11-23T12:39:15.244Z"
 }

@@ -25,8 +25,8 @@
     "US"
   ],
   "vote_average": 8.2,
-  "vote_count": 26774,
-  "popularity": 21.6708,
+  "vote_count": 26872,
+  "popularity": 21.4338,
   "poster_path": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
   "backdrop_path": "/lavdyiJWciCJvyLG37ZOs6HJijg.jpg",
   "trailer_key": "qdPw9x9h5CY",
@@ -34,12 +34,17 @@
   "ratings": {
     "imdb": 8.2,
     "imdb_votes": 1689261,
-    "rt": 69,
+    "rt": null,
     "metacritic": 63,
-    "refreshed_at": "2026-11-09T11:30:35.677Z"
+    "refreshed_at": "2026-11-23T12:39:08.582Z"
   },
   "providers": {
     "flatrate": [
+      {
+        "name": "Prime Video",
+        "slug": "prime-video",
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      },
       {
         "name": "JioHotstar",
         "slug": "jiohotstar",
@@ -56,11 +61,6 @@
         "name": "Apple TV Store",
         "slug": "apple-tv-store",
         "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-      },
-      {
-        "name": "ZEE5",
-        "slug": "zee5",
-        "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
       },
       {
         "name": "YouTube",
@@ -87,5 +87,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:35.677Z"
+  "providers_refreshed_at": "2026-11-23T12:39:08.582Z"
 }

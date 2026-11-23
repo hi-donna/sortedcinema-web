@@ -26,7 +26,7 @@
   ],
   "vote_average": 6.7,
   "vote_count": 97,
-  "popularity": 0.4726,
+  "popularity": 0.5631,
   "poster_path": "/8pEsTp9bS6yjr9P9K43vPP8mw1v.jpg",
   "backdrop_path": "/x8zNhrr2jKMv7jPLyySYyvruTPX.jpg",
   "trailer_key": "xD4GMBTDssU",
@@ -36,19 +36,13 @@
     "imdb_votes": 9181,
     "rt": 96,
     "metacritic": null,
-    "refreshed_at": "2026-11-09T11:30:40.153Z"
+    "refreshed_at": "2026-11-23T12:39:13.556Z"
   },
   "providers": {
-    "flatrate": [
-      {
-        "name": "aha",
-        "slug": "aha",
-        "logo": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png"
-      }
-    ],
+    "flatrate": [],
     "rent": [],
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:40.153Z"
+  "providers_refreshed_at": "2026-11-23T12:39:13.556Z"
 }

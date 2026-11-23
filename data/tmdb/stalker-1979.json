@@ -24,8 +24,8 @@
     "SU"
   ],
   "vote_average": 8.1,
-  "vote_count": 2665,
-  "popularity": 7.6136,
+  "vote_count": 2687,
+  "popularity": 7.9412,
   "poster_path": "/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
   "backdrop_path": "/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
   "trailer_key": "JCuwthnCRpg",
@@ -33,9 +33,9 @@
   "ratings": {
     "imdb": 8,
     "imdb_votes": 158399,
-    "rt": 100,
+    "rt": null,
     "metacritic": 85,
-    "refreshed_at": "2026-11-09T11:30:42.103Z"
+    "refreshed_at": "2026-11-23T12:39:15.326Z"
   },
   "providers": {
     "flatrate": [],
@@ -43,5 +43,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:42.103Z"
+  "providers_refreshed_at": "2026-11-23T12:39:15.326Z"
 }

@@ -14,7 +14,7 @@
   "release_date": "2010-09-17",
   "runtime": 131,
   "overview": "A mother's last wishes send twins Jeanne and Simon on a journey to Middle East in search of their tangled roots. Adapted from Wajdi Mouawad's acclaimed play, Incendies tells the powerful and moving tale of two young adults' voyage to the core of deep-rooted hatred, never-ending wars and enduring love.",
-  "tagline": "2 letters. One for the brother. One for the father.",
+  "tagline": "Two letters. One for the brother. One for the father.",
   "genres": [
     "Drama",
     "War",
@@ -25,8 +25,8 @@
     "CA"
   ],
   "vote_average": 8.1,
-  "vote_count": 3562,
-  "popularity": 9.4599,
+  "vote_count": 3593,
+  "popularity": 10.0474,
   "poster_path": "/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg",
   "backdrop_path": "/f3ATwil5vmUeTsogBaMEKbBYBth.jpg",
   "trailer_key": "XJ69WnwvZhE",
@@ -34,9 +34,9 @@
   "ratings": {
     "imdb": 8.3,
     "imdb_votes": 260693,
-    "rt": 91,
+    "rt": null,
     "metacritic": 80,
-    "refreshed_at": "2026-11-09T11:30:32.268Z"
+    "refreshed_at": "2026-11-23T12:39:05.581Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:32.268Z"
+  "providers_refreshed_at": "2026-11-23T12:39:05.581Z"
 }

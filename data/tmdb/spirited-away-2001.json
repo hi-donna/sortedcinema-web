@@ -18,15 +18,16 @@
   "genres": [
     "Animation",
     "Family",
-    "Fantasy"
+    "Fantasy",
+    "Adventure"
   ],
   "original_language": "ja",
   "origin_country": [
     "JP"
   ],
   "vote_average": 8.5,
-  "vote_count": 19194,
-  "popularity": 36.4273,
+  "vote_count": 19273,
+  "popularity": 45.3146,
   "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
   "backdrop_path": "/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
   "trailer_key": "GAp2_0JJskk",
@@ -36,7 +37,7 @@
     "imdb_votes": 988028,
     "rt": 96,
     "metacritic": 96,
-    "refreshed_at": "2026-11-09T11:30:43.990Z"
+    "refreshed_at": "2026-11-23T12:39:17.151Z"
   },
   "providers": {
     "flatrate": [
@@ -50,5 +51,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:43.990Z"
+  "providers_refreshed_at": "2026-11-23T12:39:17.151Z"
 }

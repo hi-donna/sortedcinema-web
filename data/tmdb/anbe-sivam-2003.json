@@ -13,7 +13,7 @@
   "year": 2003,
   "release_date": "2003-01-14",
   "runtime": 160,
-  "overview": "Anbarasu, young and arrogant, and Nallasivam, damaged - physically but not spiritually - by life, are thrown together by circumstances, and find that they are in some ways bound together by fate.",
+  "overview": "Anbarasu, an arrogant advertisement director, and Nallasivam, a physically deformed social activist, meet while waiting for a flight in Bhubaneswar. Both men are desperate to reach Chennai: the former has to attend his upcoming wedding, and the latter has to deliver a ₹32 lakh compensation to a group of union workers. Heavy rainfall causes total flight cancellations and floods the city, leaving Anbarasu with no choice but to share a hotel room with Sivam for the night, and soon, the pair find themselves embarking on a journey to Chennai together.",
   "tagline": "",
   "genres": [
     "Comedy",
@@ -25,7 +25,7 @@
   ],
   "vote_average": 7.7,
   "vote_count": 94,
-  "popularity": 0.8715,
+  "popularity": 1.4821,
   "poster_path": "/nT556HbikCCLABe8xQ4zQ2QIb0O.jpg",
   "backdrop_path": "/9QaebfA43SkffIy6sDFje5q0jdk.jpg",
   "trailer_key": null,
@@ -35,7 +35,7 @@
     "imdb_votes": 25583,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-11-09T11:30:40.460Z"
+    "refreshed_at": "2026-11-23T12:39:13.811Z"
   },
   "providers": {
     "flatrate": [
@@ -71,5 +71,5 @@
     ],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:40.460Z"
+  "providers_refreshed_at": "2026-11-23T12:39:13.811Z"
 }

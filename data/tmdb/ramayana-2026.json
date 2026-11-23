@@ -12,7 +12,7 @@
   "original_title": "रामायणम्",
   "year": 2026,
   "release_date": "2026-11-05",
-  "runtime": 201,
+  "runtime": 195,
   "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
   "tagline": "Our truth. Our history",
   "genres": [
@@ -24,10 +24,10 @@
   "origin_country": [
     "IN"
   ],
-  "vote_average": 7.5,
-  "vote_count": 22,
-  "popularity": 153.5361,
-  "poster_path": "/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
+  "vote_average": 7.4,
+  "vote_count": 72,
+  "popularity": 127.0293,
+  "poster_path": "/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
   "backdrop_path": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
   "trailer_key": "AYkPRN874m8",
   "imdb_id": "tt27988879",
@@ -36,7 +36,7 @@
     "imdb_votes": null,
     "rt": null,
     "metacritic": null,
-    "refreshed_at": "2026-11-09T11:30:47.637Z"
+    "refreshed_at": "2026-11-23T12:39:20.985Z"
   },
   "providers": {
     "flatrate": [],
@@ -44,5 +44,5 @@
     "buy": [],
     "free": []
   },
-  "providers_refreshed_at": "2026-11-09T11:30:47.637Z"
+  "providers_refreshed_at": "2026-11-23T12:39:20.985Z"
 }
